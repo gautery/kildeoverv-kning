@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kildeovervåkning – valgogpolitikk</title>
+<meta name="description" content="Nytt fra regjeringen, Stortinget, SSB, Eurostat, tilsyn, partier og forskning – samlet og sortert etter tema.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22%3E%3Crect width=%2216%22 height=%2216%22 fill=%22%231a1a2e%22/%3E%3Crect width=%2216%22 height=%223%22 fill=%22%23c1121f%22/%3E%3C/svg%3E">
+<link rel="alternate" type="application/rss+xml" title="Kildeovervåkning" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #ffffff; --surface: #faf8f6; --border: #e8e4e0;
+    --ink: #1a1a2e; --text: #4a4a5a; --muted: #6b6b78;
+    --red: #c1121f;
+    --serif: "Playfair Display", Georgia, serif;
+    --sans: "Inter", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.6 var(--sans); }
+  a { color: inherit; }
+  :focus-visible { outline: 3px solid var(--red); outline-offset: 2px; border-radius: 4px; }
+  .skip { position: absolute; left: -999px; } .skip:focus { left: 1rem; top: 1rem; background: #fff; padding: .5rem 1rem; z-index: 10; }
+
+  header { background: var(--ink); color: #fff; border-top: 6px solid var(--red); }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 0 1.25rem; }
+  header .wrap { padding-top: 2.5rem; padding-bottom: 2rem; }
+  h1 { font: 700 2.4rem/1.15 var(--serif); margin: 0 0 .5rem; }
+  header p { margin: 0; color: #d6d6e0; max-width: 680px; }
+  .meta { font-size: 12px; color: #b9b9c6; margin-top: .75rem; }
+  .meta a { color: #fff; }
+
+  .filters { position: sticky; top: 0; z-index: 5; background: rgba(255,255,255,.96); backdrop-filter: blur(6px); border-bottom: 1px solid var(--border); }
+  .filters .wrap { display: flex; flex-wrap: wrap; gap: .5rem; padding-top: .9rem; padding-bottom: .9rem; align-items: center; }
+  .chip { font: 600 12px/1 var(--sans); border: 1.5px solid var(--c, var(--ink)); color: var(--c, var(--ink)); background: #fff; padding: .5rem .75rem; border-radius: 999px; cursor: pointer; }
+  .chip[aria-pressed="true"] { background: var(--c, var(--ink)); color: #fff; }
+  .controls { display: flex; gap: .5rem; flex-wrap: wrap; width: 100%; }
+  input[type=search], select { font: 14px var(--sans); padding: .55rem .75rem; border: 1.5px solid var(--border); border-radius: 8px; background: #fff; color: var(--ink); }
+  input[type=search] { flex: 1 1 220px; }
+  label.check { display: flex; align-items: center; gap: .4rem; font-size: 14px; }
+
+  main .wrap { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 3rem; padding-top: 2rem; padding-bottom: 4rem; }
+  @media (max-width: 860px) { .filters { position: static; } main .wrap { grid-template-columns: 1fr; } aside { order: -1; } h1 { font-size: 1.9rem; } }
+
+  h2 { font: 700 1.3rem/1.3 var(--serif); margin: 2rem 0 .75rem; padding-bottom: .4rem; border-bottom: 1px solid var(--border); }
+  h2:first-child { margin-top: 0; }
+  ol.saker { list-style: none; margin: 0; padding: 0; }
+  .sak { padding: .9rem 0; border-bottom: 1px solid var(--border); }
+  .sak a.tittel { font-weight: 600; text-decoration: none; color: var(--ink); }
+  .sak a.tittel:hover { text-decoration: underline; color: var(--red); }
+  .sak .ingress { color: var(--text); margin: .25rem 0 .35rem; font-size: 14px; }
+  .sak .info { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: .35rem .6rem; align-items: center; }
+  .badge { font: 600 11px/1 var(--sans); padding: .3rem .5rem; border-radius: 4px; color: #fff; background: var(--c, #555); }
+  .type { font-weight: 600; color: var(--ink); }
+  .stjerne { color: var(--red); font-weight: 700; }
+
+  aside section { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 1.1rem 1.2rem; margin-bottom: 1.25rem; }
+  aside h2 { font-size: 1.05rem; border: 0; margin: 0 0 .6rem; padding: 0; }
+  aside ul { list-style: none; padding: 0; margin: 0; font-size: 13.5px; }
+  aside li { padding: .4rem 0; border-top: 1px solid var(--border); }
+  aside li:first-child { border-top: 0; }
+  aside .dato { font-weight: 600; color: var(--red); margin-right: .35rem; }
+  .tom { color: var(--muted); font-style: italic; }
+  .vis-flere { margin-top: 1rem; font: 600 13px var(--sans); background: var(--ink); color: #fff; border: 0; padding: .65rem 1.1rem; border-radius: 8px; cursor: pointer; }
+</style>
+</head>
+<body>
+<a class="skip" href="#innhold">Hopp til sakene</a>
+<header>
+  <div class="wrap">
+    <h1>Kildeovervåkning</h1>
+    <p>Nytt fra regjeringen, Stortinget, SSB, Eurostat, tilsyn, partier og forskning, samlet på ett sted og sortert etter tema.</p>
+    <div class="meta" id="oppdatert" aria-live="polite">Laster …</div>
+  </div>
+</header>
+
+<div class="filters" role="region" aria-label="Filtrer saker">
+  <div class="wrap">
+    <div id="temaknapper" style="display:flex;flex-wrap:wrap;gap:.5rem" role="group" aria-label="Tema"></div>
+    <div class="controls">
+      <label for="sok" class="skip">Søk</label>
+      <input type="search" id="sok" placeholder="Søk i titler og ingresser …">
+      <label for="kategori" class="skip">Kategori</label>
+      <select id="kategori"><option value="">Alle kategorier</option></select>
+      <label class="check"><input type="checkbox" id="viktige"> Bare ★ viktige</label>
+    </div>
+  </div>
+</div>
+
+<main id="innhold">
+  <div class="wrap">
+    <div>
+      <div id="liste"></div>
+      <button class="vis-flere" id="flere" hidden>Vis flere</button>
+    </div>
+    <aside>
+      <section>
+        <h2>Kommer fra SSB</h2>
+        <ul id="kalender"></ul>
+      </section>
+      <section>
+        <h2>Om oversikten</h2>
+        <ul>
+          <li>Oppdateres automatisk hver time.</li>
+          <li>★ = NOU, stortingsmelding, proposisjon eller Riksrevisjonen.</li>
+          <li><a href="feed.xml">Abonner med RSS</a></li>
+          <li id="status"></li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+</main>
+
+<script>
+const FARGER = {
+  "Skatt": "#c1121f", "Ulikhet og fordeling": "#7048e8", "Markedsmakt og konkurranse": "#a61e4d",
+  "Offentlige finanser": "#1a1a2e", "Arbeid og trygd": "#2d6a4f", "Bolig": "#8a5a00",
+  "Energi og strøm": "#b35c00", "EU og EØS": "#1864ab", "Velferd og privatisering": "#c2410c"
+};
+const MND = ["jan","feb","mar","apr","mai","jun","jul","aug","sep","okt","nov","des"];
+const DAG = ["søndag","mandag","tirsdag","onsdag","torsdag","fredag","lørdag"];
+const PER_SIDE = 80;
+let data, valgteTemaer = new Set(), antallVist = PER_SIDE;
+
+const el = (tag, attrs = {}, ...barn) => {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) k === "style" ? e.style.cssText = v : e.setAttribute(k, v);
+  for (const b of barn) if (b != null) e.append(b);
+  return e;
+};
+const oslo = iso => new Date(new Date(iso).toLocaleString("en-US", { timeZone: "Europe/Oslo" }));
+const dagNavn = d => `${DAG[d.getDay()][0].toUpperCase() + DAG[d.getDay()].slice(1)} ${d.getDate()}. ${MND[d.getMonth()]}`;
+
+function filtrer() {
+  const q = document.getElementById("sok").value.trim().toLowerCase();
+  const kat = document.getElementById("kategori").value;
+  const bareViktige = document.getElementById("viktige").checked;
+  return data.saker.filter(s =>
+    (!valgteTemaer.size || s.temaer.some(t => valgteTemaer.has(t))) &&
+    (!kat || s.kategori === kat) &&
+    (!bareViktige || s.viktig) &&
+    (!q || (s.tittel + " " + s.ingress + " " + s.kilde).toLowerCase().includes(q)));
+}
+
+function tegn() {
+  const saker = filtrer();
+  const liste = document.getElementById("liste");
+  liste.replaceChildren();
+  if (!saker.length) { liste.append(el("p", { class: "tom" }, "Ingen saker passer filteret.")); }
+  let dag = null, ol = null;
+  for (const s of saker.slice(0, antallVist)) {
+    const d = oslo(s.dato), nøkkel = d.toDateString();
+    if (nøkkel !== dag) {
+      dag = nøkkel;
+      liste.append(el("h2", {}, dagNavn(d)));
+      ol = el("ol", { class: "saker" }); liste.append(ol);
+    }
+    const info = el("div", { class: "info" },
+      s.viktig ? el("span", { class: "stjerne", "aria-label": "Viktig" }, "★") : null,
+      el("span", {}, s.kilde),
+      s.type && s.type !== "Nyhet" ? el("span", { class: "type" }, s.type) : null,
+      ...s.temaer.map(t => el("span", { class: "badge", style: `--c:${FARGER[t] || "#555"}` }, t)));
+    ol.append(el("li", { class: "sak" },
+      el("a", { class: "tittel", href: s.lenke, rel: "noopener" }, s.tittel),
+      s.ingress ? el("p", { class: "ingress" }, s.ingress) : null, info));
+  }
+  document.getElementById("flere").hidden = saker.length <= antallVist;
+}
+
+function oppsett() {
+  const oppd = oslo(data.oppdatert);
+  document.getElementById("oppdatert").replaceChildren(
+    `Sist oppdatert ${oppd.getDate()}. ${MND[oppd.getMonth()]} kl. ${String(oppd.getHours()).padStart(2,"0")}:${String(oppd.getMinutes()).padStart(2,"0")} · ${data.saker.length} saker fra ${data.status.length} kilder · `,
+    el("a", { href: "https://github.com/gautery/kildeoverv-kning" }, "Kildekode og kildeliste"));
+
+  const temaBoks = document.getElementById("temaknapper");
+  for (const t of Object.keys(FARGER)) {
+    const b = el("button", { class: "chip", type: "button", "aria-pressed": "false", style: `--c:${FARGER[t]}` }, t);
+    b.onclick = () => {
+      valgteTemaer.has(t) ? valgteTemaer.delete(t) : valgteTemaer.add(t);
+      b.setAttribute("aria-pressed", valgteTemaer.has(t)); antallVist = PER_SIDE; tegn();
+    };
+    temaBoks.append(b);
+  }
+  const kat = document.getElementById("kategori");
+  [...new Set(data.saker.map(s => s.kategori))].sort().forEach(k => kat.append(el("option", { value: k }, k)));
+
+  const kal = document.getElementById("kalender");
+  const kommende = data.kalender.filter(k => k.temaer.length).slice(0, 12);
+  if (!kommende.length) kal.append(el("li", { class: "tom" }, "Ingenting relevant de neste ukene."));
+  for (const k of kommende) {
+    const [å, m, d] = k.dato.split("-");
+    kal.append(el("li", {}, el("span", { class: "dato" }, `${+d}. ${MND[+m - 1]}`), el("a", { href: k.lenke }, k.tittel)));
+  }
+  const feil = data.status.filter(s => !s.ok);
+  document.getElementById("status").textContent = feil.length
+    ? `⚠️ ${feil.length} kilde(r) svarte ikke sist: ${feil.map(f => f.navn).join(", ")}`
+    : `Alle ${data.status.length} kildene svarte normalt.`;
+
+  for (const id of ["sok", "kategori", "viktige"])
+    document.getElementById(id).addEventListener("input", () => { antallVist = PER_SIDE; tegn(); });
+  document.getElementById("flere").onclick = () => { antallVist += PER_SIDE; tegn(); };
+  tegn();
+}
+
+fetch("saker.json", { cache: "no-cache" })
+  .then(r => r.json()).then(d => { data = d; oppsett(); })
+  .catch(() => document.getElementById("oppdatert").textContent = "Klarte ikke å laste sakene.");
+</script>
+</body>
+</html>

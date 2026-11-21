@@ -1,0 +1,146 @@
+# ─────────────────────────────────────────────────────────────
+#  KILDELISTE – kildeovervåkning for @valgogpolitikk
+# ─────────────────────────────────────────────────────────────
+#  Slik legger du til en kilde:
+#    1. Kopier en blokk som ligner (fra "- navn:" og ned).
+#    2. Endre navn, url og kategori.
+#    3. Lagre («Commit changes»). Neste kjøring tar den med.
+#
+#  Felter:
+#    navn          Navnet som vises i oversikten
+#    type          rss (vanlig strøm) – bruk denne for nye kilder.
+#                  (regjeringen, ssb_kalender og eurostat er spesialtilpasset)
+#    url           Adressen til RSS-strømmen
+#    kategori      Regjering, Storting, Statistikk, Tilsyn, Parti, Forskning …
+#    viktig        true = merkes med ★ i oversikten (valgfritt)
+#    bare_med_ord  Ta bare med saker som inneholder ett av disse ordene (valgfritt)
+#    aktiv         false = hopp over kilden uten å slette den (valgfritt)
+# ─────────────────────────────────────────────────────────────
+
+kilder:
+
+  # ── Regjering og Storting ─────────────────────────────────
+  - navn: Regjeringen
+    type: regjeringen        # sorterer selv i NOU, høring, melding, pressemelding osv.
+    url: https://www.regjeringen.no/no/rss/Rss/2581966/
+    kategori: Regjering
+
+  - navn: Stortinget – representantforslag
+    type: rss
+    url: https://www.stortinget.no/no/Stottemeny/RSS/Representantforslag/
+    kategori: Storting
+
+  - navn: Stortinget – innstillinger
+    type: rss
+    url: https://www.stortinget.no/no/Stottemeny/RSS/Innstillinger-til-Stortinget/
+    kategori: Storting
+
+  - navn: Stortinget – lovvedtak
+    type: rss
+    url: https://www.stortinget.no/no/Stottemeny/RSS/Lovbeslutninger/
+    kategori: Storting
+
+  - navn: Stortinget – høringer i komiteene
+    type: rss
+    url: https://www.stortinget.no/no/Stottemeny/RSS/Horingsliste/
+    kategori: Storting
+
+  - navn: Riksrevisjonen
+    type: rss
+    url: https://kommunikasjon.ntb.no/rss/releases/latest?publisherId=17846918
+    kategori: Kontroll
+    viktig: true
+
+  # ── Statistikk ────────────────────────────────────────────
+  - navn: SSB
+    type: rss
+    url: https://www.ssb.no/rss/
+    kategori: Statistikk
+
+  - navn: SSB – kommende publiseringer
+    type: ssb_kalender       # havner i «Kommer snart», ikke i nyhetslista
+    url: https://www.ssb.no/rss/statkal
+    kategori: Kalender
+
+  - navn: Eurostat
+    type: eurostat
+    url: https://ec.europa.eu/eurostat/api/dissemination/catalogue/rss/en/statistics-update.rss
+    kategori: Statistikk
+    # Eurostat oppdaterer over tusen datasett i uka. Vi tar bare med
+    # datasettene under, pluss nye datasett med ord fra «bare_med_ord».
+    datasett:
+      - ILC_DI12        # Gini-koeffisient
+      - ILC_DI11        # S80/S20 – inntektsforhold topp/bunn
+      - ILC_DI01        # Inntektsfordeling etter kvantil
+      - ILC_LI02        # Andel med risiko for fattigdom
+      - ILC_PEPS01N     # Fattigdom eller sosial eksklusjon
+      - ILC_LVHO07A     # Høye boutgifter (housing cost overburden)
+      - GOV_10A_TAXAG   # Skatter og avgifter, hovedtall
+      - GOV_10A_MAIN    # Offentlige inntekter og utgifter
+      - GOV_10A_EXP     # Offentlige utgifter etter formål (COFOG)
+      - EARN_MW_CUR     # Minstelønn
+      - PRC_HICP_MANR   # Prisvekst (HICP)
+      - PRC_HPI_Q       # Boligprisindeks
+      - NRG_PC_204      # Strømpriser for husholdninger
+      - UNE_RT_M        # Arbeidsledighet, månedlig
+    bare_med_ord: [inequality, wealth, "income distribution", poverty, "tax revenue", taxes, "government expenditure", "minimum wage", "housing cost"]
+
+  # ── Tilsyn og Norges Bank ─────────────────────────────────
+  - navn: Konkurransetilsynet
+    type: rss
+    url: https://konkurransetilsynet.no/feed/
+    kategori: Tilsyn
+
+  - navn: Finanstilsynet
+    type: rss
+    url: https://www.finanstilsynet.no/rss/nyheter/
+    kategori: Tilsyn
+
+  - navn: Norges Bank – pressemeldinger
+    type: rss
+    url: https://www.norges-bank.no/RSS/Pressemeldinger---Norges-Bank/
+    kategori: Norges Bank
+
+  - navn: Norges Bank – Pengepolitisk rapport
+    type: rss
+    url: https://www.norges-bank.no/RSS/Norges-Bank-Pengepolitisk-rapport-med-vurdering-av-finansiell-stablitet/
+    kategori: Norges Bank
+
+  - navn: Norges Bank – Finansiell stabilitet
+    type: rss
+    url: https://www.norges-bank.no/RSS/Finansiell-stabilitet---rapport-fra-Norges-Bank/
+    kategori: Norges Bank
+
+  # ── Partier ───────────────────────────────────────────────
+  # Ap, FrP, Rødt, Sp og MDG har ikke funnet RSS ennå – legges til senere.
+  - navn: Høyre
+    type: rss
+    url: https://www.hoyre.no/feed/
+    kategori: Parti
+
+  - navn: SV
+    type: rss
+    url: https://www.sv.no/feed/
+    kategori: Parti
+
+  - navn: Venstre
+    type: rss
+    url: https://www.venstre.no/nyheter/feed/
+    kategori: Parti
+
+  - navn: KrF
+    type: rss
+    url: https://www.krf.no/nyheter/feed/
+    kategori: Parti
+
+  # ── Forskning ─────────────────────────────────────────────
+  - navn: NBER working papers
+    type: rss
+    url: https://www.nber.org/rss/new.xml
+    kategori: Forskning
+    bare_med_ord: [tax, wealth, inequality, "top income", Norway, Norwegian, Nordic, Scandinavia, "market power", markup, concentration, monopsony]
+
+  - navn: EU Tax Observatory
+    type: rss
+    url: https://www.taxobservatory.eu/feed/
+    kategori: Forskning

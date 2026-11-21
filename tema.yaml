@@ -1,0 +1,106 @@
+# ─────────────────────────────────────────────────────────────
+#  TEMAER – hver sak merkes med temaene der minst ett ord treffer
+#  (i tittel eller ingress). Store/små bokstaver spiller ingen rolle.
+#
+#  Et ord treffer også inni lengre ord: «skatt» treffer «formuesskatten».
+#  Skal et ord bare treffe som helt ord, skriv  ord:nav  (da treffer
+#  det «Nav», men ikke «navn»).
+# ─────────────────────────────────────────────────────────────
+
+Skatt:
+  - skatt
+  - avgift
+  - utbytte
+  - skjerming
+  - arveavgift
+  - ord:tax
+  - ord:taxes
+  - taxation
+
+Ulikhet og fordeling:
+  - ulikhet
+  - fordeling
+  - formue
+  - de rikeste
+  - toppinntekt
+  - fattig
+  - lavinntekt
+  - gini
+  - inequality
+  - wealth
+  - poverty
+  - top income
+
+Markedsmakt og konkurranse:
+  - konkurranse
+  - markedsmakt
+  - dagligvare
+  - monopol
+  - kartell
+  - fusjon
+  - oppkjøp
+  - mellomledd
+  - competition
+  - market power
+  - merger
+  - markup
+
+Offentlige finanser:
+  - statsbudsjett
+  - nasjonalbudsjett
+  - budsjett
+  - handlingsregel
+  - oljefond
+  - statens pensjonsfond
+  - statsregnskap
+  - kommuneøkonomi
+  - bevilgning
+  - offentlig sektor
+  - government expenditure
+  - government revenue
+  - public finance
+
+Arbeid og trygd:
+  - arbeidsledig
+  - sysselsetting
+  - lønn
+  - trygd
+  - ord:nav
+  - uføre
+  - sykepenger
+  - pensjon
+  - arbeidsliv
+  - unemployment
+  - minimum wage
+
+Bolig:
+  - bolig
+  - husleie
+  - utleie
+  - borettslag
+  - housing
+
+Energi og strøm:
+  - strøm
+  - kraftpris
+  - nettleie
+  - elektrisitet
+  - energi
+  - electricity
+
+EU og EØS:
+  - eøs
+  - ord:eu
+  - europeisk
+  - direktiv
+  - forordning
+  - efta
+
+Velferd og privatisering:
+  - sykehjem
+  - eldreomsorg
+  - barnehage
+  - privatisering
+  - kommersiell
+  - anbud
+  - velferd

@@ -1,0 +1,102 @@
+[
+ {
+  "navn": "Regjeringen",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Stortinget – representantforslag",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Stortinget – innstillinger",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Stortinget – lovvedtak",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Stortinget – høringer i komiteene",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Riksrevisjonen",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "SSB",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "SSB – kommende publiseringer",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Eurostat",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Konkurransetilsynet",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Finanstilsynet",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Norges Bank – pressemeldinger",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Norges Bank – Pengepolitisk rapport",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Norges Bank – Finansiell stabilitet",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Høyre",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "SV",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Venstre",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "KrF",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "NBER working papers",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "EU Tax Observatory",
+  "ok": true,
+  "feil": null
+ }
+]
