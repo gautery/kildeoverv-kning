@@ -204,14 +204,28 @@ MÅNEDSNAVN = {m: i + 1 for i, m in enumerate(
      "august", "september", "oktober", "november", "desember"])}
 
 
-def hent_artikkelinfo(lenke: str) -> tuple[datetime | None, str]:
-    """Leser publiseringsdato og ingress fra en artikkelside."""
+def hent_tittel(side: str) -> str:
+    """Henter artikkelens tittel (og:title eller <h1>) uten «| Nettstedsnavn»-hale."""
+    m = (re.search(r'<meta[^>]+property="og:title"[^>]+content="([^"]*)"', side)
+         or re.search(r"<h1[^>]*>(.*?)</h1>", side, re.S))
+    if not m:
+        return ""
+    tittel = ren_tekst(m.group(1), 250)
+    første = tittel.split(" | ")[0].strip()
+    if len(første) >= 10:
+        tittel = første
+    return re.split(r"\s+[|–—-]\s+(?=[^|–—-]{2,40}$)", tittel)[0].strip()
+
+
+def hent_artikkelinfo(lenke: str) -> tuple[datetime | None, str, str]:
+    """Leser publiseringsdato, ingress og tittel fra en artikkelside."""
     try:
         svar = requests.get(lenke, headers={"User-Agent": USER_AGENT}, timeout=30)
         svar.raise_for_status()
     except Exception:
-        return None, ""
+        return None, "", ""
     side = svar.text
+    tittel = hent_tittel(side)
     ingress = ""
     m = re.search(r'<meta[^>]+(?:property|name)="(?:og:)?description"[^>]+content="([^"]*)"', side)
     if m:
@@ -223,20 +237,20 @@ def hent_artikkelinfo(lenke: str) -> tuple[datetime | None, str]:
         if m:
             try:
                 dt = datetime.fromisoformat(m.group(1).replace("Z", "+00:00"))
-                return (dt if dt.tzinfo else dt.replace(tzinfo=OSLO)), ingress
+                return (dt if dt.tzinfo else dt.replace(tzinfo=OSLO)), ingress, tittel
             except ValueError:
                 pass
     m = re.search(r"\b(\d{1,2})\.\s*(" + "|".join(MÅNEDSNAVN) + r")\s+(20\d\d)\b", side, re.IGNORECASE)
     if m:
         dag, mnd, år = int(m.group(1)), MÅNEDSNAVN[m.group(2).lower()], int(m.group(3))
-        return datetime(år, mnd, dag, 12, tzinfo=OSLO), ingress
+        return datetime(år, mnd, dag, 12, tzinfo=OSLO), ingress, tittel
     m = re.search(r"\b(\d{1,2})\.(\d{1,2})\.(20\d\d)\b", side)
     if m:
         try:
-            return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)), 12, tzinfo=OSLO), ingress
+            return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)), 12, tzinfo=OSLO), ingress, tittel
         except ValueError:
             pass
-    return None, ingress
+    return None, ingress, tittel
 
 
 def behandle_nettside(kilde: dict, sett: dict[str, list[str]]):
@@ -264,7 +278,9 @@ def behandle_nettside(kilde: dict, sett: dict[str, list[str]]):
         if sak_id in kjente:
             continue
         kjente.append(sak_id)
-        dato, ingress = hent_artikkelinfo(lenke)
+        dato, ingress, sidetittel = hent_artikkelinfo(lenke)
+        if sidetittel and len(sidetittel) >= 10:
+            tittel = sidetittel      # lenketeksten på oversiktssiden kan inneholde ingress og dato
         if første_gang and dato is None:
             continue          # første kjøring: ikke fyll lista med udaterte eldre saker
         if ingress.strip(" .…") == tittel.strip(" .…"):
@@ -278,15 +294,26 @@ def behandle_kilde(kilde: dict, ignorert: set[str], sett: dict[str, list[str]]):
     typ = kilde.get("type", "rss")
     if typ == "nettside":
         return behandle_nettside(kilde, sett)
+    if typ == "google_nyheter":
+        # Google News-søk (f.eks. «site:frp.no») for nettsider som stenger ute automatiske besøk.
+        from urllib.parse import quote
+        kilde = {**kilde, "url": "https://news.google.com/rss/search?q=" + quote(kilde["søk"])
+                 + "&hl=no&gl=NO&ceid=NO:no"}
     feed = hent_feed(kilde["url"])
     saker, kalender = [], []
 
     for e in feed.entries:
         tittel = ren_tekst(e.get("title"), 250)
+        if typ == "google_nyheter":
+            kildenavn = (e.get("source") or {}).get("title", "")
+            if kildenavn and tittel.endswith(" - " + kildenavn):
+                tittel = tittel[: -len(" - " + kildenavn)]
+            for hale in kilde.get("fjern_fra_tittel", []):
+                tittel = tittel.removesuffix(hale).strip()
         lenke = ren_lenke(e.get("link") or "")
         if not tittel or not lenke:
             continue
-        ingress = ren_tekst(e.get("summary") or e.get("description"))
+        ingress = "" if typ == "google_nyheter" else ren_tekst(e.get("summary") or e.get("description"))
         dato = dato_fra_entry(e)
         sak_type = None
 

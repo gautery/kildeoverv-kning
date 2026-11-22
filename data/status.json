@@ -11,18 +11,18 @@
  },
  {
   "navn": "Stortinget – innstillinger",
-  "ok": true,
-  "feil": null
+  "ok": false,
+  "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Innstillinger-til-Stortinget/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisco"
  },
  {
   "navn": "Stortinget – lovvedtak",
-  "ok": true,
-  "feil": null
+  "ok": false,
+  "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Lovbeslutninger/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remo"
  },
  {
   "navn": "Stortinget – høringer i komiteene",
-  "ok": true,
-  "feil": null
+  "ok": false,
+  "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Horingsliste/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote "
  },
  {
   "navn": "Riksrevisjonen",
@@ -85,6 +85,16 @@
   "feil": null
  },
  {
+  "navn": "FrP",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "FrP Oslo (bystyregruppa)",
+  "ok": true,
+  "feil": null
+ },
+ {
   "navn": "Høyre",
   "ok": true,
   "feil": null
@@ -101,6 +111,41 @@
  },
  {
   "navn": "KrF",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Civita",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Tankesmien Agenda",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Manifest Analyse",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Langsikt",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Skaperkraft",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Fafo",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Tax Justice Norge",
   "ok": true,
   "feil": null
  },

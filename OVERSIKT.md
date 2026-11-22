@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 03:16. Viser de siste 14 dagene (166 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -27,6 +27,8 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 
 ### Søndag 22. november
 
+- [Tidsfordriv og kompetanse](https://www.fafo.no/publikasjoner/fafo-rapporter/tidsfordriv-og-kompetanse) — Fafo
+- [Lansering: Ny rapport om skjult eierskap](https://taxjustice.no/artikkel/lansering-ny-rapport-om-skjult-eierskap) — Tax Justice Norge
 - [Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498) — Stortinget – høringer i komiteene
 - [Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (S-delen)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505) — Stortinget – høringer i komiteene · _EU og EØS_
 - [Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (L-delen)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200509) — Stortinget – høringer i komiteene · _EU og EØS_
@@ -53,6 +55,7 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 - [Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad](https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/) — Regjeringen
 - [Høring - forslag til endringer i folketrygdloven mv. – utstedelse av legeerklæring mv.](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-folketrygdloven-mv.-utstedelse-av-legeerklaring-mv/id3193969/) — Regjeringen · Høring · _Arbeid og trygd_
 - [Et viktig skritt på veien mot ny sykmeldingsløsning](https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/) — Regjeringen · _Arbeid og trygd_
+- [Oppstartsbedrifter må til](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGNlR2k5NmRuRlJiZkVnSmZLQ1ZKUEVFR1ZJRy15MXJmSVFfSWhfcTN0aG05MFZMTmozN0RhVFNYRVBMX2MtblA0dkNDNmxwdDhZYkgyMzNaaTllWVlTR2V5bkhBWTI5U0oxaC1mdVNCdVp4ZkpXWVZRSkZlMi1Ed3hwSURDRUJyNnJhS3Zyekp4S0RkYjUzbjFJSzVSa28?oc=5) — Civita
 - [Åpner for GMO-råvarer i fiskefôr](https://www.regjeringen.no/no/aktuelt/apner-for-gmo-ravarer-i-fiskefor/id3194236/) — Regjeringen · _EU og EØS_
 - [GI-08/2026 - Revidert instruks om advokaters adgang til å være til stede mv. ved fremstilling for hjemlandets myndigheter i utlendingssaker](https://www.regjeringen.no/no/dokumenter/gi-082026-revidert-instruks-om-advokaters-adgang-til-a-vare-til-stede-mv.-ved-fremstilling-for-hjemlandets-myndigheter-i-utlendingssaker/id3194218/) — Regjeringen · Dokument
 - [Endring i spesialistforskriften for leger](https://www.regjeringen.no/no/aktuelt/endring-i-spesialistforskriften-for-leger/id3194232/) — Regjeringen
@@ -74,6 +77,8 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 
 - [Enorme og målretta kutt i norsk matproduksjon](https://www.senterpartiet.no/aktuelt/enorme-og-malretta-kutt-i-norsk-matproduksjon) — Senterpartiet
 - [Konkurransetilsynet støttar informasjonsdeling mot økonomisk kriminalitet](https://konkurransetilsynet.no/konkurransetilsynet-stottar-informasjonsdeling-mot-okonomisk-kriminalitet/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
+- [Festning Europa bygger høyere murer](https://news.google.com/rss/articles/CBMifEFVX3lxTE5OdTRmcEpqaWZ6OUNNTUFLZ05qWThGSlJOV3BkRFo3TDV5OXJ4ZmNocEZWTnJhM1NsX2lKX25qMnF3WjJRNkFFU2RKblNiX2VvSkVGVFZVZWNWVU1SU2pOMGU0QXJ1Z3ZsbHJjaVF6Y2RpZnJ3VE1WZmdYMno?oc=5) — Civita
+- [Trump trenger ikke si et ord. Bildene vil gjøre jobben](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjdtaTZxaEc1R3B3Zk5TWmlGTVRFQWdZTkw5dDZ1QlRxNFZLblFLSGl5TDBFU0VwZEJiSjNxbmFadnQ3bGZoVzRqVFNaSGxyNURYYmtDczkzRFIxUFRacUxSWmxrQkZJUGpyM1p4NThTNThXUDNiLXctbTdTanVtSGVXQ1RUX1ZLb2ZpbUNnX2ZhT1dIVXVoWHpxdkpWVDdzX2ZnejNoNUZtMFU?oc=5) — Civita
 - [Høye energipriser løftet børsen](https://www.ssb.no/bank-og-finansmarked/verdipapirmarkeder/statistikk/verdipapirer/artikler/hoye-energipriser-loftet-borsen) — SSB · _Energi og strøm_
 - [Norske verdipapirfond](https://www.ssb.no/bank-og-finansmarked/verdipapirmarkeder/statistikk/verdipapirfond/artikler/status-norske-fond) — SSB
 - [Bedre resultat for livsforsikringsselskapene](https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/livs-og-skadeforsikringsselskaper-regnskap/artikler/endring-i-resultat-for-forsikringsselskapene) — SSB
@@ -90,6 +95,8 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 
 ### Onsdag 18. november
 
+- [Perspektiv: USA og Kina: En ny kald krig?](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WT1l0RVg2ejdlNkg0Sko4VUttODFtSG5sY3ZXV0laT25KSWxIR3dLclVLRkJTMkhtdzRranoySXA0WE9fbk1iZzBPRDlPYkdlMHZOU25Bc3QzcmFrMUZJenByQzI?oc=5) — Civita
+- [Advarer mot industridød](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hYzJxN1ZLcHFsU2FCeHVhdTZ0QWI4WUg2TXRNLVZacV95X3NnbjViWGdFazRvd2w3a0g2aVpJMzlaUVc5cE0xeEQzbWJSS2RNMlZ4UXg4RXdkSE1VUXY4?oc=5) — FrP
 - [Kredittvurdering må foretas før forbruker får tilbud om lån til signering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/kredittvurdering-ma-foretas-for-forbruker-far-tilbud-om-lan-til-signering/) — Finanstilsynet
 - [Stadig nedgang i næringsstoff frå husdyrgjødsel](https://www.ssb.no/jord-skog-jakt-og-fiskeri/jordbruk/artikler/stadig-nedgang-i-naeringsstoff-fra-husdyrgjodsel) — SSB
 - [Lakseprisen i veke 46](https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks/artikler/laksepris) — SSB
@@ -110,6 +117,7 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 ### Tirsdag 17. november
 
 - [KrF sier i dag nei til dødshjelp](https://krf.no/nyheter/krf-sier-i-dag-nei-til-dodshjelp/) — KrF
+- [Forskjell på folk](https://www.tankesmienagenda.no/notater/forskjell-pa-folk) — Tankesmien Agenda
 - [Advarer mot avgiftssjokk på norske grønnsaker](https://hoyre.no/2026/11/17/advarer-mot-avgiftssjokk-pa-norske-gronnsaker/) — Høyre · _Skatt, Offentlige finanser_
 - [Representantforslag om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-048s/) — Stortinget – representantforslag · Dokument 8:48 S · _Markedsmakt og konkurranse, Velferd og privatisering_
 - [Representantforslag om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-047s/) — Stortinget – representantforslag · Dokument 8:47 S
@@ -156,6 +164,7 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 ### Mandag 16. november
 
 - [Høyre vil sikre lørdagsavisen](https://hoyre.no/2026/11/16/hoyre-vil-sikre-lordagsavisen/) — Høyre
+- [FrP vil ha Norge med på retursenter i Rwanda](https://news.google.com/rss/articles/CBMie0FVX3lxTE9jYXkyZVdCZWlaMWJwSlVKeDJmNGR0R2ZBY3N4SmN6TEtPWDlHaW9pTzE4cEpEcEdOcVhUc2QzY184bF9DTFdyNHkwS3A4OGhMYzZtdWVPNzdUYmIwUllabVEtczRlcUphY0JJd242WG5CRDZ1ZUk2THlYTQ?oc=5) — FrP
 - [Egenmelding fra regnskapsforetak (KRT-1004) – rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/) — Finanstilsynet
 
 ### Lørdag 14. november
@@ -171,6 +180,7 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 
 ### Torsdag 12. november
 
+- [Arbeidskraft og regnekraft](https://www.fafo.no/publikasjoner/fafo-rapporter/arbeidskraft-og-regnekraft) — Fafo
 - [Bedrifter frykter negativ omtale og overtredelsesgebyr](https://konkurransetilsynet.no/bedrifter-frykter-negativ-omtale-og-overtredelsesgebyr/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
 - [Representantforslag om å senke terskelen for fengsling av farlige ungdommer](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-044s/) — Stortinget – representantforslag · Dokument 8:44 S
 - [Representantforslag om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-043s/) — Stortinget – representantforslag · Dokument 8:43 S
@@ -185,6 +195,7 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 - [Konferanse: Trygge lokalsamfunn i ei utrygg tid](https://www.sv.no/blog/2026/11/11/trygge-lokalsamfunn-i-ei-utrygg-tid/) — SV · _EU og EØS_
 - [Nettrapport 2026-2 Finansiell stabilitet](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/nettrapport-2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
 - [Nasjonal kontroll over mineraler er vesentlig](https://www.senterpartiet.no/aktuelt/nasjonal-kontroll-over-mineraler-er-vesentlig) — Senterpartiet
+- [Kartlegging av organisasjonsmodell i fagforeninger](https://www.fafo.no/publikasjoner/fafo-notater/kartlegging-av-organisasjonsmodeller) — Fafo
 - [Senterpartiet vil ha strømstøtte til næringslivet](https://www.senterpartiet.no/aktuelt/senterpartiet-vil-ha-stromstotte-til-naeringslivet) — Senterpartiet · _Energi og strøm_
 - [Motsyklisk kapitalbuffer for banker holdes uendret på 2,5 prosent](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/motsyklisk-kapitalbuffer-for-banker-fjerde-kvartal-2026/) — Finanstilsynet
 - [Økt risiko for alvorlige hendelser som kan svekke finansiell stabilitet](https://www.norges-bank.no/aktuelt/nyheter/Pressemeldinger/2026/2026-11-11-fs2/) — Norges Bank – pressemeldinger
@@ -221,4 +232,7 @@ _Sist oppdatert 22.11.2026 kl. 02:59. Viser de siste 14 dagene (155 saker). ★ 
 
 ## Status for kildene
 
-Alle 23 kildene svarte normalt ved siste kjøring.
+Disse kildene feilet ved siste kjøring:
+- ⚠️ **Stortinget – innstillinger**: HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Innstillinger-til-Stortinget/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisco
+- ⚠️ **Stortinget – lovvedtak**: HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Lovbeslutninger/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remo
+- ⚠️ **Stortinget – høringer i komiteene**: HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Horingsliste/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote 

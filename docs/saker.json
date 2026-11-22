@@ -1,7 +1,33 @@
 {
- "oppdatert": "2026-11-22T01:58:45Z",
+ "oppdatert": "2026-11-22T02:15:08Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "607d09309875a318",
+   "tittel": "Tidsfordriv og kompetanse",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-rapporter/tidsfordriv-og-kompetanse",
+   "ingress": "Dette er andre og avsluttende rapport om opplysningsorganisasjonenes voksenopplæring i Norge. Første del av prosjektet ble publisert i rapporten Kompetanse eller tidsfordriv?, som så på tilbudet om voksenopplæring i lys av nittiåras behov, egne mål, loven og folkeopplysningsidealene. Denne …",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-22T02:15:08Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:15:08Z",
+   "temaer": []
+  },
+  {
+   "id": "c0618611f60a9f71",
+   "tittel": "Lansering: Ny rapport om skjult eierskap",
+   "lenke": "https://taxjustice.no/artikkel/lansering-ny-rapport-om-skjult-eierskap",
+   "ingress": "Bli med på rapportlansering og paneldebatt om skjult eierskap 27. november!",
+   "kilde": "Tax Justice Norge",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-22T02:12:09Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
   {
    "id": "a823a1387be5573f",
    "tittel": "Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod",
@@ -285,6 +311,19 @@
    ]
   },
   {
+   "id": "54a7fe9b64c315dd",
+   "tittel": "Oppstartsbedrifter må til",
+   "lenke": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGNlR2k5NmRuRlJiZkVnSmZLQ1ZKUEVFR1ZJRy15MXJmSVFfSWhfcTN0aG05MFZMTmozN0RhVFNYRVBMX2MtblA0dkNDNmxwdDhZYkgyMzNaaTllWVlTR2V5bkhBWTI5U0oxaC1mdVNCdVp4ZkpXWVZRSkZlMi1Ed3hwSURDRUJyNnJhS3Zyekp4S0RkYjUzbjFJSzVSa28?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-20T13:10:46Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "f33733f24c499de2",
    "tittel": "Åpner for GMO-råvarer i fiskefôr",
    "lenke": "https://www.regjeringen.no/no/aktuelt/apner-for-gmo-ravarer-i-fiskefor/id3194236/",
@@ -514,7 +553,7 @@
    "type": "",
    "dato": "2026-11-19T10:52:31Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -531,6 +570,32 @@
    "temaer": [
     "Markedsmakt og konkurranse"
    ]
+  },
+  {
+   "id": "84d58d93a365ec58",
+   "tittel": "Festning Europa bygger høyere murer",
+   "lenke": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OdTRmcEpqaWZ6OUNNTUFLZ05qWThGSlJOV3BkRFo3TDV5OXJ4ZmNocEZWTnJhM1NsX2lKX25qMnF3WjJRNkFFU2RKblNiX2VvSkVGVFZVZWNWVU1SU2pOMGU0QXJ1Z3ZsbHJjaVF6Y2RpZnJ3VE1WZmdYMno?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-19T09:02:55Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
+   "id": "4f1237e527fd85a9",
+   "tittel": "Trump trenger ikke si et ord. Bildene vil gjøre jobben",
+   "lenke": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjdtaTZxaEc1R3B3Zk5TWmlGTVRFQWdZTkw5dDZ1QlRxNFZLblFLSGl5TDBFU0VwZEJiSjNxbmFadnQ3bGZoVzRqVFNaSGxyNURYYmtDczkzRFIxUFRacUxSWmxrQkZJUGpyM1p4NThTNThXUDNiLXctbTdTanVtSGVXQ1RUX1ZLb2ZpbUNnX2ZhT1dIVXVoWHpxdkpWVDdzX2ZnejNoNUZtMFU?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-19T08:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
   },
   {
    "id": "9cf962429805ed2a",
@@ -708,6 +773,32 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "dokument": "Dokument 8:58 S (2026-2027)"
+  },
+  {
+   "id": "ab7e2821244eead3",
+   "tittel": "Perspektiv: USA og Kina: En ny kald krig?",
+   "lenke": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WT1l0RVg2ejdlNkg0Sko4VUttODFtSG5sY3ZXV0laT25KSWxIR3dLclVLRkJTMkhtdzRranoySXA0WE9fbk1iZzBPRDlPYkdlMHZOU25Bc3QzcmFrMUZJenByQzI?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-18T13:11:49Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
+   "id": "e2b36aa7d3e58881",
+   "tittel": "Advarer mot industridød",
+   "lenke": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hYzJxN1ZLcHFsU2FCeHVhdTZ0QWI4WUg2TXRNLVZacV95X3NnbjViWGdFazRvd2w3a0g2aVpJMzlaUVc5cE0xeEQzbWJSS2RNMlZ4UXg4RXdkSE1VUXY4?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-18T10:02:48Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
   },
   {
    "id": "3d71ec5e1d3fce8d",
@@ -944,6 +1035,19 @@
    "dato": "2026-11-17T14:15:01Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
+   "temaer": []
+  },
+  {
+   "id": "e17cf65edb1665b9",
+   "tittel": "Forskjell på folk",
+   "lenke": "https://www.tankesmienagenda.no/notater/forskjell-pa-folk",
+   "ingress": "Hverdagsøkonomi og sparing for folk med god råd, med dårlig råd – og alle midt mellom.",
+   "kilde": "Tankesmien Agenda",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-17T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -1558,6 +1662,19 @@
    "temaer": []
   },
   {
+   "id": "f10d4c98c8d4224e",
+   "tittel": "FrP vil ha Norge med på retursenter i Rwanda",
+   "lenke": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jYXkyZVdCZWlaMWJwSlVKeDJmNGR0R2ZBY3N4SmN6TEtPWDlHaW9pTzE4cEpEcEdOcVhUc2QzY184bF9DTFdyNHkwS3A4OGhMYzZtdWVPNzdUYmIwUllabVEtczRlcUphY0JJd242WG5CRDZ1ZUk2THlYTQ?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-16T17:41:15Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "01702028a17e5de9",
    "tittel": "Egenmelding fra regnskapsforetak (KRT-1004) – rapportering",
    "lenke": "https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/",
@@ -1606,7 +1723,7 @@
    "type": "",
    "dato": "2026-11-13T13:46:52Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Arbeid og trygd"
    ]
@@ -1637,6 +1754,19 @@
    "dato": "2026-11-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
+   "temaer": []
+  },
+  {
+   "id": "93c09a33ea9b6b17",
+   "tittel": "Arbeidskraft og regnekraft",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-rapporter/arbeidskraft-og-regnekraft",
+   "ingress": "Datasenternæringen i Norge har sett en kraftig vekst de siste årene, og med det har også debatten om kraftforbruk, ringvirkninger og arbeidsplasser tiltatt. Forskningen på datasenternæringen er i likhet med næringen selv voksende, både internasjonalt og i Norge, hvor det primært er gjort …",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-12T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:14:04Z",
    "temaer": []
   },
   {
@@ -1790,7 +1920,20 @@
    "type": "",
    "dato": "2026-11-11T11:33:01Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
+   "id": "de2da9e9de485c51",
+   "tittel": "Kartlegging av organisasjonsmodell i fagforeninger",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-notater/kartlegging-av-organisasjonsmodeller",
+   "ingress": "I dette notatet kartlegger og beskriver vi organisasjonsstrukturen i ulike utvalgte fagforbund i Norge, Sverige, Danmark, Storbritannia og Tyskland.&nbsp; &nbsp; &nbsp;&nbsp;",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-11T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:14:04Z",
    "temaer": []
   },
   {
@@ -1803,7 +1946,7 @@
    "type": "",
    "dato": "2026-11-11T08:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Energi og strøm"
    ]
@@ -1998,7 +2141,7 @@
    "type": "",
    "dato": "2026-11-10T09:35:02Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -2171,7 +2314,7 @@
    "type": "",
    "dato": "2026-11-09T08:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
    ]
@@ -2227,7 +2370,20 @@
    "type": "",
    "dato": "2026-11-06T11:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
+   "id": "ea824f9c723fface",
+   "tittel": "Sikkerhet eller solidaritet?",
+   "lenke": "https://www.langsikt.no/publikasjoner/sikkerhet-eller-solidaritet",
+   "ingress": "",
+   "kilde": "Langsikt",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-06T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -2253,7 +2409,7 @@
    "type": "",
    "dato": "2026-11-06T08:28:38Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -2266,7 +2422,7 @@
    "type": "",
    "dato": "2026-11-05T14:14:26Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -2279,7 +2435,7 @@
    "type": "",
    "dato": "2026-11-05T11:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
    ]
@@ -2325,15 +2481,15 @@
   },
   {
    "id": "807015bad6c5d860",
-   "tittel": "Sp vil fjerne EU-smutthull i grunnloven – Frp stemte imot",
+   "tittel": "Sp vil fjerne EU-smutthull i grunnloven",
    "lenke": "https://www.senterpartiet.no/aktuelt/senterpartiet-vil-fjerne-eu-smutthull-i-grunnloven-frp-stemte-imot",
-   "ingress": "",
+   "ingress": "Sp vil fjerne EU-smutthull i grunnloven – Frp stemte imot",
    "kilde": "Senterpartiet",
    "kategori": "Parti",
    "type": "",
    "dato": "2026-11-04T13:22:02Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "EU og EØS"
    ]
@@ -2381,6 +2537,19 @@
     "Bolig",
     "Velferd og privatisering"
    ]
+  },
+  {
+   "id": "32279f355179fc3b",
+   "tittel": "Lars Barstad Løvold ny leder i FpU",
+   "lenke": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4UVdYNEpEeUduTkVWZDZQYWlSUWNaaklpc1c1VVBNcWM1OTkyOXJ2Qnp1VnZxcnp0ME8yY0d0cDAtaEJMV3NkYjVDOXdZZXZMMmU5S3F0V3A5U01aVm1pZjdWZkgtemtFelBVOTZR?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-04T08:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
   },
   {
    "id": "35b4b34b60cabf05",
@@ -2666,6 +2835,19 @@
    "temaer": []
   },
   {
+   "id": "d3225bd1cf3293e1",
+   "tittel": "[Opptak] Etter KI-oppropet, hva nå?",
+   "lenke": "https://www.langsikt.no/publikasjoner/opptak-etter-ki-oppropet-hva-na",
+   "ingress": "",
+   "kilde": "Langsikt",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-02T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
    "id": "0ccfaadb29c1e575",
    "tittel": "SVs alternative budsjett: – En vanlig jobb skal være nok til å leve gode liv",
    "lenke": "https://www.sv.no/blog/2026/11/02/svs-alternative-budsjett-en-vanlig-jobb-skal-vaere-nok-til-a-leve-gode-liv/",
@@ -2780,6 +2962,19 @@
    "temaer": []
   },
   {
+   "id": "0ae523eb3f0444aa",
+   "tittel": "Magnus Birkelund skal lede Oslo FrP inn i valget i 2027!",
+   "lenke": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWczY2VUX29pUWVoRG9rTEVuZlhMMzh6ZXY4UVBwZG15bUxNcHNzUWx1bzBNcVliY0dYSFlIS05UYXA1ekRjUzQ3UVE4Mm9iNEsyQ0lIMmF4RFVnMS1oc1F1VENZOGUxWFk3RmVBSWRzV093QndTVnFWUkIyaTM5QUVIRkFhb3RUVGhaWXNXa0JQSW8?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-10-30T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "d03360d4fcdfcb07",
    "tittel": "Statsbudsjettet 2027 (kapitler fordelt til næringskomiteen)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200439",
@@ -2804,7 +2999,7 @@
    "type": "",
    "dato": "2026-10-29T11:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -3139,6 +3334,32 @@
    ]
   },
   {
+   "id": "87584023e34f0ba3",
+   "tittel": "Innspill til justiskomiteen: Satsning på sikkerhetsdimensjonen ved fremvoksende teknologier",
+   "lenke": "https://www.langsikt.no/publikasjoner/innspill-til-justiskomiteen-satsning-pa-sikkerhetsdimensjonen-ved-fremvoksende-teknologier",
+   "ingress": "",
+   "kilde": "Langsikt",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-10-23T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
+   "id": "05cd39c532347a62",
+   "tittel": "Vilkårlig og restriktivt",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-rapporter/vilkarlig-og-restriktivt",
+   "ingress": "Myndighetene har begrenset flyktningers rett til å flytte fritt. Hvis de flytter før det har gått fem år, har de ikke rett til introduksjonsprogram, introduksjonsstøtte og sosiale ytelser i ny kommune. I denne rapporten undersøker vi mulighetene til å få unntak fra disse begrensningene: 1) avtalt …",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-10-23T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:14:04Z",
+   "temaer": []
+  },
+  {
    "id": "23a4fbd21e2787a4",
    "tittel": "KrF foreslår kraftigere grep mot menneskehandel",
    "lenke": "https://krf.no/nyheter/krf-foreslar-kraftigere-grep-mot-menneskehandel/",
@@ -3163,6 +3384,21 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": []
+  },
+  {
+   "id": "3c815d1ee3cff5b3",
+   "tittel": "Regjeringen må sikre reelt innsyn i hvem som eier Norge",
+   "lenke": "https://taxjustice.no/artikkel/regjeringen-ma-sikre-reelt-innsyn-i-hvem-som-eier-norge",
+   "ingress": "Våre innspill til næringskomiteens behandling av forslag til statsbudsjett for 2027.",
+   "kilde": "Tax Justice Norge",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-10-22T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": [
+    "Offentlige finanser"
+   ]
   },
   {
    "id": "bca216187e93df8d",
@@ -3750,6 +3986,47 @@
    ]
   },
   {
+   "id": "95a446bb937e8f0d",
+   "tittel": "Degrees of uncertainty: certain stayers, or considering return?",
+   "lenke": "https://www.fafo.no/publikasjoner/andre-fafo-publikasjoner/degrees-of-uncertainty-certain-stayers-or-considering-return-2",
+   "ingress": "Forskningsstiftelsen Fafo: Forskning * prosjekter * publisering * forskere * arrangementer.",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-10-15T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:14:04Z",
+   "temaer": []
+  },
+  {
+   "id": "d5d2c6b30fdd4efd",
+   "tittel": "Mekanismer i partssamarbeidet",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-rapporter/mekanismer-i-partssamarbeidet",
+   "ingress": "Hva er sammenhengen mellom partssamarbeid og virksomhetsutvikling? Denne rapporten er en del av et forskningsprosjekt finansiert av Landsorganisasjonen i Norge (LO). I rapporten ser vi nærmere på sammenhengen mellom et demokratisk og et produktivt arbeidsliv.",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-10-15T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:14:04Z",
+   "temaer": [
+    "Arbeid og trygd"
+   ]
+  },
+  {
+   "id": "0c289ec5d9aaafc9",
+   "tittel": "USA dagen derpå: Ny kurs eller mer av det samme?",
+   "lenke": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWllKZzlJYllPOENDMmhnVy03MXRTM1VDZXF1ZjBVYm5nMjBiYmdCbDBOamRzcXBST2dpeDBZM0VwTjQ3UmxjM2xDLXc0YzB0WHFzWVRDbzJZaEwzWmhPNjR2QkZYb1hqUk93emczSWRhWkE2M1hOMUJUeVFOSnBzelJR?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-10-15T08:03:51Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "bd432d818388cdec",
    "tittel": "Representantforslag om et trygt og sikkert institusjonsbarnevern",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-021s/",
@@ -3817,6 +4094,36 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": []
+  },
+  {
+   "id": "4d03f6e7da76e9d7",
+   "tittel": "Langsikts alternative bistandsbudsjett",
+   "lenke": "https://www.langsikt.no/publikasjoner/langsikts-alternative-bistandsbudsjett",
+   "ingress": "",
+   "kilde": "Langsikt",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-10-14T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": [
+    "Offentlige finanser"
+   ]
+  },
+  {
+   "id": "ef29d06df64d6b4f",
+   "tittel": "Regjeringen må levere på Stortingets krav om åpenhet",
+   "lenke": "https://taxjustice.no/artikkel/regjeringen-ma-levere-pa-stortingets-krav-om-apenhet-2",
+   "ingress": "Våre innspill til finanskomiteen behandling av forslag til statsbudsjett for 2027.",
+   "kilde": "Tax Justice Norge",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-10-14T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": [
+    "Offentlige finanser"
+   ]
   },
   {
    "id": "05fd4cdd122296d3",
@@ -3895,6 +4202,19 @@
    "temaer": [
     "Offentlige finanser"
    ]
+  },
+  {
+   "id": "5c75afb899effda2",
+   "tittel": "Rapport: Hets mot politikere på nett",
+   "lenke": "https://www.tankesmienagenda.no/notater/hets-mot-politikere-pa-nett",
+   "ingress": "Tonen i politikernes kommentarfelt har hardnet. Les om hvordan andelen angrep har økt med 60 prosent og at hetsen nå rammer oftere politikeren selv.",
+   "kilde": "Tankesmien Agenda",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-10-13T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
   },
   {
    "id": "072157700421e00d",
@@ -4308,6 +4628,35 @@
    "temaer": []
   },
   {
+   "id": "b1356acb59e11fbb",
+   "tittel": "Organisasjonsgrader, tariffavtaledekning og arbeidskonflikter 2025",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-notater/organisasjonsgrader-tariffavtaledekning-og-arbeidskonflikter-2025",
+   "ingress": "Notatet presenterer de mest sentrale tallene for organisasjonsgrader og medlemstall på arbeidstaker- og arbeidsgiversiden, tariffavtaledekningen og omfanget av arbeidskonflikter. Notatet gir tall per 2025 og over tid. Flere analyser og diskusjon av data og metode for våre beregninger finnes …",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-10-06T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:14:04Z",
+   "temaer": []
+  },
+  {
+   "id": "2c013045b866f397",
+   "tittel": "Boligarbeid i Nav",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-rapporter/bolig-arbeid-i-nav",
+   "ingress": "De siste årene har antall personer som oppsøker Nav for hjelp med midlertidig botilbud økt. Dette er sluttrapporten fra et prosjekt som har undersøkt hvem som har behov for hjelp fra Nav for å finne midlertidig botilbud, hva som karakteriserer vellykket praksis ved Nav-kontorer når det gjelder å …",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-10-06T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:14:04Z",
+   "temaer": [
+    "Arbeid og trygd",
+    "Bolig"
+   ]
+  },
+  {
    "id": "7c4500802a4cef96",
    "tittel": "Representantforslag om å skattlegge ekstraordinære overskudd i olje- og gasselskaper",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-011s/",
@@ -4511,6 +4860,19 @@
    "dokument": "Innst. 18 S (2026-2027)"
   },
   {
+   "id": "cd4de9b3c5355b39",
+   "tittel": "Mye å vinne 2027",
+   "lenke": "https://www.tankesmienagenda.no/notater/mye-a-vinne-2026",
+   "ingress": "Et hefte om hva som står på spill i lokalvalget 2027.",
+   "kilde": "Tankesmien Agenda",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-10-01T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
    "id": "b30a3584944f6a2e",
    "tittel": "Representantforslag regulering av prediksjonsmarkeder og styrket tilsyn",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200332",
@@ -4560,6 +4922,19 @@
    "dato": "2026-09-30T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
+   "temaer": []
+  },
+  {
+   "id": "a04cbd3170773971",
+   "tittel": "Veileder: Hvordan avdekke skjult eierskap av norske selskaper",
+   "lenke": "https://taxjustice.no/artikkel/veileder-hvordan-avdekke-skjult-eierskap-av-norske-selskaper",
+   "ingress": "Hvilke kilder som finnes, og hvordan bruke dem.",
+   "kilde": "Tax Justice Norge",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-09-29T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -4748,7 +5123,7 @@
    "type": "",
    "dato": "2026-09-26T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -4834,6 +5209,19 @@
    ]
   },
   {
+   "id": "b217e60f4ae9bf69",
+   "tittel": "Rapport: Status for åpenhet i Norge 2026",
+   "lenke": "https://taxjustice.no/artikkel/rapport-status-for-apenhet-i-norge-2026",
+   "ingress": "Hvor står kampen for åpenhet i Norge? Den første årlige statusrapporten gjør opp status for fem viktige åpenhetstiltak.",
+   "kilde": "Tax Justice Norge",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-09-17T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
    "id": "107f4e479cef1955",
    "tittel": "Landsstyremøte 15.-16. september 2026",
    "lenke": "https://www.arbeiderpartiet.no/aktuelt/landsstyremote-15-16-september-2026/",
@@ -4843,7 +5231,20 @@
    "type": "",
    "dato": "2026-09-16T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
+   "id": "0adcd1923e4e49ed",
+   "tittel": "Norge er i verdenstoppen på dyr diesel og bensin",
+   "lenke": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblphc1pzSmxfaWFjLV83TXNsVW9tRnpiN3VLR2tCd2Fmb3p6NDhITmQ3MWhHWlc3d0tOSDN2NkxseXlydDBMMWF5ZVJ4OF96VDZfWVN1UUxpM21lS2t1NTl4X3dSNk03WThnZmF5dGdIQjh3ZU5HdzJqOUdmeGczbA?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-09-14T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
    "temaer": []
   },
   {
@@ -4901,6 +5302,32 @@
    "temaer": []
   },
   {
+   "id": "aec6c3556426f6a0",
+   "tittel": "Bli med i FpU – Fremskrittspartiets ungdom",
+   "lenke": "https://news.google.com/rss/articles/CBMiREFVX3lxTE51ckJVZkJ6RGN4Zm5KdDBaRW5iejB2aXc5LS02ajQ4VDZXRjg5a29XX3RyM1NHdGoyN0FzZTRPN2dEd0Nv?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-09-11T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
+   "id": "3346e4b74e7cb34a",
+   "tittel": "Innspill til kommunal- og forvaltningskomiteen: KI-Norge",
+   "lenke": "https://www.langsikt.no/publikasjoner/innspill-til-kommunal--og-forvaltningskomiteen-ki-norge",
+   "ingress": "",
+   "kilde": "Langsikt",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-09-07T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
    "id": "f893a1429cf2eb35",
    "tittel": "– En æra er forbi. En ny begynner",
    "lenke": "https://www.arbeiderpartiet.no/aktuelt/en-ara-er-forbi-en-ny-begynner/",
@@ -4910,7 +5337,7 @@
    "type": "",
    "dato": "2026-08-28T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Bolig"
    ]
@@ -4925,7 +5352,7 @@
    "type": "",
    "dato": "2026-08-28T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -4971,6 +5398,19 @@
    ]
   },
   {
+   "id": "4195926c76d6e8ae",
+   "tittel": "Diplomacy, Democracy, Defence and the Future of the Transatlantic Relationship",
+   "lenke": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0pwNlZYTHhqZU5BVVRBbExYLVhjV2tmLXZUX1FzTk8tTDBwVmthUW96Vk9TaElFR29jclFETnEwWGhSbzl3blRWbWNSeEdtZjlsMHlXSE5mWjBHY01aRzF2VUN5bUVENzRFY2U4RUxxREp3NjJ5VE9uN3ZjNk5yeEhGb3REWHI1bnNHNWw5dkRlUHROdnlPR0N4aXpDYjdaZkhJUWpETzh1aWs?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-08-14T09:21:22Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "90801af48686fa28",
    "tittel": "SVs høstkonferanse 2026",
    "lenke": "https://www.sv.no/blog/2026/08/08/konferanse/",
@@ -4993,7 +5433,7 @@
    "type": "",
    "dato": "2026-08-07T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -5010,6 +5450,21 @@
    "temaer": []
   },
   {
+   "id": "54126a3853a93b5f",
+   "tittel": "Island, Norge, EØS og EU",
+   "lenke": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oczBUVlNaYzFSUGNJVXM1LWVOZjdlWGltVjRWczZYWDNlYUFmQVRmOEZLenZoMEFHNFRsemZsQWZwcmVOdzU0c3N5dzg5VGFYelRrUU12TDQ1M0dzbzltMTlZUElwZXNneFFn?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-08-04T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": [
+    "EU og EØS"
+   ]
+  },
+  {
    "id": "91d38759825b0b8e",
    "tittel": "Fem gode grep for din økonomi",
    "lenke": "https://www.arbeiderpartiet.no/aktuelt/fem-gode-grep-for-din-okonomi/",
@@ -5019,7 +5474,20 @@
    "type": "",
    "dato": "2026-08-01T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:50:10Z",
+   "funnet": "2026-11-22T02:12:09Z",
+   "temaer": []
+  },
+  {
+   "id": "e4d4bd82ef2791fa",
+   "tittel": "Arendalsuka 2026",
+   "lenke": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wOGZzekVuTEtXNVdmRjR3ZnpMc3J0M0JuZjQxaFhwYTRUTktVYzB6MWVrVmtoY0o4SDdmZGtQZnlsVW1BQWlubzU2VjFIX2lxWXVSWnB0aTZRN0k?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-07-01T11:17:21Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
    "temaer": []
   },
   {
@@ -5045,7 +5513,7 @@
    "type": "",
    "dato": "2026-06-26T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -5065,7 +5533,7 @@
   },
   {
    "id": "ab42a8cbc903c49f",
-   "tittel": "Nye skatteforslag: – Noe bra, noe dårlig",
+   "tittel": "Nye skatteforslag:",
    "lenke": "https://mdg.no/politikk/aktuelt/nyhet/skattekommisjon",
    "ingress": "MDG er klare for å forhandle om skatter og avgifter til høsten, og vil jobbe for et system som belønner grønne valg.",
    "kilde": "MDG",
@@ -5073,7 +5541,7 @@
    "type": "",
    "dato": "2026-06-24T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Skatt",
     "Arbeid og trygd"
@@ -5160,7 +5628,7 @@
    "type": "",
    "dato": "2026-06-19T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": []
   },
   {
@@ -5308,6 +5776,19 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "dokument": "Dokument 8:311 S (2025-2026)"
+  },
+  {
+   "id": "33634edaae5cb777",
+   "tittel": "\"Noen er bare bedre enn andre\"",
+   "lenke": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UdTN3eGNNeFFNQWRZZmxVR3RsUzFhLVUyUTQtY1Ztbzk2SmVTaWx2cDlqb3A2SWRqUjd6ellkUkV6X3RCUXBYamFQZnBFczZ1Q3drdDh1ZG1VV2wwbDVBWGRaYw?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-06-18T18:59:12Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
   },
   {
    "id": "b7a09410e3b14860",
@@ -5803,6 +6284,19 @@
    "temaer": []
   },
   {
+   "id": "36c51867d817d010",
+   "tittel": "FrP sier nei til å subsidiere flytende havvind",
+   "lenke": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iY3dFc3VwaU5zTlNHYTFpNmZ5NWZSa0VJSnFXMFp1UnhheHdQVURsWDJ4VFlhb2M2VzR1RURQM1lqNHpzbzh2RzVDbmFPN3hzbmJyVlpGTC1mM0VTV05aazdPTUhUZHFpUVczZFcycDE4YWg2M2FHTGUtS0MwQQ?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-06-09T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "3c783615b46858b1",
    "tittel": "Pressekonferanse i dag om helse- og omsorgstenester til eldre",
    "lenke": "https://kommunikasjon.ntb.no/pressemelding/18938552/pressekonferanse-i-dag-om-helse-og-omsorgstenester-til-eldre?lang=no",
@@ -5917,6 +6411,19 @@
    ]
   },
   {
+   "id": "f174b6cc9ca932e0",
+   "tittel": "Rådgiver i organisasjonsavdelingen",
+   "lenke": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0Q1hmaExJdmlST25RLVVLcVZGSG1RWkxZSVBGVnJYWkx5ZWJmaGFENVU3Sl80d0pTT1FmZ0hWNFhPUEE4YUcxMWNaYzNjQUEtQ1NsTVhnOUo0X2VSWmNmc1BQLU5kalhZNjB6eDlR?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-06-08T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "52ba26de57ed68b3",
    "tittel": "Representantforslag om innføring av makspris på egenandeler knyttet til praktisk bistand",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-298s/",
@@ -5991,6 +6498,19 @@
    "dokument": "Lovvedtak 73 (2025-2026)"
   },
   {
+   "id": "3658f78fee814f8d",
+   "tittel": "Frigjør Pride fra FRI",
+   "lenke": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTm1vcENpeVkxV1ZocXN0VWhmZEduS2g5UGFOTG80MEhhMDhpaEI2UUFHajdQTmxuYnQ0dkdCd3ZfSkZMTDluUGNOSEIyOGdYUW1leDJvS2QtaEtSLUo5WUtfVVViZlFwZ2dqeg?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-06-07T19:21:24Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "b37b9a20bca892be",
    "tittel": "Store MDG-gjennomslag for kollektiv, klima og natur",
    "lenke": "https://mdg.no/politikk/aktuelt/nyhet/rnb-2026",
@@ -6000,7 +6520,7 @@
    "type": "",
    "dato": "2026-06-07T10:00:00Z",
    "viktig": false,
-   "funnet": "2026-11-22T01:51:59Z",
+   "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
    ]
@@ -6016,6 +6536,19 @@
    "dato": "2026-06-05T06:34:23Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
+   "temaer": []
+  },
+  {
+   "id": "5a2b29a447449031",
+   "tittel": "Prestene som bygget Norge",
+   "lenke": "https://skaperkraft.no/prestene-som-bygget-norge/",
+   "ingress": "Vi lever i et land som stortingspresidenten i 2026 kaller «verdens beste». Men hvem skal vi takke? Noen peker på arbeiderbevegelsen, andre legger vekt på industribygging og olje. På ildsjeler, barrikadestormere og gründere som har kjempet for frihet, opplysning og rettferdighet, arbeidsplasser og …",
+   "kilde": "Skaperkraft",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-06-05T06:30:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
    "temaer": []
   },
   {
@@ -6341,6 +6874,19 @@
    "dokument": "Lovvedtak 51 (2025-2026)"
   },
   {
+   "id": "0167e380196ce1ba",
+   "tittel": "Frukter for alle",
+   "lenke": "https://skaperkraft.no/frukter-for-alle/",
+   "ingress": "Egon Holstads kritikk av Ingrid Olina Hovlands 17. mai-tale om å ta vare på våre kristne verdier [også i VG her] velger feil sjanger. For svartmaling kaster sjelden lys. Det blir ikke mindre originalt når utgangspunktet er som galest. En 17. mai-tale er ingen offentlig utredning. Like lite som …",
+   "kilde": "Skaperkraft",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-06-01T12:54:23Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
    "id": "f7cfbadc5702f9fc",
    "tittel": "Representantforslag om regulering av prediksjonsmarkeder og styrket tilsyn",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-297s/",
@@ -6368,6 +6914,32 @@
    "temaer": [
     "Arbeid og trygd"
    ]
+  },
+  {
+   "id": "33c1a9044eed8ead",
+   "tittel": "Ekte utfordring",
+   "lenke": "https://skaperkraft.no/ekte-utfordring/",
+   "ingress": "De første reaksjonene på offentlige utspill er alltid interessante. Som denne uken da paven Leo XIV leverte en grundig refleksjon om behovet for etisk tenkning rundt kunstig intelligens. Selv om budskapet kom i en 245 punkters encyklika (pluss 224 fotnoter), Magnifica humanitas: On Safeguarding the …",
+   "kilde": "Skaperkraft",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-05-29T06:30:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
+   "id": "8b2e61805f0654fb",
+   "tittel": "Troens språk – avstand og forståelse",
+   "lenke": "https://skaperkraft.no/troens-sprak-avstand-og-forstaelse/",
+   "ingress": "Åste Dokka treffer godt i Samtiden 13. mai: Det finnes ikke et selvfølgelig kristent språkfellesskap i Norge. Selv begrepet Kanaans språk er i beste fall fremmed. Samtidig er det minst to måter å tenke feil om dette: At det er noe nytt, og at det kun gjelder ordene mest brukt på bedehus. I flere …",
+   "kilde": "Skaperkraft",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-05-28T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
   },
   {
    "id": "ea9dad7fb00bf4e8",
@@ -6967,18 +7539,18 @@
   },
   {
    "navn": "Stortinget – innstillinger",
-   "ok": true,
-   "feil": null
+   "ok": false,
+   "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Innstillinger-til-Stortinget/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisco"
   },
   {
    "navn": "Stortinget – lovvedtak",
-   "ok": true,
-   "feil": null
+   "ok": false,
+   "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Lovbeslutninger/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remo"
   },
   {
    "navn": "Stortinget – høringer i komiteene",
-   "ok": true,
-   "feil": null
+   "ok": false,
+   "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Horingsliste/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote "
   },
   {
    "navn": "Riksrevisjonen",
@@ -7041,6 +7613,16 @@
    "feil": null
   },
   {
+   "navn": "FrP",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "FrP Oslo (bystyregruppa)",
+   "ok": true,
+   "feil": null
+  },
+  {
    "navn": "Høyre",
    "ok": true,
    "feil": null
@@ -7057,6 +7639,41 @@
   },
   {
    "navn": "KrF",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "Civita",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "Tankesmien Agenda",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "Manifest Analyse",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "Langsikt",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "Skaperkraft",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "Fafo",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "Tax Justice Norge",
    "ok": true,
    "feil": null
   },

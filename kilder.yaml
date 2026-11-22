@@ -9,6 +9,8 @@
 #  Felter:
 #    navn          Navnet som vises i oversikten
 #    type          rss (vanlig strøm) – bruk denne for nye kilder.
+#                  nettside: for sider uten RSS (krever lenke_mønster)
+#                  google_nyheter: Google News-søk (krever søk, f.eks. «site:frp.no»)
 #                  (regjeringen, ssb_kalender og eurostat er spesialtilpasset)
 #    url           Adressen til RSS-strømmen
 #    kategori      Regjering, Storting, Statistikk, Tilsyn, Parti, Forskning …
@@ -133,15 +135,20 @@ kilder:
     lenke_mønster: '^https://(www\.)?mdg\.no/politikk/aktuelt/nyhet/[^/?#]+$'
     kategori: Parti
 
-  # FrP: nettsiden er bak Cloudflare og avviser automatiske besøk. Avslått inntil videre.
+  # FrP stenger ute automatiske besøk, så sakene hentes via Google News-søk.
   - navn: FrP
-    aktiv: false
-    type: nettside
-    url: https://www.frp.no/nyheter
-    lenke_mønster: '^https://www\.frp\.no/(nyheter|aktuelt)/[^/?#]+/?$'
+    type: google_nyheter
+    søk: site:frp.no
+    fjern_fra_tittel: [" - Fremskrittspartiet - FrP.", " - Fremskrittspartiet"]
     kategori: Parti
 
-  # Rødt: nettsiden svarer ikke på besøk fra GitHub. Avslått inntil videre.
+  - navn: FrP Oslo (bystyregruppa)
+    type: rss
+    url: https://kommunikasjon.ntb.no/rss/releases/latest?publisherId=17848932
+    kategori: Parti
+
+  # Rødt: nettsiden har en sikkerhetssjekk som stopper alle automatiske besøk, og
+  # partiet finnes verken i Google News eller på NTB Kommunikasjon. Avslått inntil videre.
   - navn: Rødt
     aktiv: false
     type: nettside
@@ -168,6 +175,48 @@ kilder:
     type: rss
     url: https://www.krf.no/nyheter/feed/
     kategori: Parti
+
+  # ── Tenketanker ───────────────────────────────────────────
+  - navn: Civita
+    type: google_nyheter      # civita.no stenger ute automatiske besøk
+    søk: site:civita.no
+    fjern_fra_tittel: [" - Civita, den liberale tankesmien", " - Civita"]
+    kategori: Tenketank
+
+  - navn: Tankesmien Agenda
+    type: nettside
+    url: https://www.tankesmienagenda.no/
+    lenke_mønster: '^https://www\.tankesmienagenda\.no/(notater|rapporter|artikler|analyser)/[^/?#]+$'
+    kategori: Tenketank
+
+  - navn: Manifest Analyse
+    type: nettside
+    url: https://manifestanalyse.no/
+    lenke_mønster: '^https://(www\.)?manifestanalyse\.no/(notat|rapport|artikkel|analyse)/[^/?#]+$'
+    kategori: Tenketank
+
+  - navn: Langsikt
+    type: nettside
+    url: https://www.langsikt.no/publikasjoner
+    lenke_mønster: '^https://www\.langsikt\.no/publikasjoner/[^/?#]+$'
+    kategori: Tenketank
+
+  - navn: Skaperkraft
+    type: rss
+    url: https://skaperkraft.no/feed/
+    kategori: Tenketank
+
+  - navn: Fafo
+    type: nettside
+    url: https://www.fafo.no/publikasjoner
+    lenke_mønster: '^https://www\.fafo\.no/publikasjoner/(fafo-rapporter|fafo-notater|andre-fafo-publikasjoner)/[^/?#]+$'
+    kategori: Forskning
+
+  - navn: Tax Justice Norge
+    type: nettside
+    url: https://taxjustice.no/
+    lenke_mønster: '^https://taxjustice\.no/artikkel/[^/?#]+$'
+    kategori: Tenketank
 
   # ── Forskning ─────────────────────────────────────────────
   - navn: NBER working papers
