@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 07:42. Viser de siste 14 dagene (168 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 13:13. Viser de siste 14 dagene (173 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -27,6 +27,8 @@ _Sist oppdatert 22.11.2026 kl. 07:42. Viser de siste 14 dagene (168 saker). ★ 
 
 ### Søndag 22. november
 
+- [Atypisk arbeidstid](https://www.fafo.no/publikasjoner/fafo-notater/atypisk-arbeidstid) — Fafo · _EU og EØS_
+- [Hva i alle dager er et styringsparti?](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWxzQkU2QXRLbDNrZ2VJZC1ZWEtYdUk2YjZKX2k4WXNQdjd6Mm5IM0UxdUZBQWtuSm1qWFhoamtmMGRpNm5DeUdKR0U0bEdNYXBFWjg2ck5PQXNPYVRIYzZwOW5GVENZdjRNcWVVTmZPMGNlWnFuaHdkUVp6Yy1YOWE3V0k4bk91d2VuQlhlOUFUMHFY?oc=5) — Civita
 - [The future of work](https://www.fafo.no/publikasjoner/fafo-rapporter/the-future-of-work) — Fafo · _Arbeid og trygd, Velferd og privatisering_
 - [Nye tjenester på postkontorene?](https://www.fafo.no/publikasjoner/fafo-rapporter/nye-tjenester-pa-postkontorene) — Fafo
 - [Tidsfordriv og kompetanse](https://www.fafo.no/publikasjoner/fafo-rapporter/tidsfordriv-og-kompetanse) — Fafo
@@ -53,11 +55,13 @@ _Sist oppdatert 22.11.2026 kl. 07:42. Viser de siste 14 dagene (168 saker). ★ 
 
 ### Fredag 20. november
 
+- [Når kommer KI-kuttene i offentlig sektor?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3VlX3R3cTFTWGdvV2hSU0NVUUpTN05wTm03SE1YNnhzT0ticXdZaXZMdDNzaVByWVMtNlJJbHlkVFd0M1BPRWZFOTJNNGtMMWJxclFwTmZsZHluNUNNb0lOUTZmbXlGRFlXU3J0Qjk3N1laQlBpeVc5V25veXFpNzl1dlJDem44UUd5VThTdlc5RmM4Rm56bHluNXhUNDRNckREc2IwU3RMUQ?oc=5) — Civita · _Offentlige finanser_
 - [Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser](https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/) — Regjeringen
 - [Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad](https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/) — Regjeringen
 - [Høring - forslag til endringer i folketrygdloven mv. – utstedelse av legeerklæring mv.](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-folketrygdloven-mv.-utstedelse-av-legeerklaring-mv/id3193969/) — Regjeringen · Høring · _Arbeid og trygd_
 - [Et viktig skritt på veien mot ny sykmeldingsløsning](https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/) — Regjeringen · _Arbeid og trygd_
 - [Oppstartsbedrifter må til](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGNlR2k5NmRuRlJiZkVnSmZLQ1ZKUEVFR1ZJRy15MXJmSVFfSWhfcTN0aG05MFZMTmozN0RhVFNYRVBMX2MtblA0dkNDNmxwdDhZYkgyMzNaaTllWVlTR2V5bkhBWTI5U0oxaC1mdVNCdVp4ZkpXWVZRSkZlMi1Ed3hwSURDRUJyNnJhS3Zyekp4S0RkYjUzbjFJSzVSa28?oc=5) — Civita
+- [Aaslands regndans er ikke over](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Wa2I5YUVSeDU3QXpONTV6RURna21Zd3J4YzRab0p2RHFuaVFYREZIdWZiX2ZJcFdUT3luWmJSRWlJMzJBbkpuUHRVckF2TnRfMThSTDI1TF9RR2U1dEpRM1oxSXlhNTBV?oc=5) — Civita
 - [Åpner for GMO-råvarer i fiskefôr](https://www.regjeringen.no/no/aktuelt/apner-for-gmo-ravarer-i-fiskefor/id3194236/) — Regjeringen · _EU og EØS_
 - [GI-08/2026 - Revidert instruks om advokaters adgang til å være til stede mv. ved fremstilling for hjemlandets myndigheter i utlendingssaker](https://www.regjeringen.no/no/dokumenter/gi-082026-revidert-instruks-om-advokaters-adgang-til-a-vare-til-stede-mv.-ved-fremstilling-for-hjemlandets-myndigheter-i-utlendingssaker/id3194218/) — Regjeringen · Dokument
 - [Endring i spesialistforskriften for leger](https://www.regjeringen.no/no/aktuelt/endring-i-spesialistforskriften-for-leger/id3194232/) — Regjeringen
@@ -168,6 +172,10 @@ _Sist oppdatert 22.11.2026 kl. 07:42. Viser de siste 14 dagene (168 saker). ★ 
 - [Høyre vil sikre lørdagsavisen](https://hoyre.no/2026/11/16/hoyre-vil-sikre-lordagsavisen/) — Høyre
 - [FrP vil ha Norge med på retursenter i Rwanda](https://news.google.com/rss/articles/CBMie0FVX3lxTE9jYXkyZVdCZWlaMWJwSlVKeDJmNGR0R2ZBY3N4SmN6TEtPWDlHaW9pTzE4cEpEcEdOcVhUc2QzY184bF9DTFdyNHkwS3A4OGhMYzZtdWVPNzdUYmIwUllabVEtczRlcUphY0JJd242WG5CRDZ1ZUk2THlYTQ?oc=5) — FrP
 - [Egenmelding fra regnskapsforetak (KRT-1004) – rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/) — Finanstilsynet
+
+### Søndag 15. november
+
+- [Hva koster det å motta 5000 kvoteflyktninger?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbktTbnJ6aS1xTEtvMDYxMEdkZWtTVHJ1UHNzVFZtdTdzVlhtcWh2Smp2RTRzRjNzNTc4eUdJMXhiXzk1eW0zMUJhN3dsV2ZFTHl1aFhkY0dNZTMyVUNMNTBlYW91NElJdy0wckUwMTJYd0tCQ2o0ellmZkhpWlRVNm8wZ2VZMTNUdUZYYU54bGk2V1FZT2t2dTZ6cHo4cGgyMy1ndnNyRUllVG04UlJV?oc=5) — Civita
 
 ### Lørdag 14. november
 

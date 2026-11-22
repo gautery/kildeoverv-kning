@@ -1,7 +1,35 @@
 {
- "oppdatert": "2026-11-22T06:42:05Z",
+ "oppdatert": "2026-11-22T12:12:24Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "c452593d2c180751",
+   "tittel": "Atypisk arbeidstid",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-notater/atypisk-arbeidstid",
+   "ingress": "Dette notatet rapporterer eit forprosjekt som Fafo har gjennomført for LO Industri. Prosjektet skal gje eit oversyn over kva som er dei viktigaste arbeidstidsordningane som er i bruk i Noreg og EU-landa. Prosjektet skal særleg få fram kva som finst av arbeidstidsordningar som avvik frå vanleg …",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-22T12:12:24Z",
+   "viktig": false,
+   "funnet": "2026-11-22T12:12:24Z",
+   "temaer": [
+    "EU og EØS"
+   ]
+  },
+  {
+   "id": "7e0fda5bc681ba74",
+   "tittel": "Hva i alle dager er et styringsparti?",
+   "lenke": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWxzQkU2QXRLbDNrZ2VJZC1ZWEtYdUk2YjZKX2k4WXNQdjd6Mm5IM0UxdUZBQWtuSm1qWFhoamtmMGRpNm5DeUdKR0U0bEdNYXBFWjg2ck5PQXNPYVRIYzZwOW5GVENZdjRNcWVVTmZPMGNlWnFuaHdkUVp6Yy1YOWE3V0k4bk91d2VuQlhlOUFUMHFY?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-22T08:16:06Z",
+   "viktig": false,
+   "funnet": "2026-11-22T12:12:24Z",
+   "temaer": []
+  },
   {
    "id": "b73986a5972ae72f",
    "tittel": "The future of work",
@@ -284,6 +312,21 @@
    ]
   },
   {
+   "id": "bd2f446a9ac938c2",
+   "tittel": "Når kommer KI-kuttene i offentlig sektor?",
+   "lenke": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3VlX3R3cTFTWGdvV2hSU0NVUUpTN05wTm03SE1YNnhzT0ticXdZaXZMdDNzaVByWVMtNlJJbHlkVFd0M1BPRWZFOTJNNGtMMWJxclFwTmZsZHluNUNNb0lOUTZmbXlGRFlXU3J0Qjk3N1laQlBpeVc5V25veXFpNzl1dlJDem44UUd5VThTdlc5RmM4Rm56bHluNXhUNDRNckREc2IwU3RMUQ?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-20T15:00:46Z",
+   "viktig": false,
+   "funnet": "2026-11-22T12:12:24Z",
+   "temaer": [
+    "Offentlige finanser"
+   ]
+  },
+  {
    "id": "6e4ccdd656b951c9",
    "tittel": "Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser",
    "lenke": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/",
@@ -350,6 +393,19 @@
    "dato": "2026-11-20T13:10:46Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
+   "temaer": []
+  },
+  {
+   "id": "327664db619d440e",
+   "tittel": "Aaslands regndans er ikke over",
+   "lenke": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Wa2I5YUVSeDU3QXpONTV6RURna21Zd3J4YzRab0p2RHFuaVFYREZIdWZiX2ZJcFdUT3luWmJSRWlJMzJBbkpuUHRVckF2TnRfMThSTDI1TF9RR2U1dEpRM1oxSXlhNTBV?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-20T13:10:46Z",
+   "viktig": false,
+   "funnet": "2026-11-22T12:12:24Z",
    "temaer": []
   },
   {
@@ -1714,6 +1770,19 @@
    "dato": "2026-11-16T07:04:52Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
+   "temaer": []
+  },
+  {
+   "id": "44cf566a1d4442b6",
+   "tittel": "Hva koster det å motta 5000 kvoteflyktninger?",
+   "lenke": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbktTbnJ6aS1xTEtvMDYxMEdkZWtTVHJ1UHNzVFZtdTdzVlhtcWh2Smp2RTRzRjNzNTc4eUdJMXhiXzk1eW0zMUJhN3dsV2ZFTHl1aFhkY0dNZTMyVUNMNTBlYW91NElJdy0wckUwMTJYd0tCQ2o0ellmZkhpWlRVNm8wZ2VZMTNUdUZYYU54bGk2V1FZT2t2dTZ6cHo4cGgyMy1ndnNyRUllVG04UlJV?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-15T10:44:08Z",
+   "viktig": false,
+   "funnet": "2026-11-22T12:12:24Z",
    "temaer": []
   },
   {
