@@ -210,6 +210,31 @@ def regjeringen_type(lenke: str, tittel: str) -> str | None:
 
 
 
+# ─────────────────────────────────────────────────────────── spor
+
+# Sakene deles i tre spor, fordi rapporter leses på en annen måte enn løpende nytt:
+#   rapporter  – rapporter, utredninger og analyser (NOU, forskning, tenketanker, Riksrevisjonen)
+#   tall       – ny statistikk og tall (SSB, Eurostat, Norges Bank)
+#   lopende    – det som skjer fra dag til dag (Storting, regjering, partier, tilsyn)
+# En kilde kan overstyre dette med «spor:» i kilder.yaml.
+SPOR_ETTER_KATEGORI = {
+    "Forskning": "rapporter", "Tenketank": "rapporter", "Kontroll": "rapporter",
+    "Statistikk": "tall", "Kalender": "tall", "Norges Bank": "tall",
+}
+RAPPORT_TYPER = {"NOU", "Stortingsmelding", "Proposisjon"}
+
+
+def finn_spor(sak: dict, overstyr: dict[str, str]) -> str:
+    if sak["kilde"] in overstyr:
+        return overstyr[sak["kilde"]]
+    if sak.get("type") in RAPPORT_TYPER:
+        return "rapporter"
+    if sak["kilde"] == "SSB":
+        sti = urlsplit(sak["lenke"]).path
+        return "rapporter" if "/artikler/" in sti and "/statistikk/" not in sti else "tall"
+    return SPOR_ETTER_KATEGORI.get(sak.get("kategori", ""), "lopende")
+
+
 # ─────────────────────────────────────────────────────────── nettsider uten RSS
 
 MÅNEDSNAVN = {m: i + 1 for i, m in enumerate(
@@ -457,10 +482,13 @@ def skriv_oversikt(saker, kalender, status, temaer) -> None:
     (ROT / "OVERSIKT.md").write_text("\n".join(l), encoding="utf-8")
 
 
-def skriv_feed(saker) -> None:
+SPOR_NAVN = {"rapporter": "Rapporter og utredninger", "tall": "Statistikk og tall", "lopende": "Løpende nytt"}
+
+
+def skriv_feed(saker, filnavn: str = "feed.xml", undertittel: str = "") -> None:
     deler = ['<?xml version="1.0" encoding="utf-8"?>',
              '<rss version="2.0"><channel>',
-             "<title>Kildeovervåkning – valgogpolitikk</title>",
+             f"<title>Kildeovervåkning{(' – ' + undertittel) if undertittel else ''} – valgogpolitikk</title>",
              "<link>https://github.com/gautery/kildeoverv-kning</link>",
              "<description>Nytt fra regjeringen, Stortinget, SSB, Eurostat, tilsyn, partier og forskning</description>",
              "<language>no</language>"]
@@ -476,7 +504,7 @@ def skriv_feed(saker) -> None:
             f"{kat}</item>")
     deler.append("</channel></rss>")
     DOCS.mkdir(exist_ok=True)
-    (DOCS / "feed.xml").write_text("\n".join(deler), encoding="utf-8")
+    (DOCS / filnavn).write_text("\n".join(deler), encoding="utf-8")
 
 
 # ─────────────────────────────────────────────────────────── hovedløp
@@ -556,10 +584,12 @@ def main() -> int:
 
     # Temaer settes på nytt hver gang, så endringer i tema.yaml slår inn bakover.
     bare_tittel = {k["navn"] for k in kilder if k.get("tema_fra_tittel")}
+    overstyr_spor = {k["navn"]: k["spor"] for k in kilder if k.get("spor")}
     for s in arkiv.values():
         bedre_tittel(s)
         tekst = s["tittel"] if (s.get("tema_fra_tittel") or s["kilde"] in bare_tittel) else f"{s['tittel']} {s['ingress']}"
         s["temaer"] = finn_temaer(tekst, matchere)
+        s["spor"] = finn_spor(s, overstyr_spor)
     for k in kalender:
         k["temaer"] = finn_temaer(k["tittel"], matchere)
     kalender.sort(key=lambda k: k["dato"])
@@ -589,6 +619,8 @@ def main() -> int:
     skriv_json(DOCS / "saker.json", {"oppdatert": iso(NA), "utvalgt": utvalgt, "saker": saker,
                                     "kalender": kalender, "status": status})
     skriv_feed(saker)
+    for spor, navn in SPOR_NAVN.items():
+        skriv_feed([x for x in saker if x.get("spor") == spor], f"feed-{spor}.xml", navn)
     skriv_oversikt(saker, kalender, status, matchere)
     return 0
 

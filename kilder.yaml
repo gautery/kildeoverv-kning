@@ -14,6 +14,7 @@
 #                  (regjeringen, ssb_kalender og eurostat er spesialtilpasset)
 #    url           Adressen til RSS-strømmen
 #    kategori      Regjering, Storting, Statistikk, Tilsyn, Parti, Forskning …
+#    spor          (valgfritt) rapporter, tall eller lopende. Ellers bestemmes det av kategorien.
 #    viktig        true = merkes med ★ i oversikten (valgfritt)
 #    bare_med_ord  Ta bare med saker som inneholder ett av disse ordene (valgfritt)
 #    aktiv         false = hopp over kilden uten å slette den (valgfritt)
@@ -108,11 +109,13 @@ kilder:
     type: rss
     url: https://www.norges-bank.no/RSS/Norges-Bank-Pengepolitisk-rapport-med-vurdering-av-finansiell-stablitet/
     kategori: Norges Bank
+    spor: rapporter          # rapport, ikke ny statistikk
 
   - navn: Norges Bank – Finansiell stabilitet
     type: rss
     url: https://www.norges-bank.no/RSS/Finansiell-stabilitet---rapport-fra-Norges-Bank/
     kategori: Norges Bank
+    spor: rapporter          # rapport, ikke ny statistikk
 
   # ── Partier ───────────────────────────────────────────────
   # Ap, Sp, MDG, FrP og Rødt har ikke RSS. De hentes fra nyhetssidene
