@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 19:45. Viser de siste 14 dagene (163 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -27,8 +27,6 @@ _Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ 
 
 ### Søndag 22. november
 
-- [Konfiskert, beskattet eller nedskrevet? SPU i en ny tid](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3ZMTkMwUDNvSkZ3Z2RIWnliRWZHZTBneFB0VmY4Vi02ZTRkQlZfMEd5X2VpVmFUMzBuUkxvNHE2Vi1YM1pDdldWU3ZUdGJKU1BtWVowdVBwREh6em9MbUthdkpqcURlNzdJUjNPdmpIZUF2REUzV1ktWlRGZUFiaXB6a05JTnM?oc=5) — Civita · _Skatt_
-- [Hva i alle dager er et styringsparti?](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWxzQkU2QXRLbDNrZ2VJZC1ZWEtYdUk2YjZKX2k4WXNQdjd6Mm5IM0UxdUZBQWtuSm1qWFhoamtmMGRpNm5DeUdKR0U0bEdNYXBFWjg2ck5PQXNPYVRIYzZwOW5GVENZdjRNcWVVTmZPMGNlWnFuaHdkUVp6Yy1YOWE3V0k4bk91d2VuQlhlOUFUMHFY?oc=5) — Civita
 - [Lansering: Ny rapport om skjult eierskap](https://taxjustice.no/artikkel/lansering-ny-rapport-om-skjult-eierskap) — Tax Justice Norge
 - [Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498) — Stortinget – høringer i komiteene
 - [Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (S-delen)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505) — Stortinget – høringer i komiteene · _EU og EØS_
@@ -52,21 +50,16 @@ _Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ 
 
 ### Fredag 20. november
 
-- [Når kommer KI-kuttene i offentlig sektor?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3VlX3R3cTFTWGdvV2hSU0NVUUpTN05wTm03SE1YNnhzT0ticXdZaXZMdDNzaVByWVMtNlJJbHlkVFd0M1BPRWZFOTJNNGtMMWJxclFwTmZsZHluNUNNb0lOUTZmbXlGRFlXU3J0Qjk3N1laQlBpeVc5V25veXFpNzl1dlJDem44UUd5VThTdlc5RmM4Rm56bHluNXhUNDRNckREc2IwU3RMUQ?oc=5) — Civita · _Offentlige finanser_
 - [Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser](https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/) — Regjeringen
-- [Lukkast skulen med sosial utjamning?](https://news.google.com/rss/articles/CBMibEFVX3lxTFBaR081OFB1RXJNU0xaRWhSSzlGSl93bVBXd1hCLUNzR2lmREdVemtURkZ2QlZPR21XbVo4TEY2ZTFtUndBVGJPRXdEMXdaYTNSd285WHh6dkNLTmdOVFY3eEJ3VGdxSmNXMTFnNw?oc=5) — Civita
 - [Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad](https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/) — Regjeringen
 - [Høring - forslag til endringer i folketrygdloven mv. – utstedelse av legeerklæring mv.](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-folketrygdloven-mv.-utstedelse-av-legeerklaring-mv/id3193969/) — Regjeringen · Høring · _Arbeid og trygd_
 - [Et viktig skritt på veien mot ny sykmeldingsløsning](https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/) — Regjeringen · _Arbeid og trygd_
-- [Oppstartsbedrifter må til](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGNlR2k5NmRuRlJiZkVnSmZLQ1ZKUEVFR1ZJRy15MXJmSVFfSWhfcTN0aG05MFZMTmozN0RhVFNYRVBMX2MtblA0dkNDNmxwdDhZYkgyMzNaaTllWVlTR2V5bkhBWTI5U0oxaC1mdVNCdVp4ZkpXWVZRSkZlMi1Ed3hwSURDRUJyNnJhS3Zyekp4S0RkYjUzbjFJSzVSa28?oc=5) — Civita
-- [Aaslands regndans er ikke over](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Wa2I5YUVSeDU3QXpONTV6RURna21Zd3J4YzRab0p2RHFuaVFYREZIdWZiX2ZJcFdUT3luWmJSRWlJMzJBbkpuUHRVckF2TnRfMThSTDI1TF9RR2U1dEpRM1oxSXlhNTBV?oc=5) — Civita
 - [Åpner for GMO-råvarer i fiskefôr](https://www.regjeringen.no/no/aktuelt/apner-for-gmo-ravarer-i-fiskefor/id3194236/) — Regjeringen · _EU og EØS_
 - [GI-08/2026 - Revidert instruks om advokaters adgang til å være til stede mv. ved fremstilling for hjemlandets myndigheter i utlendingssaker](https://www.regjeringen.no/no/dokumenter/gi-082026-revidert-instruks-om-advokaters-adgang-til-a-vare-til-stede-mv.-ved-fremstilling-for-hjemlandets-myndigheter-i-utlendingssaker/id3194218/) — Regjeringen · Dokument
 - [Endring i spesialistforskriften for leger](https://www.regjeringen.no/no/aktuelt/endring-i-spesialistforskriften-for-leger/id3194232/) — Regjeringen
 - [GI-10/2026 - Instruks til Utlendingsdirektoratet om innkvartering av asylsøkere](https://www.regjeringen.no/no/dokumenter/gi-102026-instruks-til-utlendingsdirektoratet-om-innkvartering-av-asylsokere/id3194213/) — Regjeringen · Dokument
 - [Forslag om endringer i forskrift til tilskuddsordning for kriminalitetsforebygging sendes på høring](https://www.regjeringen.no/no/aktuelt/forslag-om-endringer-i-forskrift-til-tilskuddsordning-for-kriminalitetsforebygging-sendes-pa-horing/id3194151/) — Regjeringen
 - [KrFs alternative statsbudsjett for 2027](https://krf.no/nyheter/krfs-alternative-statsbudsjett-for-2027/) — KrF · _Offentlige finanser_
-- [Lars Fr. Svendsen om Thomas Aquinas](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFN25rNWplRWN1SVQ5MVMwZ2ZSTG41WE1IVGRsMHZIM2dLQi1OUFJoUUVDalQ0WnlESGtySjhUMm44VUdCR2h4OUlneEl0MHU2TGd1aGl6c0FBNGVLa0tPQXZwMTFYTTBYN2g3M2lR?oc=5) — Civita
 - [Problemene med skjema KRT-1004 Egenmelding fra regnskapsforetak er nå løst](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/problemene-med-skjema-krt-1004-egenmelding-fra-regnskapsforetak-er-na-lost/) — Finanstilsynet
 - [Invitasjon: Fagseminar og presentasjon av Finansielt utsyn 3. desember 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/invitasjon-fagseminar-og-presentasjon-av-finansielt-utsyn-3.-desember-2026) — Finanstilsynet
 - [Folkevekst på 9 700 i 3. kvartal](https://www.ssb.no/befolkning/folketall/statistikk/befolkning/artikler/folkevekst-paa-9-700-i-3-kvartal) — SSB
@@ -81,11 +74,7 @@ _Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ 
 ### Torsdag 19. november
 
 - [Enorme og målretta kutt i norsk matproduksjon](https://www.senterpartiet.no/aktuelt/enorme-og-malretta-kutt-i-norsk-matproduksjon) — Senterpartiet
-- [Fossil energi er ikke tobakk](https://news.google.com/rss/articles/CBMifEFVX3lxTE5TTW80d3BQQnZpS195b0NyYUdXZ1FEcWRDeFI2dHVkVWl5TUJ5QnA2bHRBYWRrN0ppNGtpUTBvVWMyTDc5dG00LU5CcEUwZFJOY2Z2akZxLUZmb28tejFIWHoyTWxpZk5XRHJURkZ3cjdzZW1tcWUwZGJJWGM?oc=5) — Civita · _Energi og strøm_
 - [Konkurransetilsynet støttar informasjonsdeling mot økonomisk kriminalitet](https://konkurransetilsynet.no/konkurransetilsynet-stottar-informasjonsdeling-mot-okonomisk-kriminalitet/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
-- [Festning Europa bygger høyere murer](https://news.google.com/rss/articles/CBMifEFVX3lxTE5OdTRmcEpqaWZ6OUNNTUFLZ05qWThGSlJOV3BkRFo3TDV5OXJ4ZmNocEZWTnJhM1NsX2lKX25qMnF3WjJRNkFFU2RKblNiX2VvSkVGVFZVZWNWVU1SU2pOMGU0QXJ1Z3ZsbHJjaVF6Y2RpZnJ3VE1WZmdYMno?oc=5) — Civita
-- [Stortingsregjereri – når maktfordelingen svikter](https://news.google.com/rss/articles/CBMie0FVX3lxTE5TM0pZdkVHWkdOZ2pSbG03QTVRdjdPVjJGSVVsVk1ZSEVaQ2ZnVWVraDlWMzBkU2dOeVZ6ZUdIN3AwS0IxZDRFQS1GX1oxc3VacmRKRnQ0TDVnWUNGamtiLWpOaUpKN0hiUVpIcE9jaklWdDZfQnRKNTR1Zw?oc=5) — Civita · _Ulikhet og fordeling_
-- [Trump trenger ikke si et ord. Bildene vil gjøre jobben](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjdtaTZxaEc1R3B3Zk5TWmlGTVRFQWdZTkw5dDZ1QlRxNFZLblFLSGl5TDBFU0VwZEJiSjNxbmFadnQ3bGZoVzRqVFNaSGxyNURYYmtDczkzRFIxUFRacUxSWmxrQkZJUGpyM1p4NThTNThXUDNiLXctbTdTanVtSGVXQ1RUX1ZLb2ZpbUNnX2ZhT1dIVXVoWHpxdkpWVDdzX2ZnejNoNUZtMFU?oc=5) — Civita
 - [Høye energipriser løftet børsen](https://www.ssb.no/bank-og-finansmarked/verdipapirmarkeder/statistikk/verdipapirer/artikler/hoye-energipriser-loftet-borsen) — SSB · _Energi og strøm_
 - [Norske verdipapirfond](https://www.ssb.no/bank-og-finansmarked/verdipapirmarkeder/statistikk/verdipapirfond/artikler/status-norske-fond) — SSB
 - [Bedre resultat for livsforsikringsselskapene](https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/livs-og-skadeforsikringsselskaper-regnskap/artikler/endring-i-resultat-for-forsikringsselskapene) — SSB
@@ -102,7 +91,6 @@ _Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ 
 
 ### Onsdag 18. november
 
-- [Perspektiv: USA og Kina: En ny kald krig?](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WT1l0RVg2ejdlNkg0Sko4VUttODFtSG5sY3ZXV0laT25KSWxIR3dLclVLRkJTMkhtdzRranoySXA0WE9fbk1iZzBPRDlPYkdlMHZOU25Bc3QzcmFrMUZJenByQzI?oc=5) — Civita
 - [Advarer mot industridød](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hYzJxN1ZLcHFsU2FCeHVhdTZ0QWI4WUg2TXRNLVZacV95X3NnbjViWGdFazRvd2w3a0g2aVpJMzlaUVc5cE0xeEQzbWJSS2RNMlZ4UXg4RXdkSE1VUXY4?oc=5) — FrP
 - [Kredittvurdering må foretas før forbruker får tilbud om lån til signering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/kredittvurdering-ma-foretas-for-forbruker-far-tilbud-om-lan-til-signering/) — Finanstilsynet
 - [Stadig nedgang i næringsstoff frå husdyrgjødsel](https://www.ssb.no/jord-skog-jakt-og-fiskeri/jordbruk/artikler/stadig-nedgang-i-naeringsstoff-fra-husdyrgjodsel) — SSB
@@ -172,12 +160,7 @@ _Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ 
 
 - [Høyre vil sikre lørdagsavisen](https://hoyre.no/2026/11/16/hoyre-vil-sikre-lordagsavisen/) — Høyre
 - [FrP vil ha Norge med på retursenter i Rwanda](https://news.google.com/rss/articles/CBMie0FVX3lxTE9jYXkyZVdCZWlaMWJwSlVKeDJmNGR0R2ZBY3N4SmN6TEtPWDlHaW9pTzE4cEpEcEdOcVhUc2QzY184bF9DTFdyNHkwS3A4OGhMYzZtdWVPNzdUYmIwUllabVEtczRlcUphY0JJd242WG5CRDZ1ZUk2THlYTQ?oc=5) — FrP
-- [Berlin brenner](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYdUdGdm1EbS00MDNZR3BiNG9BSDdCMWNxU0w2cVk4eHZjSXRNZEVoVEdOZHljcjdncjFOQ0o5eU82SGF2bXpDM0dfcFluY2pzWDZv?oc=5) — Civita
 - [Egenmelding fra regnskapsforetak (KRT-1004) – rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/) — Finanstilsynet
-
-### Søndag 15. november
-
-- [Hva koster det å motta 5000 kvoteflyktninger?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbktTbnJ6aS1xTEtvMDYxMEdkZWtTVHJ1UHNzVFZtdTdzVlhtcWh2Smp2RTRzRjNzNTc4eUdJMXhiXzk1eW0zMUJhN3dsV2ZFTHl1aFhkY0dNZTMyVUNMNTBlYW91NElJdy0wckUwMTJYd0tCQ2o0ellmZkhpWlRVNm8wZ2VZMTNUdUZYYU54bGk2V1FZT2t2dTZ6cHo4cGgyMy1ndnNyRUllVG04UlJV?oc=5) — Civita
 
 ### Lørdag 14. november
 
@@ -187,17 +170,13 @@ _Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ 
 
 - [Setter av 1 milliard til fysiske lærebøker](https://hoyre.no/2026/11/13/milliard-til-fysiske-boker-i-hoyres-budsjett/) — Høyre
 - [Vil stanse helseforetakenes høye lederlønnsavtaler](https://www.senterpartiet.no/aktuelt/vil-stanse-helseforetakenes-hoye-lederlonnsavtaler) — Senterpartiet · _Arbeid og trygd_
-- [Jonas Kittelsen: Verden venter på oss. Et kampskrift for en levelig framtid](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjkyTHZMRzdDQ21mQjNRdFlqQUlqR1psS0d4M2luekhJOWdRLUxqOVE4MWNuQkZoS0l4cVVmTGhHNGd1SVdXMUYzTE53SnZuRnFuTEJ6VkFFd3MwMkg5NkN5Z18xNFo4ZjNsclFqSlZsNU5ZQUlXZ0trREh2SmpvNmRHQm1YWFVPU1lXQU8zNVFJbUlfSEVmRFAtYkp2bEFKWmdxUlB5YzFwZw?oc=5) — Civita
-- [Togtallene er enda verre enn de DN viser til](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX0kwbS0zZ3liMHRZOFBKckJLVjRmQlNJaldLbzdPMzExeHZMYTdtSEI4OTZQbUlreTFRYUJDQ3haZnNyRmx3MkFXcnpMNk1hT2kycXlhZFZXa2hQcUZ4My1MLVAtS25uNV9HSFpVMnE2ejNGcEdXWW1zNnpib3gxNEF1QWN5LTA2VkxtTDB4aWwyeWNneWlWdVFIbDUyOFhwV1llSW9lVExQcWp0UzNIX0VYU01HMGR6V2dhSlJ2RGt4UQ?oc=5) — Civita
 - [Leverer hele skatteløftet på halve tiden](https://hoyre.no/2026/11/13/leverer-hele-skatteloftet-pa-halve-tiden/) — Høyre · _Skatt_
 - [Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328) — Stortinget – høringer i komiteene
 
 ### Torsdag 12. november
 
 - [Arbeidskraft og regnekraft](https://www.fafo.no/publikasjoner/fafo-rapporter/arbeidskraft-og-regnekraft) — Fafo
-- [Europa må bli mer geopolitisk uavhengig](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjVGNVdJS1ZjbTB0bVR4MkpvMWZ1S1o3NnFINXRucUJScUxSa0VWb2dGUDlnMDFDS0lXeVJVOE5nYmdja1AzeF9GSGlBTmwzcUR6c0xTaGtUSFNWX1VYWVhoNmttWmtNdE9heWZxVjhpVTBqdkhCb3RCVjl6eEU3UUQxOHFZTlJ4WEZPSDFhczVxb2dfSDQw?oc=5) — Civita
 - [Bedrifter frykter negativ omtale og overtredelsesgebyr](https://konkurransetilsynet.no/bedrifter-frykter-negativ-omtale-og-overtredelsesgebyr/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
-- [Har Norge verdens dyreste skole?](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0gtY1RnLTFwMjJpaVVxUGxvVW1Ld0lRVTNhamh5WFZyTmpoQUxvbTMxek9tcUZqR1FNV3hLSGZ5dlRSZ3pHUFd4eU9MNXpiOHB0RkUzSUowMTJqb2xyaWxPQnpQdXAzdG1DUU9ZekgyclpETk45NTB5UEZXQU93SHRtWnR1NWxsN256R0JaWVItSFVSTlVfRmx3XzBFdw?oc=5) — Civita
 - [Representantforslag om å senke terskelen for fengsling av farlige ungdommer](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-044s/) — Stortinget – representantforslag · Dokument 8:44 S
 - [Representantforslag om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-043s/) — Stortinget – representantforslag · Dokument 8:43 S
 - [Representantforslag om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-045s/) — Stortinget – representantforslag · Dokument 8:45 S · _Markedsmakt og konkurranse_
@@ -231,10 +210,8 @@ _Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ 
 - ★ [Stortinget har fulgt opp undersøkelsen av stortingsrepresentantenes økonomiske ordninger](https://kommunikasjon.ntb.no/pressemelding/19135745/stortinget-har-fulgt-opp-undersokelsen-av-stortingsrepresentantenes-okonomiske-ordninger?lang=no) — Riksrevisjonen · Riksrevisjonen
 - [Vil ha spleiselag for nitrogenrensing](https://hoyre.no/2026/11/10/vil-ha-spleiselag-for-nitrogenrensing/) — Høyre
 - [Svindelstatistikk første halvår 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/svindelstatistikk-forste-halvar-2026/) — Finanstilsynet
-- [Europas ustemte Ukraina-kor i Abu Dhabi](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkJqRHFYWkFVZUw3dmltWV90SXNsdUNPV3FwXzVPZ1dVd1lvZUJlX3hCM3RpVFRQeWJsV2RQcG12UWhGQ3ItMEcwZW5veElZbU8zOUwtcWhhWTAtTjF6bWpFUGR0dHhZSFBnckx4UmY5N1V0Y2UycUJlU2dzOGtMU3ZRdmN6WUY5Ml9SMm14SG5iOHRCRmtiQw?oc=5) — Civita
 - [Frp vil selge fellesskapets verdier](https://www.senterpartiet.no/aktuelt/frp-vil-selge-fellesskapets-verdier) — Senterpartiet
 - [Egenmelding fra revisjonsforetak (KRT-1001) - rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-revisjonsforetak-krt-1001---rapportering/) — Finanstilsynet
-- [Ungarn og demokratiet](https://news.google.com/rss/articles/CBMigAFBVV95cUxNMXQ5d2llSy1jd3FEMUY4SWhTU2xKam82dXBsSXZGUHFjeFd0ZnhlOEVHUmU0X09VNjY3RzhRWWZsYnNpcjlJR1BxTUNkeldCY3JWUlQ2NmFyRDZ1N3RLUm9JcEZVMVlETkYzbVd1TWo1UkZpRkpQLU9TYTdQVVNrdA?oc=5) — Civita
 - ★ [Pressekonferanse i dag: Hva viser den årlige rapporten til Stortinget om statens regnskaper 2025?](https://kommunikasjon.ntb.no/pressemelding/19133724/pressekonferanse-i-dag-hva-viser-den-arlige-rapporten-til-stortinget-om-statens-regnskaper-2025?lang=no) — Riksrevisjonen · Riksrevisjonen · _Offentlige finanser_
 - [Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-040s/) — Stortinget – representantforslag · Dokument 8:40 S
 - [Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-039s/) — Stortinget – representantforslag · Dokument 8:39 S
@@ -252,4 +229,4 @@ _Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ 
 
 ## Status for kildene
 
-Alle 32 kildene svarte normalt ved siste kjøring.
+Alle 31 kildene svarte normalt ved siste kjøring.

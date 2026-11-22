@@ -1,37 +1,7 @@
 {
- "oppdatert": "2026-11-22T17:59:14Z",
+ "oppdatert": "2026-11-22T18:44:53Z",
  "utvalgt": [],
  "saker": [
-  {
-   "id": "c38e16905372543a",
-   "tittel": "Konfiskert, beskattet eller nedskrevet? SPU i en ny tid",
-   "lenke": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3ZMTkMwUDNvSkZ3Z2RIWnliRWZHZTBneFB0VmY4Vi02ZTRkQlZfMEd5X2VpVmFUMzBuUkxvNHE2Vi1YM1pDdldWU3ZUdGJKU1BtWVowdVBwREh6em9MbUthdkpqcURlNzdJUjNPdmpIZUF2REUzV1ktWlRGZUFiaXB6a05JTnM?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-22T17:45:50Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:59:14Z",
-   "temaer": [
-    "Skatt"
-   ],
-   "spor": "rapporter"
-  },
-  {
-   "id": "7e0fda5bc681ba74",
-   "tittel": "Hva i alle dager er et styringsparti?",
-   "lenke": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWxzQkU2QXRLbDNrZ2VJZC1ZWEtYdUk2YjZKX2k4WXNQdjd6Mm5IM0UxdUZBQWtuSm1qWFhoamtmMGRpNm5DeUdKR0U0bEdNYXBFWjg2ck5PQXNPYVRIYzZwOW5GVENZdjRNcWVVTmZPMGNlWnFuaHdkUVp6Yy1YOWE3V0k4bk91d2VuQlhlOUFUMHFY?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-22T08:16:06Z",
-   "viktig": false,
-   "funnet": "2026-11-22T12:12:24Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
   {
    "id": "c0618611f60a9f71",
    "tittel": "Lansering: Ny rapport om skjult eierskap",
@@ -289,22 +259,6 @@
    "spor": "tall"
   },
   {
-   "id": "bd2f446a9ac938c2",
-   "tittel": "Når kommer KI-kuttene i offentlig sektor?",
-   "lenke": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3VlX3R3cTFTWGdvV2hSU0NVUUpTN05wTm03SE1YNnhzT0ticXdZaXZMdDNzaVByWVMtNlJJbHlkVFd0M1BPRWZFOTJNNGtMMWJxclFwTmZsZHluNUNNb0lOUTZmbXlGRFlXU3J0Qjk3N1laQlBpeVc5V25veXFpNzl1dlJDem44UUd5VThTdlc5RmM4Rm56bHluNXhUNDRNckREc2IwU3RMUQ?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-20T15:00:46Z",
-   "viktig": false,
-   "funnet": "2026-11-22T12:12:24Z",
-   "temaer": [
-    "Offentlige finanser"
-   ],
-   "spor": "rapporter"
-  },
-  {
    "id": "6e4ccdd656b951c9",
    "tittel": "Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser",
    "lenke": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/",
@@ -317,20 +271,6 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "spor": "lopende"
-  },
-  {
-   "id": "d825689be643a9cd",
-   "tittel": "Lukkast skulen med sosial utjamning?",
-   "lenke": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaR081OFB1RXJNU0xaRWhSSzlGSl93bVBXd1hCLUNzR2lmREdVemtURkZ2QlZPR21XbVo4TEY2ZTFtUndBVGJPRXdEMXdaYTNSd285WHh6dkNLTmdOVFY3eEJ3VGdxSmNXMTFnNw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-20T14:20:46Z",
-   "viktig": false,
-   "funnet": "2026-11-22T15:15:56Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "a529da5bc2bf8e3a",
@@ -377,34 +317,6 @@
     "Arbeid og trygd"
    ],
    "spor": "lopende"
-  },
-  {
-   "id": "54a7fe9b64c315dd",
-   "tittel": "Oppstartsbedrifter må til",
-   "lenke": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGNlR2k5NmRuRlJiZkVnSmZLQ1ZKUEVFR1ZJRy15MXJmSVFfSWhfcTN0aG05MFZMTmozN0RhVFNYRVBMX2MtblA0dkNDNmxwdDhZYkgyMzNaaTllWVlTR2V5bkhBWTI5U0oxaC1mdVNCdVp4ZkpXWVZRSkZlMi1Ed3hwSURDRUJyNnJhS3Zyekp4S0RkYjUzbjFJSzVSa28?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-20T13:10:46Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
-   "id": "327664db619d440e",
-   "tittel": "Aaslands regndans er ikke over",
-   "lenke": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Wa2I5YUVSeDU3QXpONTV6RURna21Zd3J4YzRab0p2RHFuaVFYREZIdWZiX2ZJcFdUT3luWmJSRWlJMzJBbkpuUHRVckF2TnRfMThSTDI1TF9RR2U1dEpRM1oxSXlhNTBV?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-20T13:10:46Z",
-   "viktig": false,
-   "funnet": "2026-11-22T12:12:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "f33733f24c499de2",
@@ -493,20 +405,6 @@
     "Offentlige finanser"
    ],
    "spor": "lopende"
-  },
-  {
-   "id": "9f73714448500efd",
-   "tittel": "Lars Fr. Svendsen om Thomas Aquinas",
-   "lenke": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFN25rNWplRWN1SVQ5MVMwZ2ZSTG41WE1IVGRsMHZIM2dLQi1OUFJoUUVDalQ0WnlESGtySjhUMm44VUdCR2h4OUlneEl0MHU2TGd1aGl6c0FBNGVLa0tPQXZwMTFYTTBYN2g3M2lR?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-20T09:11:19Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "74ba02277912ba1b",
@@ -671,22 +569,6 @@
    "spor": "lopende"
   },
   {
-   "id": "20df2666f8037c9b",
-   "tittel": "Fossil energi er ikke tobakk",
-   "lenke": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TTW80d3BQQnZpS195b0NyYUdXZ1FEcWRDeFI2dHVkVWl5TUJ5QnA2bHRBYWRrN0ppNGtpUTBvVWMyTDc5dG00LU5CcEUwZFJOY2Z2akZxLUZmb28tejFIWHoyTWxpZk5XRHJURkZ3cjdzZW1tcWUwZGJJWGM?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-19T09:49:37Z",
-   "viktig": false,
-   "funnet": "2026-11-22T15:15:56Z",
-   "temaer": [
-    "Energi og strøm"
-   ],
-   "spor": "rapporter"
-  },
-  {
    "id": "98aa839f29daf9c8",
    "tittel": "Konkurransetilsynet støttar informasjonsdeling mot økonomisk kriminalitet",
    "lenke": "https://konkurransetilsynet.no/konkurransetilsynet-stottar-informasjonsdeling-mot-okonomisk-kriminalitet/",
@@ -701,50 +583,6 @@
     "Markedsmakt og konkurranse"
    ],
    "spor": "lopende"
-  },
-  {
-   "id": "84d58d93a365ec58",
-   "tittel": "Festning Europa bygger høyere murer",
-   "lenke": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OdTRmcEpqaWZ6OUNNTUFLZ05qWThGSlJOV3BkRFo3TDV5OXJ4ZmNocEZWTnJhM1NsX2lKX25qMnF3WjJRNkFFU2RKblNiX2VvSkVGVFZVZWNWVU1SU2pOMGU0QXJ1Z3ZsbHJjaVF6Y2RpZnJ3VE1WZmdYMno?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-19T09:02:55Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
-   "id": "71455ce260a34342",
-   "tittel": "Stortingsregjereri – når maktfordelingen svikter",
-   "lenke": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TM0pZdkVHWkdOZ2pSbG03QTVRdjdPVjJGSVVsVk1ZSEVaQ2ZnVWVraDlWMzBkU2dOeVZ6ZUdIN3AwS0IxZDRFQS1GX1oxc3VacmRKRnQ0TDVnWUNGamtiLWpOaUpKN0hiUVpIcE9jaklWdDZfQnRKNTR1Zw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-19T08:17:24Z",
-   "viktig": false,
-   "funnet": "2026-11-22T15:15:56Z",
-   "temaer": [
-    "Ulikhet og fordeling"
-   ],
-   "spor": "rapporter"
-  },
-  {
-   "id": "4f1237e527fd85a9",
-   "tittel": "Trump trenger ikke si et ord. Bildene vil gjøre jobben",
-   "lenke": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjdtaTZxaEc1R3B3Zk5TWmlGTVRFQWdZTkw5dDZ1QlRxNFZLblFLSGl5TDBFU0VwZEJiSjNxbmFadnQ3bGZoVzRqVFNaSGxyNURYYmtDczkzRFIxUFRacUxSWmxrQkZJUGpyM1p4NThTNThXUDNiLXctbTdTanVtSGVXQ1RUX1ZLb2ZpbUNnX2ZhT1dIVXVoWHpxdkpWVDdzX2ZnejNoNUZtMFU?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-19T08:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "9cf962429805ed2a",
@@ -935,20 +773,6 @@
    "temaer": [],
    "dokument": "Dokument 8:58 S (2026-2027)",
    "spor": "lopende"
-  },
-  {
-   "id": "ab7e2821244eead3",
-   "tittel": "Perspektiv: USA og Kina: En ny kald krig?",
-   "lenke": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WT1l0RVg2ejdlNkg0Sko4VUttODFtSG5sY3ZXV0laT25KSWxIR3dLclVLRkJTMkhtdzRranoySXA0WE9fbk1iZzBPRDlPYkdlMHZOU25Bc3QzcmFrMUZJenByQzI?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-18T13:11:49Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "e2b36aa7d3e58881",
@@ -1901,20 +1725,6 @@
    "spor": "lopende"
   },
   {
-   "id": "69614c6bea6494d4",
-   "tittel": "Berlin brenner",
-   "lenke": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYdUdGdm1EbS00MDNZR3BiNG9BSDdCMWNxU0w2cVk4eHZjSXRNZEVoVEdOZHljcjdncjFOQ0o5eU82SGF2bXpDM0dfcFluY2pzWDZv?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-16T12:28:57Z",
-   "viktig": false,
-   "funnet": "2026-11-22T15:15:56Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "01702028a17e5de9",
    "tittel": "Egenmelding fra regnskapsforetak (KRT-1004) – rapportering",
    "lenke": "https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/",
@@ -1927,20 +1737,6 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "spor": "lopende"
-  },
-  {
-   "id": "44cf566a1d4442b6",
-   "tittel": "Hva koster det å motta 5000 kvoteflyktninger?",
-   "lenke": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbktTbnJ6aS1xTEtvMDYxMEdkZWtTVHJ1UHNzVFZtdTdzVlhtcWh2Smp2RTRzRjNzNTc4eUdJMXhiXzk1eW0zMUJhN3dsV2ZFTHl1aFhkY0dNZTMyVUNMNTBlYW91NElJdy0wckUwMTJYd0tCQ2o0ellmZkhpWlRVNm8wZ2VZMTNUdUZYYU54bGk2V1FZT2t2dTZ6cHo4cGgyMy1ndnNyRUllVG04UlJV?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-15T10:44:08Z",
-   "viktig": false,
-   "funnet": "2026-11-22T12:12:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "114f01ccfc94e01d",
@@ -1987,34 +1783,6 @@
    "spor": "lopende"
   },
   {
-   "id": "abffdb1bf9be1535",
-   "tittel": "Jonas Kittelsen: Verden venter på oss. Et kampskrift for en levelig framtid",
-   "lenke": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjkyTHZMRzdDQ21mQjNRdFlqQUlqR1psS0d4M2luekhJOWdRLUxqOVE4MWNuQkZoS0l4cVVmTGhHNGd1SVdXMUYzTE53SnZuRnFuTEJ6VkFFd3MwMkg5NkN5Z18xNFo4ZjNsclFqSlZsNU5ZQUlXZ0trREh2SmpvNmRHQm1YWFVPU1lXQU8zNVFJbUlfSEVmRFAtYkp2bEFKWmdxUlB5YzFwZw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-13T08:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T15:15:56Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
-   "id": "a832c3135e94d782",
-   "tittel": "Togtallene er enda verre enn de DN viser til",
-   "lenke": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX0kwbS0zZ3liMHRZOFBKckJLVjRmQlNJaldLbzdPMzExeHZMYTdtSEI4OTZQbUlreTFRYUJDQ3haZnNyRmx3MkFXcnpMNk1hT2kycXlhZFZXa2hQcUZ4My1MLVAtS25uNV9HSFpVMnE2ejNGcEdXWW1zNnpib3gxNEF1QWN5LTA2VkxtTDB4aWwyeWNneWlWdVFIbDUyOFhwV1llSW9lVExQcWp0UzNIX0VYU01HMGR6V2dhSlJ2RGt4UQ?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-13T08:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "cb611925da0d676c",
    "tittel": "Leverer hele skatteløftet på halve tiden",
    "lenke": "https://hoyre.no/2026/11/13/leverer-hele-skatteloftet-pa-halve-tiden/",
@@ -2059,20 +1827,6 @@
    "spor": "rapporter"
   },
   {
-   "id": "49ce4aafae6422ac",
-   "tittel": "Europa må bli mer geopolitisk uavhengig",
-   "lenke": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjVGNVdJS1ZjbTB0bVR4MkpvMWZ1S1o3NnFINXRucUJScUxSa0VWb2dGUDlnMDFDS0lXeVJVOE5nYmdja1AzeF9GSGlBTmwzcUR6c0xTaGtUSFNWX1VYWVhoNmttWmtNdE9heWZxVjhpVTBqdkhCb3RCVjl6eEU3UUQxOHFZTlJ4WEZPSDFhczVxb2dfSDQw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-12T10:19:30Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "e436648d54a12081",
    "tittel": "Bedrifter frykter negativ omtale og overtredelsesgebyr",
    "lenke": "https://konkurransetilsynet.no/bedrifter-frykter-negativ-omtale-og-overtredelsesgebyr/",
@@ -2087,20 +1841,6 @@
     "Markedsmakt og konkurranse"
    ],
    "spor": "lopende"
-  },
-  {
-   "id": "7e1fe41432bf6a81",
-   "tittel": "Har Norge verdens dyreste skole?",
-   "lenke": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0gtY1RnLTFwMjJpaVVxUGxvVW1Ld0lRVTNhamh5WFZyTmpoQUxvbTMxek9tcUZqR1FNV3hLSGZ5dlRSZ3pHUFd4eU9MNXpiOHB0RkUzSUowMTJqb2xyaWxPQnpQdXAzdG1DUU9ZekgyclpETk45NTB5UEZXQU93SHRtWnR1NWxsN256R0JaWVItSFVSTlVfRmx3XzBFdw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-12T09:29:30Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "7f13c4d2af9e3381",
@@ -2503,20 +2243,6 @@
    "spor": "lopende"
   },
   {
-   "id": "10f5b99c14bf2908",
-   "tittel": "Europas ustemte Ukraina-kor i Abu Dhabi",
-   "lenke": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkJqRHFYWkFVZUw3dmltWV90SXNsdUNPV3FwXzVPZ1dVd1lvZUJlX3hCM3RpVFRQeWJsV2RQcG12UWhGQ3ItMEcwZW5veElZbU8zOUwtcWhhWTAtTjF6bWpFUGR0dHhZSFBnckx4UmY5N1V0Y2UycUJlU2dzOGtMU3ZRdmN6WUY5Ml9SMm14SG5iOHRCRmtiQw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-10T10:04:10Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "e56a8d123e05be64",
    "tittel": "Frp vil selge fellesskapets verdier",
    "lenke": "https://www.senterpartiet.no/aktuelt/frp-vil-selge-fellesskapets-verdier",
@@ -2543,20 +2269,6 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "spor": "lopende"
-  },
-  {
-   "id": "0bc711b79477264b",
-   "tittel": "Ungarn og demokratiet",
-   "lenke": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMXQ5d2llSy1jd3FEMUY4SWhTU2xKam82dXBsSXZGUHFjeFd0ZnhlOEVHUmU0X09VNjY3RzhRWWZsYnNpcjlJR1BxTUNkeldCY3JWUlQ2NmFyRDZ1N3RLUm9JcEZVMVlETkYzbVd1TWo1UkZpRkpQLU9TYTdQVVNrdA?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-10T08:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "4aa2684c99883adf",
@@ -2732,20 +2444,6 @@
    "spor": "lopende"
   },
   {
-   "id": "e78e592c7a13f8d3",
-   "tittel": "Nytt blod i USAs demokrati",
-   "lenke": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb043TTYxa1BwMFJMTFNZSFNkRnlkUVR2VXRLcV83Zm5qX051Y0V0RUtCTnFaWEZNOWN0YVhKTWpoa1ZTUy1vLVRqSWF4Z1c2NWFvVnU0SzVqTllwTmpIcllSajJSeFBrc3gyZzVzcUE2MW01dTRITFNOek5oNUpZNzFMM2tQcEFxN1VlXw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-07T08:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "9c7e4e160383b36f",
    "tittel": "På tide å komme ut av dvalemodus",
    "lenke": "https://hoyre.no/2026/11/06/pa-tide-a-komme-ut-av-dvalemodus/",
@@ -2902,20 +2600,6 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "spor": "tall"
-  },
-  {
-   "id": "bbcc057423177927",
-   "tittel": "Nå straffes Trump",
-   "lenke": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSVQ1VGdwQ1pqQ0FQNEVIT0xqT0VVeXhtU21FRlBOX1h6bHlFa3dJbVprMVJPWS0zTk45YTRjdXd4c2lzZThhbWNpWGpMTE54dkpQUjZjN19DT1psdkt3eGlEYkd2dXNVZDBULUU4UkcyUy03SE1Ud2hsOTlNYnc?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-11-05T08:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "8f6483ef13419837",
@@ -3699,22 +3383,6 @@
    "spor": "lopende"
   },
   {
-   "id": "3a75ad8cc26a8482",
-   "tittel": "Utvidelse av EU",
-   "lenke": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wNklTRkxDcWROUmxCZTI0UGFSUE13OFRfbUUxZGFsM0QtcWVSMEtndGx5bEVFYVBRT21JSVpCdnZpYU1QR3JYUjBRN3Foc255QjluNW8zZVA4LXM5cUtleUh3?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-10-27T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [
-    "EU og EØS"
-   ],
-   "spor": "rapporter"
-  },
-  {
    "id": "a7112c868584e253",
    "tittel": "Representantforslag om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200352",
@@ -3875,34 +3543,6 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "spor": "lopende"
-  },
-  {
-   "id": "0c8b6aee7d1e4388",
-   "tittel": "Løpet er ikke kjørt",
-   "lenke": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFR1cVg4MHVHd1JfWURrSGNQcTQ5elpIa3BaMi1uemhQYVZHSTNzanktTHVRampvcXFxbi11R0RKWFcydHo5ZlFVNUF1VUJRY3h1Z3lncVlQRV9XNFduYXliVXl3NXFYSV9JYTlwYlY4ZEpMUHpkdkdHR1NnMkRYWFVYQQ?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-10-24T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
-   "id": "a6a51250b7ea383d",
-   "tittel": "Trump i ferd med å ødelegge valget for sitt eget parti",
-   "lenke": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjZrc3lobHF3b3lucVQ4Y253YWRuTGdmZkl4N2FvZEZLazNQRjlTYm90Vm54X00zSzJyZS11cW1KdW0ySzM5MGVURU56RjdLbWQxTW9Gd3lzZk9zcVVKUlJoN1JnMlpLVzJuSU1WWmlBYlJOTXJXZW4yLU96Xzh5WWM4SDVpUU1uTkxrN0NzN3p3OS1BT3FPZFA5aUlRdGJVUE9tdmxmczgwR0lSLS15Sw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-10-24T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "f5c3257a02e12109",
@@ -4265,20 +3905,6 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "spor": "lopende"
-  },
-  {
-   "id": "e5dd43ea66e0938d",
-   "tittel": "God dag, mann – økseskaft, NRK!",
-   "lenke": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aaXJqVDNnVHNTVnh1SXNqTy1TbWNJMmgzby1mZWFyd1lROFJHNWl3blBqSlNOdFdnWW9UYm1ET2tkdENZYWRkTVItT0RabFI3Z09EOE5Ib2FVVVk5dlpDUDV1WlhqUEtWM3h3Rmo4Mkp2QXE5SE1CdnR3?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-10-21T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "569165a848a58c90",
@@ -4674,20 +4300,6 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "spor": "rapporter"
-  },
-  {
-   "id": "0c289ec5d9aaafc9",
-   "tittel": "USA dagen derpå: Ny kurs eller mer av det samme?",
-   "lenke": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWllKZzlJYllPOENDMmhnVy03MXRTM1VDZXF1ZjBVYm5nMjBiYmdCbDBOamRzcXBST2dpeDBZM0VwTjQ3UmxjM2xDLXc0YzB0WHFzWVRDbzJZaEwzWmhPNjR2QkZYb1hqUk93emczSWRhWkE2M1hOMUJUeVFOSnBzelJR?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-10-15T08:03:51Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
    "spor": "rapporter"
   },
   {
@@ -5177,20 +4789,6 @@
     "Markedsmakt og konkurranse"
    ],
    "spor": "lopende"
-  },
-  {
-   "id": "fa702979553ae649",
-   "tittel": "Sensasjon som bygger på dårlig research fra Aftenposten",
-   "lenke": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUdOZmpPTkFHMVRfNlpMZWJ3S3FQc2RMWEZzSlVxblJoamU5Zk1JT3dKNHdkRUUwZU81WDBPc3NXYWdsSmdabnJ3X2I1OS1HOXlXQnFBWDByVnRzNm44N1pvaXNZREhBS1A4c3NYNjRseGlnUnYtR0xaaGpvblBaOVE3YnF0MWVCY0pJcmcyNDNpbTQtTkV4eDJKanNhbnU5SS04SUo0Zkk0X3dhWkhJSGNnNEV4QVhVUElVTQ?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-10-08T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "818149fbeedfd5c6",
@@ -6113,20 +5711,6 @@
    "spor": "lopende"
   },
   {
-   "id": "b596723cbe610804",
-   "tittel": "Svakt om Sverigedemokraterna fra Agenda",
-   "lenke": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUW5QQjVLM25xTHZkT3picV80dmJDR1huU042U283NzZscWZWb2JmQTk0Tk02RUdxWmVJV2xlOFpnLWlJUy0taHhHbGZsb0xXaDVQVTdRUk4tbG9sTkVzb0piQWFZQ0xTUmNaZExhTmVEeUoxT1h0cWVPdDhKWFppSHN6c3gzN0U2R3FNQ1EwbWFxaFRwa2lPQVZTZnpfeVV6TllJUzFRMEpNWG1GUWRiUg?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-09-10T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "3346e4b74e7cb34a",
    "tittel": "Innspill til kommunal- og forvaltningskomiteen: KI-Norge",
    "lenke": "https://www.langsikt.no/publikasjoner/innspill-til-kommunal--og-forvaltningskomiteen-ki-norge",
@@ -6138,22 +5722,6 @@
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [],
-   "spor": "rapporter"
-  },
-  {
-   "id": "41bd33fe77db47a3",
-   "tittel": "Norge, EU og Islands nei",
-   "lenke": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrMjltbXBGQmRjeDJua3pZMFpmSzE5aF9mMHZ5eXFEdjlUX0NLYTEwdzlRU0JMSGNoZlBxTW8xVWh1RkJ6QTdseEhEUkFVT3otSzJ2Q0JWM3J5clFtSzh3cUU2VldDZllBQW9BSw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-08-31T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [
-    "EU og EØS"
-   ],
    "spor": "rapporter"
   },
   {
@@ -6246,20 +5814,6 @@
    "spor": "lopende"
   },
   {
-   "id": "4195926c76d6e8ae",
-   "tittel": "Diplomacy, Democracy, Defence and the Future of the Transatlantic Relationship",
-   "lenke": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0pwNlZYTHhqZU5BVVRBbExYLVhjV2tmLXZUX1FzTk8tTDBwVmthUW96Vk9TaElFR29jclFETnEwWGhSbzl3blRWbWNSeEdtZjlsMHlXSE5mWjBHY01aRzF2VUN5bUVENzRFY2U4RUxxREp3NjJ5VE9uN3ZjNk5yeEhGb3REWHI1bnNHNWw5dkRlUHROdnlPR0N4aXpDYjdaZkhJUWpETzh1aWs?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-08-14T09:21:22Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "90801af48686fa28",
    "tittel": "SVs høstkonferanse 2026",
    "lenke": "https://www.sv.no/blog/2026/08/08/konferanse/",
@@ -6302,22 +5856,6 @@
    "spor": "lopende"
   },
   {
-   "id": "54126a3853a93b5f",
-   "tittel": "Island, Norge, EØS og EU",
-   "lenke": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oczBUVlNaYzFSUGNJVXM1LWVOZjdlWGltVjRWczZYWDNlYUFmQVRmOEZLenZoMEFHNFRsemZsQWZwcmVOdzU0c3N5dzg5VGFYelRrUU12TDQ1M0dzbzltMTlZUElwZXNneFFn?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-08-04T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [
-    "EU og EØS"
-   ],
-   "spor": "rapporter"
-  },
-  {
    "id": "91d38759825b0b8e",
    "tittel": "Fem gode grep for din økonomi",
    "lenke": "https://www.arbeiderpartiet.no/aktuelt/fem-gode-grep-for-din-okonomi/",
@@ -6332,20 +5870,6 @@
    "spor": "lopende"
   },
   {
-   "id": "67c03404a93097f3",
-   "tittel": "Om den amerikanske revolusjonen",
-   "lenke": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFZ1ZmNGNXUwMkk0d2JZRV80N25CX3V5b2JIb0x1YnRUOV9kOVoyWDVfSDVueDUtbjFVUTlNVnQ3TjNXQmx4LXNoanBKWkI0UlBXS1FsdHRaU0RBaGJKaFpYbkYycTItNmhZRXhmc25TSUF3Y0trSklKV1JyOHh6TUhILU5TdEgxb3RwZDVQbUNMdG8?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-07-26T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "4ad36783a8d65911",
    "tittel": "– De dramatiske drukningstallene må tas på største alvor",
    "lenke": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa09xTm9XRHc5U05CaVlxMXl4R3BKWTZaTEtfa1Rna0liY0pmTk1JQlhvMk5ydEk5aFcyWUM3eEpYQW56Qkx1Y1NTUTkzMEhBRDZGQVdWMjdveE9mZG1yLTFIdXBHbmpFWjhOdFk2Qk1fUVlLUnBsMVJuSWd4eGFCY3hxZl9FVUh3?oc=5",
@@ -6358,20 +5882,6 @@
    "funnet": "2026-11-22T15:15:56Z",
    "temaer": [],
    "spor": "lopende"
-  },
-  {
-   "id": "e4d4bd82ef2791fa",
-   "tittel": "Arendalsuka 2026",
-   "lenke": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wOGZzekVuTEtXNVdmRjR3ZnpMc3J0M0JuZjQxaFhwYTRUTktVYzB6MWVrVmtoY0o4SDdmZGtQZnlsVW1BQWlubzU2VjFIX2lxWXVSWnB0aTZRN0k?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-07-01T11:17:21Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "7f7af2e11932d872",
@@ -6525,20 +6035,6 @@
    "temaer": [],
    "dokument": "Dokument 8:313 S (2025-2026)",
    "spor": "lopende"
-  },
-  {
-   "id": "7a5d164de61881d8",
-   "tittel": "Nord-Norgebanen er fortsatt galskap",
-   "lenke": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUxyczA0VlFJeEMzRWVlcjBhaU1tdWNYTkJwWGhtQ2l5eUtNRHgwLURFd0ZOSVc5Wk53M1JjQ2pfcXhxYk5aQ0c2Y2pDTlVwMTcxU1c2REt0QWloMlU5UkZrZUVib2tvNFJuYmE4NXExdjRZRXlZSnJ1WVptbFNzdk05VllhQjRXUlZWdWFzbWZHWTFCN0pHMjlJWk5XUWhzWXBv?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-06-21T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "d55eb90b8ffccd29",
@@ -6711,20 +6207,6 @@
    "spor": "lopende"
   },
   {
-   "id": "33634edaae5cb777",
-   "tittel": "\"Noen er bare bedre enn andre\"",
-   "lenke": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UdTN3eGNNeFFNQWRZZmxVR3RsUzFhLVUyUTQtY1Ztbzk2SmVTaWx2cDlqb3A2SWRqUjd6ellkUkV6X3RCUXBYamFQZnBFczZ1Q3drdDh1ZG1VV2wwbDVBWGRaYw?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-06-18T18:59:12Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "b7a09410e3b14860",
    "tittel": "Pengepolitisk rapport 2/2026",
    "lenke": "https://www.norges-bank.no/aktuelt/publikasjoner/Pengepolitisk-rapport/2026/ppr-22026/",
@@ -6830,20 +6312,6 @@
    "temaer": [],
    "dokument": "Dokument 8:306 S (2025-2026)",
    "spor": "lopende"
-  },
-  {
-   "id": "1a7827835e44a5ce",
-   "tittel": "Den tunge veien tilbake",
-   "lenke": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWNqN0ZzUDRvc1d4d0ZLYi1zc280c0lpN2VNRmYzZEJ5cG1odnJxU0JwY3l5M0JHdFBkYmJ6NjdOOVE4OG5yNFlWNEEyS0VSSU5RNnFIU2RrWjFMMWhYYU9Fck9JZEJaWko1UEtRU21QN2RzM2lPRmM0SGtTWmpkT2hMTQ?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-06-17T07:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T17:40:24Z",
-   "temaer": [],
-   "spor": "rapporter"
   },
   {
    "id": "d256b138053c8851",
@@ -7495,20 +6963,6 @@
    "spor": "lopende"
   },
   {
-   "id": "3658f78fee814f8d",
-   "tittel": "Frigjør Pride fra FRI",
-   "lenke": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTm1vcENpeVkxV1ZocXN0VWhmZEduS2g5UGFOTG80MEhhMDhpaEI2UUFHajdQTmxuYnQ0dkdCd3ZfSkZMTDluUGNOSEIyOGdYUW1leDJvS2QtaEtSLUo5WUtfVVViZlFwZ2dqeg?oc=5",
-   "ingress": "",
-   "kilde": "Civita",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-06-07T19:21:24Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
-  },
-  {
    "id": "b37b9a20bca892be",
    "tittel": "Store MDG-gjennomslag for kollektiv, klima og natur",
    "lenke": "https://mdg.no/politikk/aktuelt/nyhet/rnb-2026",
@@ -8158,14 +7612,14 @@
   },
   {
    "dato": "2026-11-26",
-   "tittel": "Nasjonalregnskap, Tall for juli 2026",
-   "lenke": "https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap",
+   "tittel": "Reiseundersøkelsen, Tall for 3. kvartal 2026",
+   "lenke": "https://www.ssb.no/transport-og-reiseliv/reiseliv/statistikk/reiseundersokelsen",
    "temaer": []
   },
   {
    "dato": "2026-11-26",
-   "tittel": "Reiseundersøkelsen, Tall for 3. kvartal 2026",
-   "lenke": "https://www.ssb.no/transport-og-reiseliv/reiseliv/statistikk/reiseundersokelsen",
+   "tittel": "Nasjonalregnskap, Tall for juli 2026",
+   "lenke": "https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap",
    "temaer": []
   },
   {
@@ -8286,14 +7740,14 @@
   },
   {
    "dato": "2026-12-07",
-   "tittel": "Produksjonsindeks for olje og gass, industri, bergverk og kraftforsyning, Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning",
+   "tittel": "Omsetning i olje og gass, industri, bergverk og kraftforsyning , Tall for oktober 2026",
+   "lenke": "https://www.ssb.no/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning",
    "temaer": []
   },
   {
    "dato": "2026-12-07",
-   "tittel": "Omsetning i olje og gass, industri, bergverk og kraftforsyning , Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning",
+   "tittel": "Produksjonsindeks for olje og gass, industri, bergverk og kraftforsyning, Tall for oktober 2026",
+   "lenke": "https://www.ssb.no/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning",
    "temaer": []
   },
   {
@@ -8434,14 +7888,14 @@
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Utenrikshandel med varer, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
+   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
+   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
    "temaer": []
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
-   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
+   "tittel": "Utenrikshandel med varer, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
    "temaer": []
   },
   {
@@ -8508,11 +7962,9 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
-   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
-   "temaer": [
-    "Skatt"
-   ]
+   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
+   "temaer": []
   },
   {
    "dato": "2026-12-21",
@@ -8522,9 +7974,11 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
-   "temaer": []
+   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
+   "temaer": [
+    "Skatt"
+   ]
   },
   {
    "dato": "2026-12-21",
@@ -8674,11 +8128,6 @@
   },
   {
    "navn": "KrF",
-   "ok": true,
-   "feil": null
-  },
-  {
-   "navn": "Civita",
    "ok": true,
    "feil": null
   },
