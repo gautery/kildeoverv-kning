@@ -118,6 +118,29 @@ def fra_iso(tekst: str) -> datetime:
     return datetime.fromisoformat(tekst.replace("Z", "+00:00"))
 
 
+
+# Stortingets strømmer har titler som «Dokument 8:54 S (2026-2027)». Den egentlige
+# saken står i beskrivelsen, så vi lager en lesbar tittel av den.
+STORTING_NUMMER = re.compile(r"^(Dokument \d+:\d+ \w+|Innst\. \d+ \w+|Lovvedtak \d+) \(\d{4}-\d{4}\)$")
+
+
+def bedre_tittel(sak: dict) -> None:
+    if not sak["kilde"].startswith("Stortinget"):
+        return
+    nummer = sak.get("dokument") or sak["tittel"]
+    if not STORTING_NUMMER.match(nummer) or not sak.get("ingress"):
+        return
+    tekst = sak["ingress"].rstrip(" …")
+    # «Representantforslag fra stortingsrepresentantene A, B og C om …» → «Representantforslag om …»
+    tekst = re.sub(r"^(Representantforslag) fra stortingsrepresentant(?:ene|en) .+? om ", r"\1 om ", tekst)
+    tekst = re.sub(r"^Innstilling fra (.+?komiteen) om Representantforslag fra .+? om ",
+                   r"Innstilling fra \1 om representantforslag om ", tekst)
+    tekst = re.sub(r"^Vedtak til lov om ", "Lovvedtak om ", tekst)
+    sak["dokument"] = nummer
+    sak["tittel"] = ren_tekst(tekst, 220)
+    if not sak.get("type"):
+        sak["type"] = nummer.split(" (")[0]
+
 # ─────────────────────────────────────────────────────────── temaer
 
 def bygg_temamatcher(tema_cfg: dict):
@@ -373,6 +396,7 @@ def main() -> int:
 
     # Temaer settes på nytt hver gang, så endringer i tema.yaml slår inn bakover.
     for s in arkiv.values():
+        bedre_tittel(s)
         s["temaer"] = finn_temaer(f"{s['tittel']} {s['ingress']}", matchere)
     for k in kalender:
         k["temaer"] = finn_temaer(k["tittel"], matchere)

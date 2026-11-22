@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-21T23:15:22Z",
+ "oppdatert": "2026-11-22T01:38:43Z",
  "saker": [
   {
    "id": "a823a1387be5573f",
@@ -671,29 +671,31 @@
   },
   {
    "id": "22a8e40ca85c1d9f",
-   "tittel": "Dokument 8:57 S (2026-2027)",
+   "tittel": "Representantforslag om strengere regulering av kosmetiske inngrep og injeksjoner",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-057s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Erlend Svardal Bøe, Margret Hagerup, Anita Sollie, Mari Holm Lønseth og Anne Kristine Linnestad om strengere regulering av kosmetiske inngrep og injeksjoner",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:57 S",
    "dato": "2026-11-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:57 S (2026-2027)"
   },
   {
    "id": "02cdfe5ac88718c7",
-   "tittel": "Dokument 8:58 S (2026-2027)",
+   "tittel": "Representantforslag om å la kommunene selv regulere konsum av alkohol på offentlig sted",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-058s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Haagen Poppe og Anna Molberg om å la kommunene selv regulere konsum av alkohol på offentlig sted",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:58 S",
    "dato": "2026-11-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:58 S (2026-2027)"
   },
   {
    "id": "3d71ec5e1d3fce8d",
@@ -791,100 +793,107 @@
   },
   {
    "id": "fc3a3ddf8f9b2d36",
-   "tittel": "Dokument 8:55 S (2026-2027)",
+   "tittel": "Representantforslag om å nå og forstå Norges klimamål",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-055s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å nå og forstå Norges klimamål",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:55 S",
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:55 S (2026-2027)"
   },
   {
    "id": "05a18902597da535",
-   "tittel": "Dokument 8:54 S (2026-2027)",
+   "tittel": "Representantforslag om å styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-054s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:54 S",
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Dokument 8:54 S (2026-2027)"
   },
   {
    "id": "5d7f2011ab125a6f",
-   "tittel": "Dokument 8:56 S (2026-2027)",
+   "tittel": "Representantforslag om å bekjempe vold og trusler i norsk skole",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-056s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Simen Velle, Joakim Myklebost Tangen, Lill Harriet Sandaune, Line Marlene Haugen, Erlend Wiborg og Kristian August Eilertsen om å bekjempe vold og trusler i norsk skole",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:56 S",
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:56 S (2026-2027)"
   },
   {
    "id": "dbb8086da181b7bb",
-   "tittel": "Dokument 8:53 S (2026-2027)",
+   "tittel": "Representantforslag om å bygge 30 000 boliger for førstegangsetablerere",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-053s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:53 S",
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig"
-   ]
+   ],
+   "dokument": "Dokument 8:53 S (2026-2027)"
   },
   {
    "id": "dea1381b84f4e832",
-   "tittel": "Dokument 8:52 S (2026-2027)",
+   "tittel": "Representantforslag om at Norge skal bli det sjette landet i Europas nye retursamarbeid",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-052s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Erlend Wiborg og Himanshu Gulati om at Norge skal bli det sjette landet i Europas nye retursamarbeid",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:52 S",
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:52 S (2026-2027)"
   },
   {
    "id": "8b5de7e17e04039b",
-   "tittel": "Dokument 8:51 S (2026-2027)",
+   "tittel": "Representantforslag om å la pensjonister bestemme over egne sparepenger, med fritt uttak fra individuell pensjonssparing (IPS) ved normert pensjoneringsalder",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-051s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Henrik Asheim, Anna Molberg, Amalie Gunnufsen og Nikolai Astrup om å la pensjonister bestemme over egne sparepenger, med fritt uttak fra individuell pensjonssparing (IPS) ved normert pensjoneringsalder",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:51 S",
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Dokument 8:51 S (2026-2027)"
   },
   {
    "id": "96f23eedaf867bed",
-   "tittel": "Dokument 8:50 S (2026-2027)",
+   "tittel": "Representantforslag om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-050s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Henrik Asheim, Mudassar Kapur og Monica Molvær om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:50 S",
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:50 S (2026-2027)"
   },
   {
    "id": "15ccdf7b81bc4996",
@@ -943,54 +952,57 @@
   },
   {
    "id": "51ecb556097defdf",
-   "tittel": "Dokument 8:48 S (2026-2027)",
+   "tittel": "Representantforslag om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-048s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Erlend Larsen, Anita Sollie og Nikolai Astrup om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:48 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse",
     "Velferd og privatisering"
-   ]
+   ],
+   "dokument": "Dokument 8:48 S (2026-2027)"
   },
   {
    "id": "3cfcf66993ebc1c0",
-   "tittel": "Dokument 8:47 S (2026-2027)",
+   "tittel": "Representantforslag om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-047s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Trond Helleland, Mudassar Kapur, Erlend Larsen, Mahmoud Farahmand og Anne Kristine Linnestad om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:47 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:47 S (2026-2027)"
   },
   {
    "id": "ecb2f22bcb38cfc7",
-   "tittel": "Dokument 8:49 S (2026-2027)",
+   "tittel": "Representantforslag om å stenge kinesiske biler ute fra Forsvarets områder",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-049s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Ida Lindtveit Røse, Joel Ystebø og Jorunn Gleditsch Lossius om å stenge kinesiske biler ute fra Forsvarets områder",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:49 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:49 S (2026-2027)"
   },
   {
    "id": "63ce00b53ebf7ff4",
-   "tittel": "Dokument 8:46 S (2026-2027)",
+   "tittel": "Representantforslag om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-046s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Nikolai Astrup, Mudassar Kapur, Mahmoud Farahmand, Tage Pettersen og Erlend Svardal Bøe om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:46 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
@@ -998,329 +1010,354 @@
     "Skatt",
     "Markedsmakt og konkurranse",
     "Bolig"
-   ]
+   ],
+   "dokument": "Dokument 8:46 S (2026-2027)"
   },
   {
    "id": "fb12c8d800155950",
-   "tittel": "Innst. 43 S (2026-2027)",
+   "tittel": "Innstilling fra utdannings- og forskningskomiteen om representantforslag om en skole å bli nysgjerrig i",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-043s/",
    "ingress": "Innstilling fra utdannings- og forskningskomiteen om Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om en skole å bli nysgjerrig i",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 43 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 43 S (2026-2027)"
   },
   {
    "id": "74dedbd7491ed9a4",
-   "tittel": "Innst. 39 S (2026-2027)",
+   "tittel": "Innstilling frå utdannings- og forskningskomiteen om Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-039s/",
    "ingress": "Innstilling frå utdannings- og forskningskomiteen om Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 39 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 39 S (2026-2027)"
   },
   {
    "id": "09a25911a8d23e93",
-   "tittel": "Innst. 58 S (2026-2027)",
+   "tittel": "Innstilling fra samferdselskomiteen om representantforslag om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen, Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-058s/",
    "ingress": "Innstilling fra samferdselskomiteen om Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen, Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om …",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 58 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 58 S (2026-2027)"
   },
   {
    "id": "2795515e5f06ad6c",
-   "tittel": "Innst. 48 S (2026-2027)",
+   "tittel": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens årsrapport for 2025",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-048s/",
    "ingress": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens årsrapport for 2025",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 48 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 48 S (2026-2027)"
   },
   {
    "id": "dceb511c6ef596d9",
-   "tittel": "Innst. 45 S (2026-2027)",
+   "tittel": "Innstilling fra utdannings- og forskningskomiteen om representantforslag om fleksibel skolestart",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-045s/",
    "ingress": "Innstilling fra utdannings- og forskningskomiteen om Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 45 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 45 S (2026-2027)"
   },
   {
    "id": "63c69166ece0b78e",
-   "tittel": "Innst. 51 S (2026-2027)",
+   "tittel": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av Forsvarsdepartementets forvaltning av tilskudd til militær støtte gjennom Nansen-programmet og om Riksrevisjonens undersøkelse av …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-051s/",
    "ingress": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av Forsvarsdepartementets forvaltning av tilskudd til militær støtte gjennom Nansen-programmet og om Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 51 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 51 S (2026-2027)"
   },
   {
    "id": "5d98f29ce03718e7",
-   "tittel": "Innst. 44 S (2026-2027)",
+   "tittel": "Innstilling fra utdannings- og forskningskomiteen om representantforslag om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-044s/",
    "ingress": "Innstilling fra utdannings- og forskningskomiteen om Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i …",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 44 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Velferd og privatisering"
-   ]
+   ],
+   "dokument": "Innst. 44 S (2026-2027)"
   },
   {
    "id": "efdc40d0c9d37da2",
-   "tittel": "Innst. 42 S (2026-2027)",
+   "tittel": "Innstilling frå kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-042s/",
    "ingress": "Innstilling frå kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 42 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 42 S (2026-2027)"
   },
   {
    "id": "4e066853a204674c",
-   "tittel": "Innst. 54 S (2026-2027)",
+   "tittel": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-054s/",
    "ingress": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 54 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 54 S (2026-2027)"
   },
   {
    "id": "69e0905b1f96c42f",
-   "tittel": "Innst. 46 S (2026-2027)",
+   "tittel": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-046s/",
    "ingress": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 46 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 46 S (2026-2027)"
   },
   {
    "id": "c85d459672623a27",
-   "tittel": "Innst. 59 S (2026-2027)",
+   "tittel": "Innstilling fra samferdselskomiteen om representantforslag om rammebetingelser for",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-059s/",
    "ingress": "Innstilling fra samferdselskomiteen om Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for …",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 59 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 59 S (2026-2027)"
   },
   {
    "id": "11047e07d845aebe",
-   "tittel": "Innst. 53 S (2026-2027)",
+   "tittel": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-053s/",
    "ingress": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 53 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "dokument": "Innst. 53 S (2026-2027)"
   },
   {
    "id": "f5dddd38034b7c29",
-   "tittel": "Innst. 57 S (2026-2027)",
+   "tittel": "Innstilling fra samferdselskomiteen om representantforslag om et nasjonalt trafikklyssystem for trygge skoleveier",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-057s/",
    "ingress": "Innstilling fra samferdselskomiteen om Representantforslag fra stortingsrepresentantene Oda Indgaard, Siren Julianne Jensen, Marius Langballe Dalin og Frøya Skjold Sjursæther om et nasjonalt trafikklyssystem for trygge skoleveier",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 57 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 57 S (2026-2027)"
   },
   {
    "id": "e43836c3c6c0117d",
-   "tittel": "Innst. 49 S (2026-2027)",
+   "tittel": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av Norads kontroll og oppfølging av tilskudd til sivil støtte gjennom Nansen-programmet og Riksrevisjonens undersøkelse av norsk støtte …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-049s/",
    "ingress": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av Norads kontroll og oppfølging av tilskudd til sivil støtte gjennom Nansen-programmet og Riksrevisjonens undersøkelse av norsk støtte gjennom den sivile delen av Nansen-programmet",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 49 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 49 S (2026-2027)"
   },
   {
    "id": "dcf925213c6a1d9d",
-   "tittel": "Innst. 56 S (2026-2027)",
+   "tittel": "Innstilling fra samferdselskomiteen om representantforslag om å øke vektgrensen for førerkortklasse B",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-056s/",
    "ingress": "Innstilling fra samferdselskomiteen om Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 56 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 56 S (2026-2027)"
   },
   {
    "id": "68f87ee787aed6dd",
-   "tittel": "Innst. 40 S (2026-2027)",
+   "tittel": "Innstilling fra næringskomiteen om Samtykke til godkjennelse av EØS-komiteens beslutning nr. 228/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2023/588 om opprettelse av EUs program for sikker konnektivitet for …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-040s/",
    "ingress": "Innstilling fra næringskomiteen om Samtykke til godkjennelse av EØS-komiteens beslutning nr. 228/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2023/588 om opprettelse av EUs program for sikker konnektivitet for perioden 2023–2027 og GOVSATCOM-komponenten i forordning (EU) 2021/696 om …",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 40 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Innst. 40 S (2026-2027)"
   },
   {
    "id": "f85921ded25d54e2",
-   "tittel": "Innst. 47 L (2026-2027)",
+   "tittel": "Innstilling fra finanskomiteen om Endringer i regnskapsloven mv. (forenkling)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-047l/",
    "ingress": "Innstilling fra finanskomiteen om Endringer i regnskapsloven mv. (forenkling)",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 47 L",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 47 L (2026-2027)"
   },
   {
    "id": "cf044593a83d60d1",
-   "tittel": "Innst. 38 S (2026-2027)",
+   "tittel": "Innstilling fra samferdselskomiteen om representantforslag om å redusere",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-038s/",
    "ingress": "Innstilling fra samferdselskomiteen om Representantforslag fra stortingsrepresentantene Alf Erik Andersen, Stian Storbukås, Marius Arion Nilsen, Pål Morten Borgli, Kristoffer Sivertsen, Bård Hoksrud, May Helen Hetland Ervik, Dagfinn Henrik Olsen, Frank Edvard Sve og Liv Gustavsen om å redusere …",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 38 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 38 S (2026-2027)"
   },
   {
    "id": "b1c1abfe77af9f44",
-   "tittel": "Innst. 50 L (2026-2027)",
+   "tittel": "Innstilling fra finanskomiteen om Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-050l/",
    "ingress": "Innstilling fra finanskomiteen om Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 50 L",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 50 L (2026-2027)"
   },
   {
    "id": "faef8136428098fb",
-   "tittel": "Innst. 37 S (2026-2027)",
+   "tittel": "Innstilling fra familie- og kulturkomiteen om representantforslag om en kjønnsnøytral likestillings- og diskrimineringslov",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-037s/",
    "ingress": "Innstilling fra familie- og kulturkomiteen om Representantforslag fra stortingsrepresentantene Simen Velle, Liv Gustavsen, Morgan Langfeldt og Silje Hjemdal om en kjønnsnøytral likestillings- og diskrimineringslov",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 37 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 37 S (2026-2027)"
   },
   {
    "id": "24c8cca5edc181fe",
-   "tittel": "Innst. 55 S (2026-2027)",
+   "tittel": "Innstilling fra kommunal- og forvaltningskomiteen om representantforslag om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-055s/",
    "ingress": "Innstilling fra kommunal- og forvaltningskomiteen om Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 55 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig"
-   ]
+   ],
+   "dokument": "Innst. 55 S (2026-2027)"
   },
   {
    "id": "c7c0d52013f6fbc5",
-   "tittel": "Innst. 41 S (2026-2027)",
+   "tittel": "Innstilling fra kommunal- og forvaltningskomiteen om Datatilsynets og Personvernnemndas årsrapportar for 2025",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-041s/",
    "ingress": "Innstilling fra kommunal- og forvaltningskomiteen om Datatilsynets og Personvernnemndas årsrapportar for 2025",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 41 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 41 S (2026-2027)"
   },
   {
    "id": "f8920a0f4323f0fe",
-   "tittel": "Innst. 52 S (2026-2027)",
+   "tittel": "Innstilling fra familie- og kulturkomiteen om representantforslag om regulering av prediksjonsmarkeder og styrket tilsyn",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-052s/",
    "ingress": "Innstilling fra familie- og kulturkomiteen om Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll, Ingrid Fiskaa og Kathy Lie om regulering av prediksjonsmarkeder og styrket tilsyn",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 52 S",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 52 S (2026-2027)"
   },
   {
    "id": "c43931ba36239d9a",
-   "tittel": "Lovvedtak 1 (2026-2027)",
+   "tittel": "Lovvedtak om endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2026-2027/vedtak-202627-001/",
    "ingress": "Vedtak til lov om endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 1",
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Lovvedtak 1 (2026-2027)"
   },
   {
    "id": "a22ec4b57f00d401",
@@ -1592,70 +1629,75 @@
   },
   {
    "id": "7f13c4d2af9e3381",
-   "tittel": "Dokument 8:44 S (2026-2027)",
+   "tittel": "Representantforslag om å senke terskelen for fengsling av farlige ungdommer",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-044s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Erlend Wiborg om å senke terskelen for fengsling av farlige ungdommer",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:44 S",
    "dato": "2026-11-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:44 S (2026-2027)"
   },
   {
    "id": "b87f353eb4abee84",
-   "tittel": "Dokument 8:43 S (2026-2027)",
+   "tittel": "Representantforslag om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-043s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Lars Lønberg Henriksen, Ingrid Liland, Une Bastholm, Marius Langballe Dalin og Frøya Skjold Sjursæther om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:43 S",
    "dato": "2026-11-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:43 S (2026-2027)"
   },
   {
    "id": "dfcc91c0f3a18d60",
-   "tittel": "Dokument 8:45 S (2026-2027)",
+   "tittel": "Representantforslag om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-045s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Siren Julianne Jensen og Une Bastholm om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:45 S",
    "dato": "2026-11-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "dokument": "Dokument 8:45 S (2026-2027)"
   },
   {
    "id": "5d1b1bd39f122245",
-   "tittel": "Dokument 8:42 S (2026-2027)",
+   "tittel": "Representantforslag om en slankere og mer effektiv stat",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-042s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om en slankere og mer effektiv stat",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:42 S",
    "dato": "2026-11-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:42 S (2026-2027)"
   },
   {
    "id": "26467d9fb313648c",
-   "tittel": "Innst. 36 S (2026-2027)",
+   "tittel": "Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-036s/",
    "ingress": "Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 36 S",
    "dato": "2026-11-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 36 S (2026-2027)"
   },
   {
    "id": "9d01970bc090bfc8",
@@ -1752,18 +1794,19 @@
   },
   {
    "id": "9d42e9ae29e18263",
-   "tittel": "Dokument 8:41 S (2026-2027)",
+   "tittel": "Representantforslag om strømstøtte til næringslivet",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-041s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Pollestad og Geir Inge Lien om strømstøtte til næringslivet",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:41 S",
    "dato": "2026-11-11T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "dokument": "Dokument 8:41 S (2026-2027)"
   },
   {
    "id": "f9aa681478eebce1",
@@ -1920,102 +1963,109 @@
   },
   {
    "id": "4dda321990963aaf",
-   "tittel": "Dokument 8:40 S (2026-2027)",
+   "tittel": "Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-040s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen, Bjørn-Kristian Svendsrud og Bård Hoksrud om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:40 S",
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:40 S (2026-2027)"
   },
   {
    "id": "0091a22fcf99e442",
-   "tittel": "Dokument 8:39 S (2026-2027)",
+   "tittel": "Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-039s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Tage Pettersen, Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend Larsen og Trond Helleland om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:39 S",
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:39 S (2026-2027)"
   },
   {
    "id": "ea68e500fa238feb",
-   "tittel": "Innst. 31 L (2026-2027)",
+   "tittel": "Innstilling fra familie- og kulturkomiteen om Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet) og om Representantforslag fra stortingsrepresentantene Mirell …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-031l/",
    "ingress": "Innstilling fra familie- og kulturkomiteen om Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet) og om Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen og Ingrid Fiskaa om et styrket vern av opphavsrett i møte med …",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 31 L",
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Innst. 31 L (2026-2027)"
   },
   {
    "id": "57d53b9899c24d1a",
-   "tittel": "Innst. 32 S (2026-2027)",
+   "tittel": "Innstilling fra familie- og kulturkomiteen om samtykke til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023 om innlemmelse i EØS-avtalen av direktiv (EU) 2019/789 og (EU) 2019/790, og samtykke til …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-032s/",
    "ingress": "Innstilling fra familie- og kulturkomiteen om samtykke til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023 om innlemmelse i EØS-avtalen av direktiv (EU) 2019/789 og (EU) 2019/790, og samtykke til tiltredelse til WIPO-traktatene av 20. desember 1996 om opphavsrett (WCT) og om …",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 32 S",
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Innst. 32 S (2026-2027)"
   },
   {
    "id": "a529dd3ca689d5e3",
-   "tittel": "Innst. 35 S (2026-2027)",
+   "tittel": "Innstilling fra arbeids- og sosialkomiteen om representantforslag om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-035s/",
    "ingress": "Innstilling fra arbeids- og sosialkomiteen om Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 35 S",
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Innst. 35 S (2026-2027)"
   },
   {
    "id": "67798436c32c9e9a",
-   "tittel": "Innst. 34 S (2026-2027)",
+   "tittel": "Innstilling fra arbeids- og sosialkomiteen om representantforslag om tiltak mot ungdomsledighet og ledighet blant nyutdannede",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-034s/",
    "ingress": "Innstilling fra arbeids- og sosialkomiteen om Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 34 S",
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 34 S (2026-2027)"
   },
   {
    "id": "fe61f8d726a9c9f1",
-   "tittel": "Innst. 33 S (2026-2027)",
+   "tittel": "Innstilling fra arbeids- og sosialkomiteen om representantforslag om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-033s/",
    "ingress": "Innstilling fra arbeids- og sosialkomiteen om Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 33 S",
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Innst. 33 S (2026-2027)"
   },
   {
    "id": "6af7572c7bd56ea8",
@@ -2182,42 +2232,45 @@
   },
   {
    "id": "35b4b34b60cabf05",
-   "tittel": "Dokument 8:37 S (2026-2027)",
+   "tittel": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-037s/",
    "ingress": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:37 S",
    "dato": "2026-11-04T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:37 S (2026-2027)"
   },
   {
    "id": "2f7ea80166a5bd5c",
-   "tittel": "Dokument 8:38 S (2026-2027)",
+   "tittel": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta og akuttberedskapen i heile Noreg",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-038s/",
    "ingress": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta og akuttberedskapen i heile Noreg",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:38 S",
    "dato": "2026-11-04T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:38 S (2026-2027)"
   },
   {
    "id": "73db46f7c599bc19",
-   "tittel": "Dokument 8:36 S (2026-2027)",
+   "tittel": "Representantforslag om en tryggere hverdag for syklister",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-036s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:36 S",
    "dato": "2026-11-04T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:36 S (2026-2027)"
   },
   {
    "id": "bee2aeba9f0ef579",
@@ -2262,165 +2315,177 @@
   },
   {
    "id": "40901331970467ec",
-   "tittel": "Dokument 8:35 S (2026-2027)",
+   "tittel": "Representantforslag om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-035s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Erling Sande og Bjørn Arild Gram om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:35 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "dokument": "Dokument 8:35 S (2026-2027)"
   },
   {
    "id": "6e086ccc9c2091da",
-   "tittel": "Dokument 8:34 LS (2026-2027)",
+   "tittel": "Representantforslag om midlertidig stans av økt strømforbruk til datasentre",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-034ls/",
    "ingress": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:34 LS",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "dokument": "Dokument 8:34 LS (2026-2027)"
   },
   {
    "id": "7def4ce0179d914b",
-   "tittel": "Innst. 27 S (2026-2027)",
+   "tittel": "Innstilling fra utenriks- og forsvarskomiteen om representantforslag om at Norge må ta sin del av ansvaret for et fritt Palestina",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-027s/",
    "ingress": "Innstilling fra utenriks- og forsvarskomiteen om Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa og Marian Hussein om at Norge må ta sin del av ansvaret for et fritt Palestina",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 27 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 27 S (2026-2027)"
   },
   {
    "id": "1cb660f16cf481d3",
-   "tittel": "Innst. 21 S (2026-2027)",
+   "tittel": "Innstilling fra helse- og omsorgskomiteen om representantforslag om utredning av selvbestemt livsavslutning",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-021s/",
    "ingress": "Innstilling fra helse- og omsorgskomiteen om Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om utredning av selvbestemt livsavslutning",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 21 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 21 S (2026-2027)"
   },
   {
    "id": "57eb6cb0926569bd",
-   "tittel": "Innst. 25 S (2026-2027)",
+   "tittel": "Innstilling fra kommunal- og forvaltningskomiteen om representantforslag om egenbetaling for tolketjenester etter tre års opphold i Norge",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-025s/",
    "ingress": "Innstilling fra kommunal- og forvaltningskomiteen om Representantforslag fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling for tolketjenester etter tre års opphold i Norge",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 25 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 25 S (2026-2027)"
   },
   {
    "id": "16b7d4986d745c8b",
-   "tittel": "Innst. 29 L (2026-2027)",
+   "tittel": "Innstilling fra helse- og omsorgskomiteen om Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-029l/",
    "ingress": "Innstilling fra helse- og omsorgskomiteen om Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 29 L",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Innst. 29 L (2026-2027)"
   },
   {
    "id": "7d530690ff6685a6",
-   "tittel": "Innst. 22 S (2026-2027)",
+   "tittel": "Innstilling fra kommunal- og forvaltningskomiteen om representantforslag om en tydelig og forpliktende integreringskontrakt",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-022s/",
    "ingress": "Innstilling fra kommunal- og forvaltningskomiteen om Representantforslag fra stortingsrepresentantene Erlend Wiborg, Rune Midtun, Helge André Njåstad og Bjørn Larsen om en tydelig og forpliktende integreringskontrakt",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 22 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 22 S (2026-2027)"
   },
   {
    "id": "9073a722054f13cd",
-   "tittel": "Innst. 28 S (2026-2027)",
+   "tittel": "Innstilling fra helse- og omsorgskomiteen om representantforslag om en handlingsplan for å redusere antall aborter",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-028s/",
    "ingress": "Innstilling fra helse- og omsorgskomiteen om Representantforslag fra stortingsrepresentantene Joel Ystebø, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om en handlingsplan for å redusere antall aborter",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 28 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 28 S (2026-2027)"
   },
   {
    "id": "b2a18021f1992240",
-   "tittel": "Innst. 30 S (2026-2027)",
+   "tittel": "Innstilling fra finanskomiteen om Meddelelse fra stortingsrepresentant Marthe Hammer i Stortingets møte 16. mai 2026 om at hun trekker tilbake forslag fra Kirsti Bergstø og seg selv om å nedsette en forskjellskommisjon …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-030s/",
    "ingress": "Innstilling fra finanskomiteen om Meddelelse fra stortingsrepresentant Marthe Hammer i Stortingets møte 16. mai 2026 om at hun trekker tilbake forslag fra Kirsti Bergstø og seg selv om å nedsette en forskjellskommisjon, jf. Dokument 8:279 S (2025–2026)",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 30 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 30 S (2026-2027)"
   },
   {
    "id": "775bcae212d1788b",
-   "tittel": "Innst. 26 S (2026-2027)",
+   "tittel": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av myndighetenes arbeid med å kartlegge naturverdier og klimaeffekter som grunnlag for beslutninger i arealforvaltningen",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-026s/",
    "ingress": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av myndighetenes arbeid med å kartlegge naturverdier og klimaeffekter som grunnlag for beslutninger i arealforvaltningen",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 26 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 26 S (2026-2027)"
   },
   {
    "id": "17ff91e27e3370d6",
-   "tittel": "Innst. 23 S (2026-2027)",
+   "tittel": "Innstilling fra utenriks- og forsvarskomiteen om representantforslag om obligatorisk beredskapskurs for alle i vernepliktig alder som ikke gjennomfører førstegangstjenesten",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-023s/",
    "ingress": "Innstilling fra utenriks- og forsvarskomiteen om Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Jørgen H. Kristiansen og Hans Edvard Askjer om obligatorisk beredskapskurs for alle i vernepliktig alder som ikke gjennomfører førstegangstjenesten",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 23 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 23 S (2026-2027)"
   },
   {
    "id": "3ad76eec777297d9",
-   "tittel": "Innst. 24 S (2026-2027)",
+   "tittel": "Innstilling fra familie- og kulturkomiteen om Representantforslag frå stortingsrepresentantane Erling Sande, Kjersti Toppe og Ole Herman Sveian om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-024s/",
    "ingress": "Innstilling fra familie- og kulturkomiteen om Representantforslag frå stortingsrepresentantane Erling Sande, Kjersti Toppe og Ole Herman Sveian om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 24 S",
    "dato": "2026-11-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 24 S (2026-2027)"
   },
   {
    "id": "903aacbe4322411a",
@@ -2949,112 +3014,120 @@
   },
   {
    "id": "bc2a4fcfdb29ad17",
-   "tittel": "Dokument 8:32 S (2026-2027)",
+   "tittel": "Representantforslag om en mer fremtidsrettet havbruksnæring",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-032s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Anne Kristine Linnestad, Ove Trellevik og Erna Solberg om en mer fremtidsrettet havbruksnæring",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:32 S",
    "dato": "2026-10-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:32 S (2026-2027)"
   },
   {
    "id": "5d16a7574f92f963",
-   "tittel": "Dokument 8:33 S (2026-2027)",
+   "tittel": "Representantforslag om å opprettholde norsk innsats for afghanske jenter og kvinners rettigheter",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-033s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Ingrid Liland, Kirsti Bergstø og Bjørnar Moxnes om å opprettholde norsk innsats for afghanske jenter og kvinners rettigheter",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:33 S",
    "dato": "2026-10-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:33 S (2026-2027)"
   },
   {
    "id": "a32608a9e0aa5aa8",
-   "tittel": "Dokument 8:31 S (2026-2027)",
+   "tittel": "Representantforslag om en nasjonal miljøfleksibilitetsordning",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-031s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Mari Holm Lønseth, Anne Kristine Linnestad og Ove Trellevik om en nasjonal miljøfleksibilitetsordning",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:31 S",
    "dato": "2026-10-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:31 S (2026-2027)"
   },
   {
    "id": "50abe19a32209600",
-   "tittel": "Dokument 8:30 S (2026-2027)",
+   "tittel": "Representantforslag frå stortingsrepresentantane Terje Kollbotn, Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å atterreise nasjonal styring over …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-030s/",
    "ingress": "Representantforslag frå stortingsrepresentantane Terje Kollbotn, Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å atterreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:30 S",
    "dato": "2026-10-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm",
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Dokument 8:30 S (2026-2027)"
   },
   {
    "id": "482dcc1ab7e1df67",
-   "tittel": "Dokument 8:26 S (2026-2027)",
+   "tittel": "Representantforslag om årlig framleggelse for Stortinget av vurdering av operativ evne (VOE) for Politiets sikkerhetstjeneste (PST)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-026s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om årlig framleggelse for Stortinget av vurdering av operativ evne (VOE) for Politiets sikkerhetstjeneste (PST)",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:26 S",
    "dato": "2026-10-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:26 S (2026-2027)"
   },
   {
    "id": "e6a065ff402e9fba",
-   "tittel": "Dokument 8:29 S (2026-2027)",
+   "tittel": "Representantforslag om forutsigbart fritak for merverdiavgift for elektroniske aviser",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-029s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Nikolai Astrup og Henrik Asheim om forutsigbart fritak for merverdiavgift for elektroniske aviser",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:29 S",
    "dato": "2026-10-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Dokument 8:29 S (2026-2027)"
   },
   {
    "id": "5af03859812b2dd7",
-   "tittel": "Dokument 8:28 S (2026-2027)",
+   "tittel": "Representantforslag om å gjøre Norge til en ledende nordisk fonds- og kapitalforvaltningsnasjon",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-028s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om å gjøre Norge til en ledende nordisk fonds- og kapitalforvaltningsnasjon",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:28 S",
    "dato": "2026-10-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:28 S (2026-2027)"
   },
   {
    "id": "cb015760c53887b6",
-   "tittel": "Dokument 8:27 S (2026-2027)",
+   "tittel": "Representantforslag om å gjenreise norsk jernbane",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-027s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Remi Sølvberg, Geir Jørgensen og Bjørnar Moxnes om å gjenreise norsk jernbane",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:27 S",
    "dato": "2026-10-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:27 S (2026-2027)"
   },
   {
    "id": "e7733a2722de38dc",
@@ -3171,29 +3244,31 @@
   },
   {
    "id": "569165a848a58c90",
-   "tittel": "Dokument 8:25 S (2026-2027)",
+   "tittel": "Representantforslag om å omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-025s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Inge Lien, Geir Pollestad og Trygve Slagsvold Vedum om å omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:25 S",
    "dato": "2026-10-21T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:25 S (2026-2027)"
   },
   {
    "id": "6352060a003c4463",
-   "tittel": "Dokument 8:24 S (2026-2027)",
+   "tittel": "Representantforslag fra stortingsrepresentant Kathy Lie om å få Luftambulansen tilbake i statlig regi",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-024s/",
    "ingress": "Representantforslag fra stortingsrepresentant Kathy Lie om å få Luftambulansen tilbake i statlig regi",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:24 S",
    "dato": "2026-10-21T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:24 S (2026-2027)"
   },
   {
    "id": "565674e06eeddd00",
@@ -3283,44 +3358,47 @@
   },
   {
    "id": "2e9313e30e4a40eb",
-   "tittel": "Dokument 8:23 S (2026-2027)",
+   "tittel": "Representantforslag om å gjennomgå og modernisere norsk alkoholpolitikk",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-023s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen, Anna Molberg og Mari Holm Lønseth om å gjennomgå og modernisere norsk alkoholpolitikk",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:23 S",
    "dato": "2026-10-20T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:23 S (2026-2027)"
   },
   {
    "id": "4175e14bc71c0999",
-   "tittel": "Dokument 8:22 S (2026-2027)",
+   "tittel": "Representantforslag om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-022s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen og Terje Kollbotn om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:22 S",
    "dato": "2026-10-20T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:22 S (2026-2027)"
   },
   {
    "id": "d0215a81a7825fb4",
-   "tittel": "Innst. 20 S (2026-2027)",
+   "tittel": "Innstilling fra arbeids- og sosialkomiteen om representantforslag om forskuttering av sykepenger",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-020s/",
    "ingress": "Innstilling fra arbeids- og sosialkomiteen om Representantforslag fra stortingsrepresentantene Anna Molberg, Henrik Asheim, Amalie Gunnufsen og Mahmoud Farahmand om forskuttering av sykepenger",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 20 S",
    "dato": "2026-10-20T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Innst. 20 S (2026-2027)"
   },
   {
    "id": "266631191e30c61c",
@@ -3479,16 +3557,17 @@
   },
   {
    "id": "589d6ab5f370ff93",
-   "tittel": "Innst. 19 S (2026-2027)",
+   "tittel": "Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-019s/",
    "ingress": "Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 19 S",
    "dato": "2026-10-16T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 19 S (2026-2027)"
   },
   {
    "id": "42f5dc30c4af5eeb",
@@ -3507,29 +3586,31 @@
   },
   {
    "id": "bd432d818388cdec",
-   "tittel": "Dokument 8:21 S (2026-2027)",
+   "tittel": "Representantforslag om et trygt og sikkert institusjonsbarnevern",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-021s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Tage Pettersen og Mahmoud Farahmand om et trygt og sikkert institusjonsbarnevern",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:21 S",
    "dato": "2026-10-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:21 S (2026-2027)"
   },
   {
    "id": "58a55c48cbafb55f",
-   "tittel": "Dokument 8:20 S (2026-2027)",
+   "tittel": "Representantforslag om å avskaffe urimelige representantytelser",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-020s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen, Seher Aydar og Mímir Kristjánsson om å avskaffe urimelige representantytelser",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:20 S",
    "dato": "2026-10-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:20 S (2026-2027)"
   },
   {
    "id": "8e65ce932024db03",
@@ -3574,34 +3655,36 @@
   },
   {
    "id": "05fd4cdd122296d3",
-   "tittel": "Dokument 8:19 S (2026-2027)",
+   "tittel": "Representantforslag om å stanse opptrappingsplanen for CO₂-avgiften",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-019s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO₂-avgiften",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:19 S",
    "dato": "2026-10-14T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Dokument 8:19 S (2026-2027)"
   },
   {
    "id": "1bdbed6428a77366",
-   "tittel": "Dokument 8:18 S (2026-2027)",
+   "tittel": "Representantforslag om å styrke den finansielle robustheten til Statens pensjonsfond utland gjennom å vurdere økt diversifisering og alternative reserveaktiva",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-018s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hilde Grande, Martin Virkesdal Jonsterhaug og Hans Andreas Limi om å styrke den finansielle robustheten til Statens pensjonsfond utland gjennom å vurdere økt diversifisering og alternative reserveaktiva",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:18 S",
    "dato": "2026-10-14T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser",
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Dokument 8:18 S (2026-2027)"
   },
   {
    "id": "9cf7aa96a43a629d",
@@ -3650,29 +3733,31 @@
   },
   {
    "id": "072157700421e00d",
-   "tittel": "Dokument 8:17 S (2026-2027)",
+   "tittel": "Representantforslag om å lovliggjøre og legge til rette for pluggbare solceller og batterier",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-017s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Siren Julianne Jensen, Oda Indgaard, Ingrid Liland og Lars Lønberg Henriksen om å lovliggjøre og legge til rette for pluggbare solceller og batterier",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:17 S",
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:17 S (2026-2027)"
   },
   {
    "id": "2bf58c962c57ba26",
-   "tittel": "Dokument 8:16 S (2026-2027)",
+   "tittel": "Representantforslag om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-016s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse, Jonas Andersen Sayed og Jorunn Gleditsch Lossius om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:16 S",
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:16 S (2026-2027)"
   },
   {
    "id": "db123d5df3ad7495",
@@ -3837,19 +3922,20 @@
   },
   {
    "id": "e5b7aa6187fd460f",
-   "tittel": "Innst. 1 S (2026-2027)",
+   "tittel": "Innstilling fra Stortingets presidentskap om fordeling til komiteene av rammeområder med budsjettkapitler og utkast til romertallsvedtak vedrørende forslaget til statsbudsjett for 2027",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-001s/",
    "ingress": "Innstilling fra Stortingets presidentskap om fordeling til komiteene av rammeområder med budsjettkapitler og utkast til romertallsvedtak vedrørende forslaget til statsbudsjett for 2027",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 1 S",
    "dato": "2026-10-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Ulikhet og fordeling",
     "Offentlige finanser"
-   ]
+   ],
+   "dokument": "Innst. 1 S (2026-2027)"
   },
   {
    "id": "04e2a173f08de177",
@@ -3990,42 +4076,45 @@
   },
   {
    "id": "de5a47de989352bd",
-   "tittel": "Dokument 8:15 S (2026-2027)",
+   "tittel": "Representantforslag om å gi kommunene reell vetorett ved etablering av asylmottak",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-015s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Dagfinn Henrik Olsen om å gi kommunene reell vetorett ved etablering av asylmottak",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:15 S",
    "dato": "2026-10-07T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:15 S (2026-2027)"
   },
   {
    "id": "3ffc5b25526cd81b",
-   "tittel": "Dokument 8:14 S (2026-2027)",
+   "tittel": "Representantforslag om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-014s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:14 S",
    "dato": "2026-10-07T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:14 S (2026-2027)"
   },
   {
    "id": "8a7fea59c6814865",
-   "tittel": "Dokument 8:13 L (2026-2027)",
+   "tittel": "Representantforslag om stemmerett ved kommune- og fylkestingsvalg",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-013l/",
    "ingress": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Per-Willy Amundsen om stemmerett ved kommune- og fylkestingsvalg",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:13 L",
    "dato": "2026-10-07T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:13 L (2026-2027)"
   },
   {
    "id": "fd69e8c6636df163",
@@ -4055,46 +4144,49 @@
   },
   {
    "id": "7c4500802a4cef96",
-   "tittel": "Dokument 8:11 S (2026-2027)",
+   "tittel": "Representantforslag om å skattlegge ekstraordinære overskudd i olje- og gasselskaper",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-011s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Oda Indgaard og Ingrid Liland om å skattlegge ekstraordinære overskudd i olje- og gasselskaper",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:11 S",
    "dato": "2026-10-06T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Dokument 8:11 S (2026-2027)"
   },
   {
    "id": "80d02cec0ee21a21",
-   "tittel": "Dokument 8:12 S (2026-2027)",
+   "tittel": "Representantforslag om å forby reklame for fossil energi",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-012s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Ingrid Liland, Siren Julianne Jensen og Oda Indgaard om å forby reklame for fossil energi",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:12 S",
    "dato": "2026-10-06T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "dokument": "Dokument 8:12 S (2026-2027)"
   },
   {
    "id": "0d3933a6c183a9b3",
-   "tittel": "Dokument 8:10 S (2026-2027)",
+   "tittel": "Representantforslag om å forby jakt på ekorn",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-010s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Une Bastholm, Ingrid Liland og Lars Lønberg Henriksen om å forby jakt på ekorn",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:10 S",
    "dato": "2026-10-06T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:10 S (2026-2027)"
   },
   {
    "id": "9ad2ac71bdf1e8c3",
@@ -4113,135 +4205,145 @@
   },
   {
    "id": "42b2fa7427e804d9",
-   "tittel": "Dokument 8:7 S (2026-2027)",
+   "tittel": "Representantforslag om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-007s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Finn Krokeide, Stian Storbukås, Mats Henriksen og Anette Carnarius Elseth om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:7 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:7 S (2026-2027)"
   },
   {
    "id": "97657e17bba82a49",
-   "tittel": "Dokument 8:6 S (2026-2027)",
+   "tittel": "Representantforslag om stans i datasenterutbygging og kontroll over kraft- og industripolitikken",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-006s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes, Geir Jørgensen og Terje Kollbotn om stans i datasenterutbygging og kontroll over kraft- og industripolitikken",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:6 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:6 S (2026-2027)"
   },
   {
    "id": "67829010da95bc09",
-   "tittel": "Dokument 8:8 S (2026-2027)",
+   "tittel": "Representantforslag om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-008s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Kirsti Bergstø og Mirell Høyer-Berntsen om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:8 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:8 S (2026-2027)"
   },
   {
    "id": "6f492310398ad215",
-   "tittel": "Dokument 8:9 S (2026-2027)",
+   "tittel": "Representantforslag om konsesjonssystem for etablering av datasentre",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-009s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Kirsti Bergstø, Marthe Hammer, Anne Lise Gjerstad Fredlund, Sunniva Holmås Eidsvoll, Mirell Høyer-Berntsen, Ingrid Fiskaa, Audun Hammer Hovda og Marian Hussein om konsesjonssystem for etablering av datasentre",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:9 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:9 S (2026-2027)"
   },
   {
    "id": "e187d6f4ff395aa9",
-   "tittel": "Dokument 8:5 S (2026-2027)",
+   "tittel": "Representantforslag om å få kriminelle aktører ut fra barnevernet",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-005s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:5 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:5 S (2026-2027)"
   },
   {
    "id": "2656fcef262e6915",
-   "tittel": "Dokument 8:4 S (2026-2027)",
+   "tittel": "Representantforslag om Tolletatens fremtidige kontrolloppdrag og bevæpning",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-004s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse og Jørgen H. Kristiansen om Tolletatens fremtidige kontrolloppdrag og bevæpning",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:4 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:4 S (2026-2027)"
   },
   {
    "id": "e1c8d568e42bd6b5",
-   "tittel": "Dokument 8:3 S (2026-2027)",
+   "tittel": "Representantforslag om å redusere bompengebelastningen på E39",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-003s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Alf Erik Andersen, Stian Storbukås, Marius Arion Nilsen, Pål Morten Borgli, Kristoffer Sivertsen, Bård Hoksrud, May Helen Hetland Ervik, Dagfinn Henrik Olsen, Frank Edvard Sve og Liv Gustavsen om å redusere bompengebelastningen på E39 …",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:3 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:3 S (2026-2027)"
   },
   {
    "id": "cf85e19dcfa1c84d",
-   "tittel": "Dokument 8:2 S (2026-2027)",
+   "tittel": "Representantforslag om en mer kunnskapsorientert læreplan med en styrket lærerrolle",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-002s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:2 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:2 S (2026-2027)"
   },
   {
    "id": "2412fc6de83f56ab",
-   "tittel": "Dokument 8:1 S (2026-2027)",
+   "tittel": "Representantforslag om permanent fritak for CO₂-avgift for fiskeflåten",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-001s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Tom Staahle, Martin Virkesdal Jonsterhaug, Hilde Grande, Bengt Rune Strifeldt og Sylvi Listhaug om permanent fritak for CO₂-avgift for fiskeflåten",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:1 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Dokument 8:1 S (2026-2027)"
   },
   {
    "id": "afc194b30af7afba",
-   "tittel": "Innst. 18 S (2026-2027)",
+   "tittel": "Innstilling fra valgkomiteen om endringer i de faste komiteers sammensetning",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-018s/",
    "ingress": "Innstilling fra valgkomiteen om endringer i de faste komiteers sammensetning",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 18 S",
    "dato": "2026-10-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 18 S (2026-2027)"
   },
   {
    "id": "b30a3584944f6a2e",
@@ -4297,16 +4399,17 @@
   },
   {
    "id": "afd974da1e75cbfb",
-   "tittel": "Innst. 471 S (2025-2026)",
+   "tittel": "Innstilling fra valgkomiteen om suppleringsvalg til internasjonale delegasjoner",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2025-2026/inns-202526-471s/",
    "ingress": "Innstilling fra valgkomiteen om suppleringsvalg til internasjonale delegasjoner",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 471 S",
    "dato": "2026-09-29T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 471 S (2025-2026)"
   },
   {
    "id": "082b599845f11ad6",
@@ -4472,29 +4575,31 @@
   },
   {
    "id": "57a3cb2d270815c5",
-   "tittel": "Innst. 470 S (2025-2026)",
+   "tittel": "Innstilling fra valgkomiteen om valg av nytt medlem til Stortingets ombudsnemnd for Forsvaret",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2025-2026/inns-202526-470s/",
    "ingress": "Innstilling fra valgkomiteen om valg av nytt medlem til Stortingets ombudsnemnd for Forsvaret",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 470 S",
    "dato": "2026-09-25T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 470 S (2025-2026)"
   },
   {
    "id": "8dd939f8663023cc",
-   "tittel": "Innst. 469 S (2025-2026)",
+   "tittel": "Innstilling fra valgkomiteen om valg av nytt medlem til Stortingets delegasjon til konferansen for overvåking av EUs utenriks-, sikkerhets- og forsvarspolitikk",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2025-2026/inns-202526-469s/",
    "ingress": "Innstilling fra valgkomiteen om valg av nytt medlem til Stortingets delegasjon til konferansen for overvåking av EUs utenriks-, sikkerhets- og forsvarspolitikk",
    "kilde": "Stortinget – innstillinger",
    "kategori": "Storting",
-   "type": "",
+   "type": "Innst. 469 S",
    "dato": "2026-09-25T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Innst. 469 S (2025-2026)"
   },
   {
    "id": "2e09c5d016cf94b0",
@@ -4715,193 +4820,207 @@
   },
   {
    "id": "d30282499cc2014c",
-   "tittel": "Dokument 8:318 S (2025-2026)",
+   "tittel": "Representantforslag om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-318s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:318 S",
    "dato": "2026-06-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Velferd og privatisering"
-   ]
+   ],
+   "dokument": "Dokument 8:318 S (2025-2026)"
   },
   {
    "id": "c60457a6418a0422",
-   "tittel": "Dokument 8:320 S (2025-2026)",
+   "tittel": "Representantforslag om en skole å bli nysgjerrig i",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-320s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om en skole å bli nysgjerrig i",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:320 S",
    "dato": "2026-06-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:320 S (2025-2026)"
   },
   {
    "id": "7ef7d04360f8f910",
-   "tittel": "Dokument 8:314 S (2025-2026)",
+   "tittel": "Representantforslag om å øke vektgrensen for førerkortklasse B",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-314s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:314 S",
    "dato": "2026-06-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:314 S (2025-2026)"
   },
   {
    "id": "e0de1b2f60b81fe5",
-   "tittel": "Dokument 8:313 S (2025-2026)",
+   "tittel": "Representantforslag om rammebetingelser for entusiastkjøretøy",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-313s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:313 S",
    "dato": "2026-06-22T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:313 S (2025-2026)"
   },
   {
    "id": "14b96cc2b6b8f80d",
-   "tittel": "Dokument 8:324 S (2025-2026)",
+   "tittel": "Representantforslag om likere strømpriser og et sterkere forbrukervern",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-324s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Amalie Gunnufsen, Haagen Poppe, Mahmoud Farahmand og Aleksander Stokkebø om likere strømpriser og et sterkere forbrukervern",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:324 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "dokument": "Dokument 8:324 S (2025-2026)"
   },
   {
    "id": "4c26f83136a4ea04",
-   "tittel": "Dokument 8:323 S (2025-2026)",
+   "tittel": "Representantforslag om bedre oppfølging av overlevende og etterlatte etter katastrofer",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-323s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Margit Bye, Julie E. Stuestøl og Marius Langballe Dalin om bedre oppfølging av overlevende og etterlatte etter katastrofer",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:323 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:323 S (2025-2026)"
   },
   {
    "id": "47cfb45388aba179",
-   "tittel": "Dokument 8:322 S (2025-2026)",
+   "tittel": "Representantforslag om et nasjonalt trafikklyssystem for trygge skoleveier",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-322s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Oda Indgaard, Siren Julianne Jensen, Marius Langballe Dalin og Frøya Skjold Sjursæther om et nasjonalt trafikklyssystem for trygge skoleveier",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:322 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:322 S (2025-2026)"
   },
   {
    "id": "12f7d82ddfa9f982",
-   "tittel": "Dokument 8:321 S (2025-2026)",
+   "tittel": "Representantforslag om en nasjonal strategi for datasenterindustrien",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-321s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Mahmoud Farahmand, Bård Ludvig Thorheim, Mudassar Kapur, Tage Pettersen og Aleksander Stokkebø om en nasjonal strategi for datasenterindustrien",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:321 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:321 S (2025-2026)"
   },
   {
    "id": "bff0ab6a816c0d30",
-   "tittel": "Dokument 8:319 S (2025-2026)",
+   "tittel": "Representantforslag om raskere og skånsom utbygging av solenergi",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-319s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Erlend Larsen, Mahmoud Farahmand, Margret Hagerup, Erna Solberg og Aleksander Stokkebø om raskere og skånsom utbygging av solenergi",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:319 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "dokument": "Dokument 8:319 S (2025-2026)"
   },
   {
    "id": "73bf48bf26c24c44",
-   "tittel": "Dokument 8:317 S (2025-2026)",
+   "tittel": "Representantforslag om digital suverenitet og nasjonal kontroll over digital helseinfrastruktur",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-317s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa, Kathy Lie og Anne Lise Gjerstad Fredlund om digital suverenitet og nasjonal kontroll over digital helseinfrastruktur",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:317 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:317 S (2025-2026)"
   },
   {
    "id": "62972f598b83a57e",
-   "tittel": "Dokument 8:316 S (2025-2026)",
+   "tittel": "Representantforslag om å tillate digitale lotterier for frivillige organisasjoner og idrettslag",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-316s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Silje Hjemdal, Liv Gustavsen og Morgan Langfeldt om å tillate digitale lotterier for frivillige organisasjoner og idrettslag",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:316 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:316 S (2025-2026)"
   },
   {
    "id": "3ceeffcf97d5961c",
-   "tittel": "Dokument 8:315 S (2025-2026)",
+   "tittel": "Representantforslag om om å styrke ytringsfriheten for lærere",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-315s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Joel Ystebø, Jorunn Gleditsch Lossius, Jørgen H. Kristiansen og Hans Edvard Askjer om om å styrke ytringsfriheten for lærere",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:315 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:315 S (2025-2026)"
   },
   {
    "id": "3032cf513c68f9a6",
-   "tittel": "Dokument 8:312 S (2025-2026)",
+   "tittel": "Representantforslag om endringer i engangsavgiften for kjøretøy",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-312s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Tom Staahle om endringer i engangsavgiften for kjøretøy",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:312 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Dokument 8:312 S (2025-2026)"
   },
   {
    "id": "5494ba7145d945fd",
-   "tittel": "Dokument 8:311 S (2025-2026)",
+   "tittel": "Representantforslag om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-311s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Abid Raja, Guri Melby og Grunde Almeland om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:311 S",
    "dato": "2026-06-19T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:311 S (2025-2026)"
   },
   {
    "id": "b7a09410e3b14860",
@@ -4931,85 +5050,91 @@
   },
   {
    "id": "830da512062a5b74",
-   "tittel": "Dokument 8:310 S (2025-2026)",
+   "tittel": "Representantforslag om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-310s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:310 S",
    "dato": "2026-06-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Dokument 8:310 S (2025-2026)"
   },
   {
    "id": "f24852da545a2e4a",
-   "tittel": "Dokument 8:309 S (2025-2026)",
+   "tittel": "Representantforslag om å styrke kvinners tilgang på medikamentell abort utenfor sykehus",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-309s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Guri Melby, Grunde Almeland og Ane Breivik om å styrke kvinners tilgang på medikamentell abort utenfor sykehus",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:309 S",
    "dato": "2026-06-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:309 S (2025-2026)"
   },
   {
    "id": "1d142b4901985068",
-   "tittel": "Dokument 8:308 S (2025-2026)",
+   "tittel": "Representantforslag om tiltak mot ungdomsledighet og ledighet blant nyutdannede",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-308s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:308 S",
    "dato": "2026-06-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:308 S (2025-2026)"
   },
   {
    "id": "96d619761c9d96d6",
-   "tittel": "Dokument 8:307 S (2025-2026)",
+   "tittel": "Representantforslag om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-307s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:307 S",
    "dato": "2026-06-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Dokument 8:307 S (2025-2026)"
   },
   {
    "id": "dd94388a46a0217f",
-   "tittel": "Dokument 8:306 S (2025-2026)",
+   "tittel": "Representantforslag om fleksibel skolestart",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-306s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:306 S",
    "dato": "2026-06-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:306 S (2025-2026)"
   },
   {
    "id": "d256b138053c8851",
-   "tittel": "Dokument 8:305 S (2025-2026)",
+   "tittel": "Representantforslag om modernisering av regelverket for offentlige søkerlister",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-305s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:305 S",
    "dato": "2026-06-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:305 S (2025-2026)"
   },
   {
    "id": "ebd0329ba55014f7",
@@ -5052,254 +5177,272 @@
   },
   {
    "id": "cac7984dcf6c75c6",
-   "tittel": "Lovvedtak 92 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i skatteloven",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-092/",
    "ingress": "Vedtak til lov om endringar i skatteloven",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 92",
    "dato": "2026-06-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Lovvedtak 92 (2025-2026)"
   },
   {
    "id": "d3325b56591b926f",
-   "tittel": "Lovvedtak 96 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i lov om endringer i merverdiavgiftsloven",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-096/",
    "ingress": "Vedtak til lov om endringar i lov om endringer i merverdiavgiftsloven",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 96",
    "dato": "2026-06-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Lovvedtak 96 (2025-2026)"
   },
   {
    "id": "d6e14d7593bb44dc",
-   "tittel": "Lovvedtak 95 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i lov om kompensasjonsordning for kjemikalieskadde oljepionerar",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-095/",
    "ingress": "Vedtak til lov om endringar i lov om kompensasjonsordning for kjemikalieskadde oljepionerar",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 95",
    "dato": "2026-06-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 95 (2025-2026)"
   },
   {
    "id": "20df440c65042807",
-   "tittel": "Lovvedtak 94 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i innkrevingsloven",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-094/",
    "ingress": "Vedtak til lov om endringar i innkrevingsloven",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 94",
    "dato": "2026-06-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 94 (2025-2026)"
   },
   {
    "id": "58a6724285869e9c",
-   "tittel": "Lovvedtak 93 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i vareførselsloven",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-093/",
    "ingress": "Vedtak til lov om endringar i vareførselsloven",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 93",
    "dato": "2026-06-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 93 (2025-2026)"
   },
   {
    "id": "85168bb3a829073b",
-   "tittel": "Lovvedtak 91 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i folketrygdloven",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-091/",
    "ingress": "Vedtak til lov om endringar i folketrygdloven",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 91",
    "dato": "2026-06-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Lovvedtak 91 (2025-2026)"
   },
   {
    "id": "b0fc29e6cad38406",
-   "tittel": "Dokument 8:304 S (2025-2026)",
+   "tittel": "Representantforslag om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping.",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-304s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Bjørn Larsen og Helge André Njåstad om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping.",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:304 S",
    "dato": "2026-06-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Velferd og privatisering"
-   ]
+   ],
+   "dokument": "Dokument 8:304 S (2025-2026)"
   },
   {
    "id": "972b748737a39073",
-   "tittel": "Dokument 8:303 S (2025-2026)",
+   "tittel": "Representantforslag om å legge ned Jernbanedirektoratet",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-303s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Geir Inge Lien, Ole Herman Sveian og Bengt Fasteraune om å legge ned Jernbanedirektoratet",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:303 S",
    "dato": "2026-06-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:303 S (2025-2026)"
   },
   {
    "id": "8e3c089b9d1ac670",
-   "tittel": "Dokument 8:302 S (2025-2026)",
+   "tittel": "Representantforslag om forenkling og avbyråkratisering i jernbanesektoren",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-302s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:302 S",
    "dato": "2026-06-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:302 S (2025-2026)"
   },
   {
    "id": "7e73b1afa4b010f7",
-   "tittel": "Dokument 8:301 S (2025-2026)",
+   "tittel": "Representantforslag om å avvise innstramminger i regulering av snus",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-301s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:301 S",
    "dato": "2026-06-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:301 S (2025-2026)"
   },
   {
    "id": "a0d99075c36147f9",
-   "tittel": "Lovvedtak 90 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-090/",
    "ingress": "Vedtak til lov om endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 90",
    "dato": "2026-06-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Lovvedtak 90 (2025-2026)"
   },
   {
    "id": "86d2a6632dcb10be",
-   "tittel": "Lovvedtak 89 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-089/",
    "ingress": "Vedtak til lov om endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 89",
    "dato": "2026-06-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Lovvedtak 89 (2025-2026)"
   },
   {
    "id": "3fa8c4d3d5cef30d",
-   "tittel": "Lovvedtak 88 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i støtteprosessloven (registreringsplikt)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-088/",
    "ingress": "Vedtak til lov om endringer i støtteprosessloven (registreringsplikt)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 88",
    "dato": "2026-06-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 88 (2025-2026)"
   },
   {
    "id": "dfcda416e7117622",
-   "tittel": "Lovvedtak 87 (2025-2026)",
+   "tittel": "Lovvedtak om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-087/",
    "ingress": "Vedtak til lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 87",
    "dato": "2026-06-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 87 (2025-2026)"
   },
   {
    "id": "5dc1e8df0da46d57",
-   "tittel": "Dokument 8:300 S (2025-2026)",
+   "tittel": "Representantforslag om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-300s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:300 S",
    "dato": "2026-06-11T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig",
     "Energi og strøm"
-   ]
+   ],
+   "dokument": "Dokument 8:300 S (2025-2026)"
   },
   {
    "id": "1f62f26e48b22938",
-   "tittel": "Dokument 8:299 S (2025-2026)",
+   "tittel": "Representantforslag om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-299s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:299 S",
    "dato": "2026-06-11T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:299 S (2025-2026)"
   },
   {
    "id": "3fdffe15528676ff",
-   "tittel": "Lovvedtak 86 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i barnevernsloven (bedre beskyttelse av barn på institusjon)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-086/",
    "ingress": "Vedtak til lov om endringer i barnevernsloven (bedre beskyttelse av barn på institusjon)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 86",
    "dato": "2026-06-11T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 86 (2025-2026)"
   },
   {
    "id": "cf27211b6a3a5035",
-   "tittel": "Lovvedtak 85 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-085/",
    "ingress": "Vedtak til lov om endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 85",
    "dato": "2026-06-11T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Lovvedtak 85 (2025-2026)"
   },
   {
    "id": "79a0bd62818aed6b",
@@ -5333,29 +5476,31 @@
   },
   {
    "id": "f9235f1e19fc5bf4",
-   "tittel": "Lovvedtak 83 (2025-2026)",
+   "tittel": "Lovvedtak om datadeling og dataforvaltning (dataforvaltningsloven)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-083/",
    "ingress": "Vedtak til lov om datadeling og dataforvaltning (dataforvaltningsloven)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 83",
    "dato": "2026-06-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 83 (2025-2026)"
   },
   {
    "id": "f795aa3f5dd36aec",
-   "tittel": "Lovvedtak 84 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i straffeprosessloven",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-084/",
    "ingress": "Vedtak til lov om endringer i straffeprosessloven",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 84",
    "dato": "2026-06-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 84 (2025-2026)"
   },
   {
    "id": "6dfa9489dd5ab03d",
@@ -5385,83 +5530,89 @@
   },
   {
    "id": "890330d6a0867932",
-   "tittel": "Lovvedtak 82 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-082/",
    "ingress": "Vedtak til lov om endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 82",
    "dato": "2026-06-09T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "dokument": "Lovvedtak 82 (2025-2026)"
   },
   {
    "id": "0e2141f5ce61c0ba",
-   "tittel": "Lovvedtak 81 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i sikkerhetsloven (organisering av klareringsmyndigheten)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-081/",
    "ingress": "Vedtak til lov om endringer i sikkerhetsloven (organisering av klareringsmyndigheten)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 81",
    "dato": "2026-06-09T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 81 (2025-2026)"
   },
   {
    "id": "2edaa2798828e0e3",
-   "tittel": "Lovvedtak 80 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i politiregisterloven og grenseloven mv. (testing og utvikling av informasjonssystemer)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-080/",
    "ingress": "Vedtak til lov om endringer i politiregisterloven og grenseloven mv. (testing og utvikling av informasjonssystemer)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 80",
    "dato": "2026-06-09T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 80 (2025-2026)"
   },
   {
    "id": "90f73ad1852693aa",
-   "tittel": "Lovvedtak 79 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i konkursloven mv. (rekonstruksjonsforhandling)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-079/",
    "ingress": "Vedtak til lov om endringer i konkursloven mv. (rekonstruksjonsforhandling)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 79",
    "dato": "2026-06-09T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 79 (2025-2026)"
   },
   {
    "id": "662d368c178db0ae",
-   "tittel": "Lovvedtak 78 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i utleveringsloven (behandlinga av utleveringssaker)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-078/",
    "ingress": "Vedtak til lov om endringar i utleveringsloven (behandlinga av utleveringssaker)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 78",
    "dato": "2026-06-09T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 78 (2025-2026)"
   },
   {
    "id": "de96618748e40d4b",
-   "tittel": "Lovvedtak 77 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i straffeloven (involvering av mindreårige i kriminalitet)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-077/",
    "ingress": "Vedtak til lov om endringer i straffeloven (involvering av mindreårige i kriminalitet)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 77",
    "dato": "2026-06-09T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 77 (2025-2026)"
   },
   {
    "id": "e442f6204860c82f",
@@ -5480,72 +5631,77 @@
   },
   {
    "id": "52ba26de57ed68b3",
-   "tittel": "Dokument 8:298 S (2025-2026)",
+   "tittel": "Representantforslag om innføring av makspris på egenandeler knyttet til praktisk bistand",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-298s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:298 S",
    "dato": "2026-06-08T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:298 S (2025-2026)"
   },
   {
    "id": "a1e7e1f9ef267730",
-   "tittel": "Lovvedtak 76 (2025-2026)",
+   "tittel": "Lovvedtak om justering av karbonpris ved import av varer til EØS (CBAM-loven)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-076/",
    "ingress": "Vedtak til lov om justering av karbonpris ved import av varer til EØS (CBAM-loven)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 76",
    "dato": "2026-06-08T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Lovvedtak 76 (2025-2026)"
   },
   {
    "id": "ec97b342ce0aa7dd",
-   "tittel": "Lovvedtak 75 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i klimakvoteloven og forurensningsloven (utvidet virkeområde)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-075/",
    "ingress": "Vedtak til lov om endringer i klimakvoteloven og forurensningsloven (utvidet virkeområde)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 75",
    "dato": "2026-06-08T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 75 (2025-2026)"
   },
   {
    "id": "dc0c66aa0a6737d0",
-   "tittel": "Lovvedtak 74 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i bærekraftige produkter-loven (hjemmel for bærekrafts- og utslippsreduksjonskriterier i EUs fornybardirektiv)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-074/",
    "ingress": "Vedtak til lov om endringer i bærekraftige produkter-loven (hjemmel for bærekrafts- og utslippsreduksjonskriterier i EUs fornybardirektiv)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 74",
    "dato": "2026-06-08T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Lovvedtak 74 (2025-2026)"
   },
   {
    "id": "27b9937520407228",
-   "tittel": "Lovvedtak 73 (2025-2026)",
+   "tittel": "Lovvedtak om motorferdsel i utmark og vassdrag (motorferdselloven)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-073/",
    "ingress": "Vedtak til lov om motorferdsel i utmark og vassdrag (motorferdselloven)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 73",
    "dato": "2026-06-08T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 73 (2025-2026)"
   },
   {
    "id": "c18d92509a9d7007",
@@ -5562,316 +5718,339 @@
   },
   {
    "id": "c31e6754dc7e38d6",
-   "tittel": "Lovvedtak 71 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i bustøttelova (handsaming av personopplysningar og automatiserte avgjerder)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-071/",
    "ingress": "Vedtak til lov om endringar i bustøttelova (handsaming av personopplysningar og automatiserte avgjerder)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 71",
    "dato": "2026-06-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 71 (2025-2026)"
   },
   {
    "id": "0ee046ac8e977444",
-   "tittel": "Lovvedtak 70 (2025-2026)",
+   "tittel": "Lovvedtak om særavgifter (særavgiftsloven)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-070/",
    "ingress": "Vedtak til lov om særavgifter (særavgiftsloven)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 70",
    "dato": "2026-06-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "dokument": "Lovvedtak 70 (2025-2026)"
   },
   {
    "id": "92640ad0c7d1a77b",
-   "tittel": "Lovvedtak 69 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-069/",
    "ingress": "Vedtak til lov om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 69",
    "dato": "2026-06-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Lovvedtak 69 (2025-2026)"
   },
   {
    "id": "381f869d740c6da1",
-   "tittel": "Lovvedtak 67 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i opplæringslova og barnehageloven mv.",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-067/",
    "ingress": "Vedtak til lov om endringer i opplæringslova og barnehageloven mv.",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 67",
    "dato": "2026-06-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Velferd og privatisering"
-   ]
+   ],
+   "dokument": "Lovvedtak 67 (2025-2026)"
   },
   {
    "id": "31358d06c87026da",
-   "tittel": "Lovvedtak 72 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i privatskolelova (vilkår for godkjenning av skoler på grunnlag av livssyn)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-072/",
    "ingress": "Vedtak til lov om endringer i privatskolelova (vilkår for godkjenning av skoler på grunnlag av livssyn)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 72",
    "dato": "2026-06-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 72 (2025-2026)"
   },
   {
    "id": "ee471de79149b8ad",
-   "tittel": "Lovvedtak 68 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i viltressursloven (endring av krav om merking av feller og bruk av drone ved ettersøk av storvilt med jakttid)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-068/",
    "ingress": "Vedtak til lov om endringer i viltressursloven (endring av krav om merking av feller og bruk av drone ved ettersøk av storvilt med jakttid)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 68",
    "dato": "2026-06-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 68 (2025-2026)"
   },
   {
    "id": "e930c1c10a75c466",
-   "tittel": "Lovvedtak 66 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende …",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-066/",
    "ingress": "Vedtak til lov om endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 66",
    "dato": "2026-06-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Lovvedtak 66 (2025-2026)"
   },
   {
    "id": "c1a729521259753f",
-   "tittel": "Lovvedtak 65 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-065/",
    "ingress": "Vedtak til lov om endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 65",
    "dato": "2026-06-05T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 65 (2025-2026)"
   },
   {
    "id": "fffa0b35a538675a",
-   "tittel": "Lovvedtak 64 (2025-2026)",
+   "tittel": "Lovvedtak om endringar i brukerromsloven og helse- og omsorgstjenesteloven (målgruppe, driftsavtale og unntak frå krava til brukarromlokala)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-064/",
    "ingress": "Vedtak til lov om endringar i brukerromsloven og helse- og omsorgstjenesteloven (målgruppe, driftsavtale og unntak frå krava til brukarromlokala)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 64",
    "dato": "2026-06-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 64 (2025-2026)"
   },
   {
    "id": "7f05f1259ee6e39d",
-   "tittel": "Lovvedtak 63 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i politiloven (generell bevæpning av politiet)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-063/",
    "ingress": "Vedtak til lov om endringer i politiloven (generell bevæpning av politiet)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 63",
    "dato": "2026-06-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 63 (2025-2026)"
   },
   {
    "id": "b2e8452baa208c35",
-   "tittel": "Lovvedtak 62 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-062/",
    "ingress": "Vedtak til lov om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 62",
    "dato": "2026-06-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 62 (2025-2026)"
   },
   {
    "id": "639e89eadc0f6b03",
-   "tittel": "Lovvedtak 61 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i straffeprosessloven mv. (skjult kameraovervåking ved bruk av mobilt kamera m.m.)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-061/",
    "ingress": "Vedtak til lov om endringer i straffeprosessloven mv. (skjult kameraovervåking ved bruk av mobilt kamera m.m.)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 61",
    "dato": "2026-06-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 61 (2025-2026)"
   },
   {
    "id": "3b4d07a735543590",
-   "tittel": "Lovvedtak 60 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-060/",
    "ingress": "Vedtak til lov om endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 60",
    "dato": "2026-06-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 60 (2025-2026)"
   },
   {
    "id": "6da266dd22c7d4c0",
-   "tittel": "Lovvedtak 59 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i utleveringsloven (samarbeid med Den europeiske påtalemyndighet mv.)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-059/",
    "ingress": "Vedtak til lov om endringer i utleveringsloven (samarbeid med Den europeiske påtalemyndighet mv.)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 59",
    "dato": "2026-06-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Lovvedtak 59 (2025-2026)"
   },
   {
    "id": "a442f13e28723778",
-   "tittel": "Lovvedtak 58 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i utlendingsloven (gjennomføring av Eurodac-forordningen, forordning om asyl- og migrasjonshåndtering og kriseforordningen i norsk rett)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-058/",
    "ingress": "Vedtak til lov om endringer i utlendingsloven (gjennomføring av Eurodac-forordningen, forordning om asyl- og migrasjonshåndtering og kriseforordningen i norsk rett)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 58",
    "dato": "2026-06-03T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Lovvedtak 58 (2025-2026)"
   },
   {
    "id": "2092b6d09bccee2f",
-   "tittel": "Lovvedtak 57 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-057/",
    "ingress": "Vedtak til lov om endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 57",
    "dato": "2026-06-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "dokument": "Lovvedtak 57 (2025-2026)"
   },
   {
    "id": "e31aaa944f14f4b0",
-   "tittel": "Lovvedtak 56 (2025-2026)",
+   "tittel": "Lovvedtak om infrastruktur for alternativt drivstoff",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-056/",
    "ingress": "Vedtak til lov om infrastruktur for alternativt drivstoff",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 56",
    "dato": "2026-06-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 56 (2025-2026)"
   },
   {
    "id": "e8b993d04eb10fdb",
-   "tittel": "Lovvedtak 55 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i politiloven og tvangsfullbyrdelsesloven m.m. (kjønnsnøytrale betegnelser)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-055/",
    "ingress": "Vedtak til lov om endringer i politiloven og tvangsfullbyrdelsesloven m.m. (kjønnsnøytrale betegnelser)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 55",
    "dato": "2026-06-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 55 (2025-2026)"
   },
   {
    "id": "8276e6f474bc2227",
-   "tittel": "Lovvedtak 54 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-054/",
    "ingress": "Vedtak til lov om endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 54",
    "dato": "2026-06-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 54 (2025-2026)"
   },
   {
    "id": "9e1ef37a10416ebf",
-   "tittel": "Lovvedtak 53 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-053/",
    "ingress": "Vedtak til lov om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 53",
    "dato": "2026-06-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 53 (2025-2026)"
   },
   {
    "id": "1955806bf764a95b",
-   "tittel": "Lovvedtak 52 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i bokføringsloven og enkelte andre lover på finansmarkedsområdet (pliktig digital bokføring og e-fakturering mv.)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-052/",
    "ingress": "Vedtak til lov om endringer i bokføringsloven og enkelte andre lover på finansmarkedsområdet (pliktig digital bokføring og e-fakturering mv.)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 52",
    "dato": "2026-06-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 52 (2025-2026)"
   },
   {
    "id": "6c028373ee6c403b",
-   "tittel": "Lovvedtak 51 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i universitets- og høyskoleloven mv. (egenbetaling, advokatutgifter)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-051/",
    "ingress": "Vedtak til lov om endringer i universitets- og høyskoleloven mv. (egenbetaling, advokatutgifter)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 51",
    "dato": "2026-06-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 51 (2025-2026)"
   },
   {
    "id": "f7cfbadc5702f9fc",
-   "tittel": "Dokument 8:297 S (2025-2026)",
+   "tittel": "Representantforslag om regulering av prediksjonsmarkeder og styrket tilsyn",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-297s/",
    "ingress": "Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll, Ingrid Fiskaa og Kathy Lie om regulering av prediksjonsmarkeder og styrket tilsyn",
    "kilde": "Stortinget – representantforslag",
    "kategori": "Storting",
-   "type": "",
+   "type": "Dokument 8:297 S",
    "dato": "2026-06-01T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Dokument 8:297 S (2025-2026)"
   },
   {
    "id": "b6b63e0844051cac",
@@ -5890,128 +6069,107 @@
   },
   {
    "id": "ea9dad7fb00bf4e8",
-   "tittel": "Lovvedtak 50 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i integreringsloven (integreringserklæring)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-050/",
    "ingress": "Vedtak til lov om endringer i integreringsloven (integreringserklæring)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 50",
    "dato": "2026-05-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 50 (2025-2026)"
   },
   {
    "id": "87aee6a318aa678c",
-   "tittel": "Lovvedtak 49 (2025-2026)",
+   "tittel": "Lovvedtak om særskilt innsats mot negativ sosial kontroll og æresmotivert vold",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-049/",
    "ingress": "Vedtak til lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 49",
    "dato": "2026-05-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 49 (2025-2026)"
   },
   {
    "id": "3c9c2e153fe6306c",
-   "tittel": "Lovvedtak 48 (2025-2026)",
+   "tittel": "Lovvedtak om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-048/",
    "ingress": "Vedtak til lov om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 48",
    "dato": "2026-05-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 48 (2025-2026)"
   },
   {
    "id": "dbf784545d907200",
-   "tittel": "Lovvedtak 47 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i arbeidsmiljøloven (hjemmel for oppdragsgiveransvar for å sikre overholdelse av krav om HMS-kort) – BERIKTIGET",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-047/",
    "ingress": "Vedtak til lov om endringer i arbeidsmiljøloven (hjemmel for oppdragsgiveransvar for å sikre overholdelse av krav om HMS-kort) – BERIKTIGET",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 47",
    "dato": "2026-05-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "dokument": "Lovvedtak 47 (2025-2026)"
   },
   {
    "id": "0d56fb3712ee259c",
-   "tittel": "Lovvedtak 46 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i lov om pensjonsordning for sykepleiere (opptjening under permisjon ved mottak av pleiepenger)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-046/",
    "ingress": "Vedtak til lov om endringer i lov om pensjonsordning for sykepleiere (opptjening under permisjon ved mottak av pleiepenger)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 46",
    "dato": "2026-05-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Lovvedtak 46 (2025-2026)"
   },
   {
    "id": "dc77d5b9a23d2c9a",
-   "tittel": "Lovvedtak 45 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-045/",
    "ingress": "Vedtak til lov om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 45",
    "dato": "2026-05-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "dokument": "Lovvedtak 45 (2025-2026)"
   },
   {
    "id": "68e57314be15f796",
-   "tittel": "Lovvedtak 44 (2025-2026)",
+   "tittel": "Lovvedtak om endringer i folketrygdloven (delvis avvikling av stønad til enslig mor eller far)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-044/",
    "ingress": "Vedtak til lov om endringer i folketrygdloven (delvis avvikling av stønad til enslig mor eller far)",
    "kilde": "Stortinget – lovvedtak",
    "kategori": "Storting",
-   "type": "",
+   "type": "Lovvedtak 44",
    "dato": "2026-05-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
-  },
-  {
-   "id": "a0a9af78fb41f5a9",
-   "tittel": "Lovvedtak 43 (2025-2026)",
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-043/",
-   "ingress": "Vedtak til lov om endringer i straffeloven (selvstendig inndragning m.m.)",
-   "kilde": "Stortinget – lovvedtak",
-   "kategori": "Storting",
-   "type": "",
-   "dato": "2026-05-26T00:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
-  },
-  {
-   "id": "475683b89c148170",
-   "tittel": "Lovvedtak 42 (2025-2026)",
-   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2025-2026/vedtak-202526-042/",
-   "ingress": "Vedtak til lov om endringer i energiloven (utnyttelse av overskuddsvarme og krav til automatiske styringssystemer)",
-   "kilde": "Stortinget – lovvedtak",
-   "kategori": "Storting",
-   "type": "",
-   "dato": "2026-05-26T00:00:00Z",
-   "viktig": false,
-   "funnet": "2026-11-21T23:14:53Z",
-   "temaer": [
-    "Energi og strøm"
-   ]
+   ],
+   "dokument": "Lovvedtak 44 (2025-2026)"
   }
  ],
  "kalender": [
@@ -6091,14 +6249,14 @@
   },
   {
    "dato": "2026-11-26",
-   "tittel": "Reiseundersøkelsen, Tall for 3. kvartal 2026",
-   "lenke": "https://www.ssb.no/transport-og-reiseliv/reiseliv/statistikk/reiseundersokelsen",
+   "tittel": "Nasjonalregnskap, Tall for juli 2026",
+   "lenke": "https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap",
    "temaer": []
   },
   {
    "dato": "2026-11-26",
-   "tittel": "Nasjonalregnskap, Tall for juli 2026",
-   "lenke": "https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap",
+   "tittel": "Reiseundersøkelsen, Tall for 3. kvartal 2026",
+   "lenke": "https://www.ssb.no/transport-og-reiseliv/reiseliv/statistikk/reiseundersokelsen",
    "temaer": []
   },
   {
@@ -6219,14 +6377,14 @@
   },
   {
    "dato": "2026-12-07",
-   "tittel": "Omsetning i olje og gass, industri, bergverk og kraftforsyning , Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning",
+   "tittel": "Produksjonsindeks for olje og gass, industri, bergverk og kraftforsyning, Tall for oktober 2026",
+   "lenke": "https://www.ssb.no/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning",
    "temaer": []
   },
   {
    "dato": "2026-12-07",
-   "tittel": "Produksjonsindeks for olje og gass, industri, bergverk og kraftforsyning, Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/energi-og-industri/industri-og-bergverksdrift/statistikk/produksjonsindeks-for-olje-og-gass-industri-bergverk-og-kraftforsyning",
+   "tittel": "Omsetning i olje og gass, industri, bergverk og kraftforsyning , Tall for oktober 2026",
+   "lenke": "https://www.ssb.no/energi-og-industri/industri-og-bergverksdrift/statistikk/omsetning-i-olje-og-gass-industri-bergverk-og-kraftforsyning",
    "temaer": []
   },
   {
@@ -6367,14 +6525,14 @@
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
-   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
+   "tittel": "Utenrikshandel med varer, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
    "temaer": []
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Utenrikshandel med varer, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
+   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
+   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
    "temaer": []
   },
   {
@@ -6441,9 +6599,11 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
-   "temaer": []
+   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
+   "temaer": [
+    "Skatt"
+   ]
   },
   {
    "dato": "2026-12-21",
@@ -6453,11 +6613,9 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
-   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
-   "temaer": [
-    "Skatt"
-   ]
+   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
+   "temaer": []
   },
   {
    "dato": "2026-12-21",
@@ -6470,6 +6628,28 @@
    "tittel": "Leiemarkedsundersøkelsen, Tall for 2026",
    "lenke": "https://www.ssb.no/priser-og-prisindekser/boligpriser-og-boligprisindekser/statistikk/leiemarkedsundersokelsen",
    "temaer": []
+  },
+  {
+   "dato": "2026-12-22",
+   "tittel": "Antall arbeidsforhold og lønn, Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn",
+   "temaer": [
+    "Arbeid og trygd"
+   ]
+  },
+  {
+   "dato": "2026-12-22",
+   "tittel": "Arbeidskraftundersøkelsen , Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen",
+   "temaer": []
+  },
+  {
+   "dato": "2026-12-22",
+   "tittel": "Skatt for personer, Tall for 2025",
+   "lenke": "https://www.ssb.no/inntekt-og-forbruk/skatt-for-personer/statistikk/skatt-for-personer",
+   "temaer": [
+    "Skatt"
+   ]
   }
  ],
  "status": [
