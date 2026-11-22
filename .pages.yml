@@ -1,0 +1,40 @@
+# Oppsett for Pages CMS (app.pagescms.org): skjemaet for «Utvalgt» på forsiden.
+
+content:
+  - name: utvalgt
+    label: Utvalgt på forsiden
+    description: Saker du vil fremheve på forsiden av valgogpolitikk.no. Forsiden viser de fire nyeste. Er ingen valgt ut de siste 14 dagene, viser den «Løpende».
+    type: file
+    path: utvalgt.yaml
+    format: yaml
+    fields:
+      - name: utvalgt
+        label: Utvalgte saker
+        description: Legg nye saker øverst.
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{kommentar}"
+        fields:
+          - name: lenke
+            label: Lenke til saken
+            description: Tittel og kilde hentes automatisk hvis saken er i kildeovervåkingen.
+            type: string
+            required: true
+          - name: kommentar
+            label: Kommentar
+            description: Én setning om hvorfor saken er viktig.
+            type: text
+          - name: tittel
+            label: Egen tittel
+            description: Valgfri. Bruk den hvis saken ikke er i kildeovervåkingen.
+            type: string
+          - name: kilde
+            label: Kilde
+            description: Valgfri. Navn på kilden, hvis den ikke finnes automatisk.
+            type: string
+          - name: dato
+            label: Dato
+            description: Valgfri. Ellers brukes sakens egen dato.
+            type: date

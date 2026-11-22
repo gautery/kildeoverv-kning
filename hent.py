@@ -494,6 +494,11 @@ def les_utvalgt(arkiv: dict, matchere) -> list[dict]:
         lenke = ren_lenke(str(u["lenke"]))
         sak = etter_lenke.get(lenke, {})
         dato = u.get("dato")
+        if isinstance(dato, str):   # redigeringsverktøyet kan lagre datoen som tekst
+            try:
+                dato = datetime.strptime(dato.strip()[:10], "%Y-%m-%d").date()
+            except ValueError:
+                dato = None
         ut.append({
             "id": lag_id("utvalgt", lenke),
             "tittel": str(u.get("tittel") or sak.get("tittel") or lenke),
