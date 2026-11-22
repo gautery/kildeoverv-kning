@@ -133,13 +133,17 @@ kilder:
     lenke_mønster: '^https://(www\.)?mdg\.no/politikk/aktuelt/nyhet/[^/?#]+$'
     kategori: Parti
 
+  # FrP: nettsiden er bak Cloudflare og avviser automatiske besøk. Avslått inntil videre.
   - navn: FrP
+    aktiv: false
     type: nettside
     url: https://www.frp.no/nyheter
     lenke_mønster: '^https://www\.frp\.no/(nyheter|aktuelt)/[^/?#]+/?$'
     kategori: Parti
 
+  # Rødt: nettsiden svarer ikke på besøk fra GitHub. Avslått inntil videre.
   - navn: Rødt
+    aktiv: false
     type: nettside
     url: https://rodt.no/nyheter
     lenke_mønster: '^https://(www\.)?rodt\.no/(nyheter|aktuelt)/[^/?#]+/?$'
