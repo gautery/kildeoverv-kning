@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 16:16. Viser de siste 14 dagene (179 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 18:40. Viser de siste 14 dagene (182 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -27,11 +27,7 @@ _Sist oppdatert 22.11.2026 kl. 16:16. Viser de siste 14 dagene (179 saker). ★ 
 
 ### Søndag 22. november
 
-- [Atypisk arbeidstid](https://www.fafo.no/publikasjoner/fafo-notater/atypisk-arbeidstid) — Fafo · _EU og EØS_
 - [Hva i alle dager er et styringsparti?](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWxzQkU2QXRLbDNrZ2VJZC1ZWEtYdUk2YjZKX2k4WXNQdjd6Mm5IM0UxdUZBQWtuSm1qWFhoamtmMGRpNm5DeUdKR0U0bEdNYXBFWjg2ck5PQXNPYVRIYzZwOW5GVENZdjRNcWVVTmZPMGNlWnFuaHdkUVp6Yy1YOWE3V0k4bk91d2VuQlhlOUFUMHFY?oc=5) — Civita
-- [The future of work](https://www.fafo.no/publikasjoner/fafo-rapporter/the-future-of-work) — Fafo · _Arbeid og trygd, Velferd og privatisering_
-- [Nye tjenester på postkontorene?](https://www.fafo.no/publikasjoner/fafo-rapporter/nye-tjenester-pa-postkontorene) — Fafo
-- [Tidsfordriv og kompetanse](https://www.fafo.no/publikasjoner/fafo-rapporter/tidsfordriv-og-kompetanse) — Fafo
 - [Lansering: Ny rapport om skjult eierskap](https://taxjustice.no/artikkel/lansering-ny-rapport-om-skjult-eierskap) — Tax Justice Norge
 - [Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498) — Stortinget – høringer i komiteene
 - [Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (S-delen)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505) — Stortinget – høringer i komiteene · _EU og EØS_
@@ -69,6 +65,7 @@ _Sist oppdatert 22.11.2026 kl. 16:16. Viser de siste 14 dagene (179 saker). ★ 
 - [GI-10/2026 - Instruks til Utlendingsdirektoratet om innkvartering av asylsøkere](https://www.regjeringen.no/no/dokumenter/gi-102026-instruks-til-utlendingsdirektoratet-om-innkvartering-av-asylsokere/id3194213/) — Regjeringen · Dokument
 - [Forslag om endringer i forskrift til tilskuddsordning for kriminalitetsforebygging sendes på høring](https://www.regjeringen.no/no/aktuelt/forslag-om-endringer-i-forskrift-til-tilskuddsordning-for-kriminalitetsforebygging-sendes-pa-horing/id3194151/) — Regjeringen
 - [KrFs alternative statsbudsjett for 2027](https://krf.no/nyheter/krfs-alternative-statsbudsjett-for-2027/) — KrF · _Offentlige finanser_
+- [Lars Fr. Svendsen om Thomas Aquinas](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFN25rNWplRWN1SVQ5MVMwZ2ZSTG41WE1IVGRsMHZIM2dLQi1OUFJoUUVDalQ0WnlESGtySjhUMm44VUdCR2h4OUlneEl0MHU2TGd1aGl6c0FBNGVLa0tPQXZwMTFYTTBYN2g3M2lR?oc=5) — Civita
 - [Problemene med skjema KRT-1004 Egenmelding fra regnskapsforetak er nå løst](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/problemene-med-skjema-krt-1004-egenmelding-fra-regnskapsforetak-er-na-lost/) — Finanstilsynet
 - [Invitasjon: Fagseminar og presentasjon av Finansielt utsyn 3. desember 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/invitasjon-fagseminar-og-presentasjon-av-finansielt-utsyn-3.-desember-2026) — Finanstilsynet
 - [Folkevekst på 9 700 i 3. kvartal](https://www.ssb.no/befolkning/folketall/statistikk/befolkning/artikler/folkevekst-paa-9-700-i-3-kvartal) — SSB
@@ -190,13 +187,16 @@ _Sist oppdatert 22.11.2026 kl. 16:16. Viser de siste 14 dagene (179 saker). ★ 
 - [Setter av 1 milliard til fysiske lærebøker](https://hoyre.no/2026/11/13/milliard-til-fysiske-boker-i-hoyres-budsjett/) — Høyre
 - [Vil stanse helseforetakenes høye lederlønnsavtaler](https://www.senterpartiet.no/aktuelt/vil-stanse-helseforetakenes-hoye-lederlonnsavtaler) — Senterpartiet · _Arbeid og trygd_
 - [Jonas Kittelsen: Verden venter på oss. Et kampskrift for en levelig framtid](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjkyTHZMRzdDQ21mQjNRdFlqQUlqR1psS0d4M2luekhJOWdRLUxqOVE4MWNuQkZoS0l4cVVmTGhHNGd1SVdXMUYzTE53SnZuRnFuTEJ6VkFFd3MwMkg5NkN5Z18xNFo4ZjNsclFqSlZsNU5ZQUlXZ0trREh2SmpvNmRHQm1YWFVPU1lXQU8zNVFJbUlfSEVmRFAtYkp2bEFKWmdxUlB5YzFwZw?oc=5) — Civita
+- [Togtallene er enda verre enn de DN viser til](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX0kwbS0zZ3liMHRZOFBKckJLVjRmQlNJaldLbzdPMzExeHZMYTdtSEI4OTZQbUlreTFRYUJDQ3haZnNyRmx3MkFXcnpMNk1hT2kycXlhZFZXa2hQcUZ4My1MLVAtS25uNV9HSFpVMnE2ejNGcEdXWW1zNnpib3gxNEF1QWN5LTA2VkxtTDB4aWwyeWNneWlWdVFIbDUyOFhwV1llSW9lVExQcWp0UzNIX0VYU01HMGR6V2dhSlJ2RGt4UQ?oc=5) — Civita
 - [Leverer hele skatteløftet på halve tiden](https://hoyre.no/2026/11/13/leverer-hele-skatteloftet-pa-halve-tiden/) — Høyre · _Skatt_
 - [Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328) — Stortinget – høringer i komiteene
 
 ### Torsdag 12. november
 
 - [Arbeidskraft og regnekraft](https://www.fafo.no/publikasjoner/fafo-rapporter/arbeidskraft-og-regnekraft) — Fafo
+- [Europa må bli mer geopolitisk uavhengig](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjVGNVdJS1ZjbTB0bVR4MkpvMWZ1S1o3NnFINXRucUJScUxSa0VWb2dGUDlnMDFDS0lXeVJVOE5nYmdja1AzeF9GSGlBTmwzcUR6c0xTaGtUSFNWX1VYWVhoNmttWmtNdE9heWZxVjhpVTBqdkhCb3RCVjl6eEU3UUQxOHFZTlJ4WEZPSDFhczVxb2dfSDQw?oc=5) — Civita
 - [Bedrifter frykter negativ omtale og overtredelsesgebyr](https://konkurransetilsynet.no/bedrifter-frykter-negativ-omtale-og-overtredelsesgebyr/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
+- [Har Norge verdens dyreste skole?](https://news.google.com/rss/articles/CBMingFBVV95cUxOY0gtY1RnLTFwMjJpaVVxUGxvVW1Ld0lRVTNhamh5WFZyTmpoQUxvbTMxek9tcUZqR1FNV3hLSGZ5dlRSZ3pHUFd4eU9MNXpiOHB0RkUzSUowMTJqb2xyaWxPQnpQdXAzdG1DUU9ZekgyclpETk45NTB5UEZXQU93SHRtWnR1NWxsN256R0JaWVItSFVSTlVfRmx3XzBFdw?oc=5) — Civita
 - [Representantforslag om å senke terskelen for fengsling av farlige ungdommer](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-044s/) — Stortinget – representantforslag · Dokument 8:44 S
 - [Representantforslag om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-043s/) — Stortinget – representantforslag · Dokument 8:43 S
 - [Representantforslag om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-045s/) — Stortinget – representantforslag · Dokument 8:45 S · _Markedsmakt og konkurranse_
@@ -221,6 +221,7 @@ _Sist oppdatert 22.11.2026 kl. 16:16. Viser de siste 14 dagene (179 saker). ★ 
 
 ### Tirsdag 10. november
 
+- [Rekordlang liste til Kommunevalget 2027](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nYnRxbnRQZXl6cjZFZl83UzJXeU5KdjlRYVRfWjZLX3JrYy1UMHRtX1phVzBxN2Npb1daQkM1ajhySVg4NWQ1WEFESHMyT01DVXlFdU00SU9mMTFFMlVNRFFaWDY5cDI5REp2VFZBTUtjSVJZQUtwSk5icE9mZw?oc=5) — FrP
 - [Vil styrke PST med 50 millioner kroner](https://hoyre.no/2026/11/10/vil-styrke-pst-med-50-millioner-kroner/) — Høyre
 - ★ [Usikkerhet om vesentlige beløp i statens regnskaper](https://kommunikasjon.ntb.no/pressemelding/19135699/usikkerhet-om-vesentlige-belop-i-statens-regnskaper?lang=no) — Riksrevisjonen · Riksrevisjonen · _Skatt, Offentlige finanser, Arbeid og trygd_
 - ★ [Klima- og skoginitiativet: Klima- og miljødepartementet forvalter ikke tilskudd i tråd med regelverket](https://kommunikasjon.ntb.no/pressemelding/19135828/klima-og-skoginitiativet-klima-og-miljodepartementet-forvalter-ikke-tilskudd-i-trad-med-regelverket?lang=no) — Riksrevisjonen · Riksrevisjonen · _Ulikhet og fordeling_
@@ -229,8 +230,10 @@ _Sist oppdatert 22.11.2026 kl. 16:16. Viser de siste 14 dagene (179 saker). ★ 
 - ★ [Stortinget har fulgt opp undersøkelsen av stortingsrepresentantenes økonomiske ordninger](https://kommunikasjon.ntb.no/pressemelding/19135745/stortinget-har-fulgt-opp-undersokelsen-av-stortingsrepresentantenes-okonomiske-ordninger?lang=no) — Riksrevisjonen · Riksrevisjonen
 - [Vil ha spleiselag for nitrogenrensing](https://hoyre.no/2026/11/10/vil-ha-spleiselag-for-nitrogenrensing/) — Høyre
 - [Svindelstatistikk første halvår 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/svindelstatistikk-forste-halvar-2026/) — Finanstilsynet
+- [Europas ustemte Ukraina-kor i Abu Dhabi](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkJqRHFYWkFVZUw3dmltWV90SXNsdUNPV3FwXzVPZ1dVd1lvZUJlX3hCM3RpVFRQeWJsV2RQcG12UWhGQ3ItMEcwZW5veElZbU8zOUwtcWhhWTAtTjF6bWpFUGR0dHhZSFBnckx4UmY5N1V0Y2UycUJlU2dzOGtMU3ZRdmN6WUY5Ml9SMm14SG5iOHRCRmtiQw?oc=5) — Civita
 - [Frp vil selge fellesskapets verdier](https://www.senterpartiet.no/aktuelt/frp-vil-selge-fellesskapets-verdier) — Senterpartiet
 - [Egenmelding fra revisjonsforetak (KRT-1001) - rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-revisjonsforetak-krt-1001---rapportering/) — Finanstilsynet
+- [Ungarn og demokratiet](https://news.google.com/rss/articles/CBMigAFBVV95cUxNMXQ5d2llSy1jd3FEMUY4SWhTU2xKam82dXBsSXZGUHFjeFd0ZnhlOEVHUmU0X09VNjY3RzhRWWZsYnNpcjlJR1BxTUNkeldCY3JWUlQ2NmFyRDZ1N3RLUm9JcEZVMVlETkYzbVd1TWo1UkZpRkpQLU9TYTdQVVNrdA?oc=5) — Civita
 - ★ [Pressekonferanse i dag: Hva viser den årlige rapporten til Stortinget om statens regnskaper 2025?](https://kommunikasjon.ntb.no/pressemelding/19133724/pressekonferanse-i-dag-hva-viser-den-arlige-rapporten-til-stortinget-om-statens-regnskaper-2025?lang=no) — Riksrevisjonen · Riksrevisjonen · _Offentlige finanser_
 - [Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-040s/) — Stortinget – representantforslag · Dokument 8:40 S
 - [Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-039s/) — Stortinget – representantforslag · Dokument 8:39 S
