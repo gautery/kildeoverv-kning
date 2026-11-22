@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 03:18. Viser de siste 14 dagene (166 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 03:20. Viser de siste 14 dagene (167 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -27,6 +27,7 @@ _Sist oppdatert 22.11.2026 kl. 03:18. Viser de siste 14 dagene (166 saker). ★ 
 
 ### Søndag 22. november
 
+- [Nye tjenester på postkontorene?](https://www.fafo.no/publikasjoner/fafo-rapporter/nye-tjenester-pa-postkontorene) — Fafo
 - [Tidsfordriv og kompetanse](https://www.fafo.no/publikasjoner/fafo-rapporter/tidsfordriv-og-kompetanse) — Fafo
 - [Lansering: Ny rapport om skjult eierskap](https://taxjustice.no/artikkel/lansering-ny-rapport-om-skjult-eierskap) — Tax Justice Norge
 - [Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498) — Stortinget – høringer i komiteene
@@ -232,6 +233,4 @@ _Sist oppdatert 22.11.2026 kl. 03:18. Viser de siste 14 dagene (166 saker). ★ 
 
 ## Status for kildene
 
-Disse kildene feilet ved siste kjøring:
-- ⚠️ **Stortinget – lovvedtak**: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-- ⚠️ **Stortinget – høringer i komiteene**: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Alle 32 kildene svarte normalt ved siste kjøring.

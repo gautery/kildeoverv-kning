@@ -16,13 +16,13 @@
  },
  {
   "navn": "Stortinget – lovvedtak",
-  "ok": false,
-  "feil": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "ok": true,
+  "feil": null
  },
  {
   "navn": "Stortinget – høringer i komiteene",
-  "ok": false,
-  "feil": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "ok": true,
+  "feil": null
  },
  {
   "navn": "Riksrevisjonen",
