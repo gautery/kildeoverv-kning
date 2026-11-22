@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 13:13. Viser de siste 14 dagene (173 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 16:16. Viser de siste 14 dagene (179 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -57,6 +57,7 @@ _Sist oppdatert 22.11.2026 kl. 13:13. Viser de siste 14 dagene (173 saker). ★ 
 
 - [Når kommer KI-kuttene i offentlig sektor?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3VlX3R3cTFTWGdvV2hSU0NVUUpTN05wTm03SE1YNnhzT0ticXdZaXZMdDNzaVByWVMtNlJJbHlkVFd0M1BPRWZFOTJNNGtMMWJxclFwTmZsZHluNUNNb0lOUTZmbXlGRFlXU3J0Qjk3N1laQlBpeVc5V25veXFpNzl1dlJDem44UUd5VThTdlc5RmM4Rm56bHluNXhUNDRNckREc2IwU3RMUQ?oc=5) — Civita · _Offentlige finanser_
 - [Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser](https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/) — Regjeringen
+- [Lukkast skulen med sosial utjamning?](https://news.google.com/rss/articles/CBMibEFVX3lxTFBaR081OFB1RXJNU0xaRWhSSzlGSl93bVBXd1hCLUNzR2lmREdVemtURkZ2QlZPR21XbVo4TEY2ZTFtUndBVGJPRXdEMXdaYTNSd285WHh6dkNLTmdOVFY3eEJ3VGdxSmNXMTFnNw?oc=5) — Civita
 - [Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad](https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/) — Regjeringen
 - [Høring - forslag til endringer i folketrygdloven mv. – utstedelse av legeerklæring mv.](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-folketrygdloven-mv.-utstedelse-av-legeerklaring-mv/id3193969/) — Regjeringen · Høring · _Arbeid og trygd_
 - [Et viktig skritt på veien mot ny sykmeldingsløsning](https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/) — Regjeringen · _Arbeid og trygd_
@@ -82,8 +83,10 @@ _Sist oppdatert 22.11.2026 kl. 13:13. Viser de siste 14 dagene (173 saker). ★ 
 ### Torsdag 19. november
 
 - [Enorme og målretta kutt i norsk matproduksjon](https://www.senterpartiet.no/aktuelt/enorme-og-malretta-kutt-i-norsk-matproduksjon) — Senterpartiet
+- [Fossil energi er ikke tobakk](https://news.google.com/rss/articles/CBMifEFVX3lxTE5TTW80d3BQQnZpS195b0NyYUdXZ1FEcWRDeFI2dHVkVWl5TUJ5QnA2bHRBYWRrN0ppNGtpUTBvVWMyTDc5dG00LU5CcEUwZFJOY2Z2akZxLUZmb28tejFIWHoyTWxpZk5XRHJURkZ3cjdzZW1tcWUwZGJJWGM?oc=5) — Civita · _Energi og strøm_
 - [Konkurransetilsynet støttar informasjonsdeling mot økonomisk kriminalitet](https://konkurransetilsynet.no/konkurransetilsynet-stottar-informasjonsdeling-mot-okonomisk-kriminalitet/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
 - [Festning Europa bygger høyere murer](https://news.google.com/rss/articles/CBMifEFVX3lxTE5OdTRmcEpqaWZ6OUNNTUFLZ05qWThGSlJOV3BkRFo3TDV5OXJ4ZmNocEZWTnJhM1NsX2lKX25qMnF3WjJRNkFFU2RKblNiX2VvSkVGVFZVZWNWVU1SU2pOMGU0QXJ1Z3ZsbHJjaVF6Y2RpZnJ3VE1WZmdYMno?oc=5) — Civita
+- [Stortingsregjereri – når maktfordelingen svikter](https://news.google.com/rss/articles/CBMie0FVX3lxTE5TM0pZdkVHWkdOZ2pSbG03QTVRdjdPVjJGSVVsVk1ZSEVaQ2ZnVWVraDlWMzBkU2dOeVZ6ZUdIN3AwS0IxZDRFQS1GX1oxc3VacmRKRnQ0TDVnWUNGamtiLWpOaUpKN0hiUVpIcE9jaklWdDZfQnRKNTR1Zw?oc=5) — Civita · _Ulikhet og fordeling_
 - [Trump trenger ikke si et ord. Bildene vil gjøre jobben](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjdtaTZxaEc1R3B3Zk5TWmlGTVRFQWdZTkw5dDZ1QlRxNFZLblFLSGl5TDBFU0VwZEJiSjNxbmFadnQ3bGZoVzRqVFNaSGxyNURYYmtDczkzRFIxUFRacUxSWmxrQkZJUGpyM1p4NThTNThXUDNiLXctbTdTanVtSGVXQ1RUX1ZLb2ZpbUNnX2ZhT1dIVXVoWHpxdkpWVDdzX2ZnejNoNUZtMFU?oc=5) — Civita
 - [Høye energipriser løftet børsen](https://www.ssb.no/bank-og-finansmarked/verdipapirmarkeder/statistikk/verdipapirer/artikler/hoye-energipriser-loftet-borsen) — SSB · _Energi og strøm_
 - [Norske verdipapirfond](https://www.ssb.no/bank-og-finansmarked/verdipapirmarkeder/statistikk/verdipapirfond/artikler/status-norske-fond) — SSB
@@ -171,6 +174,7 @@ _Sist oppdatert 22.11.2026 kl. 13:13. Viser de siste 14 dagene (173 saker). ★ 
 
 - [Høyre vil sikre lørdagsavisen](https://hoyre.no/2026/11/16/hoyre-vil-sikre-lordagsavisen/) — Høyre
 - [FrP vil ha Norge med på retursenter i Rwanda](https://news.google.com/rss/articles/CBMie0FVX3lxTE9jYXkyZVdCZWlaMWJwSlVKeDJmNGR0R2ZBY3N4SmN6TEtPWDlHaW9pTzE4cEpEcEdOcVhUc2QzY184bF9DTFdyNHkwS3A4OGhMYzZtdWVPNzdUYmIwUllabVEtczRlcUphY0JJd242WG5CRDZ1ZUk2THlYTQ?oc=5) — FrP
+- [Berlin brenner](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYdUdGdm1EbS00MDNZR3BiNG9BSDdCMWNxU0w2cVk4eHZjSXRNZEVoVEdOZHljcjdncjFOQ0o5eU82SGF2bXpDM0dfcFluY2pzWDZv?oc=5) — Civita
 - [Egenmelding fra regnskapsforetak (KRT-1004) – rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/) — Finanstilsynet
 
 ### Søndag 15. november
@@ -185,6 +189,7 @@ _Sist oppdatert 22.11.2026 kl. 13:13. Viser de siste 14 dagene (173 saker). ★ 
 
 - [Setter av 1 milliard til fysiske lærebøker](https://hoyre.no/2026/11/13/milliard-til-fysiske-boker-i-hoyres-budsjett/) — Høyre
 - [Vil stanse helseforetakenes høye lederlønnsavtaler](https://www.senterpartiet.no/aktuelt/vil-stanse-helseforetakenes-hoye-lederlonnsavtaler) — Senterpartiet · _Arbeid og trygd_
+- [Jonas Kittelsen: Verden venter på oss. Et kampskrift for en levelig framtid](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjkyTHZMRzdDQ21mQjNRdFlqQUlqR1psS0d4M2luekhJOWdRLUxqOVE4MWNuQkZoS0l4cVVmTGhHNGd1SVdXMUYzTE53SnZuRnFuTEJ6VkFFd3MwMkg5NkN5Z18xNFo4ZjNsclFqSlZsNU5ZQUlXZ0trREh2SmpvNmRHQm1YWFVPU1lXQU8zNVFJbUlfSEVmRFAtYkp2bEFKWmdxUlB5YzFwZw?oc=5) — Civita
 - [Leverer hele skatteløftet på halve tiden](https://hoyre.no/2026/11/13/leverer-hele-skatteloftet-pa-halve-tiden/) — Høyre · _Skatt_
 - [Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328) — Stortinget – høringer i komiteene
 
@@ -207,6 +212,7 @@ _Sist oppdatert 22.11.2026 kl. 13:13. Viser de siste 14 dagene (173 saker). ★ 
 - [Nasjonal kontroll over mineraler er vesentlig](https://www.senterpartiet.no/aktuelt/nasjonal-kontroll-over-mineraler-er-vesentlig) — Senterpartiet
 - [Kartlegging av organisasjonsmodell i fagforeninger](https://www.fafo.no/publikasjoner/fafo-notater/kartlegging-av-organisasjonsmodeller) — Fafo
 - [Senterpartiet vil ha strømstøtte til næringslivet](https://www.senterpartiet.no/aktuelt/senterpartiet-vil-ha-stromstotte-til-naeringslivet) — Senterpartiet · _Energi og strøm_
+- [FrP vil reforhandle Parisavtalen: – Europa utkonkurrerer seg selv](https://news.google.com/rss/articles/CBMia0FVX3lxTFBoQm9rN01MclBCSlJ3ZFpib2YwMU03dW1MZzNaZmVEQnVIOXFEUWlsTGlRNkVmNGhvcTRGMXd4WDdDWnQ1elVwbWdpNEU5YTBZdlR2MjJKSlJKdUsyLVNmS0ZOWW9sMVVhU0FB?oc=5) — FrP
 - [Motsyklisk kapitalbuffer for banker holdes uendret på 2,5 prosent](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/motsyklisk-kapitalbuffer-for-banker-fjerde-kvartal-2026/) — Finanstilsynet
 - [Økt risiko for alvorlige hendelser som kan svekke finansiell stabilitet](https://www.norges-bank.no/aktuelt/nyheter/Pressemeldinger/2026/2026-11-11-fs2/) — Norges Bank – pressemeldinger
 - [Finansiell stabilitet 2026 - 2. halvår](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
