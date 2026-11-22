@@ -1,7 +1,23 @@
 {
- "oppdatert": "2026-11-22T17:40:24Z",
+ "oppdatert": "2026-11-22T17:59:14Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "c38e16905372543a",
+   "tittel": "Konfiskert, beskattet eller nedskrevet? SPU i en ny tid",
+   "lenke": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3ZMTkMwUDNvSkZ3Z2RIWnliRWZHZTBneFB0VmY4Vi02ZTRkQlZfMEd5X2VpVmFUMzBuUkxvNHE2Vi1YM1pDdldWU3ZUdGJKU1BtWVowdVBwREh6em9MbUthdkpqcURlNzdJUjNPdmpIZUF2REUzV1ktWlRGZUFiaXB6a05JTnM?oc=5",
+   "ingress": "",
+   "kilde": "Civita",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-22T17:45:50Z",
+   "viktig": false,
+   "funnet": "2026-11-22T17:59:14Z",
+   "temaer": [
+    "Skatt"
+   ],
+   "spor": "rapporter"
+  },
   {
    "id": "7e0fda5bc681ba74",
    "tittel": "Hva i alle dager er et styringsparti?",
@@ -13,7 +29,8 @@
    "dato": "2026-11-22T08:16:06Z",
    "viktig": false,
    "funnet": "2026-11-22T12:12:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "c0618611f60a9f71",
@@ -26,7 +43,8 @@
    "dato": "2026-11-22T02:12:09Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "a823a1387be5573f",
@@ -39,7 +57,8 @@
    "dato": "2026-11-21T23:14:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "3dfbfb027db76e4d",
@@ -54,7 +73,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "b55f9177787a4811",
@@ -69,7 +89,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "1ab4745111eea7a2",
@@ -82,7 +103,8 @@
    "dato": "2026-11-21T23:14:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "9b4daf9f711f8ecc",
@@ -95,7 +117,8 @@
    "dato": "2026-11-21T23:14:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "30b5bdae3c2529ce",
@@ -110,7 +133,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "3dbdbc7b516f45d3",
@@ -123,7 +147,8 @@
    "dato": "2026-11-21T23:14:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b0cdf1b142ad3731",
@@ -139,7 +164,8 @@
    "temaer": [
     "Energi og strøm",
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "abf9b7490a9b77eb",
@@ -155,7 +181,8 @@
    "temaer": [
     "Markedsmakt og konkurranse",
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "3fbfa9c7efc11a45",
@@ -168,7 +195,8 @@
    "dato": "2026-11-21T23:14:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "396d80e262cc497c",
@@ -183,7 +211,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "bab4512079ecaa13",
@@ -196,7 +225,8 @@
    "dato": "2026-11-21T23:14:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "ef47a669579af105",
@@ -211,7 +241,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "ca4e33ed58451e45",
@@ -224,7 +255,8 @@
    "dato": "2026-11-21T23:14:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "b364a0132891a693",
@@ -237,7 +269,8 @@
    "dato": "2026-11-21T06:00:32Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "e216c0974cb3ea3f",
@@ -252,7 +285,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "tall"
   },
   {
    "id": "bd2f446a9ac938c2",
@@ -267,7 +301,8 @@
    "funnet": "2026-11-22T12:12:24Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "6e4ccdd656b951c9",
@@ -280,7 +315,8 @@
    "dato": "2026-11-20T14:22:42Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d825689be643a9cd",
@@ -293,7 +329,8 @@
    "dato": "2026-11-20T14:20:46Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "a529da5bc2bf8e3a",
@@ -306,7 +343,8 @@
    "dato": "2026-11-20T14:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "54abb171e5c1c2b0",
@@ -321,7 +359,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "3ccae0e449fa2803",
@@ -336,7 +375,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "54a7fe9b64c315dd",
@@ -349,7 +389,8 @@
    "dato": "2026-11-20T13:10:46Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "327664db619d440e",
@@ -362,7 +403,8 @@
    "dato": "2026-11-20T13:10:46Z",
    "viktig": false,
    "funnet": "2026-11-22T12:12:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "f33733f24c499de2",
@@ -377,7 +419,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "b3362d42ba28108a",
@@ -390,7 +433,8 @@
    "dato": "2026-11-20T12:49:28Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d9a5d9e673b8e14d",
@@ -403,7 +447,8 @@
    "dato": "2026-11-20T12:45:48Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d28eafb6476cc4c7",
@@ -416,7 +461,8 @@
    "dato": "2026-11-20T12:36:58Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "466a1de7eca18aad",
@@ -429,7 +475,8 @@
    "dato": "2026-11-20T12:29:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "89e5e7e8da74677c",
@@ -444,7 +491,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "9f73714448500efd",
@@ -457,7 +505,8 @@
    "dato": "2026-11-20T09:11:19Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "74ba02277912ba1b",
@@ -470,7 +519,8 @@
    "dato": "2026-11-20T08:15:42Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "0c62cb368c339e2c",
@@ -483,7 +533,8 @@
    "dato": "2026-11-20T07:55:35Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b7b1b3c5af50f7f6",
@@ -496,7 +547,8 @@
    "dato": "2026-11-20T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "1376811a1360cecc",
@@ -511,7 +563,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig"
-   ]
+   ],
+   "spor": "tall"
   },
   {
    "id": "8873a1af5b78e525",
@@ -526,7 +579,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "spor": "tall"
   },
   {
    "id": "f0f87d447a3c340a",
@@ -539,7 +593,8 @@
    "dato": "2026-11-20T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "ea5511605008de84",
@@ -554,7 +609,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig"
-   ]
+   ],
+   "spor": "tall"
   },
   {
    "id": "a3d6fa7a925dcf1b",
@@ -567,7 +623,8 @@
    "dato": "2026-11-20T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "3c4306d985bf52b8",
@@ -580,7 +637,8 @@
    "dato": "2026-11-20T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "9aa94f88ef0984f5",
@@ -595,7 +653,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "tall"
   },
   {
    "id": "dafd9891c2695049",
@@ -608,7 +667,8 @@
    "dato": "2026-11-19T10:52:31Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "20df2666f8037c9b",
@@ -623,7 +683,8 @@
    "funnet": "2026-11-22T15:15:56Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "98aa839f29daf9c8",
@@ -638,7 +699,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "84d58d93a365ec58",
@@ -651,7 +713,8 @@
    "dato": "2026-11-19T09:02:55Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "71455ce260a34342",
@@ -666,7 +729,8 @@
    "funnet": "2026-11-22T15:15:56Z",
    "temaer": [
     "Ulikhet og fordeling"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "4f1237e527fd85a9",
@@ -679,7 +743,8 @@
    "dato": "2026-11-19T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "9cf962429805ed2a",
@@ -694,7 +759,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "tall"
   },
   {
    "id": "f00a5bf56c0bea2e",
@@ -707,7 +773,8 @@
    "dato": "2026-11-19T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "42183d1aa20ffd26",
@@ -720,7 +787,8 @@
    "dato": "2026-11-19T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "21a374fe95ea5c84",
@@ -733,7 +801,8 @@
    "dato": "2026-11-19T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "9d8e0fc49a51f4e3",
@@ -748,7 +817,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "afcca530281d739c",
@@ -761,7 +831,8 @@
    "dato": "2026-11-19T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "70bd3e60a60f42ec",
@@ -774,7 +845,8 @@
    "dato": "2026-11-19T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "979cbd9838f9446e",
@@ -787,7 +859,8 @@
    "dato": "2026-11-19T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "4f0c7802a63f95f1",
@@ -800,7 +873,8 @@
    "dato": "2026-11-19T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "d1773295d784acf1",
@@ -813,7 +887,8 @@
    "dato": "2026-11-19T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "7b79f854e060f4c6",
@@ -828,7 +903,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Ulikhet og fordeling"
-   ]
+   ],
+   "spor": "tall"
   },
   {
    "id": "22a8e40ca85c1d9f",
@@ -842,7 +918,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:57 S (2026-2027)"
+   "dokument": "Dokument 8:57 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "02cdfe5ac88718c7",
@@ -856,7 +933,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:58 S (2026-2027)"
+   "dokument": "Dokument 8:58 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "ab7e2821244eead3",
@@ -869,7 +947,8 @@
    "dato": "2026-11-18T13:11:49Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "e2b36aa7d3e58881",
@@ -882,7 +961,8 @@
    "dato": "2026-11-18T10:02:48Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "3d71ec5e1d3fce8d",
@@ -895,7 +975,8 @@
    "dato": "2026-11-18T07:32:05Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "8cdacdfaf74a43a2",
@@ -908,7 +989,8 @@
    "dato": "2026-11-18T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "f2574ab2df3eb0ba",
@@ -921,7 +1003,8 @@
    "dato": "2026-11-18T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "3f7ca1a6c69e5765",
@@ -934,7 +1017,8 @@
    "dato": "2026-11-18T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "b313fca61d8b6544",
@@ -947,7 +1031,8 @@
    "dato": "2026-11-18T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "e938c31594575e77",
@@ -960,7 +1045,8 @@
    "dato": "2026-11-18T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "6fe4554b31ea226a",
@@ -976,7 +1062,8 @@
    "temaer": [
     "Offentlige finanser",
     "Bolig"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "fc3a3ddf8f9b2d36",
@@ -990,7 +1077,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:55 S (2026-2027)"
+   "dokument": "Dokument 8:55 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "05a18902597da535",
@@ -1006,7 +1094,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Dokument 8:54 S (2026-2027)"
+   "dokument": "Dokument 8:54 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "5d7f2011ab125a6f",
@@ -1020,7 +1109,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:56 S (2026-2027)"
+   "dokument": "Dokument 8:56 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "dbb8086da181b7bb",
@@ -1036,7 +1126,8 @@
    "temaer": [
     "Bolig"
    ],
-   "dokument": "Dokument 8:53 S (2026-2027)"
+   "dokument": "Dokument 8:53 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "dea1381b84f4e832",
@@ -1050,7 +1141,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:52 S (2026-2027)"
+   "dokument": "Dokument 8:52 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "8b5de7e17e04039b",
@@ -1066,7 +1158,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Dokument 8:51 S (2026-2027)"
+   "dokument": "Dokument 8:51 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "96f23eedaf867bed",
@@ -1080,7 +1173,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:50 S (2026-2027)"
+   "dokument": "Dokument 8:50 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "15ccdf7b81bc4996",
@@ -1093,7 +1187,8 @@
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "a186d5fa49ac2f15",
@@ -1106,7 +1201,8 @@
    "dato": "2026-11-18T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "e3997926417bd884",
@@ -1119,7 +1215,8 @@
    "dato": "2026-11-17T14:15:01Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "e17cf65edb1665b9",
@@ -1132,7 +1229,8 @@
    "dato": "2026-11-17T11:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "5bf51f3269780fa5",
@@ -1148,7 +1246,8 @@
    "temaer": [
     "Skatt",
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "51ecb556097defdf",
@@ -1165,7 +1264,8 @@
     "Markedsmakt og konkurranse",
     "Velferd og privatisering"
    ],
-   "dokument": "Dokument 8:48 S (2026-2027)"
+   "dokument": "Dokument 8:48 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "3cfcf66993ebc1c0",
@@ -1179,7 +1279,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:47 S (2026-2027)"
+   "dokument": "Dokument 8:47 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "ecb2f22bcb38cfc7",
@@ -1193,7 +1294,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:49 S (2026-2027)"
+   "dokument": "Dokument 8:49 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "63ce00b53ebf7ff4",
@@ -1211,7 +1313,8 @@
     "Markedsmakt og konkurranse",
     "Bolig"
    ],
-   "dokument": "Dokument 8:46 S (2026-2027)"
+   "dokument": "Dokument 8:46 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "fb12c8d800155950",
@@ -1225,7 +1328,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 43 S (2026-2027)"
+   "dokument": "Innst. 43 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "74dedbd7491ed9a4",
@@ -1239,7 +1343,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 39 S (2026-2027)"
+   "dokument": "Innst. 39 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "09a25911a8d23e93",
@@ -1253,7 +1358,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 58 S (2026-2027)"
+   "dokument": "Innst. 58 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "2795515e5f06ad6c",
@@ -1267,7 +1373,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 48 S (2026-2027)"
+   "dokument": "Innst. 48 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "dceb511c6ef596d9",
@@ -1281,7 +1388,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 45 S (2026-2027)"
+   "dokument": "Innst. 45 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "63c69166ece0b78e",
@@ -1295,7 +1403,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 51 S (2026-2027)"
+   "dokument": "Innst. 51 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "5d98f29ce03718e7",
@@ -1311,7 +1420,8 @@
    "temaer": [
     "Velferd og privatisering"
    ],
-   "dokument": "Innst. 44 S (2026-2027)"
+   "dokument": "Innst. 44 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "efdc40d0c9d37da2",
@@ -1325,7 +1435,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 42 S (2026-2027)"
+   "dokument": "Innst. 42 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "4e066853a204674c",
@@ -1339,7 +1450,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 54 S (2026-2027)"
+   "dokument": "Innst. 54 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "69e0905b1f96c42f",
@@ -1353,7 +1465,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 46 S (2026-2027)"
+   "dokument": "Innst. 46 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "c85d459672623a27",
@@ -1367,7 +1480,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 59 S (2026-2027)"
+   "dokument": "Innst. 59 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "11047e07d845aebe",
@@ -1383,7 +1497,8 @@
    "temaer": [
     "Offentlige finanser"
    ],
-   "dokument": "Innst. 53 S (2026-2027)"
+   "dokument": "Innst. 53 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "f5dddd38034b7c29",
@@ -1397,7 +1512,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 57 S (2026-2027)"
+   "dokument": "Innst. 57 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "e43836c3c6c0117d",
@@ -1411,7 +1527,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 49 S (2026-2027)"
+   "dokument": "Innst. 49 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "dcf925213c6a1d9d",
@@ -1425,7 +1542,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 56 S (2026-2027)"
+   "dokument": "Innst. 56 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "68f87ee787aed6dd",
@@ -1441,7 +1559,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Innst. 40 S (2026-2027)"
+   "dokument": "Innst. 40 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "f85921ded25d54e2",
@@ -1455,7 +1574,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 47 L (2026-2027)"
+   "dokument": "Innst. 47 L (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "cf044593a83d60d1",
@@ -1469,7 +1589,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 38 S (2026-2027)"
+   "dokument": "Innst. 38 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "b1c1abfe77af9f44",
@@ -1483,7 +1604,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 50 L (2026-2027)"
+   "dokument": "Innst. 50 L (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "faef8136428098fb",
@@ -1497,7 +1619,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 37 S (2026-2027)"
+   "dokument": "Innst. 37 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "24c8cca5edc181fe",
@@ -1513,7 +1636,8 @@
    "temaer": [
     "Bolig"
    ],
-   "dokument": "Innst. 55 S (2026-2027)"
+   "dokument": "Innst. 55 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "c7c0d52013f6fbc5",
@@ -1527,7 +1651,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 41 S (2026-2027)"
+   "dokument": "Innst. 41 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "f8920a0f4323f0fe",
@@ -1541,7 +1666,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 52 S (2026-2027)"
+   "dokument": "Innst. 52 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "c43931ba36239d9a",
@@ -1557,7 +1683,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Lovvedtak 1 (2026-2027)"
+   "dokument": "Lovvedtak 1 (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "a22ec4b57f00d401",
@@ -1570,7 +1697,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "7c91e989ee343407",
@@ -1583,7 +1711,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "742aee51446f6df5",
@@ -1596,7 +1725,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "5cd00923df0978de",
@@ -1609,7 +1739,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "bdb9a19e62dcbeea",
@@ -1622,7 +1753,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "880ba0fd25933cd0",
@@ -1635,7 +1767,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "cc903461cec3ce28",
@@ -1650,7 +1783,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "8257c6c22fe337c6",
@@ -1665,7 +1799,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "f1a056efa7f9eba8",
@@ -1678,7 +1813,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b54f24d6f0db6b53",
@@ -1691,7 +1827,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d46ec3c3a26d0736",
@@ -1704,7 +1841,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "a4aa3d0beba1b4e9",
@@ -1717,7 +1855,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "70fba673f2396b1b",
@@ -1730,7 +1869,8 @@
    "dato": "2026-11-17T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "bf41306b0b29d21c",
@@ -1743,7 +1883,8 @@
    "dato": "2026-11-16T21:09:46Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "f10d4c98c8d4224e",
@@ -1756,7 +1897,8 @@
    "dato": "2026-11-16T17:41:15Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "69614c6bea6494d4",
@@ -1769,7 +1911,8 @@
    "dato": "2026-11-16T12:28:57Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "01702028a17e5de9",
@@ -1782,7 +1925,8 @@
    "dato": "2026-11-16T07:04:52Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "44cf566a1d4442b6",
@@ -1795,7 +1939,8 @@
    "dato": "2026-11-15T10:44:08Z",
    "viktig": false,
    "funnet": "2026-11-22T12:12:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "114f01ccfc94e01d",
@@ -1808,7 +1953,8 @@
    "dato": "2026-11-14T12:20:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "865ca70e235c9ad2",
@@ -1821,7 +1967,8 @@
    "dato": "2026-11-13T21:30:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "9eeac9850bc73690",
@@ -1836,7 +1983,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "abffdb1bf9be1535",
@@ -1849,7 +1997,8 @@
    "dato": "2026-11-13T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "a832c3135e94d782",
@@ -1862,7 +2011,8 @@
    "dato": "2026-11-13T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "cb611925da0d676c",
@@ -1877,7 +2027,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "7a3b8bcf20483fae",
@@ -1890,7 +2041,8 @@
    "dato": "2026-11-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "93c09a33ea9b6b17",
@@ -1903,7 +2055,8 @@
    "dato": "2026-11-12T11:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:14:04Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "49ce4aafae6422ac",
@@ -1916,7 +2069,8 @@
    "dato": "2026-11-12T10:19:30Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "e436648d54a12081",
@@ -1931,7 +2085,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "7e1fe41432bf6a81",
@@ -1944,7 +2099,8 @@
    "dato": "2026-11-12T09:29:30Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "7f13c4d2af9e3381",
@@ -1958,7 +2114,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:44 S (2026-2027)"
+   "dokument": "Dokument 8:44 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "b87f353eb4abee84",
@@ -1972,7 +2129,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:43 S (2026-2027)"
+   "dokument": "Dokument 8:43 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "dfcc91c0f3a18d60",
@@ -1988,7 +2146,8 @@
    "temaer": [
     "Markedsmakt og konkurranse"
    ],
-   "dokument": "Dokument 8:45 S (2026-2027)"
+   "dokument": "Dokument 8:45 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "5d1b1bd39f122245",
@@ -2002,7 +2161,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:42 S (2026-2027)"
+   "dokument": "Dokument 8:42 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "26467d9fb313648c",
@@ -2016,7 +2176,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 36 S (2026-2027)"
+   "dokument": "Innst. 36 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "9d01970bc090bfc8",
@@ -2029,7 +2190,8 @@
    "dato": "2026-11-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "e5c11d7511ae83b6",
@@ -2042,7 +2204,8 @@
    "dato": "2026-11-12T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "f78cbfe543e8347a",
@@ -2057,7 +2220,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "acea3f7c671223f0",
@@ -2070,7 +2234,8 @@
    "dato": "2026-11-11T11:45:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "debceb732532f400",
@@ -2083,7 +2248,8 @@
    "dato": "2026-11-11T11:33:01Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "de2da9e9de485c51",
@@ -2096,7 +2262,8 @@
    "dato": "2026-11-11T11:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:14:04Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "1332d4e15652d7ad",
@@ -2111,7 +2278,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "92849cc0c8645b17",
@@ -2124,7 +2292,8 @@
    "dato": "2026-11-11T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b87799d1ea583460",
@@ -2137,7 +2306,8 @@
    "dato": "2026-11-11T07:30:10Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "3d6dba1d7e1f6af6",
@@ -2150,7 +2320,8 @@
    "dato": "2026-11-11T07:30:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "e8e16816763b1c77",
@@ -2163,7 +2334,8 @@
    "dato": "2026-11-11T07:30:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "9d42e9ae29e18263",
@@ -2179,7 +2351,8 @@
    "temaer": [
     "Energi og strøm"
    ],
-   "dokument": "Dokument 8:41 S (2026-2027)"
+   "dokument": "Dokument 8:41 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "f9aa681478eebce1",
@@ -2192,7 +2365,8 @@
    "dato": "2026-11-11T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b03df6f856b61949",
@@ -2205,7 +2379,8 @@
    "dato": "2026-11-10T15:38:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "ae361521c0f77f75",
@@ -2218,7 +2393,8 @@
    "dato": "2026-11-10T12:26:07Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "0421a6a0305d15b0",
@@ -2235,7 +2411,8 @@
     "Skatt",
     "Offentlige finanser",
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "c456713ba30ffc9e",
@@ -2250,7 +2427,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Ulikhet og fordeling"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "c27c617a29173319",
@@ -2263,7 +2441,8 @@
    "dato": "2026-11-10T12:00:00Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "5c8bbb922aef819a",
@@ -2278,7 +2457,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "989c150d0d807991",
@@ -2291,7 +2471,8 @@
    "dato": "2026-11-10T12:00:00Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "1e4c021d573ba9be",
@@ -2304,7 +2485,8 @@
    "dato": "2026-11-10T10:51:03Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "2579c67de1ec1ef8",
@@ -2317,7 +2499,8 @@
    "dato": "2026-11-10T10:33:15Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "10f5b99c14bf2908",
@@ -2330,7 +2513,8 @@
    "dato": "2026-11-10T10:04:10Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "e56a8d123e05be64",
@@ -2343,7 +2527,8 @@
    "dato": "2026-11-10T09:35:02Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "1d0fd1c924a5f23c",
@@ -2356,7 +2541,8 @@
    "dato": "2026-11-10T08:38:18Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "0bc711b79477264b",
@@ -2369,7 +2555,8 @@
    "dato": "2026-11-10T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "4aa2684c99883adf",
@@ -2384,7 +2571,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "4dda321990963aaf",
@@ -2398,7 +2586,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:40 S (2026-2027)"
+   "dokument": "Dokument 8:40 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "0091a22fcf99e442",
@@ -2412,7 +2601,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:39 S (2026-2027)"
+   "dokument": "Dokument 8:39 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "ea68e500fa238feb",
@@ -2428,7 +2618,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Innst. 31 L (2026-2027)"
+   "dokument": "Innst. 31 L (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "57d53b9899c24d1a",
@@ -2444,7 +2635,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Innst. 32 S (2026-2027)"
+   "dokument": "Innst. 32 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "a529dd3ca689d5e3",
@@ -2460,7 +2652,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Innst. 35 S (2026-2027)"
+   "dokument": "Innst. 35 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "67798436c32c9e9a",
@@ -2474,7 +2667,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 34 S (2026-2027)"
+   "dokument": "Innst. 34 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "fe61f8d726a9c9f1",
@@ -2490,7 +2684,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Innst. 33 S (2026-2027)"
+   "dokument": "Innst. 33 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "6af7572c7bd56ea8",
@@ -2503,7 +2698,8 @@
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "2e6f267f65f9949b",
@@ -2516,7 +2712,8 @@
    "dato": "2026-11-10T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "61de2c5d18e131be",
@@ -2531,7 +2728,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "e78e592c7a13f8d3",
@@ -2544,7 +2742,8 @@
    "dato": "2026-11-07T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "9c7e4e160383b36f",
@@ -2557,7 +2756,8 @@
    "dato": "2026-11-06T19:12:43Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "f3f2c4deeeee604e",
@@ -2570,7 +2770,8 @@
    "dato": "2026-11-06T11:57:30Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "285360cd1981cf6b",
@@ -2585,7 +2786,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "78c26a69c22bcaa2",
@@ -2598,7 +2800,8 @@
    "dato": "2026-11-06T11:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "ea824f9c723fface",
@@ -2611,7 +2814,8 @@
    "dato": "2026-11-06T11:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "211edcf0c3a5ed59",
@@ -2624,7 +2828,8 @@
    "dato": "2026-11-06T09:43:46Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "c9956fb47b84ce5b",
@@ -2637,7 +2842,8 @@
    "dato": "2026-11-06T08:28:38Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "0c118bb2b4b55e2f",
@@ -2650,7 +2856,8 @@
    "dato": "2026-11-05T14:14:26Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "392609aa24125981",
@@ -2665,7 +2872,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "f3b08c628faf95e0",
@@ -2678,7 +2886,8 @@
    "dato": "2026-11-05T10:31:35Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "bcc8b5d4a189047c",
@@ -2691,7 +2900,8 @@
    "dato": "2026-11-05T09:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "bbcc057423177927",
@@ -2704,7 +2914,8 @@
    "dato": "2026-11-05T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "8f6483ef13419837",
@@ -2717,7 +2928,8 @@
    "dato": "2026-11-04T13:30:27Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "807015bad6c5d860",
@@ -2732,7 +2944,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "e85f3fc1bb851f35",
@@ -2747,7 +2960,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "55dfb29aed0663b2",
@@ -2760,7 +2974,8 @@
    "dato": "2026-11-04T08:42:32Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "8bd7306f9a21aa97",
@@ -2776,7 +2991,8 @@
    "temaer": [
     "Bolig",
     "Velferd og privatisering"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "32279f355179fc3b",
@@ -2789,7 +3005,8 @@
    "dato": "2026-11-04T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "35b4b34b60cabf05",
@@ -2803,7 +3020,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:37 S (2026-2027)"
+   "dokument": "Dokument 8:37 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "2f7ea80166a5bd5c",
@@ -2817,7 +3035,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:38 S (2026-2027)"
+   "dokument": "Dokument 8:38 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "73db46f7c599bc19",
@@ -2831,7 +3050,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:36 S (2026-2027)"
+   "dokument": "Dokument 8:36 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "bee2aeba9f0ef579",
@@ -2846,7 +3066,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "886a9d33da020e06",
@@ -2859,7 +3080,8 @@
    "dato": "2026-11-04T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b660cf1ca52d3749",
@@ -2872,7 +3094,8 @@
    "dato": "2026-11-04T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "40901331970467ec",
@@ -2888,7 +3111,8 @@
    "temaer": [
     "Offentlige finanser"
    ],
-   "dokument": "Dokument 8:35 S (2026-2027)"
+   "dokument": "Dokument 8:35 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "6e086ccc9c2091da",
@@ -2904,7 +3128,8 @@
    "temaer": [
     "Energi og strøm"
    ],
-   "dokument": "Dokument 8:34 LS (2026-2027)"
+   "dokument": "Dokument 8:34 LS (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "7def4ce0179d914b",
@@ -2918,7 +3143,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 27 S (2026-2027)"
+   "dokument": "Innst. 27 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "1cb660f16cf481d3",
@@ -2932,7 +3158,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 21 S (2026-2027)"
+   "dokument": "Innst. 21 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "57eb6cb0926569bd",
@@ -2946,7 +3173,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 25 S (2026-2027)"
+   "dokument": "Innst. 25 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "16b7d4986d745c8b",
@@ -2962,7 +3190,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Innst. 29 L (2026-2027)"
+   "dokument": "Innst. 29 L (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "7d530690ff6685a6",
@@ -2976,7 +3205,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 22 S (2026-2027)"
+   "dokument": "Innst. 22 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "9073a722054f13cd",
@@ -2990,7 +3220,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 28 S (2026-2027)"
+   "dokument": "Innst. 28 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "b2a18021f1992240",
@@ -3004,7 +3235,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 30 S (2026-2027)"
+   "dokument": "Innst. 30 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "775bcae212d1788b",
@@ -3018,7 +3250,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 26 S (2026-2027)"
+   "dokument": "Innst. 26 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "17ff91e27e3370d6",
@@ -3032,7 +3265,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 23 S (2026-2027)"
+   "dokument": "Innst. 23 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "3ad76eec777297d9",
@@ -3046,7 +3280,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 24 S (2026-2027)"
+   "dokument": "Innst. 24 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "903aacbe4322411a",
@@ -3059,7 +3294,8 @@
    "dato": "2026-11-02T16:09:48Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "9ea5087653b9318a",
@@ -3072,7 +3308,8 @@
    "dato": "2026-11-02T14:59:05Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d3225bd1cf3293e1",
@@ -3085,7 +3322,8 @@
    "dato": "2026-11-02T11:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "0ccfaadb29c1e575",
@@ -3102,7 +3340,8 @@
     "Ulikhet og fordeling",
     "Offentlige finanser",
     "Velferd og privatisering"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "112ee05ca055134a",
@@ -3115,7 +3354,8 @@
    "dato": "2026-11-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "0eefa2f96adceff2",
@@ -3130,7 +3370,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "17d530c87a75a546",
@@ -3143,7 +3384,8 @@
    "dato": "2026-11-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "74809c1b7dfe51e5",
@@ -3158,7 +3400,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "9d6a7d94c67d7f92",
@@ -3171,7 +3414,8 @@
    "dato": "2026-11-02T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "dc1a9b3c6ba17dfd",
@@ -3186,7 +3430,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "267381d19a462f8c",
@@ -3199,7 +3444,8 @@
    "dato": "2026-10-31T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "8538f443031489c3",
@@ -3212,7 +3458,8 @@
    "dato": "2026-10-30T09:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "0ae523eb3f0444aa",
@@ -3225,7 +3472,8 @@
    "dato": "2026-10-30T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d03360d4fcdfcb07",
@@ -3240,7 +3488,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "57f424707ebdc1b9",
@@ -3253,7 +3502,8 @@
    "dato": "2026-10-29T11:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "078a164ec80f27d2",
@@ -3266,7 +3516,8 @@
    "dato": "2026-10-29T09:56:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "777c905c9bb5aaed",
@@ -3281,7 +3532,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "282d40c4598dc9e2",
@@ -3294,7 +3546,8 @@
    "dato": "2026-10-29T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "223f890ea8b0ce59",
@@ -3307,7 +3560,8 @@
    "dato": "2026-10-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "41e033ee61642c4c",
@@ -3320,7 +3574,8 @@
    "dato": "2026-10-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "7b187c0c96f6e7e8",
@@ -3336,7 +3591,8 @@
    "temaer": [
     "Skatt",
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "ac5ba916c98d84e0",
@@ -3349,7 +3605,8 @@
    "dato": "2026-10-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "8e0613c9cc1f9e86",
@@ -3364,7 +3621,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "5bfd17ce5ad457e1",
@@ -3377,7 +3635,8 @@
    "dato": "2026-10-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "f32b74e8a948c63f",
@@ -3392,7 +3651,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "370fa5e748a88be7",
@@ -3405,7 +3665,8 @@
    "dato": "2026-10-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "19cecf90b968bb2b",
@@ -3418,7 +3679,8 @@
    "dato": "2026-10-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "2629bc55794513df",
@@ -3433,7 +3695,8 @@
    "funnet": "2026-11-22T15:15:56Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "3a75ad8cc26a8482",
@@ -3448,7 +3711,8 @@
    "funnet": "2026-11-22T17:40:24Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "a7112c868584e253",
@@ -3463,7 +3727,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Velferd og privatisering"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "fe9b447f091dc8d3",
@@ -3476,7 +3741,8 @@
    "dato": "2026-10-27T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "469487d4113b19d6",
@@ -3489,7 +3755,8 @@
    "dato": "2026-10-27T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "c0d697e9bc7bed56",
@@ -3504,7 +3771,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Velferd og privatisering"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "815472631f40c06e",
@@ -3517,7 +3785,8 @@
    "dato": "2026-10-26T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "17e11647c7759004",
@@ -3530,7 +3799,8 @@
    "dato": "2026-10-26T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "75615175d10d7943",
@@ -3543,7 +3813,8 @@
    "dato": "2026-10-26T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b38d26cb124fe230",
@@ -3556,7 +3827,8 @@
    "dato": "2026-10-26T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "1ed445a03a544ef6",
@@ -3571,7 +3843,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "85776e36ab46af29",
@@ -3586,7 +3859,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "c82ac15cc2207fd7",
@@ -3599,7 +3873,8 @@
    "dato": "2026-10-26T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "0c8b6aee7d1e4388",
@@ -3612,7 +3887,8 @@
    "dato": "2026-10-24T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "a6a51250b7ea383d",
@@ -3625,7 +3901,8 @@
    "dato": "2026-10-24T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "f5c3257a02e12109",
@@ -3638,7 +3915,8 @@
    "dato": "2026-10-23T14:07:10Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "89c77389ff392496",
@@ -3653,7 +3931,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "87584023e34f0ba3",
@@ -3666,7 +3945,8 @@
    "dato": "2026-10-23T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "05cd39c532347a62",
@@ -3679,7 +3959,8 @@
    "dato": "2026-10-23T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:14:04Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "23a4fbd21e2787a4",
@@ -3692,7 +3973,8 @@
    "dato": "2026-10-23T09:07:52Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "def538243084755d",
@@ -3705,7 +3987,8 @@
    "dato": "2026-10-23T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "3c815d1ee3cff5b3",
@@ -3720,7 +4003,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "bca216187e93df8d",
@@ -3733,7 +4017,8 @@
    "dato": "2026-10-22T09:22:30Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "bc2a4fcfdb29ad17",
@@ -3747,7 +4032,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:32 S (2026-2027)"
+   "dokument": "Dokument 8:32 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "5d16a7574f92f963",
@@ -3761,7 +4047,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:33 S (2026-2027)"
+   "dokument": "Dokument 8:33 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "a32608a9e0aa5aa8",
@@ -3775,7 +4062,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:31 S (2026-2027)"
+   "dokument": "Dokument 8:31 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "50abe19a32209600",
@@ -3792,7 +4080,8 @@
     "Energi og strøm",
     "EU og EØS"
    ],
-   "dokument": "Dokument 8:30 S (2026-2027)"
+   "dokument": "Dokument 8:30 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "482dcc1ab7e1df67",
@@ -3806,7 +4095,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:26 S (2026-2027)"
+   "dokument": "Dokument 8:26 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "e6a065ff402e9fba",
@@ -3822,7 +4112,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Dokument 8:29 S (2026-2027)"
+   "dokument": "Dokument 8:29 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "5af03859812b2dd7",
@@ -3836,7 +4127,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:28 S (2026-2027)"
+   "dokument": "Dokument 8:28 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "cb015760c53887b6",
@@ -3850,7 +4142,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:27 S (2026-2027)"
+   "dokument": "Dokument 8:27 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "e7733a2722de38dc",
@@ -3865,7 +4158,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "4b1c3c8ad890e4c5",
@@ -3881,7 +4175,8 @@
    "temaer": [
     "Offentlige finanser",
     "Energi og strøm"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "72119d0a242b675f",
@@ -3894,7 +4189,8 @@
    "dato": "2026-10-21T13:18:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "eaac8d7b18d8ea58",
@@ -3907,7 +4203,8 @@
    "dato": "2026-10-21T11:02:06Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "c53c5f8352e1714e",
@@ -3920,7 +4217,8 @@
    "dato": "2026-10-21T09:37:52Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "45da0f98fea28d55",
@@ -3935,7 +4233,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "1f61132103fbe120",
@@ -3950,7 +4249,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "ae3d4e8f63d01c7e",
@@ -3963,7 +4263,8 @@
    "dato": "2026-10-21T07:00:22Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "e5dd43ea66e0938d",
@@ -3976,7 +4277,8 @@
    "dato": "2026-10-21T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "569165a848a58c90",
@@ -3990,7 +4292,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:25 S (2026-2027)"
+   "dokument": "Dokument 8:25 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "6352060a003c4463",
@@ -4004,7 +4307,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:24 S (2026-2027)"
+   "dokument": "Dokument 8:24 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "565674e06eeddd00",
@@ -4019,7 +4323,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "0e177cd4305c8c00",
@@ -4032,7 +4337,8 @@
    "dato": "2026-10-21T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d7a11705c286be07",
@@ -4047,7 +4353,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "7f54ec70bb58141a",
@@ -4062,7 +4369,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "184736c3eaaec435",
@@ -4075,7 +4383,8 @@
    "dato": "2026-10-20T10:55:13Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "ba34078d5e52bfbd",
@@ -4090,7 +4399,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "2e9313e30e4a40eb",
@@ -4104,7 +4414,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:23 S (2026-2027)"
+   "dokument": "Dokument 8:23 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "4175e14bc71c0999",
@@ -4118,7 +4429,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:22 S (2026-2027)"
+   "dokument": "Dokument 8:22 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "d0215a81a7825fb4",
@@ -4134,7 +4446,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Innst. 20 S (2026-2027)"
+   "dokument": "Innst. 20 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "266631191e30c61c",
@@ -4147,7 +4460,8 @@
    "dato": "2026-10-20T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "9fde474f70dd1bbd",
@@ -4160,7 +4474,8 @@
    "dato": "2026-10-20T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "f8b7764e6e95d7fd",
@@ -4173,7 +4488,8 @@
    "dato": "2026-10-20T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "88baa80a0b92e0b4",
@@ -4188,7 +4504,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "3483882daecdec6d",
@@ -4203,7 +4520,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "23b6169dcdfb72fc",
@@ -4218,7 +4536,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "bcdddefead8c1ed2",
@@ -4231,7 +4550,8 @@
    "dato": "2026-10-19T10:24:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "28f66bc98a3ad516",
@@ -4244,7 +4564,8 @@
    "dato": "2026-10-16T13:57:33Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "aea6ae0a76d5d3f7",
@@ -4259,7 +4580,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "460cf55b266664ef",
@@ -4274,7 +4596,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "de55890a21148595",
@@ -4289,7 +4612,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "589d6ab5f370ff93",
@@ -4303,7 +4627,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 19 S (2026-2027)"
+   "dokument": "Innst. 19 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "42f5dc30c4af5eeb",
@@ -4318,7 +4643,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "95a446bb937e8f0d",
@@ -4331,7 +4657,8 @@
    "dato": "2026-10-15T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:14:04Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "d5d2c6b30fdd4efd",
@@ -4346,7 +4673,8 @@
    "funnet": "2026-11-22T02:14:04Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "0c289ec5d9aaafc9",
@@ -4359,7 +4687,8 @@
    "dato": "2026-10-15T08:03:51Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "bd432d818388cdec",
@@ -4373,7 +4702,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:21 S (2026-2027)"
+   "dokument": "Dokument 8:21 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "58a55c48cbafb55f",
@@ -4387,7 +4717,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:20 S (2026-2027)"
+   "dokument": "Dokument 8:20 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "8e65ce932024db03",
@@ -4402,7 +4733,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Velferd og privatisering"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "f22ea7b704f36bc3",
@@ -4415,7 +4747,8 @@
    "dato": "2026-10-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "85e4f5679e97aa28",
@@ -4428,7 +4761,8 @@
    "dato": "2026-10-15T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "4d03f6e7da76e9d7",
@@ -4443,7 +4777,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "ef29d06df64d6b4f",
@@ -4458,7 +4793,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "05fd4cdd122296d3",
@@ -4474,7 +4810,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Dokument 8:19 S (2026-2027)"
+   "dokument": "Dokument 8:19 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "1bdbed6428a77366",
@@ -4491,7 +4828,8 @@
     "Offentlige finanser",
     "Arbeid og trygd"
    ],
-   "dokument": "Dokument 8:18 S (2026-2027)"
+   "dokument": "Dokument 8:18 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "9cf7aa96a43a629d",
@@ -4506,7 +4844,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "7d130bb606a46378",
@@ -4521,7 +4860,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "89c7db313fc815d9",
@@ -4536,7 +4876,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "5c75afb899effda2",
@@ -4549,7 +4890,8 @@
    "dato": "2026-10-13T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "072157700421e00d",
@@ -4563,7 +4905,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:17 S (2026-2027)"
+   "dokument": "Dokument 8:17 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "2bf58c962c57ba26",
@@ -4577,7 +4920,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:16 S (2026-2027)"
+   "dokument": "Dokument 8:16 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "db123d5df3ad7495",
@@ -4590,7 +4934,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "4ea4b511c81f1307",
@@ -4603,7 +4948,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "bb34dffdf4e44fba",
@@ -4616,7 +4962,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "42ec71a1e774fa8a",
@@ -4629,7 +4976,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "8a5b5bac8ea5c8db",
@@ -4645,7 +4993,8 @@
    "temaer": [
     "Bolig",
     "Energi og strøm"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "8fd3d2ce57b55fdb",
@@ -4658,7 +5007,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "7ef9cb03106be1c6",
@@ -4671,7 +5021,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "f1f2ef2d4fe1cebb",
@@ -4684,7 +5035,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "94aa18d94aec5d9f",
@@ -4697,7 +5049,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "4677b3bb61aa7b8e",
@@ -4710,7 +5063,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "7ec829a9bc6f6472",
@@ -4725,7 +5079,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Energi og strøm"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "b88739a5b783343f",
@@ -4738,7 +5093,8 @@
    "dato": "2026-10-13T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "e5b7aa6187fd460f",
@@ -4755,7 +5111,8 @@
     "Ulikhet og fordeling",
     "Offentlige finanser"
    ],
-   "dokument": "Innst. 1 S (2026-2027)"
+   "dokument": "Innst. 1 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "04e2a173f08de177",
@@ -4770,7 +5127,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "3eb06fa3897cd587",
@@ -4785,7 +5143,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "0814561568f4a0d5",
@@ -4800,7 +5159,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "948b371a218ce36f",
@@ -4815,7 +5175,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "fa702979553ae649",
@@ -4828,7 +5189,8 @@
    "dato": "2026-10-08T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "818149fbeedfd5c6",
@@ -4843,7 +5205,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "2552ebbbbcb3e7f9",
@@ -4858,7 +5221,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "ea38a74d6dc4584d",
@@ -4874,7 +5238,8 @@
    "temaer": [
     "Ulikhet og fordeling",
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "109894d993c482ff",
@@ -4890,7 +5255,8 @@
    "temaer": [
     "Skatt",
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "c7040526e67ed02d",
@@ -4905,7 +5271,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "de5a47de989352bd",
@@ -4919,7 +5286,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:15 S (2026-2027)"
+   "dokument": "Dokument 8:15 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "3ffc5b25526cd81b",
@@ -4933,7 +5301,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:14 S (2026-2027)"
+   "dokument": "Dokument 8:14 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "8a7fea59c6814865",
@@ -4947,7 +5316,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:13 L (2026-2027)"
+   "dokument": "Dokument 8:13 L (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "fd69e8c6636df163",
@@ -4960,7 +5330,8 @@
    "dato": "2026-10-07T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "2b5cb374e470a86f",
@@ -4973,7 +5344,8 @@
    "dato": "2026-10-07T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b1356acb59e11fbb",
@@ -4986,7 +5358,8 @@
    "dato": "2026-10-06T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:14:04Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "2c013045b866f397",
@@ -5002,7 +5375,8 @@
    "temaer": [
     "Arbeid og trygd",
     "Bolig"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "7c4500802a4cef96",
@@ -5018,7 +5392,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Dokument 8:11 S (2026-2027)"
+   "dokument": "Dokument 8:11 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "80d02cec0ee21a21",
@@ -5034,7 +5409,8 @@
    "temaer": [
     "Energi og strøm"
    ],
-   "dokument": "Dokument 8:12 S (2026-2027)"
+   "dokument": "Dokument 8:12 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "0d3933a6c183a9b3",
@@ -5048,7 +5424,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:10 S (2026-2027)"
+   "dokument": "Dokument 8:10 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "9ad2ac71bdf1e8c3",
@@ -5063,7 +5440,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "42b2fa7427e804d9",
@@ -5077,7 +5455,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:7 S (2026-2027)"
+   "dokument": "Dokument 8:7 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "97657e17bba82a49",
@@ -5091,7 +5470,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:6 S (2026-2027)"
+   "dokument": "Dokument 8:6 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "67829010da95bc09",
@@ -5105,7 +5485,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:8 S (2026-2027)"
+   "dokument": "Dokument 8:8 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "6f492310398ad215",
@@ -5119,7 +5500,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:9 S (2026-2027)"
+   "dokument": "Dokument 8:9 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "e187d6f4ff395aa9",
@@ -5133,7 +5515,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:5 S (2026-2027)"
+   "dokument": "Dokument 8:5 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "2656fcef262e6915",
@@ -5147,7 +5530,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:4 S (2026-2027)"
+   "dokument": "Dokument 8:4 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "e1c8d568e42bd6b5",
@@ -5161,7 +5545,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:3 S (2026-2027)"
+   "dokument": "Dokument 8:3 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "cf85e19dcfa1c84d",
@@ -5175,7 +5560,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:2 S (2026-2027)"
+   "dokument": "Dokument 8:2 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "2412fc6de83f56ab",
@@ -5191,7 +5577,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Dokument 8:1 S (2026-2027)"
+   "dokument": "Dokument 8:1 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "afc194b30af7afba",
@@ -5205,7 +5592,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 18 S (2026-2027)"
+   "dokument": "Innst. 18 S (2026-2027)",
+   "spor": "lopende"
   },
   {
    "id": "cd4de9b3c5355b39",
@@ -5218,7 +5606,8 @@
    "dato": "2026-10-01T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "b30a3584944f6a2e",
@@ -5231,7 +5620,8 @@
    "dato": "2026-10-01T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d0aa820fe1b59dab",
@@ -5244,7 +5634,8 @@
    "dato": "2026-10-01T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "2865dd86c8a6f8d5",
@@ -5257,7 +5648,8 @@
    "dato": "2026-09-30T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "10de374cdf5adb51",
@@ -5270,7 +5662,8 @@
    "dato": "2026-09-30T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "a04cbd3170773971",
@@ -5283,7 +5676,8 @@
    "dato": "2026-09-29T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "afd974da1e75cbfb",
@@ -5297,7 +5691,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 471 S (2025-2026)"
+   "dokument": "Innst. 471 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "082b599845f11ad6",
@@ -5310,7 +5705,8 @@
    "dato": "2026-09-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "a8bbb684f9accd4e",
@@ -5325,7 +5721,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "6e6cde7c6bafa105",
@@ -5338,7 +5735,8 @@
    "dato": "2026-09-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "c1c7e63df4eb0d87",
@@ -5353,7 +5751,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "5e422a0119191284",
@@ -5368,7 +5767,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "efed2929e7175d8f",
@@ -5381,7 +5781,8 @@
    "dato": "2026-09-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "68d527bab85b2355",
@@ -5394,7 +5795,8 @@
    "dato": "2026-09-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d7ac5d69ab9d7ae1",
@@ -5407,7 +5809,8 @@
    "dato": "2026-09-28T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "a5e99055264151b7",
@@ -5420,7 +5823,8 @@
    "dato": "2026-09-27T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "bb1272afd45db4fc",
@@ -5433,7 +5837,8 @@
    "dato": "2026-09-27T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d13f2b475633eb85",
@@ -5446,7 +5851,8 @@
    "dato": "2026-09-27T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "f05d032aac81e242",
@@ -5459,7 +5865,8 @@
    "dato": "2026-09-27T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "7782e151dfa96b8d",
@@ -5472,7 +5879,8 @@
    "dato": "2026-09-26T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "57a3cb2d270815c5",
@@ -5486,7 +5894,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 470 S (2025-2026)"
+   "dokument": "Innst. 470 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "8dd939f8663023cc",
@@ -5500,7 +5909,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Innst. 469 S (2025-2026)"
+   "dokument": "Innst. 469 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "2e09c5d016cf94b0",
@@ -5513,7 +5923,8 @@
    "dato": "2026-09-24T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "tall"
   },
   {
    "id": "4761c4edf929db54",
@@ -5526,7 +5937,8 @@
    "dato": "2026-09-24T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "868cb71210144578",
@@ -5539,7 +5951,8 @@
    "dato": "2026-09-24T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "432bcd129dd087c9",
@@ -5552,7 +5965,8 @@
    "dato": "2026-09-23T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "cdd188916768eab8",
@@ -5567,7 +5981,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Markedsmakt og konkurranse"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "b217e60f4ae9bf69",
@@ -5580,7 +5995,8 @@
    "dato": "2026-09-17T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "107f4e479cef1955",
@@ -5593,7 +6009,8 @@
    "dato": "2026-09-16T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "f4964078636b2528",
@@ -5606,7 +6023,8 @@
    "dato": "2026-09-16T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "0adcd1923e4e49ed",
@@ -5619,7 +6037,8 @@
    "dato": "2026-09-14T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "c53f812942e4dc8d",
@@ -5634,7 +6053,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Skatt"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "0d85856fd369136c",
@@ -5647,7 +6067,8 @@
    "dato": "2026-09-14T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "72e016cee4a57d00",
@@ -5660,7 +6081,8 @@
    "dato": "2026-09-14T00:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "d412d084efb44db8",
@@ -5673,7 +6095,8 @@
    "dato": "2026-09-11T09:49:40Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "aec6c3556426f6a0",
@@ -5686,7 +6109,8 @@
    "dato": "2026-09-11T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "b596723cbe610804",
@@ -5699,7 +6123,8 @@
    "dato": "2026-09-10T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "3346e4b74e7cb34a",
@@ -5712,7 +6137,8 @@
    "dato": "2026-09-07T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "41bd33fe77db47a3",
@@ -5727,7 +6153,8 @@
    "funnet": "2026-11-22T17:40:24Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "f893a1429cf2eb35",
@@ -5742,7 +6169,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Bolig"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "f8304107feffbf1a",
@@ -5755,7 +6183,8 @@
    "dato": "2026-08-28T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "cd495475b5404531",
@@ -5768,7 +6197,8 @@
    "dato": "2026-08-28T06:52:11Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "a5d37d06c2177680",
@@ -5781,7 +6211,8 @@
    "dato": "2026-08-24T10:11:31Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "80b9bfbec9376392",
@@ -5797,7 +6228,8 @@
    "temaer": [
     "Arbeid og trygd",
     "Bolig"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "11ce776bc8af7d44",
@@ -5810,7 +6242,8 @@
    "dato": "2026-08-16T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "4195926c76d6e8ae",
@@ -5823,7 +6256,8 @@
    "dato": "2026-08-14T09:21:22Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "90801af48686fa28",
@@ -5836,7 +6270,8 @@
    "dato": "2026-08-08T12:25:54Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "8f91bb86624a1d1c",
@@ -5849,7 +6284,8 @@
    "dato": "2026-08-07T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "6ced9e494f85fde2",
@@ -5862,7 +6298,8 @@
    "dato": "2026-08-04T08:53:52Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "54126a3853a93b5f",
@@ -5877,7 +6314,8 @@
    "funnet": "2026-11-22T02:10:30Z",
    "temaer": [
     "EU og EØS"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "91d38759825b0b8e",
@@ -5890,7 +6328,8 @@
    "dato": "2026-08-01T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "67c03404a93097f3",
@@ -5903,7 +6342,8 @@
    "dato": "2026-07-26T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "4ad36783a8d65911",
@@ -5916,7 +6356,8 @@
    "dato": "2026-07-16T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T15:15:56Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "e4d4bd82ef2791fa",
@@ -5929,7 +6370,8 @@
    "dato": "2026-07-01T11:17:21Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "7f7af2e11932d872",
@@ -5942,7 +6384,8 @@
    "dato": "2026-06-29T10:17:50Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "7fded0eacb8e873b",
@@ -5957,7 +6400,8 @@
    "funnet": "2026-11-22T17:40:24Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "4b3f55d6c7aa1bd7",
@@ -5970,7 +6414,8 @@
    "dato": "2026-06-26T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "063db6777faef445",
@@ -5985,7 +6430,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "ab42a8cbc903c49f",
@@ -6001,7 +6447,8 @@
    "temaer": [
     "Skatt",
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "d7688da809497438",
@@ -6014,7 +6461,8 @@
    "dato": "2026-06-23T10:00:00Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "d30282499cc2014c",
@@ -6030,7 +6478,8 @@
    "temaer": [
     "Velferd og privatisering"
    ],
-   "dokument": "Dokument 8:318 S (2025-2026)"
+   "dokument": "Dokument 8:318 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "c60457a6418a0422",
@@ -6044,7 +6493,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:320 S (2025-2026)"
+   "dokument": "Dokument 8:320 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "7ef7d04360f8f910",
@@ -6058,7 +6508,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:314 S (2025-2026)"
+   "dokument": "Dokument 8:314 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "e0de1b2f60b81fe5",
@@ -6072,7 +6523,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:313 S (2025-2026)"
+   "dokument": "Dokument 8:313 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "7a5d164de61881d8",
@@ -6085,7 +6537,8 @@
    "dato": "2026-06-21T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "d55eb90b8ffccd29",
@@ -6098,7 +6551,8 @@
    "dato": "2026-06-19T10:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:12:09Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "14b96cc2b6b8f80d",
@@ -6114,7 +6568,8 @@
    "temaer": [
     "Energi og strøm"
    ],
-   "dokument": "Dokument 8:324 S (2025-2026)"
+   "dokument": "Dokument 8:324 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "4c26f83136a4ea04",
@@ -6128,7 +6583,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:323 S (2025-2026)"
+   "dokument": "Dokument 8:323 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "47cfb45388aba179",
@@ -6142,7 +6598,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:322 S (2025-2026)"
+   "dokument": "Dokument 8:322 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "12f7d82ddfa9f982",
@@ -6156,7 +6613,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:321 S (2025-2026)"
+   "dokument": "Dokument 8:321 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "bff0ab6a816c0d30",
@@ -6172,7 +6630,8 @@
    "temaer": [
     "Energi og strøm"
    ],
-   "dokument": "Dokument 8:319 S (2025-2026)"
+   "dokument": "Dokument 8:319 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "73bf48bf26c24c44",
@@ -6186,7 +6645,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:317 S (2025-2026)"
+   "dokument": "Dokument 8:317 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "62972f598b83a57e",
@@ -6200,7 +6660,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:316 S (2025-2026)"
+   "dokument": "Dokument 8:316 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "3ceeffcf97d5961c",
@@ -6214,7 +6675,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:315 S (2025-2026)"
+   "dokument": "Dokument 8:315 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "3032cf513c68f9a6",
@@ -6230,7 +6692,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Dokument 8:312 S (2025-2026)"
+   "dokument": "Dokument 8:312 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "5494ba7145d945fd",
@@ -6244,7 +6707,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:311 S (2025-2026)"
+   "dokument": "Dokument 8:311 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "33634edaae5cb777",
@@ -6257,7 +6721,8 @@
    "dato": "2026-06-18T18:59:12Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "b7a09410e3b14860",
@@ -6270,7 +6735,8 @@
    "dato": "2026-06-18T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "d021521a0db97067",
@@ -6283,7 +6749,8 @@
    "dato": "2026-06-18T08:00:00Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "830da512062a5b74",
@@ -6299,7 +6766,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Dokument 8:310 S (2025-2026)"
+   "dokument": "Dokument 8:310 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "f24852da545a2e4a",
@@ -6313,7 +6781,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:309 S (2025-2026)"
+   "dokument": "Dokument 8:309 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "1d142b4901985068",
@@ -6327,7 +6796,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:308 S (2025-2026)"
+   "dokument": "Dokument 8:308 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "96d619761c9d96d6",
@@ -6343,7 +6813,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Dokument 8:307 S (2025-2026)"
+   "dokument": "Dokument 8:307 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "dd94388a46a0217f",
@@ -6357,7 +6828,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:306 S (2025-2026)"
+   "dokument": "Dokument 8:306 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "1a7827835e44a5ce",
@@ -6370,7 +6842,8 @@
    "dato": "2026-06-17T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T17:40:24Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "d256b138053c8851",
@@ -6384,7 +6857,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:305 S (2025-2026)"
+   "dokument": "Dokument 8:305 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "ebd0329ba55014f7",
@@ -6397,7 +6871,8 @@
    "dato": "2026-06-16T11:00:00Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "fe513019b45ee154",
@@ -6410,7 +6885,8 @@
    "dato": "2026-06-15T10:16:38Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "33e88424ef603cfd",
@@ -6423,7 +6899,8 @@
    "dato": "2026-06-15T09:56:05Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "cac7984dcf6c75c6",
@@ -6439,7 +6916,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Lovvedtak 92 (2025-2026)"
+   "dokument": "Lovvedtak 92 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "d3325b56591b926f",
@@ -6455,7 +6933,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Lovvedtak 96 (2025-2026)"
+   "dokument": "Lovvedtak 96 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "d6e14d7593bb44dc",
@@ -6469,7 +6948,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 95 (2025-2026)"
+   "dokument": "Lovvedtak 95 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "20df440c65042807",
@@ -6483,7 +6963,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 94 (2025-2026)"
+   "dokument": "Lovvedtak 94 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "58a6724285869e9c",
@@ -6497,7 +6978,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 93 (2025-2026)"
+   "dokument": "Lovvedtak 93 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "85168bb3a829073b",
@@ -6513,7 +6995,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Lovvedtak 91 (2025-2026)"
+   "dokument": "Lovvedtak 91 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "b0fc29e6cad38406",
@@ -6529,7 +7012,8 @@
    "temaer": [
     "Velferd og privatisering"
    ],
-   "dokument": "Dokument 8:304 S (2025-2026)"
+   "dokument": "Dokument 8:304 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "972b748737a39073",
@@ -6543,7 +7027,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:303 S (2025-2026)"
+   "dokument": "Dokument 8:303 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "8e3c089b9d1ac670",
@@ -6557,7 +7042,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:302 S (2025-2026)"
+   "dokument": "Dokument 8:302 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "7e73b1afa4b010f7",
@@ -6571,7 +7057,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:301 S (2025-2026)"
+   "dokument": "Dokument 8:301 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "a0d99075c36147f9",
@@ -6587,7 +7074,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Lovvedtak 90 (2025-2026)"
+   "dokument": "Lovvedtak 90 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "86d2a6632dcb10be",
@@ -6603,7 +7091,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Lovvedtak 89 (2025-2026)"
+   "dokument": "Lovvedtak 89 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "3fa8c4d3d5cef30d",
@@ -6617,7 +7106,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 88 (2025-2026)"
+   "dokument": "Lovvedtak 88 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "dfcda416e7117622",
@@ -6631,7 +7121,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 87 (2025-2026)"
+   "dokument": "Lovvedtak 87 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "5dc1e8df0da46d57",
@@ -6648,7 +7139,8 @@
     "Bolig",
     "Energi og strøm"
    ],
-   "dokument": "Dokument 8:300 S (2025-2026)"
+   "dokument": "Dokument 8:300 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "1f62f26e48b22938",
@@ -6662,7 +7154,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:299 S (2025-2026)"
+   "dokument": "Dokument 8:299 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "3fdffe15528676ff",
@@ -6676,7 +7169,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 86 (2025-2026)"
+   "dokument": "Lovvedtak 86 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "cf27211b6a3a5035",
@@ -6692,7 +7186,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Lovvedtak 85 (2025-2026)"
+   "dokument": "Lovvedtak 85 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "79a0bd62818aed6b",
@@ -6707,7 +7202,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "4415f359b7509ff7",
@@ -6722,7 +7218,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "f9235f1e19fc5bf4",
@@ -6736,7 +7233,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 83 (2025-2026)"
+   "dokument": "Lovvedtak 83 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "f795aa3f5dd36aec",
@@ -6750,7 +7248,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 84 (2025-2026)"
+   "dokument": "Lovvedtak 84 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "6dfa9489dd5ab03d",
@@ -6763,7 +7262,8 @@
    "dato": "2026-06-09T11:00:00Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "36c51867d817d010",
@@ -6776,7 +7276,8 @@
    "dato": "2026-06-09T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "3c783615b46858b1",
@@ -6789,7 +7290,8 @@
    "dato": "2026-06-09T05:30:00Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "890330d6a0867932",
@@ -6805,7 +7307,8 @@
    "temaer": [
     "Energi og strøm"
    ],
-   "dokument": "Lovvedtak 82 (2025-2026)"
+   "dokument": "Lovvedtak 82 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "0e2141f5ce61c0ba",
@@ -6819,7 +7322,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 81 (2025-2026)"
+   "dokument": "Lovvedtak 81 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "2edaa2798828e0e3",
@@ -6833,7 +7337,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 80 (2025-2026)"
+   "dokument": "Lovvedtak 80 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "90f73ad1852693aa",
@@ -6847,7 +7352,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 79 (2025-2026)"
+   "dokument": "Lovvedtak 79 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "662d368c178db0ae",
@@ -6861,7 +7367,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 78 (2025-2026)"
+   "dokument": "Lovvedtak 78 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "de96618748e40d4b",
@@ -6875,7 +7382,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 77 (2025-2026)"
+   "dokument": "Lovvedtak 77 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "e442f6204860c82f",
@@ -6890,7 +7398,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "f174b6cc9ca932e0",
@@ -6903,7 +7412,8 @@
    "dato": "2026-06-08T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "52ba26de57ed68b3",
@@ -6917,7 +7427,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:298 S (2025-2026)"
+   "dokument": "Dokument 8:298 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "a1e7e1f9ef267730",
@@ -6933,7 +7444,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Lovvedtak 76 (2025-2026)"
+   "dokument": "Lovvedtak 76 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "ec97b342ce0aa7dd",
@@ -6947,7 +7459,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 75 (2025-2026)"
+   "dokument": "Lovvedtak 75 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "dc0c66aa0a6737d0",
@@ -6963,7 +7476,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Lovvedtak 74 (2025-2026)"
+   "dokument": "Lovvedtak 74 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "27b9937520407228",
@@ -6977,7 +7491,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 73 (2025-2026)"
+   "dokument": "Lovvedtak 73 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "3658f78fee814f8d",
@@ -6990,7 +7505,8 @@
    "dato": "2026-06-07T19:21:24Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "b37b9a20bca892be",
@@ -7005,7 +7521,8 @@
    "funnet": "2026-11-22T02:12:09Z",
    "temaer": [
     "Offentlige finanser"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "c18d92509a9d7007",
@@ -7018,7 +7535,8 @@
    "dato": "2026-06-05T06:34:23Z",
    "viktig": true,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "5a2b29a447449031",
@@ -7031,7 +7549,8 @@
    "dato": "2026-06-05T06:30:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "c31e6754dc7e38d6",
@@ -7045,7 +7564,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 71 (2025-2026)"
+   "dokument": "Lovvedtak 71 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "0ee046ac8e977444",
@@ -7061,7 +7581,8 @@
    "temaer": [
     "Skatt"
    ],
-   "dokument": "Lovvedtak 70 (2025-2026)"
+   "dokument": "Lovvedtak 70 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "92640ad0c7d1a77b",
@@ -7077,7 +7598,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Lovvedtak 69 (2025-2026)"
+   "dokument": "Lovvedtak 69 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "381f869d740c6da1",
@@ -7093,7 +7615,8 @@
    "temaer": [
     "Velferd og privatisering"
    ],
-   "dokument": "Lovvedtak 67 (2025-2026)"
+   "dokument": "Lovvedtak 67 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "31358d06c87026da",
@@ -7107,7 +7630,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 72 (2025-2026)"
+   "dokument": "Lovvedtak 72 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "ee471de79149b8ad",
@@ -7121,7 +7645,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 68 (2025-2026)"
+   "dokument": "Lovvedtak 68 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "e930c1c10a75c466",
@@ -7137,7 +7662,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Lovvedtak 66 (2025-2026)"
+   "dokument": "Lovvedtak 66 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "c1a729521259753f",
@@ -7151,7 +7677,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 65 (2025-2026)"
+   "dokument": "Lovvedtak 65 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "fffa0b35a538675a",
@@ -7165,7 +7692,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 64 (2025-2026)"
+   "dokument": "Lovvedtak 64 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "7f05f1259ee6e39d",
@@ -7179,7 +7707,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 63 (2025-2026)"
+   "dokument": "Lovvedtak 63 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "b2e8452baa208c35",
@@ -7193,7 +7722,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 62 (2025-2026)"
+   "dokument": "Lovvedtak 62 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "639e89eadc0f6b03",
@@ -7207,7 +7737,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 61 (2025-2026)"
+   "dokument": "Lovvedtak 61 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "3b4d07a735543590",
@@ -7221,7 +7752,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 60 (2025-2026)"
+   "dokument": "Lovvedtak 60 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "6da266dd22c7d4c0",
@@ -7237,7 +7769,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Lovvedtak 59 (2025-2026)"
+   "dokument": "Lovvedtak 59 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "a442f13e28723778",
@@ -7253,7 +7786,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Lovvedtak 58 (2025-2026)"
+   "dokument": "Lovvedtak 58 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "2092b6d09bccee2f",
@@ -7269,7 +7803,8 @@
    "temaer": [
     "EU og EØS"
    ],
-   "dokument": "Lovvedtak 57 (2025-2026)"
+   "dokument": "Lovvedtak 57 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "e31aaa944f14f4b0",
@@ -7283,7 +7818,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 56 (2025-2026)"
+   "dokument": "Lovvedtak 56 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "e8b993d04eb10fdb",
@@ -7297,7 +7833,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 55 (2025-2026)"
+   "dokument": "Lovvedtak 55 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "8276e6f474bc2227",
@@ -7311,7 +7848,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 54 (2025-2026)"
+   "dokument": "Lovvedtak 54 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "9e1ef37a10416ebf",
@@ -7325,7 +7863,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 53 (2025-2026)"
+   "dokument": "Lovvedtak 53 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "1955806bf764a95b",
@@ -7339,7 +7878,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 52 (2025-2026)"
+   "dokument": "Lovvedtak 52 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "6c028373ee6c403b",
@@ -7353,7 +7893,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 51 (2025-2026)"
+   "dokument": "Lovvedtak 51 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "0167e380196ce1ba",
@@ -7366,7 +7907,8 @@
    "dato": "2026-06-01T12:54:23Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "f7cfbadc5702f9fc",
@@ -7380,7 +7922,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Dokument 8:297 S (2025-2026)"
+   "dokument": "Dokument 8:297 S (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "b6b63e0844051cac",
@@ -7395,7 +7938,8 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Arbeid og trygd"
-   ]
+   ],
+   "spor": "lopende"
   },
   {
    "id": "33c1a9044eed8ead",
@@ -7408,7 +7952,8 @@
    "dato": "2026-05-29T06:30:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "8b2e61805f0654fb",
@@ -7421,7 +7966,8 @@
    "dato": "2026-05-28T07:00:00Z",
    "viktig": false,
    "funnet": "2026-11-22T02:10:30Z",
-   "temaer": []
+   "temaer": [],
+   "spor": "rapporter"
   },
   {
    "id": "ea9dad7fb00bf4e8",
@@ -7435,7 +7981,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 50 (2025-2026)"
+   "dokument": "Lovvedtak 50 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "87aee6a318aa678c",
@@ -7449,7 +7996,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 49 (2025-2026)"
+   "dokument": "Lovvedtak 49 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "3c9c2e153fe6306c",
@@ -7463,7 +8011,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 48 (2025-2026)"
+   "dokument": "Lovvedtak 48 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "dbf784545d907200",
@@ -7477,7 +8026,8 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
-   "dokument": "Lovvedtak 47 (2025-2026)"
+   "dokument": "Lovvedtak 47 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "0d56fb3712ee259c",
@@ -7493,7 +8043,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Lovvedtak 46 (2025-2026)"
+   "dokument": "Lovvedtak 46 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "dc77d5b9a23d2c9a",
@@ -7509,7 +8060,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Lovvedtak 45 (2025-2026)"
+   "dokument": "Lovvedtak 45 (2025-2026)",
+   "spor": "lopende"
   },
   {
    "id": "68e57314be15f796",
@@ -7525,7 +8077,8 @@
    "temaer": [
     "Arbeid og trygd"
    ],
-   "dokument": "Lovvedtak 44 (2025-2026)"
+   "dokument": "Lovvedtak 44 (2025-2026)",
+   "spor": "lopende"
   }
  ],
  "kalender": [

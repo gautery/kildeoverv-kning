@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 18:40. Viser de siste 14 dagene (182 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 18:59. Viser de siste 14 dagene (183 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -27,6 +27,7 @@ _Sist oppdatert 22.11.2026 kl. 18:40. Viser de siste 14 dagene (182 saker). ★ 
 
 ### Søndag 22. november
 
+- [Konfiskert, beskattet eller nedskrevet? SPU i en ny tid](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3ZMTkMwUDNvSkZ3Z2RIWnliRWZHZTBneFB0VmY4Vi02ZTRkQlZfMEd5X2VpVmFUMzBuUkxvNHE2Vi1YM1pDdldWU3ZUdGJKU1BtWVowdVBwREh6em9MbUthdkpqcURlNzdJUjNPdmpIZUF2REUzV1ktWlRGZUFiaXB6a05JTnM?oc=5) — Civita · _Skatt_
 - [Hva i alle dager er et styringsparti?](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWxzQkU2QXRLbDNrZ2VJZC1ZWEtYdUk2YjZKX2k4WXNQdjd6Mm5IM0UxdUZBQWtuSm1qWFhoamtmMGRpNm5DeUdKR0U0bEdNYXBFWjg2ck5PQXNPYVRIYzZwOW5GVENZdjRNcWVVTmZPMGNlWnFuaHdkUVp6Yy1YOWE3V0k4bk91d2VuQlhlOUFUMHFY?oc=5) — Civita
 - [Lansering: Ny rapport om skjult eierskap](https://taxjustice.no/artikkel/lansering-ny-rapport-om-skjult-eierskap) — Tax Justice Norge
 - [Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498) — Stortinget – høringer i komiteene
