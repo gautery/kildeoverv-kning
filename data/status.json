@@ -85,16 +85,6 @@
   "feil": null
  },
  {
-  "navn": "FrP",
-  "ok": false,
-  "feil": "fant ingen artikkellenker – har nettsiden endret seg?"
- },
- {
-  "navn": "Rødt",
-  "ok": false,
-  "feil": "HTTPSConnectionPool(host='rodt.no', port=443): Max retries exceeded with url: /nyheter (Caused by NewConnectionError(\"HTTPSConnection(host='rodt.no', port=443): Failed to establish a new connection: ["
- },
- {
   "navn": "Høyre",
   "ok": true,
   "feil": null
