@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 02:55. Viser de siste 14 dagene (155 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 02:56. Viser de siste 14 dagene (155 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -223,4 +223,4 @@ _Sist oppdatert 22.11.2026 kl. 02:55. Viser de siste 14 dagene (155 saker). ★ 
 
 Disse kildene feilet ved siste kjøring:
 - ⚠️ **FrP**: fant ingen artikkellenker – har nettsiden endret seg?
-- ⚠️ **Rødt**: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- ⚠️ **Rødt**: HTTPSConnectionPool(host='rodt.no', port=443): Max retries exceeded with url: /nyheter (Caused by NewConnectionError("HTTPSConnection(host='rodt.no', port=443): Failed to establish a new connection: [

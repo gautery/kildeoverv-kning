@@ -92,7 +92,7 @@
  {
   "navn": "Rødt",
   "ok": false,
-  "feil": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "feil": "HTTPSConnectionPool(host='rodt.no', port=443): Max retries exceeded with url: /nyheter (Caused by NewConnectionError(\"HTTPSConnection(host='rodt.no', port=443): Failed to establish a new connection: ["
  },
  {
   "navn": "Høyre",
