@@ -594,7 +594,9 @@ def main() -> int:
         k["temaer"] = finn_temaer(k["tittel"], matchere)
     kalender.sort(key=lambda k: k["dato"])
 
-    saker = [s for s in arkiv.values() if fra_iso(s["dato"]) >= grense]
+    # Saker fra kilder som er skrudd av eller fjernet, tas ut av oversikten.
+    aktive = {k["navn"] for k in kilder if k.get("aktiv") is not False}
+    saker = [s for s in arkiv.values() if fra_iso(s["dato"]) >= grense and s["kilde"] in aktive]
     saker.sort(key=lambda s: s["dato"], reverse=True)
 
     utvalgt = les_utvalgt(arkiv, matchere)

@@ -181,6 +181,7 @@ kilder:
 
   # ── Tenketanker ───────────────────────────────────────────
   - navn: Civita
+    aktiv: false              # skrudd av nov. 2026: Google Nyheter ga mest kommentarer og kronikker, ikke rapporter
     type: google_nyheter      # civita.no stenger ute automatiske besøk
     søk: site:civita.no
     fjern_fra_tittel: [" - Civita, den liberale tankesmien", " - Civita"]
