@@ -253,11 +253,15 @@ def hent_artikkelinfo(lenke: str) -> tuple[datetime | None, str, str]:
                 return (dt if dt.tzinfo else dt.replace(tzinfo=OSLO)), ingress, tittel
             except ValueError:
                 pass
-    m = re.search(r"\b(\d{1,2})\.\s*(" + "|".join(MÅNEDSNAVN) + r")\s+(20\d\d)\b", side, re.IGNORECASE)
+    # «Publisert: 12. januar 1998» foran andre datoer på siden (Fafo legger ut gamle rapporter fra arkivet).
+    måneder = "|".join(MÅNEDSNAVN)
+    m = re.search(r"Publisert:?\s*(?:<[^>]+>\s*)*(\d{1,2})\.\s*(" + måneder + r")\s+((?:19|20)\d\d)\b", side, re.IGNORECASE)
+    if not m:
+        m = re.search(r"\b(\d{1,2})\.\s*(" + måneder + r")\s+((?:19|20)\d\d)\b", side, re.IGNORECASE)
     if m:
         dag, mnd, år = int(m.group(1)), MÅNEDSNAVN[m.group(2).lower()], int(m.group(3))
         return datetime(år, mnd, dag, 12, tzinfo=OSLO), ingress, tittel
-    m = re.search(r"\b(\d{1,2})\.(\d{1,2})\.(20\d\d)\b", side)
+    m = re.search(r"\b(\d{1,2})\.(\d{1,2})\.((?:19|20)\d\d)\b", side)
     if m:
         try:
             return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)), 12, tzinfo=OSLO), ingress, tittel
