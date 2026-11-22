@@ -168,9 +168,22 @@ def har_ord(tekst: str, ord_liste) -> bool:
 
 # ─────────────────────────────────────────────────────────── kildetyper
 
+def hent(url: str, forsøk: int = 3) -> requests.Response:
+    """GET med noen nye forsøk – enkelte nettsteder (f.eks. Stortinget) avbryter av og til."""
+    import time
+    for i in range(forsøk):
+        try:
+            svar = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=40)
+            svar.raise_for_status()
+            return svar
+        except requests.RequestException:
+            if i == forsøk - 1:
+                raise
+            time.sleep(4 * (i + 1))
+
+
 def hent_feed(url: str):
-    svar = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=40)
-    svar.raise_for_status()
+    svar = hent(url)
     feed = feedparser.parse(svar.content)
     if feed.bozo and not feed.entries:
         raise ValueError(f"klarte ikke å lese strømmen ({feed.bozo_exception})")
@@ -255,8 +268,7 @@ def hent_artikkelinfo(lenke: str) -> tuple[datetime | None, str, str]:
 
 def behandle_nettside(kilde: dict, sett: dict[str, list[str]]):
     """Henter artikkellenker fra en vanlig nettside (for kilder uten RSS)."""
-    svar = requests.get(kilde["url"], headers={"User-Agent": USER_AGENT}, timeout=40)
-    svar.raise_for_status()
+    svar = hent(kilde["url"])
     mønster = re.compile(kilde["lenke_mønster"])
     funn: dict[str, str] = {}
     for href, innhold in re.findall(r'<a\b[^>]*?href="([^"#]+)"[^>]*>(.*?)</a>', svar.text, re.S | re.I):
