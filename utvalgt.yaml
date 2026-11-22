@@ -1,0 +1,25 @@
+# ─────────────────────────────────────────────────────────────
+#  UTVALGTE SAKER – vises under «Utvalgt» på forsiden av valgogpolitikk.no
+# ─────────────────────────────────────────────────────────────
+#  Slik fremhever du en sak:
+#    1. Trykk på blyanten øverst til høyre for å redigere denne filen.
+#    2. Lim inn en ny blokk øverst i lista (under «utvalgt:»), slik:
+#
+#       - lenke: https://www.regjeringen.no/no/dokumenter/nou-2026-9/id3167167/
+#         kommentar: Skattekommisjonen vil kutte formuesskatten. Hvem tjener på det?
+#
+#    3. Trykk «Commit changes». Saken dukker opp på forsiden innen en time.
+#
+#  Felter:
+#    lenke      (må med) Lenken til saken. Tittel og kilde hentes automatisk
+#               hvis saken finnes i kildeovervåkningen.
+#    kommentar  (valgfri, men anbefalt) Én setning om hvorfor saken er viktig.
+#    tittel     (valgfri) Egen tittel, f.eks. hvis saken ikke er i overvåkningen.
+#    kilde      (valgfri) Navn på kilden, hvis den ikke finnes automatisk.
+#    dato       (valgfri) På formen 2026-11-22. Ellers brukes sakens egen dato.
+#
+#  Forsiden viser de fire nyeste. Gamle kan slettes når du vil.
+#  Er det ingen utvalgte saker de siste 14 dagene, viser forsiden «Løpende».
+# ─────────────────────────────────────────────────────────────
+
+utvalgt:

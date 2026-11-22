@@ -1,5 +1,6 @@
 {
- "oppdatert": "2026-11-22T01:38:43Z",
+ "oppdatert": "2026-11-22T01:55:18Z",
+ "utvalgt": [],
  "saker": [
   {
    "id": "a823a1387be5573f",
@@ -197,9 +198,7 @@
    "dato": "2026-11-21T23:14:53Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
-   "temaer": [
-    "Skatt"
-   ]
+   "temaer": []
   },
   {
    "id": "b364a0132891a693",
@@ -504,6 +503,19 @@
    "temaer": [
     "Arbeid og trygd"
    ]
+  },
+  {
+   "id": "dafd9891c2695049",
+   "tittel": "Enorme og målretta kutt i norsk matproduksjon",
+   "lenke": "https://www.senterpartiet.no/aktuelt/enorme-og-malretta-kutt-i-norsk-matproduksjon",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-19T10:52:31Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": []
   },
   {
    "id": "98aa839f29daf9c8",
@@ -1585,6 +1597,21 @@
    "temaer": []
   },
   {
+   "id": "9eeac9850bc73690",
+   "tittel": "Vil stanse helseforetakenes høye lederlønnsavtaler",
+   "lenke": "https://www.senterpartiet.no/aktuelt/vil-stanse-helseforetakenes-hoye-lederlonnsavtaler",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-13T13:46:52Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": [
+    "Arbeid og trygd"
+   ]
+  },
+  {
    "id": "cb611925da0d676c",
    "tittel": "Leverer hele skatteløftet på halve tiden",
    "lenke": "https://hoyre.no/2026/11/13/leverer-hele-skatteloftet-pa-halve-tiden/",
@@ -1752,6 +1779,34 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": []
+  },
+  {
+   "id": "debceb732532f400",
+   "tittel": "Nasjonal kontroll over mineraler er vesentlig",
+   "lenke": "https://www.senterpartiet.no/aktuelt/nasjonal-kontroll-over-mineraler-er-vesentlig",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-11T11:33:01Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": []
+  },
+  {
+   "id": "1332d4e15652d7ad",
+   "tittel": "Senterpartiet vil ha strømstøtte til næringslivet",
+   "lenke": "https://www.senterpartiet.no/aktuelt/senterpartiet-vil-ha-stromstotte-til-naeringslivet",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-11T08:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": [
+    "Energi og strøm"
+   ]
   },
   {
    "id": "b87799d1ea583460",
@@ -1934,6 +1989,19 @@
    "temaer": []
   },
   {
+   "id": "e56a8d123e05be64",
+   "tittel": "Frp vil selge fellesskapets verdier",
+   "lenke": "https://www.senterpartiet.no/aktuelt/frp-vil-selge-fellesskapets-verdier",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-10T09:35:02Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": []
+  },
+  {
    "id": "1d0fd1c924a5f23c",
    "tittel": "Egenmelding fra revisjonsforetak (KRT-1001) - rapportering",
    "lenke": "https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-revisjonsforetak-krt-1001---rapportering/",
@@ -2094,6 +2162,21 @@
    "temaer": []
   },
   {
+   "id": "61de2c5d18e131be",
+   "tittel": "Alternativt statsbudsjett 2027: Sp varsler hard kamp mot sentralisering",
+   "lenke": "https://www.senterpartiet.no/aktuelt/sp-varsler-hard-kamp-mot-sentralisering",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-09T08:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": [
+    "Offentlige finanser"
+   ]
+  },
+  {
    "id": "9c7e4e160383b36f",
    "tittel": "På tide å komme ut av dvalemodus",
    "lenke": "https://hoyre.no/2026/11/06/pa-tide-a-komme-ut-av-dvalemodus/",
@@ -2135,6 +2218,19 @@
    ]
   },
   {
+   "id": "78c26a69c22bcaa2",
+   "tittel": "Vil dra i datasenter-bremsen",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/datasenter-stans",
+   "ingress": "MDG krever midlertidig stans i datasenterutbygging",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-06T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
+   "temaer": []
+  },
+  {
    "id": "211edcf0c3a5ed59",
    "tittel": "– Må bli slutt på fikse ideer i skolen",
    "lenke": "https://hoyre.no/2026/11/06/ma-bli-slutt-pa-fikse-ideer-i-skolen/",
@@ -2146,6 +2242,47 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": []
+  },
+  {
+   "id": "c9956fb47b84ce5b",
+   "tittel": "Trygg og verdig omsorg i hele Norge",
+   "lenke": "https://www.senterpartiet.no/aktuelt/trygg-og-verdig-omsorg-i-hele-norge",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-06T08:28:38Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": []
+  },
+  {
+   "id": "0c118bb2b4b55e2f",
+   "tittel": "Ambulanseberedskapen må styrkast, ikkje svekkast",
+   "lenke": "https://www.senterpartiet.no/aktuelt/ambulanseberedskapen-ma-styrkast-ikkje-svekkast",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-05T14:14:26Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": []
+  },
+  {
+   "id": "392609aa24125981",
+   "tittel": "– Utslippene og billettprisene skal ned",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/altbud27-nyhet",
+   "ingress": "Klima og kollektiv er viktigste stikkord for MDG i årets budsjettforhandlinger.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-05T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
+   "temaer": [
+    "Offentlige finanser"
+   ]
   },
   {
    "id": "f3b08c628faf95e0",
@@ -2185,6 +2322,21 @@
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": []
+  },
+  {
+   "id": "807015bad6c5d860",
+   "tittel": "Sp vil fjerne EU-smutthull i grunnloven – Frp stemte imot",
+   "lenke": "https://www.senterpartiet.no/aktuelt/senterpartiet-vil-fjerne-eu-smutthull-i-grunnloven-frp-stemte-imot",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-04T13:22:02Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": [
+    "EU og EØS"
+   ]
   },
   {
    "id": "e85f3fc1bb851f35",
@@ -2641,6 +2793,19 @@
    "temaer": [
     "Offentlige finanser"
    ]
+  },
+  {
+   "id": "57f424707ebdc1b9",
+   "tittel": "– Bygg liv rundt tilhørighet!",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/vidaraasen",
+   "ingress": "Vi trenger flere fellesskap som Vidaråsen, ikke færre.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-10-29T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
+   "temaer": []
   },
   {
    "id": "078a164ec80f27d2",
@@ -4574,6 +4739,19 @@
    "temaer": []
   },
   {
+   "id": "7782e151dfa96b8d",
+   "tittel": "Endringer i Arbeiderpartiets stortingsgruppe",
+   "lenke": "https://www.arbeiderpartiet.no/aktuelt/endringer-i-arbeiderpartiets-stortingsgruppe/",
+   "ingress": "September 2026",
+   "kilde": "Arbeiderpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-09-26T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": []
+  },
+  {
    "id": "57a3cb2d270815c5",
    "tittel": "Innstilling fra valgkomiteen om valg av nytt medlem til Stortingets ombudsnemnd for Forsvaret",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2025-2026/inns-202526-470s/",
@@ -4656,6 +4834,19 @@
    ]
   },
   {
+   "id": "107f4e479cef1955",
+   "tittel": "Landsstyremøte 15.-16. september 2026",
+   "lenke": "https://www.arbeiderpartiet.no/aktuelt/landsstyremote-15-16-september-2026/",
+   "ingress": "Program",
+   "kilde": "Arbeiderpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-09-16T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": []
+  },
+  {
    "id": "c53f812942e4dc8d",
    "tittel": "Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200327",
@@ -4707,6 +4898,34 @@
    "dato": "2026-09-11T09:49:40Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
+   "temaer": []
+  },
+  {
+   "id": "f893a1429cf2eb35",
+   "tittel": "– En æra er forbi. En ny begynner",
+   "lenke": "https://www.arbeiderpartiet.no/aktuelt/en-ara-er-forbi-en-ny-begynner/",
+   "ingress": "Statsminister Jonas Gahr Støres tale i statsministerboligen 28. august 2026",
+   "kilde": "Arbeiderpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-08-28T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
+   "temaer": [
+    "Bolig"
+   ]
+  },
+  {
+   "id": "f8304107feffbf1a",
+   "tittel": "MDG minnes en varm folkekonge",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/kong-harald",
+   "ingress": "Hvil i fred, Harald.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-08-28T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
    "temaer": []
   },
   {
@@ -4765,6 +4984,19 @@
    "temaer": []
   },
   {
+   "id": "8f91bb86624a1d1c",
+   "tittel": "Arild: Jeg er på bedringens vei",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/arild-bedre",
+   "ingress": "Gode nyheter fra partilederen som fikk påvist kreft før sommeren.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-08-07T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
+   "temaer": []
+  },
+  {
    "id": "6ced9e494f85fde2",
    "tittel": "Møt SV på Arendalsuka 2026",
    "lenke": "https://www.sv.no/blog/2026/08/04/mot-sv-pa-arendalsuka-2026/",
@@ -4775,6 +5007,19 @@
    "dato": "2026-08-04T08:53:52Z",
    "viktig": false,
    "funnet": "2026-11-21T23:14:53Z",
+   "temaer": []
+  },
+  {
+   "id": "91d38759825b0b8e",
+   "tittel": "Fem gode grep for din økonomi",
+   "lenke": "https://www.arbeiderpartiet.no/aktuelt/fem-gode-grep-for-din-okonomi/",
+   "ingress": "– for en sikrere hverdagsøkonomi og bedre råd",
+   "kilde": "Arbeiderpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-08-01T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:50:10Z",
    "temaer": []
   },
   {
@@ -4791,6 +5036,19 @@
    "temaer": []
   },
   {
+   "id": "4b3f55d6c7aa1bd7",
+   "tittel": "– Et historisk år for MDG",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/sommerpk26",
+   "ingress": "Dette er ståa i MDG etter første år med en stor gruppe på Stortinget.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-06-26T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
+   "temaer": []
+  },
+  {
    "id": "063db6777faef445",
    "tittel": "Samferdselsdepartementet har svak oppfølging av Bane NORs eiendomsvirksomhet",
    "lenke": "https://kommunikasjon.ntb.no/pressemelding/18967612/samferdselsdepartementet-har-svak-oppfolging-av-bane-nors-eiendomsvirksomhet?lang=no",
@@ -4803,6 +5061,22 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [
     "Bolig"
+   ]
+  },
+  {
+   "id": "ab42a8cbc903c49f",
+   "tittel": "Nye skatteforslag: – Noe bra, noe dårlig",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/skattekommisjon",
+   "ingress": "MDG er klare for å forhandle om skatter og avgifter til høsten, og vil jobbe for et system som belønner grønne valg.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-06-24T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
+   "temaer": [
+    "Skatt",
+    "Arbeid og trygd"
    ]
   },
   {
@@ -4875,6 +5149,19 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "dokument": "Dokument 8:313 S (2025-2026)"
+  },
+  {
+   "id": "d55eb90b8ffccd29",
+   "tittel": "Arild Hermstad behandles for alvorlig sykdom",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/arild-syk",
+   "ingress": "MDGs partileder har fått en alvorlig kreftdiagnose, men får behandling i verdensklasse.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-06-19T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
+   "temaer": []
   },
   {
    "id": "14b96cc2b6b8f80d",
@@ -5702,6 +5989,21 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "dokument": "Lovvedtak 73 (2025-2026)"
+  },
+  {
+   "id": "b37b9a20bca892be",
+   "tittel": "Store MDG-gjennomslag for kollektiv, klima og natur",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/rnb-2026",
+   "ingress": "MDG får satt ned prisen på kollektivtransport i hele landet og får en storstilt satsing på klimaomstilling og Oslofjorden etter forhandlinger med Ap, SV, Rødt og Sp om revidert nasjonalbudsjett for 2026.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-06-07T10:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-22T01:51:59Z",
+   "temaer": [
+    "Offentlige finanser"
+   ]
   },
   {
    "id": "c18d92509a9d7007",
@@ -6722,6 +7024,31 @@
    "navn": "Norges Bank – Finansiell stabilitet",
    "ok": true,
    "feil": null
+  },
+  {
+   "navn": "Arbeiderpartiet",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "Senterpartiet",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "MDG",
+   "ok": true,
+   "feil": null
+  },
+  {
+   "navn": "FrP",
+   "ok": false,
+   "feil": "fant ingen artikkellenker – har nettsiden endret seg?"
+  },
+  {
+   "navn": "Rødt",
+   "ok": false,
+   "feil": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "navn": "Høyre",

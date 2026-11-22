@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "17 * * * *"     # hver time, 17 minutter over (UTC)
   workflow_dispatch:          # gjør det mulig å kjøre for hånd fra «Actions»-fanen
+  push:                       # kjør med en gang når du endrer kildelisten, temaene eller utvalget
+    branches: [main]
+    paths: [kilder.yaml, tema.yaml, utvalgt.yaml, hent.py]
 
 permissions:
   contents: write

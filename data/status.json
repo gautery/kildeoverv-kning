@@ -70,6 +70,31 @@
   "feil": null
  },
  {
+  "navn": "Arbeiderpartiet",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "Senterpartiet",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "MDG",
+  "ok": true,
+  "feil": null
+ },
+ {
+  "navn": "FrP",
+  "ok": false,
+  "feil": "fant ingen artikkellenker – har nettsiden endret seg?"
+ },
+ {
+  "navn": "Rødt",
+  "ok": false,
+  "feil": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ {
   "navn": "Høyre",
   "ok": true,
   "feil": null

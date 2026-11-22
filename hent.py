@@ -19,7 +19,7 @@ import sys
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
-from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 from xml.sax.saxutils import escape
 from zoneinfo import ZoneInfo
 
@@ -196,9 +196,88 @@ def regjeringen_type(lenke: str, tittel: str) -> str | None:
     return "Nyhet"
 
 
-def behandle_kilde(kilde: dict, ignorert: set[str]):
+
+# ─────────────────────────────────────────────────────────── nettsider uten RSS
+
+MÅNEDSNAVN = {m: i + 1 for i, m in enumerate(
+    ["januar", "februar", "mars", "april", "mai", "juni", "juli",
+     "august", "september", "oktober", "november", "desember"])}
+
+
+def hent_artikkelinfo(lenke: str) -> tuple[datetime | None, str]:
+    """Leser publiseringsdato og ingress fra en artikkelside."""
+    try:
+        svar = requests.get(lenke, headers={"User-Agent": USER_AGENT}, timeout=30)
+        svar.raise_for_status()
+    except Exception:
+        return None, ""
+    side = svar.text
+    ingress = ""
+    m = re.search(r'<meta[^>]+(?:property|name)="(?:og:)?description"[^>]+content="([^"]*)"', side)
+    if m:
+        ingress = ren_tekst(m.group(1))
+    for mønster in (r'article:published_time"[^>]*content="([^"]+)"',
+                    r'"datePublished"\s*:\s*"([^"]+)"',
+                    r'<time[^>]*datetime="([^"]+)"'):
+        m = re.search(mønster, side)
+        if m:
+            try:
+                dt = datetime.fromisoformat(m.group(1).replace("Z", "+00:00"))
+                return (dt if dt.tzinfo else dt.replace(tzinfo=OSLO)), ingress
+            except ValueError:
+                pass
+    m = re.search(r"\b(\d{1,2})\.\s*(" + "|".join(MÅNEDSNAVN) + r")\s+(20\d\d)\b", side, re.IGNORECASE)
+    if m:
+        dag, mnd, år = int(m.group(1)), MÅNEDSNAVN[m.group(2).lower()], int(m.group(3))
+        return datetime(år, mnd, dag, 12, tzinfo=OSLO), ingress
+    m = re.search(r"\b(\d{1,2})\.(\d{1,2})\.(20\d\d)\b", side)
+    if m:
+        try:
+            return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)), 12, tzinfo=OSLO), ingress
+        except ValueError:
+            pass
+    return None, ingress
+
+
+def behandle_nettside(kilde: dict, sett: dict[str, list[str]]):
+    """Henter artikkellenker fra en vanlig nettside (for kilder uten RSS)."""
+    svar = requests.get(kilde["url"], headers={"User-Agent": USER_AGENT}, timeout=40)
+    svar.raise_for_status()
+    mønster = re.compile(kilde["lenke_mønster"])
+    funn: dict[str, str] = {}
+    for href, innhold in re.findall(r'<a\b[^>]*?href="([^"#]+)"[^>]*>(.*?)</a>', svar.text, re.S | re.I):
+        lenke = ren_lenke(urljoin(kilde["url"], html.unescape(href)))
+        if not mønster.search(lenke):
+            continue
+        tittel = ren_tekst(innhold, 250)
+        if len(tittel) > len(funn.get(lenke, "")):
+            funn[lenke] = tittel
+    funn = {l: t for l, t in funn.items() if len(t) >= 15}
+    if not funn:
+        raise ValueError("fant ingen artikkellenker – har nettsiden endret seg?")
+
+    første_gang = kilde["navn"] not in sett
+    kjente = sett.setdefault(kilde["navn"], [])
+    saker = []
+    for lenke, tittel in list(funn.items())[:25]:
+        sak_id = lag_id(lenke)
+        if sak_id in kjente:
+            continue
+        kjente.append(sak_id)
+        dato, ingress = hent_artikkelinfo(lenke)
+        if første_gang and dato is None:
+            continue          # første kjøring: ikke fyll lista med udaterte eldre saker
+        if ingress.strip(" .…") == tittel.strip(" .…"):
+            ingress = ""
+        saker.append(lag_sak(sak_id, kilde, tittel, lenke, ingress, dato, None))
+    sett[kilde["navn"]] = kjente[-300:]
+    return saker, []
+
+def behandle_kilde(kilde: dict, ignorert: set[str], sett: dict[str, list[str]]):
     """Returnerer (saker, kalenderposter)."""
     typ = kilde.get("type", "rss")
+    if typ == "nettside":
+        return behandle_nettside(kilde, sett)
     feed = hent_feed(kilde["url"])
     saker, kalender = [], []
 
@@ -268,6 +347,7 @@ def lag_sak(sak_id, kilde, tittel, lenke, ingress, dato, sak_type):
         "type": sak_type or "",
         "dato": iso(dato),
         "viktig": bool(kilde.get("viktig")) or sak_type in VIKTIGE_TYPER,
+        **({"tema_fra_tittel": True} if kilde.get("tema_fra_tittel") else {}),
     }
 
 
@@ -358,17 +438,49 @@ def skriv_feed(saker) -> None:
 
 # ─────────────────────────────────────────────────────────── hovedløp
 
+
+# ─────────────────────────────────────────────────────────── utvalgte saker
+
+def les_utvalgt(arkiv: dict, matchere) -> list[dict]:
+    """Leser utvalgt.yaml: saker Gaute vil fremheve på forsiden, med egen kommentar."""
+    sti = ROT / "utvalgt.yaml"
+    if not sti.exists():
+        return []
+    innhold = yaml.safe_load(sti.read_text(encoding="utf-8")) or {}
+    etter_lenke = {s["lenke"]: s for s in arkiv.values()}
+    ut = []
+    for u in innhold.get("utvalgt") or []:
+        if not u or not u.get("lenke"):
+            continue
+        lenke = ren_lenke(str(u["lenke"]))
+        sak = etter_lenke.get(lenke, {})
+        dato = u.get("dato")
+        ut.append({
+            "id": lag_id("utvalgt", lenke),
+            "tittel": str(u.get("tittel") or sak.get("tittel") or lenke),
+            "lenke": lenke,
+            "kilde": str(u.get("kilde") or sak.get("kilde") or urlsplit(lenke).netloc.replace("www.", "")),
+            "kommentar": ren_tekst(str(u.get("kommentar") or ""), 400),
+            "dato": iso(datetime.combine(dato, datetime.min.time(), OSLO)) if hasattr(dato, "year")
+                    else (sak.get("dato") or iso(NA)),
+            "temaer": sak.get("temaer") or finn_temaer(str(u.get("tittel") or ""), matchere),
+        })
+    return ut
+
+
 def main() -> int:
     kilder = les_yaml("kilder.yaml")["kilder"]
     matchere = bygg_temamatcher(les_yaml("tema.yaml"))
 
     gamle = les_json(DATA / "saker.json", [])
-    arkiv = {s["id"]: s for s in gamle}
+    arkiv = {s["id"]: dict(s) for s in gamle}   # kopi, så endringer kan sammenlignes med «gamle»
     ignorert_liste = les_json(DATA / "ignorert.json", [])
     ignorert = set(ignorert_liste)
     for_ignorert = set(ignorert)
     gammel_status = les_json(DATA / "status.json", [])
     gammel_kalender = les_json(DATA / "kalender.json", [])
+    sett = les_json(DATA / "sett_nettsider.json", {})
+    gammelt_sett = json.dumps(sett, sort_keys=True)
 
     grense = NA - timedelta(days=BEHOLD_DAGER)
     status, kalender, antall_nye = [], [], 0
@@ -376,7 +488,7 @@ def main() -> int:
         if kilde.get("aktiv") is False:
             continue
         try:
-            saker, kal = behandle_kilde(kilde, ignorert)
+            saker, kal = behandle_kilde(kilde, ignorert, sett)
             nye_her = 0
             for s in saker:
                 if fra_iso(s["dato"]) < grense:
@@ -395,9 +507,11 @@ def main() -> int:
             print(f"  FEIL {kilde['navn']}: {melding}")
 
     # Temaer settes på nytt hver gang, så endringer i tema.yaml slår inn bakover.
+    bare_tittel = {k["navn"] for k in kilder if k.get("tema_fra_tittel")}
     for s in arkiv.values():
         bedre_tittel(s)
-        s["temaer"] = finn_temaer(f"{s['tittel']} {s['ingress']}", matchere)
+        tekst = s["tittel"] if (s.get("tema_fra_tittel") or s["kilde"] in bare_tittel) else f"{s['tittel']} {s['ingress']}"
+        s["temaer"] = finn_temaer(tekst, matchere)
     for k in kalender:
         k["temaer"] = finn_temaer(k["tittel"], matchere)
     kalender.sort(key=lambda k: k["dato"])
@@ -405,11 +519,15 @@ def main() -> int:
     saker = [s for s in arkiv.values() if fra_iso(s["dato"]) >= grense]
     saker.sort(key=lambda s: s["dato"], reverse=True)
 
-    endret = (antall_nye > 0 or kalender != gammel_kalender or status != gammel_status
-              or len(saker) != len(gamle) or not (ROT / "OVERSIKT.md").exists()
-              or [s.get("temaer") for s in saker] != [s.get("temaer") for s in gamle])
+    utvalgt = les_utvalgt(arkiv, matchere)
+    gammel_utvalgt = les_json(DOCS / "saker.json", {}).get("utvalgt") if (DOCS / "saker.json").exists() else None
+
+    endret = (saker != gamle or kalender != gammel_kalender or status != gammel_status
+              or utvalgt != gammel_utvalgt or not (ROT / "OVERSIKT.md").exists())
     print(f"{antall_nye} nye saker, {len(saker)} totalt i arkivet.")
 
+    if json.dumps(sett, sort_keys=True) != gammelt_sett:
+        skriv_json(DATA / "sett_nettsider.json", sett)
     nye_ignorert = [i for i in ignorert if i not in for_ignorert]
     if nye_ignorert:
         skriv_json(DATA / "ignorert.json", (ignorert_liste + sorted(nye_ignorert))[-5000:])
@@ -420,7 +538,7 @@ def main() -> int:
     skriv_json(DATA / "saker.json", saker)
     skriv_json(DATA / "kalender.json", kalender)
     skriv_json(DATA / "status.json", status)
-    skriv_json(DOCS / "saker.json", {"oppdatert": iso(NA), "saker": saker,
+    skriv_json(DOCS / "saker.json", {"oppdatert": iso(NA), "utvalgt": utvalgt, "saker": saker,
                                     "kalender": kalender, "status": status})
     skriv_feed(saker)
     skriv_oversikt(saker, kalender, status, matchere)

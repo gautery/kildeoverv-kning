@@ -15,6 +15,7 @@
 #    viktig        true = merkes med ★ i oversikten (valgfritt)
 #    bare_med_ord  Ta bare med saker som inneholder ett av disse ordene (valgfritt)
 #    aktiv         false = hopp over kilden uten å slette den (valgfritt)
+#    tema_fra_tittel  true = temaer settes bare ut fra tittelen (valgfritt)
 # ─────────────────────────────────────────────────────────────
 
 kilder:
@@ -112,7 +113,38 @@ kilder:
     kategori: Norges Bank
 
   # ── Partier ───────────────────────────────────────────────
-  # Ap, FrP, Rødt, Sp og MDG har ikke funnet RSS ennå – legges til senere.
+  # Ap, Sp, MDG, FrP og Rødt har ikke RSS. De hentes fra nyhetssidene
+  # deres med type «nettside»: lenke_mønster sier hvilke lenker som er saker.
+  - navn: Arbeiderpartiet
+    type: nettside
+    url: https://www.arbeiderpartiet.no/aktuelt/
+    lenke_mønster: '^https://www\.arbeiderpartiet\.no/aktuelt/[^/?#]+/?$'
+    kategori: Parti
+
+  - navn: Senterpartiet
+    type: nettside
+    url: https://www.senterpartiet.no/aktuelt
+    lenke_mønster: '^https://www\.senterpartiet\.no/aktuelt/[^/?#]+$'
+    kategori: Parti
+
+  - navn: MDG
+    type: nettside
+    url: https://mdg.no/politikk/aktuelt
+    lenke_mønster: '^https://(www\.)?mdg\.no/politikk/aktuelt/nyhet/[^/?#]+$'
+    kategori: Parti
+
+  - navn: FrP
+    type: nettside
+    url: https://www.frp.no/nyheter
+    lenke_mønster: '^https://www\.frp\.no/(nyheter|aktuelt)/[^/?#]+/?$'
+    kategori: Parti
+
+  - navn: Rødt
+    type: nettside
+    url: https://rodt.no/nyheter
+    lenke_mønster: '^https://(www\.)?rodt\.no/(nyheter|aktuelt)/[^/?#]+/?$'
+    kategori: Parti
+
   - navn: Høyre
     type: rss
     url: https://www.hoyre.no/feed/
@@ -139,6 +171,7 @@ kilder:
     url: https://www.nber.org/rss/new.xml
     kategori: Forskning
     bare_med_ord: [tax, wealth, inequality, "top income", Norway, Norwegian, Nordic, Scandinavia, "market power", markup, concentration, monopsony]
+    tema_fra_tittel: true   # merk tema bare ut fra tittelen (sammendragene nevner skatt i forbifarten)
 
   - navn: EU Tax Observatory
     type: rss

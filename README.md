@@ -20,7 +20,9 @@ Ingenting av dette koster penger.
 | legge til en kilde | Åpne `kilder.yaml`, trykk blyanten, kopier en blokk og endre navn/url. Trykk **Commit changes**. |
 | skru av en kilde | Legg til linjen `aktiv: false` under kilden. |
 | endre temaer | Åpne `tema.yaml` og legg til eller fjern ord. Endringen gjelder også gamle saker. |
-| kjøre med en gang | Gå til **Actions** → «Hent nytt fra kildene» → **Run workflow**. |
+| fremheve en sak på forsiden | Åpne `utvalgt.yaml`, lim inn lenken og en kort kommentar. Forklaring står øverst i fila. |
+| legge til en nettside uten RSS | Bruk `type: nettside` og et `lenke_mønster`, se partiene i `kilder.yaml`. |
+| kjøre med en gang | Gå til **Actions** → «Hent nytt fra kildene» → **Run workflow**. Det skjer også automatisk når du endrer `kilder.yaml`, `tema.yaml` eller `utvalgt.yaml`. |
 
 ## Filene
 
@@ -28,6 +30,7 @@ Ingenting av dette koster penger.
 |---|---|
 | `kilder.yaml` | Kildelisten |
 | `tema.yaml` | Temaer og ordene som utløser dem |
+| `utvalgt.yaml` | Saker du fremhever på forsiden av valgogpolitikk.no |
 | `hent.py` | Programmet som henter og sorterer |
 | `OVERSIKT.md` | Lesbar oversikt over de siste 14 dagene |
 | `data/saker.json` | Alle saker fra de siste 180 dagene |

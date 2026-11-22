@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 02:39. Viser de siste 14 dagene (149 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 02:55. Viser de siste 14 dagene (155 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -40,7 +40,7 @@ _Sist oppdatert 22.11.2026 kl. 02:39. Viser de siste 14 dagene (149 saker). ★ 
 - [Representantforslag om midlertidig stans av økt strømforbruk til datasentre (S-delen)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200494) — Stortinget – høringer i komiteene · _Energi og strøm_
 - [Representantforslag om stans i datasenterutbygging og kontroll over kraft- og industripolitikken](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200424) — Stortinget – høringer i komiteene
 - [Horizontal Equity of Taxation: Citizen Beliefs and Policy Preferences -- by Pierre Bachas, Christopher A. Hoy, Anders Jensen, Mahvish Shaukat](https://www.nber.org/papers/w36007) — NBER working papers · _Skatt_
-- [Preconception Medicaid and Maternal and Infant Health: Evidence from Linked Administrative Data -- by Genna Campain, Sarah Miller, Petra Persson, Maya Rossin-Slater, Laura Wherry, Katlyn N. King](https://www.nber.org/papers/w36033) — NBER working papers · _Skatt_
+- [Preconception Medicaid and Maternal and Infant Health: Evidence from Linked Administrative Data -- by Genna Campain, Sarah Miller, Petra Persson, Maya Rossin-Slater, Laura Wherry, Katlyn N. King](https://www.nber.org/papers/w36033) — NBER working papers
 
 ### Lørdag 21. november
 
@@ -72,6 +72,7 @@ _Sist oppdatert 22.11.2026 kl. 02:39. Viser de siste 14 dagene (149 saker). ★ 
 
 ### Torsdag 19. november
 
+- [Enorme og målretta kutt i norsk matproduksjon](https://www.senterpartiet.no/aktuelt/enorme-og-malretta-kutt-i-norsk-matproduksjon) — Senterpartiet
 - [Konkurransetilsynet støttar informasjonsdeling mot økonomisk kriminalitet](https://konkurransetilsynet.no/konkurransetilsynet-stottar-informasjonsdeling-mot-okonomisk-kriminalitet/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
 - [Høye energipriser løftet børsen](https://www.ssb.no/bank-og-finansmarked/verdipapirmarkeder/statistikk/verdipapirer/artikler/hoye-energipriser-loftet-borsen) — SSB · _Energi og strøm_
 - [Norske verdipapirfond](https://www.ssb.no/bank-og-finansmarked/verdipapirmarkeder/statistikk/verdipapirfond/artikler/status-norske-fond) — SSB
@@ -164,6 +165,7 @@ _Sist oppdatert 22.11.2026 kl. 02:39. Viser de siste 14 dagene (149 saker). ★ 
 ### Fredag 13. november
 
 - [Setter av 1 milliard til fysiske lærebøker](https://hoyre.no/2026/11/13/milliard-til-fysiske-boker-i-hoyres-budsjett/) — Høyre
+- [Vil stanse helseforetakenes høye lederlønnsavtaler](https://www.senterpartiet.no/aktuelt/vil-stanse-helseforetakenes-hoye-lederlonnsavtaler) — Senterpartiet · _Arbeid og trygd_
 - [Leverer hele skatteløftet på halve tiden](https://hoyre.no/2026/11/13/leverer-hele-skatteloftet-pa-halve-tiden/) — Høyre · _Skatt_
 - [Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328) — Stortinget – høringer i komiteene
 
@@ -182,6 +184,8 @@ _Sist oppdatert 22.11.2026 kl. 02:39. Viser de siste 14 dagene (149 saker). ★ 
 
 - [Konferanse: Trygge lokalsamfunn i ei utrygg tid](https://www.sv.no/blog/2026/11/11/trygge-lokalsamfunn-i-ei-utrygg-tid/) — SV · _EU og EØS_
 - [Nettrapport 2026-2 Finansiell stabilitet](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/nettrapport-2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
+- [Nasjonal kontroll over mineraler er vesentlig](https://www.senterpartiet.no/aktuelt/nasjonal-kontroll-over-mineraler-er-vesentlig) — Senterpartiet
+- [Senterpartiet vil ha strømstøtte til næringslivet](https://www.senterpartiet.no/aktuelt/senterpartiet-vil-ha-stromstotte-til-naeringslivet) — Senterpartiet · _Energi og strøm_
 - [Motsyklisk kapitalbuffer for banker holdes uendret på 2,5 prosent](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/motsyklisk-kapitalbuffer-for-banker-fjerde-kvartal-2026/) — Finanstilsynet
 - [Økt risiko for alvorlige hendelser som kan svekke finansiell stabilitet](https://www.norges-bank.no/aktuelt/nyheter/Pressemeldinger/2026/2026-11-11-fs2/) — Norges Bank – pressemeldinger
 - [Finansiell stabilitet 2026 - 2. halvår](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
@@ -198,6 +202,7 @@ _Sist oppdatert 22.11.2026 kl. 02:39. Viser de siste 14 dagene (149 saker). ★ 
 - ★ [Stortinget har fulgt opp undersøkelsen av stortingsrepresentantenes økonomiske ordninger](https://kommunikasjon.ntb.no/pressemelding/19135745/stortinget-har-fulgt-opp-undersokelsen-av-stortingsrepresentantenes-okonomiske-ordninger?lang=no) — Riksrevisjonen · Riksrevisjonen
 - [Vil ha spleiselag for nitrogenrensing](https://hoyre.no/2026/11/10/vil-ha-spleiselag-for-nitrogenrensing/) — Høyre
 - [Svindelstatistikk første halvår 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/svindelstatistikk-forste-halvar-2026/) — Finanstilsynet
+- [Frp vil selge fellesskapets verdier](https://www.senterpartiet.no/aktuelt/frp-vil-selge-fellesskapets-verdier) — Senterpartiet
 - [Egenmelding fra revisjonsforetak (KRT-1001) - rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-revisjonsforetak-krt-1001---rapportering/) — Finanstilsynet
 - ★ [Pressekonferanse i dag: Hva viser den årlige rapporten til Stortinget om statens regnskaper 2025?](https://kommunikasjon.ntb.no/pressemelding/19133724/pressekonferanse-i-dag-hva-viser-den-arlige-rapporten-til-stortinget-om-statens-regnskaper-2025?lang=no) — Riksrevisjonen · Riksrevisjonen · _Offentlige finanser_
 - [Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-040s/) — Stortinget – representantforslag · Dokument 8:40 S
@@ -210,6 +215,12 @@ _Sist oppdatert 22.11.2026 kl. 02:39. Viser de siste 14 dagene (149 saker). ★ 
 - [Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200417) — Stortinget – høringer i komiteene
 - [Representantforslag om å gjenreise norsk jernbane](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200482) — Stortinget – høringer i komiteene
 
+### Mandag 9. november
+
+- [Alternativt statsbudsjett 2027: Sp varsler hard kamp mot sentralisering](https://www.senterpartiet.no/aktuelt/sp-varsler-hard-kamp-mot-sentralisering) — Senterpartiet · _Offentlige finanser_
+
 ## Status for kildene
 
-Alle 20 kildene svarte normalt ved siste kjøring.
+Disse kildene feilet ved siste kjøring:
+- ⚠️ **FrP**: fant ingen artikkellenker – har nettsiden endret seg?
+- ⚠️ **Rødt**: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
