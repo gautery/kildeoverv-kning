@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 03:16. Viser de siste 14 dagene (166 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 03:18. Viser de siste 14 dagene (166 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -233,6 +233,5 @@ _Sist oppdatert 22.11.2026 kl. 03:16. Viser de siste 14 dagene (166 saker). ★ 
 ## Status for kildene
 
 Disse kildene feilet ved siste kjøring:
-- ⚠️ **Stortinget – innstillinger**: HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Innstillinger-til-Stortinget/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisco
-- ⚠️ **Stortinget – lovvedtak**: HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Lovbeslutninger/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remo
-- ⚠️ **Stortinget – høringer i komiteene**: HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Horingsliste/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote 
+- ⚠️ **Stortinget – lovvedtak**: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+- ⚠️ **Stortinget – høringer i komiteene**: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

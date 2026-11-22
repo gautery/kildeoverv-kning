@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-22T02:15:08Z",
+ "oppdatert": "2026-11-22T02:16:42Z",
  "utvalgt": [],
  "saker": [
   {
@@ -7539,18 +7539,18 @@
   },
   {
    "navn": "Stortinget – innstillinger",
-   "ok": false,
-   "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Innstillinger-til-Stortinget/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisco"
+   "ok": true,
+   "feil": null
   },
   {
    "navn": "Stortinget – lovvedtak",
    "ok": false,
-   "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Lovbeslutninger/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remo"
+   "feil": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   {
    "navn": "Stortinget – høringer i komiteene",
    "ok": false,
-   "feil": "HTTPSConnectionPool(host='www.stortinget.no', port=443): Max retries exceeded with url: /no/Stottemeny/RSS/Horingsliste/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote "
+   "feil": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   {
    "navn": "Riksrevisjonen",
