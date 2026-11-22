@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 19:45. Viser de siste 14 dagene (163 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 22:05. Viser de siste 14 dagene (163 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
