@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 03:20. Viser de siste 14 dagene (167 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 22.11.2026 kl. 07:42. Viser de siste 14 dagene (168 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -27,6 +27,7 @@ _Sist oppdatert 22.11.2026 kl. 03:20. Viser de siste 14 dagene (167 saker). ★ 
 
 ### Søndag 22. november
 
+- [The future of work](https://www.fafo.no/publikasjoner/fafo-rapporter/the-future-of-work) — Fafo · _Arbeid og trygd, Velferd og privatisering_
 - [Nye tjenester på postkontorene?](https://www.fafo.no/publikasjoner/fafo-rapporter/nye-tjenester-pa-postkontorene) — Fafo
 - [Tidsfordriv og kompetanse](https://www.fafo.no/publikasjoner/fafo-rapporter/tidsfordriv-og-kompetanse) — Fafo
 - [Lansering: Ny rapport om skjult eierskap](https://taxjustice.no/artikkel/lansering-ny-rapport-om-skjult-eierskap) — Tax Justice Norge

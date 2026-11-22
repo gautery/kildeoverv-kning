@@ -1,7 +1,23 @@
 {
- "oppdatert": "2026-11-22T02:19:37Z",
+ "oppdatert": "2026-11-22T06:42:05Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "b73986a5972ae72f",
+   "tittel": "The future of work",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-rapporter/the-future-of-work",
+   "ingress": "Dette er en av publikasjonene fra rapportserien i prosjektet Det 21 århundrets velferdssamfunn. Det er en omfattende serie med stor faglig spennvidde og flere bidrag fra forskere i inn- og utland. Sentrale temaer som dekkes i rapportserien er: arbeidslivet med vekt på globalisering …",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-22T06:42:05Z",
+   "viktig": false,
+   "funnet": "2026-11-22T06:42:05Z",
+   "temaer": [
+    "Arbeid og trygd",
+    "Velferd og privatisering"
+   ]
+  },
   {
    "id": "6809b9fa3aee18bf",
    "tittel": "Nye tjenester på postkontorene?",
