@@ -1,9 +1,10 @@
 # Kildeovervåkning
 
-_Sist oppdatert 23.11.2026 kl. 02:40. Viser de siste 14 dagene (164 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 23.11.2026 kl. 11:43. Viser de siste 14 dagene (178 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
+- **[Riksrevisjonen legger frem to nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19147828/riksrevisjonen-legger-frem-to-nye-rapporter-om-eldrebolgen?lang=no)** – Riksrevisjonen, 23.11
 - **[Usikkerhet om vesentlige beløp i statens regnskaper](https://kommunikasjon.ntb.no/pressemelding/19135699/usikkerhet-om-vesentlige-belop-i-statens-regnskaper?lang=no)** – Riksrevisjonen, 10.11
 - **[Klima- og skoginitiativet: Klima- og miljødepartementet forvalter ikke tilskudd i tråd med regelverket](https://kommunikasjon.ntb.no/pressemelding/19135828/klima-og-skoginitiativet-klima-og-miljodepartementet-forvalter-ikke-tilskudd-i-trad-med-regelverket?lang=no)** – Riksrevisjonen, 10.11
 - **[Nedlagte gruver: Nærings- og fiskeridepartementet følger fortsatt ikke forurensingslovens krav](https://kommunikasjon.ntb.no/pressemelding/19135794/nedlagte-gruver-naerings-og-fiskeridepartementet-folger-fortsatt-ikke-forurensingslovens-krav?lang=no)** – Riksrevisjonen, 10.11
@@ -24,6 +25,24 @@ _Sist oppdatert 23.11.2026 kl. 02:40. Viser de siste 14 dagene (164 saker). ★ 
 
 ## Alt nytt, dag for dag
 
+
+### Mandag 23. november
+
+- [National report United Kingdom: Legal analysis part 1](https://www.fafo.no/publikasjoner/andre-fafo-publikasjoner/national-report-united-kingdom-legal-analysis-part-1) — Fafo
+- [Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing -- by Murillo Campello, Guilherme Junqueira](https://www.nber.org/papers/w36039) — NBER working papers · _Skatt_
+- [Mental Models of Fiscal Policy -- by Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver, Salma Khalid](https://www.nber.org/papers/w36043) — NBER working papers
+- [Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals -- by Brad C. Nathan, Ricardo Perez-Truglia, Alejandro Zentner](https://www.nber.org/papers/w36055) — NBER working papers · _Skatt_
+- [Beyond the First Best: Welfare and OPEC Market Power -- by John Asker, Allan Collard-Wexler, Charlotte De Cannière, Jan De Loecker](https://www.nber.org/papers/w36058) — NBER working papers · _Markedsmakt og konkurranse_
+- [Regjeringen vil vite mer om hvorfor mange innvandrere står utenfor arbeidslivet](https://www.regjeringen.no/no/aktuelt/regjeringen-vil-vite-mer-om-hvorfor-mange-innvandrere-star-utenfor-arbeidslivet/id3194401/) — Regjeringen · _Arbeid og trygd_
+- [Presseinvitasjon: Første innspillsmøte om helsereformen holdes i Fredrikstad](https://www.regjeringen.no/no/aktuelt/forste-innspillsmote-om-helsereformen-holdes-i-fredrikstad/id3194400/) — Regjeringen
+- ★ [Riksrevisjonen legger frem to nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19147828/riksrevisjonen-legger-frem-to-nye-rapporter-om-eldrebolgen?lang=no) — Riksrevisjonen · Riksrevisjonen
+- [Rana kommune - Innsigelse til kommuneplanens arealdel 2023-2033](https://www.regjeringen.no/no/dokumenter/rana-kommune-innsigelse-til-kommuneplanens-arealdel-2023-2033/id3194385/) — Regjeringen · Dokument
+- [Regjeringen vil styrke atomberedskapen](https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-atomberedskapen/id3194336/) — Regjeringen · _Offentlige finanser, EU og EØS_
+- [18,3 millioner til UNICEF for deres arbeid mot ebola i DR Kongo](https://www.regjeringen.no/no/aktuelt/183-millioner-til-unicef-for-deres-arbeid-mot-ebola-i-dr-kongo/id3194317/) — Regjeringen
+- [Færre sykepleiere og barnehageassistenter i utleienæringen](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn/artikler/faerre-sykepleiere-og-barnehageassistenter-i-utleienaeringen) — SSB · _Arbeid og trygd, Bolig, Velferd og privatisering_
+- [Energieffektivisering er i vinden](https://www.ssb.no/teknologi-og-innovasjon/forskning-og-innovasjon-i-naeringslivet/statistikk/naeringspolitiske-virkemidler/artikler/energieffektivisering-er-i-vinden) — SSB · _Offentlige finanser, Energi og strøm_
+- [Nærings- og forskningspolitiske virkemidler](https://www.ssb.no/teknologi-og-innovasjon/forskning-og-innovasjon-i-naeringslivet/statistikk/naeringspolitiske-virkemidler) — SSB
+- [Migrasjon og integrering 2025–2026](https://www.regjeringen.no/no/dokumenter/migrasjon-og-integrering-20252026/id3193356/) — Regjeringen · Dokument
 
 ### Søndag 22. november
 
@@ -223,10 +242,6 @@ _Sist oppdatert 23.11.2026 kl. 02:40. Viser de siste 14 dagene (164 saker). ★ 
 - [Innstilling fra arbeids- og sosialkomiteen om representantforslag om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-033s/) — Stortinget – innstillinger · Innst. 33 S · _Arbeid og trygd_
 - [Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200417) — Stortinget – høringer i komiteene
 - [Representantforslag om å gjenreise norsk jernbane](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200482) — Stortinget – høringer i komiteene
-
-### Mandag 9. november
-
-- [Alternativt statsbudsjett 2027: Sp varsler hard kamp mot sentralisering](https://www.senterpartiet.no/aktuelt/sp-varsler-hard-kamp-mot-sentralisering) — Senterpartiet · _Offentlige finanser_
 
 ## Status for kildene
 

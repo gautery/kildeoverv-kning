@@ -1,7 +1,239 @@
 {
- "oppdatert": "2026-11-23T01:40:19Z",
+ "oppdatert": "2026-11-23T10:43:00Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "f37330e2524bcb4a",
+   "tittel": "National report United Kingdom: Legal analysis part 1",
+   "lenke": "https://www.fafo.no/publikasjoner/andre-fafo-publikasjoner/national-report-united-kingdom-legal-analysis-part-1",
+   "ingress": "This is the first national legal report from the United Kingdom. Together with the reports from Norway, Italy, Denmark and the Netherlands, it will serve as the basis for a comparative analysis on the legal frameworks governing access to social dialogue for non-standard workers in these countries.",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-23T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
+  {
+   "id": "29c214722ede8f95",
+   "tittel": "Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing -- by Murillo Campello, Guilherme Junqueira",
+   "lenke": "https://www.nber.org/papers/w36039",
+   "ingress": "Can tax subsidies expand the geographic reach of startup investing? Despite decades of growth, venture capital (VC) remains concentrated in a handful of metropolitan areas, leaving most of the country with limited access to startup financing. We study the 2009–2010 enhancement of the Qualified …",
+   "kilde": "NBER working papers",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-23T10:43:00Z",
+   "viktig": false,
+   "tema_fra_tittel": true,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [
+    "Skatt"
+   ],
+   "spor": "rapporter"
+  },
+  {
+   "id": "31bacb64e1cf0c48",
+   "tittel": "Mental Models of Fiscal Policy -- by Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver, Salma Khalid",
+   "lenke": "https://www.nber.org/papers/w36043",
+   "ingress": "We study how individuals form expectations about fiscal adjustment. Using survey data from more than 27,000 respondents across 13 countries, we jointly elicit beliefs about current fiscal conditions, expectations of tax increases and spending cuts, and open-ended explanations for those …",
+   "kilde": "NBER working papers",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-23T10:43:00Z",
+   "viktig": false,
+   "tema_fra_tittel": true,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
+  {
+   "id": "7c856f7fdfc3d40b",
+   "tittel": "Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals -- by Brad C. Nathan, Ricardo Perez-Truglia, Alejandro Zentner",
+   "lenke": "https://www.nber.org/papers/w36055",
+   "ingress": "Democrats and Republicans express some sharply different views about tax policy, but whether these ideological divisions translate into partisan differences in taxpayer behavior is far less clear. We study this question in the context of a common form of tax avoidance: property tax appeals. In a …",
+   "kilde": "NBER working papers",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-23T10:43:00Z",
+   "viktig": false,
+   "tema_fra_tittel": true,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [
+    "Skatt"
+   ],
+   "spor": "rapporter"
+  },
+  {
+   "id": "5f9265a4d035f7ec",
+   "tittel": "Beyond the First Best: Welfare and OPEC Market Power -- by John Asker, Allan Collard-Wexler, Charlotte De Cannière, Jan De Loecker",
+   "lenke": "https://www.nber.org/papers/w36058",
+   "ingress": "We introduce an empirical framework to quantify the welfare impact of market power, through coordinated production decisions by a cartel, while allowing for other distortions. We contrast two novel concepts – the marginal and the infra-marginal welfare loss – to a naive approach that fails to …",
+   "kilde": "NBER working papers",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-23T10:43:00Z",
+   "viktig": false,
+   "tema_fra_tittel": true,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [
+    "Markedsmakt og konkurranse"
+   ],
+   "spor": "rapporter"
+  },
+  {
+   "id": "e150c3e56f978eaa",
+   "tittel": "Regjeringen vil vite mer om hvorfor mange innvandrere står utenfor arbeidslivet",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-vite-mer-om-hvorfor-mange-innvandrere-star-utenfor-arbeidslivet/id3194401/",
+   "ingress": "Innvandrere jobber mindre enn befolkningen ellers. Nå vil Arbeiderparti-regjeringen lage en monitor for sysselsetting, som skiller mellom ulik botid, innvandringsstatus og tilknytning til arbeidslivet.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-23T10:28:01Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [
+    "Arbeid og trygd"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "cfa7a56da3a5e8ec",
+   "tittel": "Presseinvitasjon: Første innspillsmøte om helsereformen holdes i Fredrikstad",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/forste-innspillsmote-om-helsereformen-holdes-i-fredrikstad/id3194400/",
+   "ingress": "Helse- og omsorgsminister Jan Christian Vestre har sitt første innspillsmøte om helsereformen mandag 30. november i Fredrikstad. Møtene er en del av arbeidet med regjeringens helsereform, og skal gi innbyggere, pasienter, pårørende, helsepersonell, organisasjoner og andre interesserte mulighet til …",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-23T10:27:43Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "db93366745ac4188",
+   "tittel": "Riksrevisjonen legger frem to nye rapporter om eldrebølgen",
+   "lenke": "https://kommunikasjon.ntb.no/pressemelding/19147828/riksrevisjonen-legger-frem-to-nye-rapporter-om-eldrebolgen?lang=no",
+   "ingress": "Torsdag 26. november presenterer riksrevisor Karl Eirik Schjøtt-Pedersen to rapporter: Forventet mangel på helsepersonell og helseforetakenes økonomistyring.",
+   "kilde": "Riksrevisjonen",
+   "kategori": "Kontroll",
+   "type": "Riksrevisjonen",
+   "dato": "2026-11-23T09:36:53Z",
+   "viktig": true,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
+  {
+   "id": "c1cee145f0df4628",
+   "tittel": "Rana kommune - Innsigelse til kommuneplanens arealdel 2023-2033",
+   "lenke": "https://www.regjeringen.no/no/dokumenter/rana-kommune-innsigelse-til-kommuneplanens-arealdel-2023-2033/id3194385/",
+   "ingress": "Kommunal- og distriktsdepartementet godkjenner ikke pkt. 5.1 i kommuneplanens arealdel 2023-2033 for Rana kommune. Bestemmelsen har ikke hjemmel i plan- og bygningsloven og tas ut av planen. Innsigelsen fra Statsforvalteren i Nordland er tatt til følge.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Dokument",
+   "dato": "2026-11-23T09:25:36Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "912600584e82dcc8",
+   "tittel": "Regjeringen vil styrke atomberedskapen",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-atomberedskapen/id3194336/",
+   "ingress": "I nysalderingen av statsbudsjettet for 2026 foreslår regjeringen å sette av 60 millioner kroner til måleutstyr og styrket laboratoriekapasitet i atomberedskapen. Dette er gjort i lys av de nye vurderinger fra europeiske strålevernmyndigheter.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-23T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [
+    "Offentlige finanser",
+    "EU og EØS"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "1d65dcef9b58f4ec",
+   "tittel": "18,3 millioner til UNICEF for deres arbeid mot ebola i DR Kongo",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/183-millioner-til-unicef-for-deres-arbeid-mot-ebola-i-dr-kongo/id3194317/",
+   "ingress": "Norge bidrar med 18,3 millioner til UNICEFs arbeid mot ebola i DR Kongo. Støtten skal gå til å styrke helse- og utdanningssystemet i de to hardeste rammede provinsene, Ituri og Nord-Kivu.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-23T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "f2c4f87409cf2248",
+   "tittel": "Færre sykepleiere og barnehageassistenter i utleienæringen",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn/artikler/faerre-sykepleiere-og-barnehageassistenter-i-utleienaeringen",
+   "ingress": "I 3. kvartal 2026 var det 1 500 færre lønnstakere i utleie av arbeidskraft enn samme kvartal året før. Nedgangen var særlig knyttet til færre sykepleiere og barnehage- og skolefritidsassistenter.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-23T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [
+    "Arbeid og trygd",
+    "Bolig",
+    "Velferd og privatisering"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "4a5b903b5eb6ad4c",
+   "tittel": "Energieffektivisering er i vinden",
+   "lenke": "https://www.ssb.no/teknologi-og-innovasjon/forskning-og-innovasjon-i-naeringslivet/statistikk/naeringspolitiske-virkemidler/artikler/energieffektivisering-er-i-vinden",
+   "ingress": "Bevilgninger til næringslivets FoU og innovasjonsprosjekter fortsetter å krympe, mens støtte til energieffektiviserende tiltak øker konstant.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-23T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [
+    "Offentlige finanser",
+    "Energi og strøm"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "432f853923a59d90",
+   "tittel": "Nærings- og forskningspolitiske virkemidler",
+   "lenke": "https://www.ssb.no/teknologi-og-innovasjon/forskning-og-innovasjon-i-naeringslivet/statistikk/naeringspolitiske-virkemidler",
+   "ingress": "Statistikken viser bistand og rådgivningstjenester fra det offentlige til innovasjon, forskning og utvikling.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-23T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "tall"
+  },
+  {
+   "id": "2eb3795d809ff1d3",
+   "tittel": "Migrasjon og integrering 2025–2026",
+   "lenke": "https://www.regjeringen.no/no/dokumenter/migrasjon-og-integrering-20252026/id3193356/",
+   "ingress": "Rapport frå Noreg til OECD, Organisasjonen for økonomisk samarbeid og utvikling.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Dokument",
+   "dato": "2026-11-23T06:00:31Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
   {
    "id": "614df2b17795a7ee",
    "tittel": "FNs klimaforhandlinger avsluttet på overtid: - Vi hadde ønsket større fremskritt",
@@ -3044,6 +3276,20 @@
    "spor": "lopende"
   },
   {
+   "id": "2f8ab0a18ed212cc",
+   "tittel": "Arild på 4. plass i Trøndelag",
+   "lenke": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaajBYamNoVDg4VEMxbUdGOXBZaWkwclpCa0ZUdjFzanRXZUJIVlJBOTZ4U05hczFPUTJZck10RUxwZW5LTDduNWxHY3lGT3JiX2RPYXhtMllzVmhzdDduRTdiVHhCbU1Ud290bC1Jcw?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-02T08:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
    "id": "112ee05ca055134a",
    "tittel": "Eksport av forsvarsmateriell fra Norge og eksportkontroll i 2025",
    "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200374",
@@ -5816,6 +6062,20 @@
    "spor": "lopende"
   },
   {
+   "id": "d343dd42c192e4c5",
+   "tittel": "Elitekurset 2026 i gang",
+   "lenke": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zbzVRRmFLRkRrdTRMRzIwRk5wZlluUjJYVTc0bU9sM0VPZVNIdVc2d3lFVmVZT3dNekpBR1BRQVhQbHJ1Qmc4SGVHb3lpdGxGWjZ3MllENzY4NF8xUlc4?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-08-19T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T10:43:00Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
    "id": "11ce776bc8af7d44",
    "tittel": "– Butikktyverier må få konsekvenser",
    "lenke": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xT190SUJMN3oydmxFeGRSWlNYVXRpdG44SWtLV3BQSkF5amxuSzJwMjBJVkFPLXdXZ25LdkJtb3g5UGxSYWdtaURQaXo4QXl1a19kZ1RiekkxS3daRmxET25qc3NLSk0wUF9YOA?oc=5",
@@ -7898,14 +8158,14 @@
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Utenrikshandel med varer, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
+   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
+   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
    "temaer": []
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
-   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
+   "tittel": "Utenrikshandel med varer, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
    "temaer": []
   },
   {
@@ -7972,11 +8232,9 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
-   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
-   "temaer": [
-    "Skatt"
-   ]
+   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
+   "temaer": []
   },
   {
    "dato": "2026-12-21",
@@ -7986,9 +8244,11 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
-   "temaer": []
+   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
+   "temaer": [
+    "Skatt"
+   ]
   },
   {
    "dato": "2026-12-21",
