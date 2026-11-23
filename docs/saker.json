@@ -1,7 +1,63 @@
 {
- "oppdatert": "2026-11-23T10:43:00Z",
+ "oppdatert": "2026-11-23T22:37:55Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "6ab86b68317fbee7",
+   "tittel": "Møte med Nord-Fosen siida",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/mote-med-nord-fosen-siida/id3194546/",
+   "ingress": "Regjeringen har i dag hatt dialogmøte med Nord-Fosen siida i forbindelse med tilleggsareal for Fosen reinbeitedistrikt.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-23T18:43:21Z",
+   "viktig": false,
+   "funnet": "2026-11-23T22:37:55Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "e1c944b65d582d9b",
+   "tittel": "Formål, organisering og historikk for regjeringen.no",
+   "lenke": "https://www.regjeringen.no/no/om-nettstedet/strategi-organisering-og-historikk-/id450433/",
+   "ingress": "Regjeringen.no skal være hovedkilde for pålitelig og samordnet informasjon fra regjeringen til befolkningen.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-23T14:45:04Z",
+   "viktig": false,
+   "funnet": "2026-11-23T22:37:55Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "2c8f2d4bdb932e77",
+   "tittel": "Presseinvitasjon: Overrekkelse av rapport om bærekraftig fôr",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/overrekkelse-av-rapport-om-barekraftig-for2/id3194453/",
+   "ingress": "Landbruks- og matminister Nils Kristen Sandtrøen og statssekretær i Nærings- og fiskeridepartementet, Kristina Sigurdsdottir Hansen, mottar årsrapport fra styringsgruppen for samfunnsoppdraget om bærekraftig fôr.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-23T13:45:46Z",
+   "viktig": false,
+   "funnet": "2026-11-23T22:37:55Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "4c55d4dc3df37630",
+   "tittel": "Skal stanse kriminelle som forsøker å utnytte offentlige ordninger",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/skal-stanse-kriminelle-som-forsoker-a-utnytte-offentlige-ordninger/id3194372/",
+   "ingress": "En ny rapport fra Nasjonalt tverretatlig analyse- og etterretningssenter (NTAES) viser at det er betydelig risiko for at offentlige ordninger kan utnyttes av kriminelle. Rapporten er et resultat av Ap-regjeringens satsing på å styrke politiets kunnskap om kriminelle nettverk og er et viktig …",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-23T11:32:12Z",
+   "viktig": false,
+   "funnet": "2026-11-23T22:37:55Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
   {
    "id": "f37330e2524bcb4a",
    "tittel": "National report United Kingdom: Legal analysis part 1",
@@ -15,6 +71,20 @@
    "funnet": "2026-11-23T10:43:00Z",
    "temaer": [],
    "spor": "rapporter"
+  },
+  {
+   "id": "9f7f14e71cd8a82c",
+   "tittel": "MDGs beste tips til brukte julegaver",
+   "lenke": "https://mdg.no/politikk/aktuelt/nyhet/brukte-julegaver",
+   "ingress": "Du trenger ikke kjøpe nytt for å treffe blink på julaften! Her er de beste gavetipsene fra oss i MDG.",
+   "kilde": "MDG",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-23T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T22:37:55Z",
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "29c214722ede8f95",
@@ -6617,6 +6687,20 @@
    "funnet": "2026-11-21T23:14:53Z",
    "temaer": [],
    "spor": "rapporter"
+  },
+  {
+   "id": "b8876a965b3fda1c",
+   "tittel": "Bærum | Fremskrittspartiet",
+   "lenke": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SOVRCMjZmNkVSbHBic0lQdjhMLTVHUGxiZVdtRkdBUlVHMDA5ZTVvdnM3QUtFV2ZSLXFULS1VTDQwaUFTZ01XTnNQN0FpMG41UWdZQ09uVWs?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-06-16T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-23T22:37:55Z",
+   "temaer": [],
+   "spor": "lopende"
   },
   {
    "id": "fe513019b45ee154",

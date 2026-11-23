@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 23.11.2026 kl. 11:43. Viser de siste 14 dagene (178 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 23.11.2026 kl. 23:38. Viser de siste 14 dagene (183 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -28,7 +28,12 @@ _Sist oppdatert 23.11.2026 kl. 11:43. Viser de siste 14 dagene (178 saker). ★ 
 
 ### Mandag 23. november
 
+- [Møte med Nord-Fosen siida](https://www.regjeringen.no/no/aktuelt/mote-med-nord-fosen-siida/id3194546/) — Regjeringen
+- [Formål, organisering og historikk for regjeringen.no](https://www.regjeringen.no/no/om-nettstedet/strategi-organisering-og-historikk-/id450433/) — Regjeringen
+- [Presseinvitasjon: Overrekkelse av rapport om bærekraftig fôr](https://www.regjeringen.no/no/aktuelt/overrekkelse-av-rapport-om-barekraftig-for2/id3194453/) — Regjeringen
+- [Skal stanse kriminelle som forsøker å utnytte offentlige ordninger](https://www.regjeringen.no/no/aktuelt/skal-stanse-kriminelle-som-forsoker-a-utnytte-offentlige-ordninger/id3194372/) — Regjeringen
 - [National report United Kingdom: Legal analysis part 1](https://www.fafo.no/publikasjoner/andre-fafo-publikasjoner/national-report-united-kingdom-legal-analysis-part-1) — Fafo
+- [MDGs beste tips til brukte julegaver](https://mdg.no/politikk/aktuelt/nyhet/brukte-julegaver) — MDG
 - [Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing -- by Murillo Campello, Guilherme Junqueira](https://www.nber.org/papers/w36039) — NBER working papers · _Skatt_
 - [Mental Models of Fiscal Policy -- by Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver, Salma Khalid](https://www.nber.org/papers/w36043) — NBER working papers
 - [Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals -- by Brad C. Nathan, Ricardo Perez-Truglia, Alejandro Zentner](https://www.nber.org/papers/w36055) — NBER working papers · _Skatt_
