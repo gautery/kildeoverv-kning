@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 22.11.2026 kl. 22:05. Viser de siste 14 dagene (163 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 23.11.2026 kl. 02:40. Viser de siste 14 dagene (164 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -27,6 +27,7 @@ _Sist oppdatert 22.11.2026 kl. 22:05. Viser de siste 14 dagene (163 saker). ★ 
 
 ### Søndag 22. november
 
+- [FNs klimaforhandlinger avsluttet på overtid: - Vi hadde ønsket større fremskritt](https://www.regjeringen.no/no/aktuelt/cop31-avsluttet2/id3194337/) — Regjeringen · _Energi og strøm_
 - [Lansering: Ny rapport om skjult eierskap](https://taxjustice.no/artikkel/lansering-ny-rapport-om-skjult-eierskap) — Tax Justice Norge
 - [Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498) — Stortinget – høringer i komiteene
 - [Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (S-delen)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505) — Stortinget – høringer i komiteene · _EU og EØS_

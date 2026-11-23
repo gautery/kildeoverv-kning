@@ -1,11 +1,5 @@
 [
  {
-  "dato": "2026-11-23",
-  "tittel": "Nærings- og forskningspolitiske virkemidler, Tall for 2025",
-  "lenke": "https://www.ssb.no/teknologi-og-innovasjon/forskning-og-innovasjon-i-naeringslivet/statistikk/naeringspolitiske-virkemidler",
-  "temaer": []
- },
- {
   "dato": "2026-11-24",
   "tittel": "Kredittindikator, Tall for oktober 2026",
   "lenke": "https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/kredittindikator",
@@ -351,14 +345,14 @@
  },
  {
   "dato": "2026-12-15",
-  "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
-  "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
+  "tittel": "Utenrikshandel med varer, Tall for november 2026",
+  "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
   "temaer": []
  },
  {
   "dato": "2026-12-15",
-  "tittel": "Utenrikshandel med varer, Tall for november 2026",
-  "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
+  "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
+  "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
   "temaer": []
  },
  {
@@ -425,9 +419,11 @@
  },
  {
   "dato": "2026-12-21",
-  "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
-  "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
-  "temaer": []
+  "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
+  "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
+  "temaer": [
+   "Skatt"
+  ]
  },
  {
   "dato": "2026-12-21",
@@ -437,11 +433,9 @@
  },
  {
   "dato": "2026-12-21",
-  "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
-  "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
-  "temaer": [
-   "Skatt"
-  ]
+  "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
+  "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
+  "temaer": []
  },
  {
   "dato": "2026-12-21",
@@ -476,5 +470,23 @@
   "temaer": [
    "Skatt"
   ]
+ },
+ {
+  "dato": "2026-12-23",
+  "tittel": "Eksport av laks, Tall for uke 51 2026",
+  "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
+  "temaer": []
+ },
+ {
+  "dato": "2026-12-23",
+  "tittel": "Kredittindikator, Tall for november 2026",
+  "lenke": "https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/kredittindikator",
+  "temaer": []
+ },
+ {
+  "dato": "2026-12-23",
+  "tittel": "Pengemengde, Tall for november 2026",
+  "lenke": "https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/pengemengde",
+  "temaer": []
  }
 ]
