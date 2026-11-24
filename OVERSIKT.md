@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 23.11.2026 kl. 23:38. Viser de siste 14 dagene (183 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 24.11.2026 kl. 07:57. Viser de siste 14 dagene (174 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -238,15 +238,6 @@ _Sist oppdatert 23.11.2026 kl. 23:38. Viser de siste 14 dagene (183 saker). ★ 
 - [Frp vil selge fellesskapets verdier](https://www.senterpartiet.no/aktuelt/frp-vil-selge-fellesskapets-verdier) — Senterpartiet
 - [Egenmelding fra revisjonsforetak (KRT-1001) - rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-revisjonsforetak-krt-1001---rapportering/) — Finanstilsynet
 - ★ [Pressekonferanse i dag: Hva viser den årlige rapporten til Stortinget om statens regnskaper 2025?](https://kommunikasjon.ntb.no/pressemelding/19133724/pressekonferanse-i-dag-hva-viser-den-arlige-rapporten-til-stortinget-om-statens-regnskaper-2025?lang=no) — Riksrevisjonen · Riksrevisjonen · _Offentlige finanser_
-- [Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-040s/) — Stortinget – representantforslag · Dokument 8:40 S
-- [Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-039s/) — Stortinget – representantforslag · Dokument 8:39 S
-- [Innstilling fra familie- og kulturkomiteen om Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet) og om Representantforslag fra stortingsrepresentantene Mirell …](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-031l/) — Stortinget – innstillinger · Innst. 31 L · _EU og EØS_
-- [Innstilling fra familie- og kulturkomiteen om samtykke til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023 om innlemmelse i EØS-avtalen av direktiv (EU) 2019/789 og (EU) 2019/790, og samtykke til …](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-032s/) — Stortinget – innstillinger · Innst. 32 S · _EU og EØS_
-- [Innstilling fra arbeids- og sosialkomiteen om representantforslag om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-035s/) — Stortinget – innstillinger · Innst. 35 S · _Arbeid og trygd_
-- [Innstilling fra arbeids- og sosialkomiteen om representantforslag om tiltak mot ungdomsledighet og ledighet blant nyutdannede](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-034s/) — Stortinget – innstillinger · Innst. 34 S
-- [Innstilling fra arbeids- og sosialkomiteen om representantforslag om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-033s/) — Stortinget – innstillinger · Innst. 33 S · _Arbeid og trygd_
-- [Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200417) — Stortinget – høringer i komiteene
-- [Representantforslag om å gjenreise norsk jernbane](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200482) — Stortinget – høringer i komiteene
 
 ## Status for kildene
 
