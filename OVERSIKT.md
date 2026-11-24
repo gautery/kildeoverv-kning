@@ -1,16 +1,11 @@
 # Kildeovervåkning
 
-_Sist oppdatert 24.11.2026 kl. 07:57. Viser de siste 14 dagene (174 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 24.11.2026 kl. 19:52. Viser de siste 14 dagene (201 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
+- **[God oppfølging av statlige eierselskap](https://kommunikasjon.ntb.no/pressemelding/19151748/god-oppfolging-av-statlige-eierselskap?lang=no)** – Riksrevisjonen, 24.11
 - **[Riksrevisjonen legger frem to nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19147828/riksrevisjonen-legger-frem-to-nye-rapporter-om-eldrebolgen?lang=no)** – Riksrevisjonen, 23.11
-- **[Usikkerhet om vesentlige beløp i statens regnskaper](https://kommunikasjon.ntb.no/pressemelding/19135699/usikkerhet-om-vesentlige-belop-i-statens-regnskaper?lang=no)** – Riksrevisjonen, 10.11
-- **[Klima- og skoginitiativet: Klima- og miljødepartementet forvalter ikke tilskudd i tråd med regelverket](https://kommunikasjon.ntb.no/pressemelding/19135828/klima-og-skoginitiativet-klima-og-miljodepartementet-forvalter-ikke-tilskudd-i-trad-med-regelverket?lang=no)** – Riksrevisjonen, 10.11
-- **[Nedlagte gruver: Nærings- og fiskeridepartementet følger fortsatt ikke forurensingslovens krav](https://kommunikasjon.ntb.no/pressemelding/19135794/nedlagte-gruver-naerings-og-fiskeridepartementet-folger-fortsatt-ikke-forurensingslovens-krav?lang=no)** – Riksrevisjonen, 10.11
-- **[Nav: Kritikkverdig saksbehandling av sykepenger](https://kommunikasjon.ntb.no/pressemelding/19135863/nav-kritikkverdig-saksbehandling-av-sykepenger?lang=no)** – Riksrevisjonen, 10.11
-- **[Stortinget har fulgt opp undersøkelsen av stortingsrepresentantenes økonomiske ordninger](https://kommunikasjon.ntb.no/pressemelding/19135745/stortinget-har-fulgt-opp-undersokelsen-av-stortingsrepresentantenes-okonomiske-ordninger?lang=no)** – Riksrevisjonen, 10.11
-- **[Pressekonferanse i dag: Hva viser den årlige rapporten til Stortinget om statens regnskaper 2025?](https://kommunikasjon.ntb.no/pressemelding/19133724/pressekonferanse-i-dag-hva-viser-den-arlige-rapporten-til-stortinget-om-statens-regnskaper-2025?lang=no)** – Riksrevisjonen, 10.11
 
 ## Kommer fra SSB (relevant for temaene dine)
 
@@ -25,6 +20,44 @@ _Sist oppdatert 24.11.2026 kl. 07:57. Viser de siste 14 dagene (174 saker). ★ 
 
 ## Alt nytt, dag for dag
 
+
+### Tirsdag 24. november
+
+- [Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507) — Stortinget – høringer i komiteene
+- [Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200506) — Stortinget – høringer i komiteene
+- [Representantforslag om strømstøtte til næringslivet](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200510) — Stortinget – høringer i komiteene · _Energi og strøm_
+- [Representantforslag om å nå og forstå Norges klimamål](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200529) — Stortinget – høringer i komiteene
+- [Representantforslag om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200522) — Stortinget – høringer i komiteene · _Markedsmakt og konkurranse, Velferd og privatisering_
+- [Finansminister Jens Stoltenberg møtte Ukrainas forsvarsminister Yeyhenii Khmara](https://www.regjeringen.no/no/aktuelt/finansminister-jens-stoltenberg-motte-ukrainas-forsvarsminister-yeyhenii-khmara/id3194746/) — Regjeringen
+- [Fisket etter makrellstørje blir tilpasset norske forhold](https://www.regjeringen.no/no/aktuelt/fisket-etter-makrellstorje-blir-tilpasset-norske-forhold/id3194622/) — Regjeringen
+- ★ [God oppfølging av statlige eierselskap](https://kommunikasjon.ntb.no/pressemelding/19151748/god-oppfolging-av-statlige-eierselskap?lang=no) — Riksrevisjonen · Riksrevisjonen
+- [Samiske tall forteller 18](https://www.regjeringen.no/no/dokumenter/samiske-tall-forteller-18/id3194616/) — Regjeringen · Dokument · _Offentlige finanser_
+- [Felles trygghet er et felles ansvar](https://www.regjeringen.no/no/aktuelt/felles-trygghet-er-et-felles-ansvar/id3194612/) — Regjeringen
+- [Anbefaler å utvide hurtigspor for U18-saker til hele landet](https://www.regjeringen.no/no/aktuelt/anbefaler-a-utvide-hurtigspor-for-u18-saker-til-hele-landet/id3194606/) — Regjeringen
+- [Presseinvitasjon: Innspillsmøte om helsereformen i Kristiansand](https://www.regjeringen.no/no/aktuelt/innspillsmote-om-helsereformen-i-kristiansand/id3194595/) — Regjeringen
+- [Styrker det norsk-ukrainske sikkerhetssamarbeidet](https://www.regjeringen.no/no/aktuelt/styrker-det-norsk-ukrainske-sikkerhetssamarbeidet/id3194577/) — Regjeringen
+- [Presseinvitasjon: Studentpolitisk toppmøte 2026](https://www.regjeringen.no/no/aktuelt/presseinvitasjon-studentpolitisk-toppmote-2026/id3194584/) — Regjeringen
+- [Redegjørelse om viktige EU- og EØS-saker](https://www.regjeringen.no/no/aktuelt/redegjorelse-om-viktige-eu-og-eos-saker/id3194582/) — Regjeringen · _EU og EØS_
+- [Konkurransetilsynet avslutter etterforskningssak mot bruktbilaktører](https://konkurransetilsynet.no/avslutter-etterforskningssak-mot-bruktbilaktorer/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
+- [Stabil innenlandsk gjeldsvekst](https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/kredittindikator/artikler/innenlandsk-gjeld) — SSB
+- [Kan handelsavtale åpne dører til India?](https://www.ssb.no/utenriksokonomi/utenrikshandel/artikler/kan-handelsavtale-apne-dorer-til-india) — SSB · _EU og EØS_
+- [Pengemengde](https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/pengemengde) — SSB
+- [Kredittindikator](https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/kredittindikator) — SSB
+- [Indikatorer for kjønnslikestilling i kommunene](https://www.ssb.no/befolkning/likestilling/statistikk/indikatorer-for-kjonnslikestilling-i-kommunene) — SSB
+- [Høring – Endring i tilskuddssatser i RÅK ordningen for 2027](https://www.regjeringen.no/no/dokumenter/horing-endring-i-tilskuddssatser-i-rak-ordningen-for-2027/id3192418/) — Regjeringen · Høring
+- [Representantforslag frå stortingsrepresentantane Trond Helleland, Anne Kristine Linnestad, Erlend Larsen, Erlend Svardal Bøe og Tone Wilhelmsen Trøen om å auke taxfreekvotane](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-059s/) — Stortinget – representantforslag · Dokument 8:59 S
+- [Representantforslag fra stortingsrepresentant Seher Aydar om bedre kontroll og regulering av kosmetiske klinikker](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-060s/) — Stortinget – representantforslag · Dokument 8:60 S
+- [Innst. 66 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-066s/) — Stortinget – innstillinger
+- [Innst. 68 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-068s/) — Stortinget – innstillinger
+- [Innst. 73 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-073s/) — Stortinget – innstillinger
+- [Innst. 69 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-069s/) — Stortinget – innstillinger
+- [Innst. 74 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-074s/) — Stortinget – innstillinger
+- [Innst. 60 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-060s/) — Stortinget – innstillinger · _Offentlige finanser_
+- [Innst. 65 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-065s/) — Stortinget – innstillinger
+- [Innst. 64 L (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-064l/) — Stortinget – innstillinger
+- [Innst. 63 L (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-063l/) — Stortinget – innstillinger
+- [Innst. 67 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-067s/) — Stortinget – innstillinger
+- [Innstilling fra finanskomiteen om representantforslag om å styrke den finansielle robustheten til Statens pensjonsfond utland gjennom å vurdere økt diversifisering og alternative reserveaktiva](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-076s/) — Stortinget – innstillinger · Innst. 76 S · _Offentlige finanser, Arbeid og trygd_
 
 ### Mandag 23. november
 
@@ -84,6 +117,7 @@ _Sist oppdatert 24.11.2026 kl. 07:57. Viser de siste 14 dagene (174 saker). ★ 
 - [Endring i spesialistforskriften for leger](https://www.regjeringen.no/no/aktuelt/endring-i-spesialistforskriften-for-leger/id3194232/) — Regjeringen
 - [GI-10/2026 - Instruks til Utlendingsdirektoratet om innkvartering av asylsøkere](https://www.regjeringen.no/no/dokumenter/gi-102026-instruks-til-utlendingsdirektoratet-om-innkvartering-av-asylsokere/id3194213/) — Regjeringen · Dokument
 - [Forslag om endringer i forskrift til tilskuddsordning for kriminalitetsforebygging sendes på høring](https://www.regjeringen.no/no/aktuelt/forslag-om-endringer-i-forskrift-til-tilskuddsordning-for-kriminalitetsforebygging-sendes-pa-horing/id3194151/) — Regjeringen
+- [Vi er i ferd med å miste kontrollen over KI](https://www.langsikt.no/publikasjoner/vi-er-i-ferd-med-a-miste-kontrollen-over-ki) — Langsikt
 - [KrFs alternative statsbudsjett for 2027](https://krf.no/nyheter/krfs-alternative-statsbudsjett-for-2027/) — KrF · _Offentlige finanser_
 - [Problemene med skjema KRT-1004 Egenmelding fra regnskapsforetak er nå løst](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/problemene-med-skjema-krt-1004-egenmelding-fra-regnskapsforetak-er-na-lost/) — Finanstilsynet
 - [Invitasjon: Fagseminar og presentasjon av Finansielt utsyn 3. desember 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/invitasjon-fagseminar-og-presentasjon-av-finansielt-utsyn-3.-desember-2026) — Finanstilsynet
@@ -138,6 +172,7 @@ _Sist oppdatert 24.11.2026 kl. 07:57. Viser de siste 14 dagene (174 saker). ★ 
 
 - [KrF sier i dag nei til dødshjelp](https://krf.no/nyheter/krf-sier-i-dag-nei-til-dodshjelp/) — KrF
 - [Forskjell på folk](https://www.tankesmienagenda.no/notater/forskjell-pa-folk) — Tankesmien Agenda
+- [På tide at Stortinget holder ord](https://www.langsikt.no/publikasjoner/pa-tide-at-stortinget-holder-ord) — Langsikt
 - [Advarer mot avgiftssjokk på norske grønnsaker](https://hoyre.no/2026/11/17/advarer-mot-avgiftssjokk-pa-norske-gronnsaker/) — Høyre · _Skatt, Offentlige finanser_
 - [Representantforslag om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-048s/) — Stortinget – representantforslag · Dokument 8:48 S · _Markedsmakt og konkurranse, Velferd og privatisering_
 - [Representantforslag om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-047s/) — Stortinget – representantforslag · Dokument 8:47 S
@@ -185,6 +220,7 @@ _Sist oppdatert 24.11.2026 kl. 07:57. Viser de siste 14 dagene (174 saker). ★ 
 
 - [Høyre vil sikre lørdagsavisen](https://hoyre.no/2026/11/16/hoyre-vil-sikre-lordagsavisen/) — Høyre
 - [FrP vil ha Norge med på retursenter i Rwanda](https://news.google.com/rss/articles/CBMie0FVX3lxTE9jYXkyZVdCZWlaMWJwSlVKeDJmNGR0R2ZBY3N4SmN6TEtPWDlHaW9pTzE4cEpEcEdOcVhUc2QzY184bF9DTFdyNHkwS3A4OGhMYzZtdWVPNzdUYmIwUllabVEtczRlcUphY0JJd242WG5CRDZ1ZUk2THlYTQ?oc=5) — FrP
+- [Legg vekk KI-harmen](https://www.langsikt.no/publikasjoner/legg-vekk-ki-harmen) — Langsikt
 - [Egenmelding fra regnskapsforetak (KRT-1004) – rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/) — Finanstilsynet
 
 ### Lørdag 14. november
@@ -216,6 +252,7 @@ _Sist oppdatert 24.11.2026 kl. 07:57. Viser de siste 14 dagene (174 saker). ★ 
 - [Nettrapport 2026-2 Finansiell stabilitet](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/nettrapport-2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
 - [Nasjonal kontroll over mineraler er vesentlig](https://www.senterpartiet.no/aktuelt/nasjonal-kontroll-over-mineraler-er-vesentlig) — Senterpartiet
 - [Kartlegging av organisasjonsmodell i fagforeninger](https://www.fafo.no/publikasjoner/fafo-notater/kartlegging-av-organisasjonsmodeller) — Fafo
+- [Regjeringen bør snu om datasentre](https://www.langsikt.no/publikasjoner/regjeringen-bor-snu-om-datasentre) — Langsikt
 - [Senterpartiet vil ha strømstøtte til næringslivet](https://www.senterpartiet.no/aktuelt/senterpartiet-vil-ha-stromstotte-til-naeringslivet) — Senterpartiet · _Energi og strøm_
 - [FrP vil reforhandle Parisavtalen: – Europa utkonkurrerer seg selv](https://news.google.com/rss/articles/CBMia0FVX3lxTFBoQm9rN01MclBCSlJ3ZFpib2YwMU03dW1MZzNaZmVEQnVIOXFEUWlsTGlRNkVmNGhvcTRGMXd4WDdDWnQ1elVwbWdpNEU5YTBZdlR2MjJKSlJKdUsyLVNmS0ZOWW9sMVVhU0FB?oc=5) — FrP
 - [Motsyklisk kapitalbuffer for banker holdes uendret på 2,5 prosent](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/motsyklisk-kapitalbuffer-for-banker-fjerde-kvartal-2026/) — Finanstilsynet
@@ -223,21 +260,6 @@ _Sist oppdatert 24.11.2026 kl. 07:57. Viser de siste 14 dagene (174 saker). ★ 
 - [Finansiell stabilitet 2026 - 2. halvår](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
 - [Representantforslag om strømstøtte til næringslivet](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-041s/) — Stortinget – representantforslag · Dokument 8:41 S · _Energi og strøm_
 - [Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200492) — Stortinget – høringer i komiteene
-
-### Tirsdag 10. november
-
-- [Rekordlang liste til Kommunevalget 2027](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nYnRxbnRQZXl6cjZFZl83UzJXeU5KdjlRYVRfWjZLX3JrYy1UMHRtX1phVzBxN2Npb1daQkM1ajhySVg4NWQ1WEFESHMyT01DVXlFdU00SU9mMTFFMlVNRFFaWDY5cDI5REp2VFZBTUtjSVJZQUtwSk5icE9mZw?oc=5) — FrP
-- [Vil styrke PST med 50 millioner kroner](https://hoyre.no/2026/11/10/vil-styrke-pst-med-50-millioner-kroner/) — Høyre
-- ★ [Usikkerhet om vesentlige beløp i statens regnskaper](https://kommunikasjon.ntb.no/pressemelding/19135699/usikkerhet-om-vesentlige-belop-i-statens-regnskaper?lang=no) — Riksrevisjonen · Riksrevisjonen · _Skatt, Offentlige finanser, Arbeid og trygd_
-- ★ [Klima- og skoginitiativet: Klima- og miljødepartementet forvalter ikke tilskudd i tråd med regelverket](https://kommunikasjon.ntb.no/pressemelding/19135828/klima-og-skoginitiativet-klima-og-miljodepartementet-forvalter-ikke-tilskudd-i-trad-med-regelverket?lang=no) — Riksrevisjonen · Riksrevisjonen · _Ulikhet og fordeling_
-- ★ [Nedlagte gruver: Nærings- og fiskeridepartementet følger fortsatt ikke forurensingslovens krav](https://kommunikasjon.ntb.no/pressemelding/19135794/nedlagte-gruver-naerings-og-fiskeridepartementet-folger-fortsatt-ikke-forurensingslovens-krav?lang=no) — Riksrevisjonen · Riksrevisjonen
-- ★ [Nav: Kritikkverdig saksbehandling av sykepenger](https://kommunikasjon.ntb.no/pressemelding/19135863/nav-kritikkverdig-saksbehandling-av-sykepenger?lang=no) — Riksrevisjonen · Riksrevisjonen · _Arbeid og trygd_
-- ★ [Stortinget har fulgt opp undersøkelsen av stortingsrepresentantenes økonomiske ordninger](https://kommunikasjon.ntb.no/pressemelding/19135745/stortinget-har-fulgt-opp-undersokelsen-av-stortingsrepresentantenes-okonomiske-ordninger?lang=no) — Riksrevisjonen · Riksrevisjonen
-- [Vil ha spleiselag for nitrogenrensing](https://hoyre.no/2026/11/10/vil-ha-spleiselag-for-nitrogenrensing/) — Høyre
-- [Svindelstatistikk første halvår 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/svindelstatistikk-forste-halvar-2026/) — Finanstilsynet
-- [Frp vil selge fellesskapets verdier](https://www.senterpartiet.no/aktuelt/frp-vil-selge-fellesskapets-verdier) — Senterpartiet
-- [Egenmelding fra revisjonsforetak (KRT-1001) - rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-revisjonsforetak-krt-1001---rapportering/) — Finanstilsynet
-- ★ [Pressekonferanse i dag: Hva viser den årlige rapporten til Stortinget om statens regnskaper 2025?](https://kommunikasjon.ntb.no/pressemelding/19133724/pressekonferanse-i-dag-hva-viser-den-arlige-rapporten-til-stortinget-om-statens-regnskaper-2025?lang=no) — Riksrevisjonen · Riksrevisjonen · _Offentlige finanser_
 
 ## Status for kildene
 
