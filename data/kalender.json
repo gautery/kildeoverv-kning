@@ -1,37 +1,5 @@
 [
  {
-  "dato": "2026-11-25",
-  "tittel": "Eksport av laks, Tall for uke 47 2026",
-  "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
-  "temaer": []
- },
- {
-  "dato": "2026-11-25",
-  "tittel": "Antall arbeidsforhold og lønn, Tall for oktober 2026",
-  "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn",
-  "temaer": [
-   "Arbeid og trygd"
-  ]
- },
- {
-  "dato": "2026-11-25",
-  "tittel": "Arbeidskraftundersøkelsen , Tall for oktober 2026",
-  "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen",
-  "temaer": []
- },
- {
-  "dato": "2026-11-25",
-  "tittel": "Produsentprisindekser for tjenester, Tall for 3. kvartal 2026",
-  "lenke": "https://www.ssb.no/priser-og-prisindekser/produsent-og-engrosprisindekser/statistikk/produsentprisindekser-for-tjenester",
-  "temaer": []
- },
- {
-  "dato": "2026-11-25",
-  "tittel": "Naturregnskap, Tall for 2024",
-  "lenke": "https://www.ssb.no/natur-og-miljo/naturregnskap/statistikk/naturregnskap",
-  "temaer": []
- },
- {
   "dato": "2026-11-26",
   "tittel": "Banker og kredittforetak, Tall for oktober 2026",
   "lenke": "https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/banker-og-kredittforetak",
@@ -103,12 +71,6 @@
   "dato": "2026-12-01",
   "tittel": "Olje- og gassutvinning og utvinningstjenester, Tall for 2025",
   "lenke": "https://www.ssb.no/energi-og-industri/olje-og-gass/statistikk/olje-og-gassutvinning-og-utvinningstjenester",
-  "temaer": []
- },
- {
-  "dato": "2026-12-02",
-  "tittel": "Eksport av laks, Tall for uke 48 2026",
-  "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
   "temaer": []
  },
  {
@@ -233,12 +195,6 @@
  },
  {
   "dato": "2026-12-09",
-  "tittel": "Eksport av laks, Tall for uke 49 2026",
-  "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
-  "temaer": []
- },
- {
-  "dato": "2026-12-09",
   "tittel": "Prisindeks for førstegangsomsetning innenlands, Tall for november 2026",
   "lenke": "https://www.ssb.no/priser-og-prisindekser/produsent-og-engrosprisindekser/statistikk/prisindeks-for-forstegangsomsetning-innenlands",
   "temaer": []
@@ -351,12 +307,6 @@
  },
  {
   "dato": "2026-12-16",
-  "tittel": "Eksport av laks, Tall for uke 50 2026",
-  "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
-  "temaer": []
- },
- {
-  "dato": "2026-12-16",
   "tittel": "Aktivitet i sentrumssoner, Tall for 2026",
   "lenke": "https://www.ssb.no/natur-og-miljo/areal/statistikk/aktivitet-i-sentrumssoner",
   "temaer": []
@@ -433,20 +383,6 @@
  },
  {
   "dato": "2026-12-22",
-  "tittel": "Antall arbeidsforhold og lønn, Tall for november 2026",
-  "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn",
-  "temaer": [
-   "Arbeid og trygd"
-  ]
- },
- {
-  "dato": "2026-12-22",
-  "tittel": "Arbeidskraftundersøkelsen , Tall for november 2026",
-  "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen",
-  "temaer": []
- },
- {
-  "dato": "2026-12-22",
   "tittel": "Skatt for personer, Tall for 2025",
   "lenke": "https://www.ssb.no/inntekt-og-forbruk/skatt-for-personer/statistikk/skatt-for-personer",
   "temaer": [
@@ -463,12 +399,6 @@
   "dato": "2026-12-23",
   "tittel": "Pengemengde, Tall for november 2026",
   "lenke": "https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/pengemengde",
-  "temaer": []
- },
- {
-  "dato": "2026-12-23",
-  "tittel": "Eksport av laks, Tall for uke 51 2026",
-  "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
   "temaer": []
  }
 ]

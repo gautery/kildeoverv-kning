@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 24.11.2026 kl. 19:52. Viser de siste 14 dagene (201 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 25.11.2026 kl. 04:02. Viser de siste 14 dagene (205 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -9,13 +9,11 @@ _Sist oppdatert 24.11.2026 kl. 19:52. Viser de siste 14 dagene (201 saker). ★ 
 
 ## Kommer fra SSB (relevant for temaene dine)
 
-- **25.11** – [Antall arbeidsforhold og lønn, Tall for oktober 2026](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn) · _Arbeid og trygd_
 - **27.11** – [Elektrisitetsnæringens økonomiske utvikling, Tall for 2025](https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak/statistikk/elektrisitetsnaeringens-okonomiske-utvikling) · _Energi og strøm_
 - **09.12** – [Statsregnskapets inntekter og utgifter, Tall for 3. kvartal 2026](https://www.ssb.no/offentlig-sektor/statlige-finanser/statistikk/statsregnskapets-inntekter-og-utgifter) · _Offentlige finanser_
 - **15.12** – [Elektrisitet, Tall for november 2026](https://www.ssb.no/energi-og-industri/energi/statistikk/elektrisitet) · _Energi og strøm_
 - **17.12** – [Skatterekneskap, Tall for november 2026](https://www.ssb.no/offentlig-sektor/skatteregnskap/statistikk/skatterekneskap) · _Skatt_
 - **21.12** – [Grunnlag for arbeidsgiveravgift, Tall for november 2026](https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift) · _Skatt_
-- **22.12** – [Antall arbeidsforhold og lønn, Tall for november 2026](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn) · _Arbeid og trygd_
 - **22.12** – [Skatt for personer, Tall for 2025](https://www.ssb.no/inntekt-og-forbruk/skatt-for-personer/statistikk/skatt-for-personer) · _Skatt_
 
 ## Alt nytt, dag for dag
@@ -23,6 +21,7 @@ _Sist oppdatert 24.11.2026 kl. 19:52. Viser de siste 14 dagene (201 saker). ★ 
 
 ### Tirsdag 24. november
 
+- [Tildelingsbrev, årsrapporter og instrukser - Utenriksdepartementet](https://www.regjeringen.no/no/dep/ud/org/virksomheter_ud/etater_ud/rapport_tildeling/id749659/) — Regjeringen
 - [Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507) — Stortinget – høringer i komiteene
 - [Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200506) — Stortinget – høringer i komiteene
 - [Representantforslag om strømstøtte til næringslivet](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200510) — Stortinget – høringer i komiteene · _Energi og strøm_
@@ -34,6 +33,7 @@ _Sist oppdatert 24.11.2026 kl. 19:52. Viser de siste 14 dagene (201 saker). ★ 
 - [Samiske tall forteller 18](https://www.regjeringen.no/no/dokumenter/samiske-tall-forteller-18/id3194616/) — Regjeringen · Dokument · _Offentlige finanser_
 - [Felles trygghet er et felles ansvar](https://www.regjeringen.no/no/aktuelt/felles-trygghet-er-et-felles-ansvar/id3194612/) — Regjeringen
 - [Anbefaler å utvide hurtigspor for U18-saker til hele landet](https://www.regjeringen.no/no/aktuelt/anbefaler-a-utvide-hurtigspor-for-u18-saker-til-hele-landet/id3194606/) — Regjeringen
+- [Unemployment by sex and age - monthly data (UNE_RT_M)](https://ec.europa.eu/eurostat/databrowser/product/page/UNE_RT_M) — Eurostat · Oppdaterte data · _Arbeid og trygd_
 - [Presseinvitasjon: Innspillsmøte om helsereformen i Kristiansand](https://www.regjeringen.no/no/aktuelt/innspillsmote-om-helsereformen-i-kristiansand/id3194595/) — Regjeringen
 - [Styrker det norsk-ukrainske sikkerhetssamarbeidet](https://www.regjeringen.no/no/aktuelt/styrker-det-norsk-ukrainske-sikkerhetssamarbeidet/id3194577/) — Regjeringen
 - [Presseinvitasjon: Studentpolitisk toppmøte 2026](https://www.regjeringen.no/no/aktuelt/presseinvitasjon-studentpolitisk-toppmote-2026/id3194584/) — Regjeringen
@@ -58,6 +58,10 @@ _Sist oppdatert 24.11.2026 kl. 19:52. Viser de siste 14 dagene (201 saker). ★ 
 - [Innst. 63 L (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-063l/) — Stortinget – innstillinger
 - [Innst. 67 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-067s/) — Stortinget – innstillinger
 - [Innstilling fra finanskomiteen om representantforslag om å styrke den finansielle robustheten til Statens pensjonsfond utland gjennom å vurdere økt diversifisering og alternative reserveaktiva](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-076s/) — Stortinget – innstillinger · Innst. 76 S · _Offentlige finanser, Arbeid og trygd_
+- [Innst. 72 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-072s/) — Stortinget – innstillinger
+- [Innst. 71 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-071s/) — Stortinget – innstillinger · _Energi og strøm_
+- [Innst. 75 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-075s/) — Stortinget – innstillinger
+- [Innst. 70 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-070s/) — Stortinget – innstillinger · _Bolig, Energi og strøm_
 
 ### Mandag 23. november
 
@@ -258,8 +262,6 @@ _Sist oppdatert 24.11.2026 kl. 19:52. Viser de siste 14 dagene (201 saker). ★ 
 - [Motsyklisk kapitalbuffer for banker holdes uendret på 2,5 prosent](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/motsyklisk-kapitalbuffer-for-banker-fjerde-kvartal-2026/) — Finanstilsynet
 - [Økt risiko for alvorlige hendelser som kan svekke finansiell stabilitet](https://www.norges-bank.no/aktuelt/nyheter/Pressemeldinger/2026/2026-11-11-fs2/) — Norges Bank – pressemeldinger
 - [Finansiell stabilitet 2026 - 2. halvår](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
-- [Representantforslag om strømstøtte til næringslivet](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-041s/) — Stortinget – representantforslag · Dokument 8:41 S · _Energi og strøm_
-- [Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200492) — Stortinget – høringer i komiteene
 
 ## Status for kildene
 

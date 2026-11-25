@@ -1,5 +1,19 @@
 [
  {
+  "id": "a9d193738e851c69",
+  "tittel": "Tildelingsbrev, årsrapporter og instrukser - Utenriksdepartementet",
+  "lenke": "https://www.regjeringen.no/no/dep/ud/org/virksomheter_ud/etater_ud/rapport_tildeling/id749659/",
+  "ingress": "Oversikt over tildelingsbrev og instrukser fra Utenriksdepartementet til underliggende virksomheter, samt virksomhetenes årsrapporter og revisjonsberetninger.",
+  "kilde": "Regjeringen",
+  "kategori": "Regjering",
+  "type": "Nyhet",
+  "dato": "2026-11-24T20:03:49Z",
+  "viktig": false,
+  "funnet": "2026-11-25T03:02:05Z",
+  "temaer": [],
+  "spor": "lopende"
+ },
+ {
   "id": "99e21a7ae475ee68",
   "tittel": "Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507",
@@ -159,6 +173,22 @@
   "funnet": "2026-11-24T18:52:23Z",
   "temaer": [],
   "spor": "lopende"
+ },
+ {
+  "id": "28c2a7d05c84a037",
+  "tittel": "Unemployment by sex and age - monthly data (UNE_RT_M)",
+  "lenke": "https://ec.europa.eu/eurostat/databrowser/product/page/UNE_RT_M",
+  "ingress": "Eurostat-datasett UNE_RT_M har fått nye tall.",
+  "kilde": "Eurostat",
+  "kategori": "Statistikk",
+  "type": "Oppdaterte data",
+  "dato": "2026-11-24T11:00:00Z",
+  "viktig": false,
+  "funnet": "2026-11-25T03:02:05Z",
+  "temaer": [
+   "Arbeid og trygd"
+  ],
+  "spor": "tall"
  },
  {
   "id": "6e89f4d35d81fea9",
@@ -507,6 +537,67 @@
   "temaer": [
    "Offentlige finanser",
    "Arbeid og trygd"
+  ],
+  "spor": "lopende"
+ },
+ {
+  "id": "a529c2636778b61c",
+  "tittel": "Innst. 72 S (2026-2027) (Midlertidig)",
+  "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-072s/",
+  "ingress": "Innstilling fra justiskomiteen om Representantforslag fra stortingsrepresentantene Marian Hussein, Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen og Kathy Lie om tiltak mot kjønnslemlestelse og Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun …",
+  "kilde": "Stortinget – innstillinger",
+  "kategori": "Storting",
+  "type": "",
+  "dato": "2026-11-24T00:00:00Z",
+  "viktig": false,
+  "funnet": "2026-11-25T03:02:05Z",
+  "temaer": [],
+  "spor": "lopende"
+ },
+ {
+  "id": "95cb9f56dd7abc49",
+  "tittel": "Innst. 71 S (2026-2027) (Midlertidig)",
+  "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-071s/",
+  "ingress": "Innstilling fra energi- og miljøkomiteen om Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Ole Herman Sveian om å sikre videre drift av gasskraftverket i Hammerfest",
+  "kilde": "Stortinget – innstillinger",
+  "kategori": "Storting",
+  "type": "",
+  "dato": "2026-11-24T00:00:00Z",
+  "viktig": false,
+  "funnet": "2026-11-25T03:02:05Z",
+  "temaer": [
+   "Energi og strøm"
+  ],
+  "spor": "lopende"
+ },
+ {
+  "id": "9ae6ff6275f33715",
+  "tittel": "Innst. 75 S (2026-2027) (Midlertidig)",
+  "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-075s/",
+  "ingress": "Innstilling fra justiskomiteen om Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Anette Carnarius Elseth, Stian Storbukås og Finn Krokeide om hastetiltak for å sette politiet bedre i stand til å trygge samfunnet i en usikker tid",
+  "kilde": "Stortinget – innstillinger",
+  "kategori": "Storting",
+  "type": "",
+  "dato": "2026-11-24T00:00:00Z",
+  "viktig": false,
+  "funnet": "2026-11-25T03:02:05Z",
+  "temaer": [],
+  "spor": "lopende"
+ },
+ {
+  "id": "4ada147ab51f0234",
+  "tittel": "Innst. 70 S (2026-2027) (Midlertidig)",
+  "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-070s/",
+  "ingress": "Innstilling fra energi- og miljøkomiteen om Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene …",
+  "kilde": "Stortinget – innstillinger",
+  "kategori": "Storting",
+  "type": "",
+  "dato": "2026-11-24T00:00:00Z",
+  "viktig": false,
+  "funnet": "2026-11-25T03:02:05Z",
+  "temaer": [
+   "Bolig",
+   "Energi og strøm"
   ],
   "spor": "lopende"
  },
@@ -5402,6 +5493,20 @@
   "spor": "rapporter"
  },
  {
+  "id": "2505b9bbcdf1b072",
+  "tittel": "– Regjeringen trenerer viktige vei- og togprosjekter",
+  "lenke": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlBlc3RsT1dzZnlQcXEteVNyVzF3ZFluMTVXZXFuYzRUMS1DYVRTMDEtVlhybDJTMzVJa0FIOUhfanNsdE9OTzF4OTE0UHliYlFkTS03MmNCMTNLUDlTZjJsQXItTm5pMWZjcFB4Rm9ER0I5VVJHcFB1T2tHR3V2NGV3TTMtYkd2c0VhcQ?oc=5",
+  "ingress": "",
+  "kilde": "FrP",
+  "kategori": "Parti",
+  "type": "",
+  "dato": "2026-10-13T07:00:00Z",
+  "viktig": false,
+  "funnet": "2026-11-25T03:02:05Z",
+  "temaer": [],
+  "spor": "lopende"
+ },
+ {
   "id": "072157700421e00d",
   "tittel": "Representantforslag om å lovliggjøre og legge til rette for pluggbare solceller og batterier",
   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-017s/",
@@ -5750,6 +5855,20 @@
    "Skatt",
    "Offentlige finanser"
   ],
+  "spor": "lopende"
+ },
+ {
+  "id": "4c5780d200986da6",
+  "tittel": "Ap trosser Stortinget og svikter oljearbeiderne",
+  "lenke": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zN1ktckZ5U0RoU0NsSVMzakJWNEkzY2JPSTh2Qk9EcG0xdm5NV1pFLUJuaVB3WXBxNG84Tm8xM1Jld24xT0hiNnNwczU3TXRmLVFkcEZUQ2c2Z09jd0tRamx3Yl9fQzktWS1nRWY5bVV2LWp0b00tVkNURVI1TzA?oc=5",
+  "ingress": "",
+  "kilde": "FrP",
+  "kategori": "Parti",
+  "type": "",
+  "dato": "2026-10-07T07:00:00Z",
+  "viktig": false,
+  "funnet": "2026-11-25T03:02:05Z",
+  "temaer": [],
   "spor": "lopende"
  },
  {
