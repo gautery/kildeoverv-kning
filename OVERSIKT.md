@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 25.11.2026 kl. 13:48. Viser de siste 14 dagene (238 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 25.11.2026 kl. 23:29. Viser de siste 14 dagene (242 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -24,6 +24,10 @@ _Sist oppdatert 25.11.2026 kl. 13:48. Viser de siste 14 dagene (238 saker). ★ 
 
 ### Onsdag 25. november
 
+- [No får du snart melding om at du kan sjekke medlemskap i trus- og livssynssamfunn](https://www.regjeringen.no/no/aktuelt/no-far-du-snart-melding-om-at-du-kan-sjekke-medlemskap-i-trus-og-livssynssamfunn/id3194906/) — Regjeringen
+- [Regionale kulturfond](https://www.regjeringen.no/no/dep/kud/tilskudd/regionale-kulturfond/id3147284/) — Regjeringen · _Offentlige finanser_
+- [Budsjettavtalen: Vi kan mer enn dette. Venstre åpner døra for dem som skal i gang med livet](https://www.venstre.no/artikkel/2026/11/25/vi-kan-mer-enn-dette-venstre-apner-dora-for-dem-som-skal-i-gang-med-livet/) — Venstre · _Offentlige finanser_
+- [Foreslår nye verktøy for å regulere korttidsutleie](https://www.regjeringen.no/no/aktuelt/foreslar-nye-verktoy-for-a-regulere-korttidsutleie/id3194812/) — Regjeringen · _Bolig_
 - [Enighet om budsjett](https://www.arbeiderpartiet.no/aktuelt/enighet-om-budsjett/) — Arbeiderpartiet · _Offentlige finanser_
 - [Senterpartiet sikrar eit budsjett for heile landet](https://www.senterpartiet.no/aktuelt/senterpartiet-sikrar-eit-budsjett-for-heile-landet) — Senterpartiet · _Offentlige finanser_
 - ★ [Påminnelse: To nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19151698/paminnelse-to-nye-rapporter-om-eldrebolgen?lang=no) — Riksrevisjonen · Riksrevisjonen
@@ -32,6 +36,7 @@ _Sist oppdatert 25.11.2026 kl. 13:48. Viser de siste 14 dagene (238 saker). ★ 
 - [Sp sikra stor kulturpakke](https://www.senterpartiet.no/aktuelt/sp-sikra-stor-kulturpakke-i-budsjettavtalen) — Senterpartiet
 - [– Dette er ikke trygg styring](https://hoyre.no/2026/11/25/dette-er-ikke-trygg-styring/) — Høyre
 - [Høring - Endringer i regelverket om samordning av offentlig tjenestepensjon med folketrygdens etterlatteytelser](https://www.regjeringen.no/no/dokumenter/horing-endringer-i-regelverket-om-samordning-av-offentlig-tjenestepensjon-med-folketrygdens-etterlatteytelser/id3194621/) — Regjeringen · Høring · _Arbeid og trygd_
+- [Sommerjobber blant unge](https://www.fafo.no/publikasjoner/fafo-notater/sommerjobber-blant-unge) — Fafo · _Arbeid og trygd_
 - [Senterpartiet sikrer bygging av Ofotbanen i 2027](https://www.senterpartiet.no/aktuelt/senterpartiet-sikrer-bygging-av-ofotbanen-i-2027) — Senterpartiet
 - [Senterpartiet sikrer stipendstøtte til folkehøgskoleelever](https://www.senterpartiet.no/aktuelt/senterpartiet-sikrer-stipendstotte-til-folkehogskoleelever) — Senterpartiet
 - [CO2-avgiften for fiskeri fjernes](https://www.senterpartiet.no/aktuelt/co2-avgiften-for-fiskeri-fjernes) — Senterpartiet · _Skatt_
@@ -297,10 +302,6 @@ _Sist oppdatert 25.11.2026 kl. 13:48. Viser de siste 14 dagene (238 saker). ★ 
 - [Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-036s/) — Stortinget – innstillinger · Innst. 36 S
 - [Representantforslag om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200476) — Stortinget – høringer i komiteene
 - [Representantforslag om stemmerett ved kommune- og fylkestingsvalg](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200456) — Stortinget – høringer i komiteene
-
-### Onsdag 11. november
-
-- [Konferanse: Trygge lokalsamfunn i ei utrygg tid](https://www.sv.no/blog/2026/11/11/trygge-lokalsamfunn-i-ei-utrygg-tid/) — SV · _EU og EØS_
 
 ## Status for kildene
 

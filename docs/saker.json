@@ -1,7 +1,69 @@
 {
- "oppdatert": "2026-11-25T12:47:29Z",
+ "oppdatert": "2026-11-25T22:28:48Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "9abb88a574c46f84",
+   "tittel": "No får du snart melding om at du kan sjekke medlemskap i trus- og livssynssamfunn",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/no-far-du-snart-melding-om-at-du-kan-sjekke-medlemskap-i-trus-og-livssynssamfunn/id3194906/",
+   "ingress": "Måndag 30. november byrjar staten å sende ut meldingar om at du kan undersøke opplysningar om eige medlemskap i trus- og livssynssamfunn. Du mottek varsla på SMS eller e-post, og får ei lenger melding i Altinn.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T21:49:05Z",
+   "viktig": false,
+   "funnet": "2026-11-25T22:28:48Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "8c1fd7700ddf8d93",
+   "tittel": "Regionale kulturfond",
+   "lenke": "https://www.regjeringen.no/no/dep/kud/tilskudd/regionale-kulturfond/id3147284/",
+   "ingress": "Bevilgningen til regionale kulturfond skal bidra til økt aktivitet og deltakelse i kulturlivet i hele landet.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T15:35:31Z",
+   "viktig": false,
+   "funnet": "2026-11-25T22:28:48Z",
+   "temaer": [
+    "Offentlige finanser"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "c1a0a50ddb85c5c1",
+   "tittel": "Budsjettavtalen: Vi kan mer enn dette. Venstre åpner døra for dem som skal i gang med livet",
+   "lenke": "https://www.venstre.no/artikkel/2026/11/25/vi-kan-mer-enn-dette-venstre-apner-dora-for-dem-som-skal-i-gang-med-livet/",
+   "ingress": "Den som er ferdig utdannet, skal få prøve seg, og den som jobber hardt, skal kunne kjøpe sitt første hjem. I budsjettavtalen til Ap, Sp, […] The post Budsjettavtalen: Vi kan mer enn dette. Venstre åpner døra for dem som skal i gang med livet appeared first on Venstre .",
+   "kilde": "Venstre",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T15:10:30Z",
+   "viktig": false,
+   "funnet": "2026-11-25T22:28:48Z",
+   "temaer": [
+    "Offentlige finanser"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "f27b824deb44327c",
+   "tittel": "Foreslår nye verktøy for å regulere korttidsutleie",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/foreslar-nye-verktoy-for-a-regulere-korttidsutleie/id3194812/",
+   "ingress": "Regjeringa foreslår nå å gi kommunene mulighet til å forby eller begrense korttidsutleie i hele eller deler av kommunen, samt å hente ut opplysninger direkte fra digitale plattformer.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T14:30:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T22:28:48Z",
+   "temaer": [
+    "Bolig"
+   ],
+   "spor": "lopende"
+  },
   {
    "id": "91d5f65963507c59",
    "tittel": "Enighet om budsjett",
@@ -119,6 +181,22 @@
     "Arbeid og trygd"
    ],
    "spor": "lopende"
+  },
+  {
+   "id": "a1665c34b632cf12",
+   "tittel": "Sommerjobber blant unge",
+   "lenke": "https://www.fafo.no/publikasjoner/fafo-notater/sommerjobber-blant-unge",
+   "ingress": "I dette notatet ser vi på hvordan sommerjobb som ung henger sammen med lønn, deltakelse i arbeidslivet og helse senere i livet. Vi dokumenterer at det er en sammenheng mellom familiebakgrunn og hvorvidt man har sommerjobb som ung.",
+   "kilde": "Fafo",
+   "kategori": "Forskning",
+   "type": "",
+   "dato": "2026-11-25T11:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T22:28:48Z",
+   "temaer": [
+    "Arbeid og trygd"
+   ],
+   "spor": "rapporter"
   },
   {
    "id": "fce831b597632474",
