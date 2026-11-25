@@ -1,7 +1,631 @@
 {
- "oppdatert": "2026-11-25T03:02:05Z",
+ "oppdatert": "2026-11-25T12:47:29Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "91d5f65963507c59",
+   "tittel": "Enighet om budsjett",
+   "lenke": "https://www.arbeiderpartiet.no/aktuelt/enighet-om-budsjett/",
+   "ingress": "Rødgrønn enighet om forslag til statsbudsjett for 2027",
+   "kilde": "Arbeiderpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T12:47:29Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Offentlige finanser"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "228d73ad28a1a89a",
+   "tittel": "Senterpartiet sikrar eit budsjett for heile landet",
+   "lenke": "https://www.senterpartiet.no/aktuelt/senterpartiet-sikrar-eit-budsjett-for-heile-landet",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T11:41:40Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Offentlige finanser"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "43ba31492925e9a6",
+   "tittel": "Påminnelse: To nye rapporter om eldrebølgen",
+   "lenke": "https://kommunikasjon.ntb.no/pressemelding/19151698/paminnelse-to-nye-rapporter-om-eldrebolgen?lang=no",
+   "ingress": "På Riksrevisjonens forbedringskonferanse torsdag 26. november presenterer riksrevisor Karl Eirik Schjøtt-Pedersen to rapporter: Om forventet mangel på helsepersonell og om helseforetakenes økonomistyring. Han presenterer dem ca. 09:35 og er tilgjengelig for intervjuer etter det.",
+   "kilde": "Riksrevisjonen",
+   "kategori": "Kontroll",
+   "type": "Riksrevisjonen",
+   "dato": "2026-11-25T11:33:27Z",
+   "viktig": true,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
+  {
+   "id": "01d0b586d45a8a4e",
+   "tittel": "TBU-seminarer",
+   "lenke": "https://www.regjeringen.no/no/dep/kdd/org/styrer-rad-og-utvalg/teknisk-beregningsutvalg-for-kommunal-og/seminarer/id630248/",
+   "ingress": "Utvalget arrangerer hvert år et fagseminar som er åpent for alle interesserte. Seminaret finner vanligvis finner sted i begynnelsen av desember. Presentasjonene fra seminarene tidligere år kan du finne her.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T11:17:50Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "cd9d59f9e65b8f77",
+   "tittel": "TBU-rapporter",
+   "lenke": "https://www.regjeringen.no/no/dep/kdd/org/styrer-rad-og-utvalg/teknisk-beregningsutvalg-for-kommunal-og/tidligere-rapporter/id572333/",
+   "ingress": "Utvalget utarbeider fra og med 2025 tre rapporter i året, to om våren og én om høsten. Utvalgets notater til konsultasjonsordningen mellom staten og kommunesektoren utgjør nå den første vårrapporten.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T11:14:12Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "ea41c1bb8f87eb2d",
+   "tittel": "Sp sikra stor kulturpakke",
+   "lenke": "https://www.senterpartiet.no/aktuelt/sp-sikra-stor-kulturpakke-i-budsjettavtalen",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T11:03:47Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "64fce8dc2e487928",
+   "tittel": "– Dette er ikke trygg styring",
+   "lenke": "https://hoyre.no/2026/11/25/dette-er-ikke-trygg-styring/",
+   "ingress": "– Dette er rimelig absurd å se på. Etter dager med kaos er fasiten at partiene legger frem en avtale som ikke har flertall i Stortinget, sier Høyres nestleder Henrik Asheim. Han mener avtalen innebærer økt pengebruk uten at folk flest får bedre råd. – Dette er ikke trygg styring. Partiene vil øke …",
+   "kilde": "Høyre",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T11:02:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "1201a6580a530a50",
+   "tittel": "Høring - Endringer i regelverket om samordning av offentlig tjenestepensjon med folketrygdens etterlatteytelser",
+   "lenke": "https://www.regjeringen.no/no/dokumenter/horing-endringer-i-regelverket-om-samordning-av-offentlig-tjenestepensjon-med-folketrygdens-etterlatteytelser/id3194621/",
+   "ingress": "Arbeids- og inkluderingsdepartementet sender med dette på høring forslag til endringer i regelverket om samordning av offentlig tjenestepensjon med folketrygdens etterlatteytelser.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Høring",
+   "dato": "2026-11-25T11:00:23Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Arbeid og trygd"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "fce831b597632474",
+   "tittel": "Senterpartiet sikrer bygging av Ofotbanen i 2027",
+   "lenke": "https://www.senterpartiet.no/aktuelt/senterpartiet-sikrer-bygging-av-ofotbanen-i-2027",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T10:52:07Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "d5f7afc994dac181",
+   "tittel": "Senterpartiet sikrer stipendstøtte til folkehøgskoleelever",
+   "lenke": "https://www.senterpartiet.no/aktuelt/senterpartiet-sikrer-stipendstotte-til-folkehogskoleelever",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T10:49:46Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "1a9f55c5d4de3a2d",
+   "tittel": "CO2-avgiften for fiskeri fjernes",
+   "lenke": "https://www.senterpartiet.no/aktuelt/co2-avgiften-for-fiskeri-fjernes",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T10:47:42Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Skatt"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "09cdfecdd7093330",
+   "tittel": "Posten skal fortsatt fram",
+   "lenke": "https://www.senterpartiet.no/aktuelt/posten-skal-fortsatt-fram",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T10:43:16Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "a2a5701e56ec0fbd",
+   "tittel": "Senterpartiet med milliardpakke til bygg og anlegg og drivstoffgjennomslag",
+   "lenke": "https://www.senterpartiet.no/aktuelt/senterpartiet-med-milliardpakke-til-bygg-og-anlegg-og-drivstoffgjennomslag",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T10:39:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "7dd5aa4bfd3d735b",
+   "tittel": "Sp med pumpegjennomslag: Største dieselavgiftskutt noensinne",
+   "lenke": "https://www.senterpartiet.no/aktuelt/sp-med-pumpegjennomslag-storste-dieselavgiftskutt-noensinne",
+   "ingress": "",
+   "kilde": "Senterpartiet",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T10:21:33Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Skatt"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "d9a3c7c2bf74d9fd",
+   "tittel": "Rapport: Råd for mer bærekraftig fôr",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/rad-for-mer-barekraftig-for/id3194825/",
+   "ingress": "Styringsgruppen for samfunnsoppdraget om bærekraftig fôr overleverte i dag sin andre rapport om bærekraftig fôr til landbruks- og matminister Nils Kristen Sandtrøen og statssekretær for fiskeri- og havministeren Kristina Sigurdsdottir Hansen.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T10:03:59Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "3032321856400afd",
+   "tittel": "SV er enige om statsbudsjettet",
+   "lenke": "https://www.sv.no/blog/2026/11/25/statsbudsjettet2027/",
+   "ingress": "Etter lange og harde runder i Stortinget her SV blitt enige med regjeringen, Rødt og SP om en avtale om statsbudsjett. — SV har fått store gjennomslag på våre viktigste saker, oppvekst, bolig og klima. Sånn skaper vi en bedre hverdag og en bedre verden, sier Marthe Hammer. Sitater Marthe Hammer …",
+   "kilde": "SV",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T10:00:58Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Offentlige finanser",
+    "Bolig"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "1f30352e41b07a9e",
+   "tittel": "Rapport om kapitalkrav i Norden og Baltikum",
+   "lenke": "https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/rapport-om-kapitalkrav-i-norden-og-baltikum/",
+   "ingress": "Nordisk-baltisk forum for makrotilsyn (NBMF) har utarbeidet en rapport som gir oversikt over kapitalkrav til banker i de nordisk-baltiske landene.",
+   "kilde": "Finanstilsynet",
+   "kategori": "Tilsyn",
+   "type": "",
+   "dato": "2026-11-25T09:53:22Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "f5410c23cd0c43be",
+   "tittel": "Bruk av fleksibilitetskvotene i utlånsforskriften i tredje kvartal 2026",
+   "lenke": "https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/bruk-av-fleksibilitetskvotene-i-utlansforskriften-i-tredje-kvartal-2026/",
+   "ingress": "I tredje kvartal 2026 var andelen nye lån med pant i bolig som avvek fra utlånsforskriftens krav noe lavere enn i forrige kvartal. Dette gjaldt både for lån i og utenfor Oslo. Også for forbrukslån og lån med pant i annet enn bolig var det noe lavere avvik fra forskriftskravene enn kvartalet før.",
+   "kilde": "Finanstilsynet",
+   "kategori": "Tilsyn",
+   "type": "",
+   "dato": "2026-11-25T09:41:08Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Bolig"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "13b08209fdaf02d0",
+   "tittel": "Fire trafikkskoler får milliongebyr for ulovlig prissamarbeid",
+   "lenke": "https://konkurransetilsynet.no/fire-trafikkskoler-far-milliongebyr-for-ulovlig-prissamarbeid/",
+   "ingress": "Konkurransetilsynet ilegger fire trafikkskoler i Kristiansund til sammen 2,275 millioner kroner i gebyr for brudd på konkurranseloven. Konkurrentene ABC Trafikkskole AS, Aktiv Kjøreskole AS, City Trafikkskole AS og Halaas Trafikkskole AS har samarbeidet om priser og dermed brutt konkurranseloven …",
+   "kilde": "Konkurransetilsynet",
+   "kategori": "Tilsyn",
+   "type": "",
+   "dato": "2026-11-25T09:20:03Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Markedsmakt og konkurranse"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "c9bb88045c398101",
+   "tittel": "Staten satser på KI-opplæring",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/staten-satser-pa-ki-opplaring/id3194807/",
+   "ingress": "Åtte av ti statlige virksomheter har satt i gang tiltak for å heve kompetansen på kunstig intelligens i virksomheten. For syv av ti virksomheter har bruk av KI i virksomheten vært et tema i dialogen med tillitsvalgte.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T09:08:51Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "824b699d7658d39a",
+   "tittel": "Fylkesnytt fra Troms og Finnmark 2/2026",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-troms-og-finnmark-22026/id3194387/",
+   "ingress": "Statsforvalteren i Troms og Finnmark er ute med en ny utgave av Fylkesnytt",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T09:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "03bbfc63e5216def",
+   "tittel": "NOU 2026: 15 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi",
+   "lenke": "https://www.regjeringen.no/no/dokumenter/nou-2026-15/id3194640/",
+   "ingress": "Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi (TBU) legger med dette fram sin rapport for høsten 2026. Rapporten tar sikte på å gi informasjon om utviklingen i kommuneøkonomien de siste årene med særlig vekt på den økonomiske situasjonen i 2025 og 2026. Utvalget er ledet av …",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "NOU",
+   "dato": "2026-11-25T09:00:00Z",
+   "viktig": true,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Offentlige finanser"
+   ],
+   "spor": "rapporter"
+  },
+  {
+   "id": "eeb58ff8c99debd2",
+   "tittel": "Kraftsystemet forvitrer ikke",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/kraftsystemet-forvitrer-ikke/id3194800/",
+   "ingress": "Energiminister Terje Aasland hadde dette innlegget om kraftsystemet på trykk i Klassekampen 25. november 2026.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T08:38:25Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Energi og strøm"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "bc8277cd7edf8fb4",
+   "tittel": "Oversikt over Finansdepartementets rundskriv",
+   "lenke": "https://www.regjeringen.no/no/dokument/dep/fin/rundskriv/arkiv/id446220/",
+   "ingress": "",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T08:36:45Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "b448125abf6c8bc5",
+   "tittel": "Finansdepartementets rundskriv",
+   "lenke": "https://www.regjeringen.no/no/dokument/dep/fin/rundskriv/id446186/",
+   "ingress": "Rundskriv fra Finansdepartementet er likelydende skriv til departementene innen statlig økonomistyring. De kan inneholde både direktiver, fullmakter eller rent orienterende stoff.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-25T08:07:37Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "EU og EØS"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "d330731bf81b26c2",
+   "tittel": "Høring - Forslag til endringer i vinmonopolloven - innføring av generalforsamling, opphevelse av bedriftsforsamling mv.",
+   "lenke": "https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-vinmonopolloven-innforing-av-generalforsamling-opphevelse-av-bedriftsforsamling-mv.ny-side/id3194760/",
+   "ingress": "Helse- og omsorgsdepartementet sender med dette på høring forslag til endringer i lov 19. juni 1931 nr. 18 om Aktieselskapet Vinmonopolet (vinmonopolloven).",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Høring",
+   "dato": "2026-11-25T07:50:45Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Markedsmakt og konkurranse"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "9b731858a6f95cc9",
+   "tittel": "Arbeidsledigheten på 4,7 prosent",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen/artikler/arbeidsledigheten-pa-4-7-prosent",
+   "ingress": "De arbeidsledige utgjorde 4,7 prosent av arbeidsstyrken i oktober, opp 0,1 prosentpoeng fra forrige måned.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Arbeid og trygd"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "47dbd7c8d11f8776",
+   "tittel": "Naturregnskapet: Slik leser du tallene",
+   "lenke": "https://www.ssb.no/natur-og-miljo/naturregnskap/statistikk/naturregnskap/artikler/naturregnskapet-slik-leser-du-tallene",
+   "ingress": "Norges nasjonale naturregnskap gir et felles tallgrunnlag for hvor mye natur vi har, hvilken tilstand den er i og hva naturen bidrar med til samfunnet, fra tømmer og avlinger til flomdemping, temperaturregulering og naturbasert rekreasjon. Her forklarer vi hva regnskapet består av, og hva du bør …",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "tall"
+  },
+  {
+   "id": "8faa251e5d51b59d",
+   "tittel": "Nasjonalt naturregnskap",
+   "lenke": "https://www.ssb.no/natur-og-miljo/naturregnskap/artikler/metodenotat-om-nasjonalt-naturregnskap",
+   "ingress": "Dette notatet dokumenterer metodene, modellene og datakildene som er brukt i Norges første nasjonale naturregnskap, med referanseår 2024.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
+  {
+   "id": "131b183bef4068a2",
+   "tittel": "Når naturen telles",
+   "lenke": "https://www.ssb.no/natur-og-miljo/naturregnskap/artikler/nar-naturen-telles",
+   "ingress": "Denne rapporten setter tallene i naturregnskapet i sammenheng, beskriver hva de fanger opp og ikke fanger opp, og peker på begrensninger i datagrunnlag og metoder som har betydning for tolkningen.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
+  {
+   "id": "a482267a56b58e4e",
+   "tittel": "Naturen kan dekke over 50 prosent av behovet for flomdemping",
+   "lenke": "https://www.ssb.no/natur-og-miljo/naturregnskap/statistikk/naturregnskap/artikler/naturen-kan-dekke-over-50-prosent-av-behovet-for-flomdemping",
+   "ingress": "I Norge ligger nesten 300 000 hektar bebyggelse og jordbruksmark i flomutsatte områder. Skog og annen natur som holder på regnvann, har potensial til å dekke over halvparten av behovet for flomdemping, viser tall fra Norges første nasjonale naturregnskap.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "tall"
+  },
+  {
+   "id": "2001c53bc94c1cda",
+   "tittel": "Ressursbruk til forskning i helseforetakene i 2025",
+   "lenke": "https://www.ssb.no/teknologi-og-innovasjon/forskning-og-innovasjon-i-naeringslivet/artikler/ressursbruk-til-forskning-i-helseforetakene-i-2025",
+   "ingress": "I denne rapporten sammenfatter vi hovedresultater fra målingen av ressursbruk til forskning og utviklingsarbeid (FoU) i 2025 for helseforetak og private, ideelle sykehus, dvs. spesialisthelsetjenesten. Rapporten dokumenterer også hvordan ressursmålingen er lagt opp og gjennomført.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
+  {
+   "id": "98b8e970a0306a87",
+   "tittel": "Arbeidskraftundersøkelsen",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen",
+   "ingress": "Arbeidskraftundersøkelsen viser hvor stor andel av befolkningen som er sysselsatte og arbeidsledige",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Arbeid og trygd"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "d81a9099b7af524e",
+   "tittel": "Antall arbeidsforhold og lønn",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn",
+   "ingress": "Formålet med statistikken er å belyse endringer i antall arbeidsforhold, antall lønnstakere og lønnsnivå",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Arbeid og trygd"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "a7217d17153afcf7",
+   "tittel": "Naturregnskap",
+   "lenke": "https://www.ssb.no/natur-og-miljo/naturregnskap/statistikk/naturregnskap",
+   "ingress": "Statistikken gir informasjon om økosystemers utbredelse, tilstand og økosystemtjenester",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "tall"
+  },
+  {
+   "id": "dd5eb8ccfd1be9f0",
+   "tittel": "Produsentprisindekser for tjenester",
+   "lenke": "https://www.ssb.no/priser-og-prisindekser/produsent-og-engrosprisindekser/statistikk/produsentprisindekser-for-tjenester",
+   "ingress": "Statistikken viser prisendringer på tjenester i ulike næringer.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-25T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "tall"
+  },
+  {
+   "id": "2453fae4fca7d3e8",
+   "tittel": "FrP vil ha billigere mat, strøm og drivstoff",
+   "lenke": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yb3d4WE9ZMVFtTnFtU0R3X2pkMHNyR1hsN0VfS0Nkek90SFVrVzNrVFZYd21ndDhNNVZ1dkdycFhCdDB3SzhVdE14U0Zqbk9QVXBULVpyZnVCZURKbEFJcFlmRU1EVG1kcDBVNGpqUThLY3BFbzhZQVpR?oc=5",
+   "ingress": "",
+   "kilde": "FrP",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-25T06:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [
+    "Energi og strøm"
+   ],
+   "spor": "lopende"
+  },
+  {
+   "id": "194d264399db3a07",
+   "tittel": "Dokument 8:62 S (2026-2027) (Midlertidig)",
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-062s/",
+   "ingress": "Representantforslag fra stortingsrepresentantene Kjersti Toppe og Ida Lindtveit Røse om ei særlov om Vanvikansaka",
+   "kilde": "Stortinget – representantforslag",
+   "kategori": "Storting",
+   "type": "",
+   "dato": "2026-11-25T00:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "48f3746cbe552a52",
+   "tittel": "Dokument 8:63 S (2026-2027) (Midlertidig)",
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-063s/",
+   "ingress": "Representantforslag fra stortingsrepresentantene Kjersti Toppe og Geir Pollestad om styrket vern, tydeligere ansvar og én vei inn for pårørende",
+   "kilde": "Stortinget – representantforslag",
+   "kategori": "Storting",
+   "type": "",
+   "dato": "2026-11-25T00:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "9711d481e5e622be",
+   "tittel": "Dokument 8:61 S (2026-2027) (Midlertidig)",
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-061s/",
+   "ingress": "Representantforslag fra stortingsrepresentantene Mari Holm Lønseth, Mahmoud Farahmand, Tone Wilhelmsen Trøen og Margret Hagerup om å beskytte ofrene for vold i nære relasjoner",
+   "kilde": "Stortinget – representantforslag",
+   "kategori": "Storting",
+   "type": "",
+   "dato": "2026-11-25T00:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "911939eea24ed2f9",
+   "tittel": "Innst. 61 S (2026-2027) (Midlertidig)",
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-061s/",
+   "ingress": "Innstilling fra kontroll- og konstitusjonskomiteen om Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet",
+   "kilde": "Stortinget – innstillinger",
+   "kategori": "Storting",
+   "type": "",
+   "dato": "2026-11-25T00:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "affb1afd2fa54e43",
+   "tittel": "Lovvedtak om endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet)",
+   "lenke": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2026-2027/vedtak-202627-002/",
+   "ingress": "Vedtak til lov om endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet)",
+   "kilde": "Stortinget – lovvedtak",
+   "kategori": "Storting",
+   "type": "Lovvedtak 2",
+   "dato": "2026-11-25T00:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-25T12:47:29Z",
+   "dokument": "Lovvedtak 2 (2026-2027)",
+   "temaer": [
+    "EU og EØS"
+   ],
+   "spor": "lopende"
+  },
   {
    "id": "a9d193738e851c69",
    "tittel": "Tildelingsbrev, årsrapporter og instrukser - Utenriksdepartementet",
@@ -8454,20 +9078,6 @@
     "Arbeid og trygd"
    ],
    "spor": "lopende"
-  },
-  {
-   "id": "33c1a9044eed8ead",
-   "tittel": "Ekte utfordring",
-   "lenke": "https://skaperkraft.no/ekte-utfordring/",
-   "ingress": "De første reaksjonene på offentlige utspill er alltid interessante. Som denne uken da paven Leo XIV leverte en grundig refleksjon om behovet for etisk tenkning rundt kunstig intelligens. Selv om budskapet kom i en 245 punkters encyklika (pluss 224 fotnoter), Magnifica humanitas: On Safeguarding the …",
-   "kilde": "Skaperkraft",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-05-29T06:30:00Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
   }
  ],
  "kalender": [
@@ -8543,6 +9153,12 @@
    "dato": "2026-12-01",
    "tittel": "Olje- og gassutvinning og utvinningstjenester, Tall for 2025",
    "lenke": "https://www.ssb.no/energi-og-industri/olje-og-gass/statistikk/olje-og-gassutvinning-og-utvinningstjenester",
+   "temaer": []
+  },
+  {
+   "dato": "2026-12-02",
+   "tittel": "Eksport av laks, Tall for uke 48 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
    "temaer": []
   },
   {
@@ -8667,6 +9283,12 @@
   },
   {
    "dato": "2026-12-09",
+   "tittel": "Eksport av laks, Tall for uke 49 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
+   "temaer": []
+  },
+  {
+   "dato": "2026-12-09",
    "tittel": "Prisindeks for førstegangsomsetning innenlands, Tall for november 2026",
    "lenke": "https://www.ssb.no/priser-og-prisindekser/produsent-og-engrosprisindekser/statistikk/prisindeks-for-forstegangsomsetning-innenlands",
    "temaer": []
@@ -8779,6 +9401,12 @@
   },
   {
    "dato": "2026-12-16",
+   "tittel": "Eksport av laks, Tall for uke 50 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
+   "temaer": []
+  },
+  {
+   "dato": "2026-12-16",
    "tittel": "Aktivitet i sentrumssoner, Tall for 2026",
    "lenke": "https://www.ssb.no/natur-og-miljo/areal/statistikk/aktivitet-i-sentrumssoner",
    "temaer": []
@@ -8855,11 +9483,31 @@
   },
   {
    "dato": "2026-12-22",
+   "tittel": "Arbeidskraftundersøkelsen , Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen",
+   "temaer": []
+  },
+  {
+   "dato": "2026-12-22",
+   "tittel": "Antall arbeidsforhold og lønn, Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn",
+   "temaer": [
+    "Arbeid og trygd"
+   ]
+  },
+  {
+   "dato": "2026-12-22",
    "tittel": "Skatt for personer, Tall for 2025",
    "lenke": "https://www.ssb.no/inntekt-og-forbruk/skatt-for-personer/statistikk/skatt-for-personer",
    "temaer": [
     "Skatt"
    ]
+  },
+  {
+   "dato": "2026-12-23",
+   "tittel": "Eksport av laks, Tall for uke 51 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
+   "temaer": []
   },
   {
    "dato": "2026-12-23",

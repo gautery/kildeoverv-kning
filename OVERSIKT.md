@@ -1,9 +1,11 @@
 # Kildeovervåkning
 
-_Sist oppdatert 25.11.2026 kl. 04:02. Viser de siste 14 dagene (205 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 25.11.2026 kl. 13:48. Viser de siste 14 dagene (238 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
+- **[Påminnelse: To nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19151698/paminnelse-to-nye-rapporter-om-eldrebolgen?lang=no)** – Riksrevisjonen, 25.11
+- **[NOU 2026: 15 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi](https://www.regjeringen.no/no/dokumenter/nou-2026-15/id3194640/)** – NOU, 25.11
 - **[God oppfølging av statlige eierselskap](https://kommunikasjon.ntb.no/pressemelding/19151748/god-oppfolging-av-statlige-eierselskap?lang=no)** – Riksrevisjonen, 24.11
 - **[Riksrevisjonen legger frem to nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19147828/riksrevisjonen-legger-frem-to-nye-rapporter-om-eldrebolgen?lang=no)** – Riksrevisjonen, 23.11
 
@@ -14,10 +16,56 @@ _Sist oppdatert 25.11.2026 kl. 04:02. Viser de siste 14 dagene (205 saker). ★ 
 - **15.12** – [Elektrisitet, Tall for november 2026](https://www.ssb.no/energi-og-industri/energi/statistikk/elektrisitet) · _Energi og strøm_
 - **17.12** – [Skatterekneskap, Tall for november 2026](https://www.ssb.no/offentlig-sektor/skatteregnskap/statistikk/skatterekneskap) · _Skatt_
 - **21.12** – [Grunnlag for arbeidsgiveravgift, Tall for november 2026](https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift) · _Skatt_
+- **22.12** – [Antall arbeidsforhold og lønn, Tall for november 2026](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn) · _Arbeid og trygd_
 - **22.12** – [Skatt for personer, Tall for 2025](https://www.ssb.no/inntekt-og-forbruk/skatt-for-personer/statistikk/skatt-for-personer) · _Skatt_
 
 ## Alt nytt, dag for dag
 
+
+### Onsdag 25. november
+
+- [Enighet om budsjett](https://www.arbeiderpartiet.no/aktuelt/enighet-om-budsjett/) — Arbeiderpartiet · _Offentlige finanser_
+- [Senterpartiet sikrar eit budsjett for heile landet](https://www.senterpartiet.no/aktuelt/senterpartiet-sikrar-eit-budsjett-for-heile-landet) — Senterpartiet · _Offentlige finanser_
+- ★ [Påminnelse: To nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19151698/paminnelse-to-nye-rapporter-om-eldrebolgen?lang=no) — Riksrevisjonen · Riksrevisjonen
+- [TBU-seminarer](https://www.regjeringen.no/no/dep/kdd/org/styrer-rad-og-utvalg/teknisk-beregningsutvalg-for-kommunal-og/seminarer/id630248/) — Regjeringen
+- [TBU-rapporter](https://www.regjeringen.no/no/dep/kdd/org/styrer-rad-og-utvalg/teknisk-beregningsutvalg-for-kommunal-og/tidligere-rapporter/id572333/) — Regjeringen
+- [Sp sikra stor kulturpakke](https://www.senterpartiet.no/aktuelt/sp-sikra-stor-kulturpakke-i-budsjettavtalen) — Senterpartiet
+- [– Dette er ikke trygg styring](https://hoyre.no/2026/11/25/dette-er-ikke-trygg-styring/) — Høyre
+- [Høring - Endringer i regelverket om samordning av offentlig tjenestepensjon med folketrygdens etterlatteytelser](https://www.regjeringen.no/no/dokumenter/horing-endringer-i-regelverket-om-samordning-av-offentlig-tjenestepensjon-med-folketrygdens-etterlatteytelser/id3194621/) — Regjeringen · Høring · _Arbeid og trygd_
+- [Senterpartiet sikrer bygging av Ofotbanen i 2027](https://www.senterpartiet.no/aktuelt/senterpartiet-sikrer-bygging-av-ofotbanen-i-2027) — Senterpartiet
+- [Senterpartiet sikrer stipendstøtte til folkehøgskoleelever](https://www.senterpartiet.no/aktuelt/senterpartiet-sikrer-stipendstotte-til-folkehogskoleelever) — Senterpartiet
+- [CO2-avgiften for fiskeri fjernes](https://www.senterpartiet.no/aktuelt/co2-avgiften-for-fiskeri-fjernes) — Senterpartiet · _Skatt_
+- [Posten skal fortsatt fram](https://www.senterpartiet.no/aktuelt/posten-skal-fortsatt-fram) — Senterpartiet
+- [Senterpartiet med milliardpakke til bygg og anlegg og drivstoffgjennomslag](https://www.senterpartiet.no/aktuelt/senterpartiet-med-milliardpakke-til-bygg-og-anlegg-og-drivstoffgjennomslag) — Senterpartiet
+- [Sp med pumpegjennomslag: Største dieselavgiftskutt noensinne](https://www.senterpartiet.no/aktuelt/sp-med-pumpegjennomslag-storste-dieselavgiftskutt-noensinne) — Senterpartiet · _Skatt_
+- [Rapport: Råd for mer bærekraftig fôr](https://www.regjeringen.no/no/aktuelt/rad-for-mer-barekraftig-for/id3194825/) — Regjeringen
+- [SV er enige om statsbudsjettet](https://www.sv.no/blog/2026/11/25/statsbudsjettet2027/) — SV · _Offentlige finanser, Bolig_
+- [Rapport om kapitalkrav i Norden og Baltikum](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/rapport-om-kapitalkrav-i-norden-og-baltikum/) — Finanstilsynet
+- [Bruk av fleksibilitetskvotene i utlånsforskriften i tredje kvartal 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/bruk-av-fleksibilitetskvotene-i-utlansforskriften-i-tredje-kvartal-2026/) — Finanstilsynet · _Bolig_
+- [Fire trafikkskoler får milliongebyr for ulovlig prissamarbeid](https://konkurransetilsynet.no/fire-trafikkskoler-far-milliongebyr-for-ulovlig-prissamarbeid/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
+- [Staten satser på KI-opplæring](https://www.regjeringen.no/no/aktuelt/staten-satser-pa-ki-opplaring/id3194807/) — Regjeringen
+- [Fylkesnytt fra Troms og Finnmark 2/2026](https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-troms-og-finnmark-22026/id3194387/) — Regjeringen
+- ★ [NOU 2026: 15 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi](https://www.regjeringen.no/no/dokumenter/nou-2026-15/id3194640/) — Regjeringen · NOU · _Offentlige finanser_
+- [Kraftsystemet forvitrer ikke](https://www.regjeringen.no/no/aktuelt/kraftsystemet-forvitrer-ikke/id3194800/) — Regjeringen · _Energi og strøm_
+- [Oversikt over Finansdepartementets rundskriv](https://www.regjeringen.no/no/dokument/dep/fin/rundskriv/arkiv/id446220/) — Regjeringen
+- [Finansdepartementets rundskriv](https://www.regjeringen.no/no/dokument/dep/fin/rundskriv/id446186/) — Regjeringen · _EU og EØS_
+- [Høring - Forslag til endringer i vinmonopolloven - innføring av generalforsamling, opphevelse av bedriftsforsamling mv.](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-vinmonopolloven-innforing-av-generalforsamling-opphevelse-av-bedriftsforsamling-mv.ny-side/id3194760/) — Regjeringen · Høring · _Markedsmakt og konkurranse_
+- [Arbeidsledigheten på 4,7 prosent](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen/artikler/arbeidsledigheten-pa-4-7-prosent) — SSB · _Arbeid og trygd_
+- [Naturregnskapet: Slik leser du tallene](https://www.ssb.no/natur-og-miljo/naturregnskap/statistikk/naturregnskap/artikler/naturregnskapet-slik-leser-du-tallene) — SSB
+- [Nasjonalt naturregnskap](https://www.ssb.no/natur-og-miljo/naturregnskap/artikler/metodenotat-om-nasjonalt-naturregnskap) — SSB
+- [Når naturen telles](https://www.ssb.no/natur-og-miljo/naturregnskap/artikler/nar-naturen-telles) — SSB
+- [Naturen kan dekke over 50 prosent av behovet for flomdemping](https://www.ssb.no/natur-og-miljo/naturregnskap/statistikk/naturregnskap/artikler/naturen-kan-dekke-over-50-prosent-av-behovet-for-flomdemping) — SSB
+- [Ressursbruk til forskning i helseforetakene i 2025](https://www.ssb.no/teknologi-og-innovasjon/forskning-og-innovasjon-i-naeringslivet/artikler/ressursbruk-til-forskning-i-helseforetakene-i-2025) — SSB
+- [Arbeidskraftundersøkelsen](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen) — SSB · _Arbeid og trygd_
+- [Antall arbeidsforhold og lønn](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn) — SSB · _Arbeid og trygd_
+- [Naturregnskap](https://www.ssb.no/natur-og-miljo/naturregnskap/statistikk/naturregnskap) — SSB
+- [Produsentprisindekser for tjenester](https://www.ssb.no/priser-og-prisindekser/produsent-og-engrosprisindekser/statistikk/produsentprisindekser-for-tjenester) — SSB
+- [FrP vil ha billigere mat, strøm og drivstoff](https://news.google.com/rss/articles/CBMiekFVX3lxTE5yb3d4WE9ZMVFtTnFtU0R3X2pkMHNyR1hsN0VfS0Nkek90SFVrVzNrVFZYd21ndDhNNVZ1dkdycFhCdDB3SzhVdE14U0Zqbk9QVXBULVpyZnVCZURKbEFJcFlmRU1EVG1kcDBVNGpqUThLY3BFbzhZQVpR?oc=5) — FrP · _Energi og strøm_
+- [Dokument 8:62 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-062s/) — Stortinget – representantforslag
+- [Dokument 8:63 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-063s/) — Stortinget – representantforslag
+- [Dokument 8:61 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-061s/) — Stortinget – representantforslag
+- [Innst. 61 S (2026-2027) (Midlertidig)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-061s/) — Stortinget – innstillinger
+- [Lovvedtak om endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet)](https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2026-2027/vedtak-202627-002/) — Stortinget – lovvedtak · Lovvedtak 2 · _EU og EØS_
 
 ### Tirsdag 24. november
 
@@ -253,15 +301,6 @@ _Sist oppdatert 25.11.2026 kl. 04:02. Viser de siste 14 dagene (205 saker). ★ 
 ### Onsdag 11. november
 
 - [Konferanse: Trygge lokalsamfunn i ei utrygg tid](https://www.sv.no/blog/2026/11/11/trygge-lokalsamfunn-i-ei-utrygg-tid/) — SV · _EU og EØS_
-- [Nettrapport 2026-2 Finansiell stabilitet](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/nettrapport-2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
-- [Nasjonal kontroll over mineraler er vesentlig](https://www.senterpartiet.no/aktuelt/nasjonal-kontroll-over-mineraler-er-vesentlig) — Senterpartiet
-- [Kartlegging av organisasjonsmodell i fagforeninger](https://www.fafo.no/publikasjoner/fafo-notater/kartlegging-av-organisasjonsmodeller) — Fafo
-- [Regjeringen bør snu om datasentre](https://www.langsikt.no/publikasjoner/regjeringen-bor-snu-om-datasentre) — Langsikt
-- [Senterpartiet vil ha strømstøtte til næringslivet](https://www.senterpartiet.no/aktuelt/senterpartiet-vil-ha-stromstotte-til-naeringslivet) — Senterpartiet · _Energi og strøm_
-- [FrP vil reforhandle Parisavtalen: – Europa utkonkurrerer seg selv](https://news.google.com/rss/articles/CBMia0FVX3lxTFBoQm9rN01MclBCSlJ3ZFpib2YwMU03dW1MZzNaZmVEQnVIOXFEUWlsTGlRNkVmNGhvcTRGMXd4WDdDWnQ1elVwbWdpNEU5YTBZdlR2MjJKSlJKdUsyLVNmS0ZOWW9sMVVhU0FB?oc=5) — FrP
-- [Motsyklisk kapitalbuffer for banker holdes uendret på 2,5 prosent](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/motsyklisk-kapitalbuffer-for-banker-fjerde-kvartal-2026/) — Finanstilsynet
-- [Økt risiko for alvorlige hendelser som kan svekke finansiell stabilitet](https://www.norges-bank.no/aktuelt/nyheter/Pressemeldinger/2026/2026-11-11-fs2/) — Norges Bank – pressemeldinger
-- [Finansiell stabilitet 2026 - 2. halvår](https://www.norges-bank.no/aktuelt/publikasjoner/Finansiell-stabilitet---rapport/2026-2-finansiell-stabilitet/) — Norges Bank – Finansiell stabilitet
 
 ## Status for kildene
 
