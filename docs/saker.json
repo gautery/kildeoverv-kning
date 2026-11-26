@@ -1,7 +1,35 @@
 {
- "oppdatert": "2026-11-25T22:28:48Z",
+ "oppdatert": "2026-11-26T04:59:30Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "99e99295eeeb2533",
+   "tittel": "Ny rapport: Reelt eierskap i Norge",
+   "lenke": "https://taxjustice.no/artikkel/ny-rapport-reelt-eierskap-i-norge-2",
+   "ingress": "Ny analyse av registeret over reelle rettighetshavere.",
+   "kilde": "Tax Justice Norge",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-26T04:59:30Z",
+   "viktig": false,
+   "funnet": "2026-11-26T04:59:30Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
+  {
+   "id": "efb9c71250c1f05e",
+   "tittel": "Rapport: Reelt eierskap i Norge",
+   "lenke": "https://taxjustice.no/artikkel/ny-rapport-reelt-eierskap-i-norge",
+   "ingress": "Ny analyse av registeret over reelle rettighetshavere.",
+   "kilde": "Tax Justice Norge",
+   "kategori": "Tenketank",
+   "type": "",
+   "dato": "2026-11-26T04:59:30Z",
+   "viktig": false,
+   "funnet": "2026-11-26T04:59:30Z",
+   "temaer": [],
+   "spor": "rapporter"
+  },
   {
    "id": "9abb88a574c46f84",
    "tittel": "No får du snart melding om at du kan sjekke medlemskap i trus- og livssynssamfunn",
@@ -9160,42 +9188,6 @@
  ],
  "kalender": [
   {
-   "dato": "2026-11-26",
-   "tittel": "Banker og kredittforetak, Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/banker-og-kredittforetak",
-   "temaer": []
-  },
-  {
-   "dato": "2026-11-26",
-   "tittel": "Produksjonsindeks for bygge- og anleggsvirksomhet , Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/bygg-bolig-og-eiendom/bygg-og-anlegg/statistikk/produksjonsindeks-for-bygge-og-anleggsvirksomhet",
-   "temaer": []
-  },
-  {
-   "dato": "2026-11-26",
-   "tittel": "Sykefravær, Tall for 3. kvartal 2026",
-   "lenke": "https://www.ssb.no/arbeid-og-lonn/arbeidsmiljo-sykefravaer-og-arbeidskonflikter/statistikk/sykefravaer",
-   "temaer": []
-  },
-  {
-   "dato": "2026-11-26",
-   "tittel": "Nasjonalregnskap, Tall for juli 2026",
-   "lenke": "https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap",
-   "temaer": []
-  },
-  {
-   "dato": "2026-11-26",
-   "tittel": "Reiseundersøkelsen, Tall for 3. kvartal 2026",
-   "lenke": "https://www.ssb.no/transport-og-reiseliv/reiseliv/statistikk/reiseundersokelsen",
-   "temaer": []
-  },
-  {
-   "dato": "2026-11-26",
-   "tittel": "Sjøfiske etter laks og sjøaure, Tall for 2026",
-   "lenke": "https://www.ssb.no/jord-skog-jakt-og-fiskeri/fiske-og-fangst/statistikk/sjofiske-etter-laks-og-sjoaure",
-   "temaer": []
-  },
-  {
    "dato": "2026-11-27",
    "tittel": "Renter i banker og kredittforetak, Tall for oktober 2026",
    "lenke": "https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak",
@@ -9455,14 +9447,14 @@
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Utenrikshandel med varer, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
+   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
+   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
    "temaer": []
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
-   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
+   "tittel": "Utenrikshandel med varer, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
    "temaer": []
   },
   {
@@ -9529,11 +9521,9 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
-   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
-   "temaer": [
-    "Skatt"
-   ]
+   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
+   "temaer": []
   },
   {
    "dato": "2026-12-21",
@@ -9543,9 +9533,11 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
-   "temaer": []
+   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
+   "temaer": [
+    "Skatt"
+   ]
   },
   {
    "dato": "2026-12-21",

@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 25.11.2026 kl. 23:29. Viser de siste 14 dagene (242 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 26.11.2026 kl. 06:00. Viser de siste 14 dagene (237 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -21,6 +21,11 @@ _Sist oppdatert 25.11.2026 kl. 23:29. Viser de siste 14 dagene (242 saker). ★ 
 
 ## Alt nytt, dag for dag
 
+
+### Torsdag 26. november
+
+- [Ny rapport: Reelt eierskap i Norge](https://taxjustice.no/artikkel/ny-rapport-reelt-eierskap-i-norge-2) — Tax Justice Norge
+- [Rapport: Reelt eierskap i Norge](https://taxjustice.no/artikkel/ny-rapport-reelt-eierskap-i-norge) — Tax Justice Norge
 
 ### Onsdag 25. november
 
@@ -295,13 +300,6 @@ _Sist oppdatert 25.11.2026 kl. 23:29. Viser de siste 14 dagene (242 saker). ★ 
 
 - [Arbeidskraft og regnekraft](https://www.fafo.no/publikasjoner/fafo-rapporter/arbeidskraft-og-regnekraft) — Fafo
 - [Bedrifter frykter negativ omtale og overtredelsesgebyr](https://konkurransetilsynet.no/bedrifter-frykter-negativ-omtale-og-overtredelsesgebyr/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
-- [Representantforslag om å senke terskelen for fengsling av farlige ungdommer](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-044s/) — Stortinget – representantforslag · Dokument 8:44 S
-- [Representantforslag om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-043s/) — Stortinget – representantforslag · Dokument 8:43 S
-- [Representantforslag om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-045s/) — Stortinget – representantforslag · Dokument 8:45 S · _Markedsmakt og konkurranse_
-- [Representantforslag om en slankere og mer effektiv stat](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2026-2027/dok8-202627-042s/) — Stortinget – representantforslag · Dokument 8:42 S
-- [Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-036s/) — Stortinget – innstillinger · Innst. 36 S
-- [Representantforslag om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200476) — Stortinget – høringer i komiteene
-- [Representantforslag om stemmerett ved kommune- og fylkestingsvalg](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200456) — Stortinget – høringer i komiteene
 
 ## Status for kildene
 
