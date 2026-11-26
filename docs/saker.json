@@ -1,7 +1,23 @@
 {
- "oppdatert": "2026-11-26T15:09:10Z",
+ "oppdatert": "2026-11-26T23:48:52Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "66cfa75ece63607e",
+   "tittel": "Viktig gjennomslag for norsk vannkraft",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/viktig-gjennomslag-for-norsk-vannkraft/id3195036/",
+   "ingress": "EU-kommisjonen har nå vedtatt endringer som kan gjøre det enklere å finansiere ren, norsk vannkraft.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-26T16:59:52Z",
+   "viktig": false,
+   "funnet": "2026-11-26T23:48:52Z",
+   "temaer": [
+    "EU og EØS"
+   ],
+   "spor": "lopende"
+  },
   {
    "id": "f3c7761e1645d2cd",
    "tittel": "Beskyttet: – Foreldrenes jobb å lære barna folkeskikk",
@@ -9975,14 +9991,14 @@
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
-   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
+   "tittel": "Utenrikshandel med varer, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
    "temaer": []
   },
   {
    "dato": "2026-12-15",
-   "tittel": "Utenrikshandel med varer, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/utenrikshandel-med-varer",
+   "tittel": "Byggekostnadsindeks for røyrleggjararbeid i kontor- og forretningsbygg, Tall for november 2026",
+   "lenke": "https://www.ssb.no/priser-og-prisindekser/byggekostnadsindekser/statistikk/byggjekostnadsindeks-for-royrleggjararbeid-i-kontor-og-forretningsbygg",
    "temaer": []
   },
   {
@@ -10049,9 +10065,11 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
-   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
-   "temaer": []
+   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
+   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
+   "temaer": [
+    "Skatt"
+   ]
   },
   {
    "dato": "2026-12-21",
@@ -10061,11 +10079,9 @@
   },
   {
    "dato": "2026-12-21",
-   "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
-   "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
-   "temaer": [
-    "Skatt"
-   ]
+   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
+   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
+   "temaer": []
   },
   {
    "dato": "2026-12-21",

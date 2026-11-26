@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 26.11.2026 kl. 16:09. Viser de siste 14 dagene (271 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 27.11.2026 kl. 00:49. Viser de siste 14 dagene (272 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -25,6 +25,7 @@ _Sist oppdatert 26.11.2026 kl. 16:09. Viser de siste 14 dagene (271 saker). ★ 
 
 ### Torsdag 26. november
 
+- [Viktig gjennomslag for norsk vannkraft](https://www.regjeringen.no/no/aktuelt/viktig-gjennomslag-for-norsk-vannkraft/id3195036/) — Regjeringen · _EU og EØS_
 - [Beskyttet: – Foreldrenes jobb å lære barna folkeskikk](https://hoyre.no/2026/11/26/foreldrenes-jobb-a-laere-barna-folkeskikk/) — Høyre
 - [Tettere nordisk samarbeid om kvanteteknologi](https://www.regjeringen.no/no/aktuelt/tettere-nordisk-samarbeid-om-kvanteteknologi/id3194946/) — Regjeringen
 - [Statsbudsjettet 2027: Hva skjer etter at statsbudsjettet er lagt frem?](https://www.regjeringen.no/no/statsbudsjett/2027/statsbudsjettet-2027-hva-skjer-etter-at-statsbudsjettet-er-lagt-frem/id3195010/) — Regjeringen · _Offentlige finanser_
