@@ -1,9 +1,10 @@
 # Kildeovervåkning
 
-_Sist oppdatert 26.11.2026 kl. 06:00. Viser de siste 14 dagene (237 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 26.11.2026 kl. 16:09. Viser de siste 14 dagene (271 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
+- **[Eldrebølgen er her nå, bør alarmen gå?](https://kommunikasjon.ntb.no/pressemelding/19154909/eldrebolgen-er-her-na-bor-alarmen-ga?lang=no)** – Riksrevisjonen, 26.11
 - **[Påminnelse: To nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19151698/paminnelse-to-nye-rapporter-om-eldrebolgen?lang=no)** – Riksrevisjonen, 25.11
 - **[NOU 2026: 15 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi](https://www.regjeringen.no/no/dokumenter/nou-2026-15/id3194640/)** – NOU, 25.11
 - **[God oppfølging av statlige eierselskap](https://kommunikasjon.ntb.no/pressemelding/19151748/god-oppfolging-av-statlige-eierselskap?lang=no)** – Riksrevisjonen, 24.11
@@ -24,6 +25,42 @@ _Sist oppdatert 26.11.2026 kl. 06:00. Viser de siste 14 dagene (237 saker). ★ 
 
 ### Torsdag 26. november
 
+- [Beskyttet: – Foreldrenes jobb å lære barna folkeskikk](https://hoyre.no/2026/11/26/foreldrenes-jobb-a-laere-barna-folkeskikk/) — Høyre
+- [Tettere nordisk samarbeid om kvanteteknologi](https://www.regjeringen.no/no/aktuelt/tettere-nordisk-samarbeid-om-kvanteteknologi/id3194946/) — Regjeringen
+- [Statsbudsjettet 2027: Hva skjer etter at statsbudsjettet er lagt frem?](https://www.regjeringen.no/no/statsbudsjett/2027/statsbudsjettet-2027-hva-skjer-etter-at-statsbudsjettet-er-lagt-frem/id3195010/) — Regjeringen · _Offentlige finanser_
+- [Lokalmat og -drikke setter ny rekord](https://www.regjeringen.no/no/aktuelt/lokalmat-og-drikke-setter-ny-rekord/id3194992/) — Regjeringen
+- [3,9 millioner kroner til overgrepsmottakene](https://www.senterpartiet.no/aktuelt/3-9-millioner-kroner-til-overgrepsmottakene) — Senterpartiet
+- [Gratis halvdagspass på skolefritidsordningen på Svalbard](https://www.senterpartiet.no/aktuelt/gratis-halvdagspass-pa-skolefritidsordningen-pa-svalbard) — Senterpartiet
+- [Kutt i renteutgifter, ikke ambulanser og helsearbeidere](https://www.senterpartiet.no/aktuelt/kutt-i-renteutgifter-ikke-ambulanser-og-helsearbeidere) — Senterpartiet
+- [To embetsdommere ved alle tingretter](https://www.senterpartiet.no/aktuelt/to-embetsdommere-ved-alle-tingretter) — Senterpartiet
+- [Styrka satsing på norsk skogbruk](https://www.senterpartiet.no/aktuelt/styrka-satsing-pa-norsk-skogbruk) — Senterpartiet
+- [Tematilsyn – Gir børsnoterte foretak god nok segmentinformasjon i sine regnskaper?](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/tematilsyn--gir-borsnoterte-foretak-god-nok-segmentinformasjon-i-sine-regnskaper/) — Finanstilsynet
+- [Nærbutikkene styrkes](https://www.senterpartiet.no/aktuelt/naerbutikkene-styrkes) — Senterpartiet
+- [Sp med gjennomslag for jakt og skytesport: Nuller ut alle økninger](https://www.senterpartiet.no/aktuelt/sp-med-gjennomslag-for-jakt) — Senterpartiet
+- [Tale ved Felleskonferansen for yrkesfag](https://www.regjeringen.no/no/aktuelt/tale-ved-felleskonferansen-for-yrkesfag/id3194983/) — Regjeringen
+- [Høring – forslag til endringer i plan- og bygningslovgivningen om regulering av korttidsutleie](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-plan-og-bygningslovgivningen-om-regulering-av-korttidsutleie/id3194550/) — Regjeringen · Høring · _Bolig_
+- [Venstre med på enighet om helsepersonellplan](https://www.venstre.no/artikkel/2026/11/26/venstre-med-pa-enighet-om-helsepersonellplan/) — Venstre
+- [Heltid som norm? Bemanning, arbeidstid og veier til større stillinger](https://www.fafo.no/publikasjoner/fafo-rapporter/heltid-som-norm-bemanning-arbeidstid-og-veier-til-storre-stillinger) — Fafo
+- [Flere planer gir ikke mer helsepersonell](https://news.google.com/rss/articles/CBMidkFVX3lxTE1kckRmWW5hbVJ6QlI3OXgwY0cxZTlNdWJFdkVDQmh0NVZpUFUtckNteHVLblkyUUIxTTFJTEsyVEdIYVRtcFd3RWk2ei1LN3plLUNiZUtUQlpXMlNBSGhqdHV3YWViajhydS1BdERteVZDSGUzX1E?oc=5) — FrP
+- [Regjeringen snur etter FrP-advarsel – sparer norske bedrifter for milliarder](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGlZSG4taE1qYUdfbzdIb0hNanI3Qks1M0o1UENRSnhzZTVRUDYxRVZ6SkRPai1HUHlaLU9mR1B0S01lNEhDSGJITk1yOEZ1UVZVTW5tQk9BNmNkMTJJOUJQLXRxUjNtSDF2Y003U1RKNjIyM1diYk02a3NSTm1VLWdUaHhGbGZKRC1FTGgycFJZYlU5OXppeXYtYm0zWTBhSGxR?oc=5) — FrP
+- [Tale ved fagbrevutdeling i Oslo rådhus](https://www.regjeringen.no/no/aktuelt/tale-ved-fagbrevutdeling-i-oslo-radhus/id3194958/) — Regjeringen
+- [Fleire verksemder gjekk frå deltid til heiltidsstillingar, viser ny rapport](https://www.regjeringen.no/no/aktuelt/fleire-verksemder-gjekk-fra-deltid-til-heiltidsstillingar-viser-ny-rapport/id3194884/) — Regjeringen
+- ★ [Eldrebølgen er her nå, bør alarmen gå?](https://kommunikasjon.ntb.no/pressemelding/19154909/eldrebolgen-er-her-na-bor-alarmen-ga?lang=no) — Riksrevisjonen · Riksrevisjonen · _Arbeid og trygd_
+- [Regjeringa godkjenner lærarutdanningspilot på Stord og i Haugesund: Viktig for rekrutteringa til læraryrket](https://www.regjeringen.no/no/aktuelt/regjeringa-godkjenner-lararutdanningspilot-pa-stord-og-i-haugesund-viktig-for-rekrutteringa-til-lararyrket/id3194943/) — Regjeringen
+- [Uendret sykefravær i 3. kvartal](https://www.ssb.no/arbeid-og-lonn/arbeidsmiljo-sykefravaer-og-arbeidskonflikter/statistikk/sykefravaer/artikler/uendret-sykefravaer-i-3.kvartal) — SSB
+- [Fortsatt låg laksefangst i sjøen](https://www.ssb.no/jord-skog-jakt-og-fiskeri/fiske-og-fangst/statistikk/sjofiske-etter-laks-og-sjoaure/artikler/fortsatt-lag-laksefangst-i-sjoen) — SSB
+- [Publisering av tekniske støtteberegninger fra nasjonalregnskapet](https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/artikler/publisering-av-tekniske-stotteberegninger-fra-nasjonalregnskapet) — SSB
+- [Husholdningskonsum i nasjonalregnskapet](https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/artikler/husholdningskonsum-i-nasjonalregnskapet) — SSB
+- [Svak vekst i fastlandsøkonomien](https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap/artikler/svak-vekst-i-fastlandsokonomien) — SSB
+- [Norsk økonomi vokste mer i 2024 enn tidligere beregnet](https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap/artikler/norsk-okonomi-vokste-mer-i-2024-enn-tidligere-beregnet) — SSB
+- [Nordmenn dro på rekordmange feriereiser i 3. kvartal](https://www.ssb.no/transport-og-reiseliv/reiseliv/statistikk/reiseundersokelsen/artikler/nordmenn-dro-pa-rekordmange-feriereiser-i-3.kvartal) — SSB
+- [Sykefravær](https://www.ssb.no/arbeid-og-lonn/arbeidsmiljo-sykefravaer-og-arbeidskonflikter/statistikk/sykefravaer) — SSB · _Arbeid og trygd_
+- [Banker og kredittforetak](https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/banker-og-kredittforetak) — SSB
+- [Produksjonsindeks for bygge- og anleggsvirksomhet](https://www.ssb.no/bygg-bolig-og-eiendom/bygg-og-anlegg/statistikk/produksjonsindeks-for-bygge-og-anleggsvirksomhet) — SSB
+- [Sjøfiske etter laks og sjøaure](https://www.ssb.no/jord-skog-jakt-og-fiskeri/fiske-og-fangst/statistikk/sjofiske-etter-laks-og-sjoaure) — SSB
+- [Nasjonalregnskap](https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap) — SSB
+- [Reiseundersøkelsen](https://www.ssb.no/transport-og-reiseliv/reiseliv/statistikk/reiseundersokelsen) — SSB
+- [Et lønnsomt næringsliv](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03TEFiUkxLNVo3Rl9hNnBQczg5cDVDX1VGbVd1SXZSMG4wSjIwZnNINkx2a29hOThxRURNZHF5ekdFd28ybkl4V094ZUpZdTFRLXhpRklHRzFtQUozemlr?oc=5) — FrP · _Arbeid og trygd_
 - [Ny rapport: Reelt eierskap i Norge](https://taxjustice.no/artikkel/ny-rapport-reelt-eierskap-i-norge-2) — Tax Justice Norge
 - [Rapport: Reelt eierskap i Norge](https://taxjustice.no/artikkel/ny-rapport-reelt-eierskap-i-norge) — Tax Justice Norge
 
@@ -295,11 +332,6 @@ _Sist oppdatert 26.11.2026 kl. 06:00. Viser de siste 14 dagene (237 saker). ★ 
 - [Vil stanse helseforetakenes høye lederlønnsavtaler](https://www.senterpartiet.no/aktuelt/vil-stanse-helseforetakenes-hoye-lederlonnsavtaler) — Senterpartiet · _Arbeid og trygd_
 - [Leverer hele skatteløftet på halve tiden](https://hoyre.no/2026/11/13/leverer-hele-skatteloftet-pa-halve-tiden/) — Høyre · _Skatt_
 - [Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328) — Stortinget – høringer i komiteene
-
-### Torsdag 12. november
-
-- [Arbeidskraft og regnekraft](https://www.fafo.no/publikasjoner/fafo-rapporter/arbeidskraft-og-regnekraft) — Fafo
-- [Bedrifter frykter negativ omtale og overtredelsesgebyr](https://konkurransetilsynet.no/bedrifter-frykter-negativ-omtale-og-overtredelsesgebyr/) — Konkurransetilsynet · _Markedsmakt og konkurranse_
 
 ## Status for kildene
 
