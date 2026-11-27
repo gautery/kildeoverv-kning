@@ -1,7 +1,155 @@
 {
- "oppdatert": "2026-11-26T23:48:52Z",
+ "oppdatert": "2026-11-27T08:22:47Z",
  "utvalgt": [],
  "saker": [
+  {
+   "id": "5308b8338bf5d813",
+   "tittel": "– Foreldrenes jobb å lære barna folkeskikk",
+   "lenke": "https://hoyre.no/2026/11/27/foreldrenes-jobb-a-laere-barna-folkeskikk/",
+   "ingress": "Innlegget – Foreldrenes jobb å lære barna folkeskikk dukket først opp på Høyre .",
+   "kilde": "Høyre",
+   "kategori": "Parti",
+   "type": "",
+   "dato": "2026-11-27T08:21:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "bcaa926cd71f2473",
+   "tittel": "Høring - forslag til endringer i utenrikstjenesteloven",
+   "lenke": "https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-utenrikstjenesteloven/id3195086/",
+   "ingress": "Utenriksdepartementet sender med dette på høring forslag til endringer i lov 13. februar 2015 nr. 9 om utenrikstjenesten (utenrikstjenesteloven) om presesisering av utenriksstasjonens arbeidsgiveransvar for lokalt ansatte på norske utenriksstasjoner.",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Høring",
+   "dato": "2026-11-27T08:17:09Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
+  {
+   "id": "f7528746613afb01",
+   "tittel": "Renteutvikling",
+   "lenke": "https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak/artikler/renteutvikling",
+   "ingress": "Renta på nye boliglån til husholdningene gikk opp i oktober 2026, mens renta på utestående lån var uendret. Innskuddsrenta økte i samme periode. Se utviklingen i boliglånsrenter, innskuddsrenter og utlånsmarginer i Norge.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-27T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [
+    "Bolig"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "4cee87e336b18a99",
+   "tittel": "5,2 millionar reiste med fly i oktober",
+   "lenke": "https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport/artikler/antall-flypassasjerer-ved-norske-flyplasser",
+   "ingress": "I oktober reiste 5,2 millionar passasjerar til eller frå norske flyplassar. Det er 1 prosent fleire enn i same månad året før.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-27T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [],
+   "spor": "tall"
+  },
+  {
+   "id": "e01f1efc53392845",
+   "tittel": "Detaljhandelen noe opp i oktober",
+   "lenke": "https://www.ssb.no/varehandel-og-tjenesteyting/varehandel/statistikk/varehandelsindeksen/artikler/detaljhandelen-noe-opp-i-oktober",
+   "ingress": "Omsetningsvolumet i detaljhandelen økte med 0,5 prosent fra september til oktober, viser sesongjusterte tall. For perioden august til oktober var det en økning på 0,7 prosent sammenlignet med forrige 3-månedersperiode.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-27T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [],
+   "spor": "tall"
+  },
+  {
+   "id": "921bb4c5a0952d95",
+   "tittel": "Renter i banker og kredittforetak",
+   "lenke": "https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak",
+   "ingress": "Statistikken gir oversikt over rentenivået i finansforetakene og fordeling av utlånsrenter på rentebindingstider",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-27T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [
+    "Ulikhet og fordeling"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "6dc022a702037913",
+   "tittel": "Elektrisitetsnæringens økonomiske utvikling",
+   "lenke": "https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak/statistikk/elektrisitetsnaeringens-okonomiske-utvikling",
+   "ingress": "Statistikken viser økonomiske hovedtall for elektrisitetsnæringen, samt kraftpriser og nettleie",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-27T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [
+    "Energi og strøm"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "7f0fe7b8a7b09e08",
+   "tittel": "Lufttransport",
+   "lenke": "https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport",
+   "ingress": "Statistikken beskriv kommersiell lufttransport av passasjerar og gods",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-27T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [
+    "Velferd og privatisering"
+   ],
+   "spor": "tall"
+  },
+  {
+   "id": "109c89fc3a6de507",
+   "tittel": "Varehandelsindeksen",
+   "lenke": "https://www.ssb.no/varehandel-og-tjenesteyting/varehandel/statistikk/varehandelsindeksen",
+   "ingress": "Varehandelsindeksen beskriver verdi- og volumutvikling i varehandelen.",
+   "kilde": "SSB",
+   "kategori": "Statistikk",
+   "type": "",
+   "dato": "2026-11-27T07:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [],
+   "spor": "tall"
+  },
+  {
+   "id": "1f87d3179f1f3c83",
+   "tittel": "Skal forske på hvordan KI endrer kulturlivet",
+   "lenke": "https://www.regjeringen.no/no/aktuelt/skal-forske-pa-hvordan-ki-endrer-kulturlivet/id3195035/",
+   "ingress": "Hvordan påvirker kunstig intelligens hvordan vi skaper og bruker kunst og kultur? Og hvordan skal kunstnere få betalt for arbeidet sitt når digitalisering og KI endrer spillereglene i kulturlivet? Seks forskningsprosjekter om får nå til sammen 70 millioner kroner til å undersøke kulturlivets rolle …",
+   "kilde": "Regjeringen",
+   "kategori": "Regjering",
+   "type": "Nyhet",
+   "dato": "2026-11-27T06:00:00Z",
+   "viktig": false,
+   "funnet": "2026-11-27T08:22:47Z",
+   "temaer": [],
+   "spor": "lopende"
+  },
   {
    "id": "66cfa75ece63607e",
    "tittel": "Viktig gjennomslag for norsk vannkraft",
@@ -9732,32 +9880,6 @@
  ],
  "kalender": [
   {
-   "dato": "2026-11-27",
-   "tittel": "Renter i banker og kredittforetak, Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak",
-   "temaer": []
-  },
-  {
-   "dato": "2026-11-27",
-   "tittel": "Varehandelsindeksen, Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/varehandel-og-tjenesteyting/varehandel/statistikk/varehandelsindeksen",
-   "temaer": []
-  },
-  {
-   "dato": "2026-11-27",
-   "tittel": "Lufttransport, Tall for oktober 2026",
-   "lenke": "https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport",
-   "temaer": []
-  },
-  {
-   "dato": "2026-11-27",
-   "tittel": "Elektrisitetsnæringens økonomiske utvikling, Tall for 2025",
-   "lenke": "https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak/statistikk/elektrisitetsnaeringens-okonomiske-utvikling",
-   "temaer": [
-    "Energi og strøm"
-   ]
-  },
-  {
    "dato": "2026-11-30",
    "tittel": "Kredittindikator, Tall for 3. kvartal 2026",
    "lenke": "https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/kredittindikator",
@@ -10027,17 +10149,17 @@
   },
   {
    "dato": "2026-12-17",
+   "tittel": "Lufttransport, Tall for november 2026",
+   "lenke": "https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport",
+   "temaer": []
+  },
+  {
+   "dato": "2026-12-17",
    "tittel": "Skatterekneskap, Tall for november 2026",
    "lenke": "https://www.ssb.no/offentlig-sektor/skatteregnskap/statistikk/skatterekneskap",
    "temaer": [
     "Skatt"
    ]
-  },
-  {
-   "dato": "2026-12-17",
-   "tittel": "Lufttransport, Tall for november 2026",
-   "lenke": "https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport",
-   "temaer": []
   },
   {
    "dato": "2026-12-17",

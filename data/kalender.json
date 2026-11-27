@@ -1,31 +1,5 @@
 [
  {
-  "dato": "2026-11-27",
-  "tittel": "Renter i banker og kredittforetak, Tall for oktober 2026",
-  "lenke": "https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak",
-  "temaer": []
- },
- {
-  "dato": "2026-11-27",
-  "tittel": "Varehandelsindeksen, Tall for oktober 2026",
-  "lenke": "https://www.ssb.no/varehandel-og-tjenesteyting/varehandel/statistikk/varehandelsindeksen",
-  "temaer": []
- },
- {
-  "dato": "2026-11-27",
-  "tittel": "Lufttransport, Tall for oktober 2026",
-  "lenke": "https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport",
-  "temaer": []
- },
- {
-  "dato": "2026-11-27",
-  "tittel": "Elektrisitetsnæringens økonomiske utvikling, Tall for 2025",
-  "lenke": "https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak/statistikk/elektrisitetsnaeringens-okonomiske-utvikling",
-  "temaer": [
-   "Energi og strøm"
-  ]
- },
- {
   "dato": "2026-11-30",
   "tittel": "Kredittindikator, Tall for 3. kvartal 2026",
   "lenke": "https://www.ssb.no/bank-og-finansmarked/finansielle-indikatorer/statistikk/kredittindikator",
@@ -295,17 +269,17 @@
  },
  {
   "dato": "2026-12-17",
+  "tittel": "Lufttransport, Tall for november 2026",
+  "lenke": "https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport",
+  "temaer": []
+ },
+ {
+  "dato": "2026-12-17",
   "tittel": "Skatterekneskap, Tall for november 2026",
   "lenke": "https://www.ssb.no/offentlig-sektor/skatteregnskap/statistikk/skatterekneskap",
   "temaer": [
    "Skatt"
   ]
- },
- {
-  "dato": "2026-12-17",
-  "tittel": "Lufttransport, Tall for november 2026",
-  "lenke": "https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport",
-  "temaer": []
  },
  {
   "dato": "2026-12-17",

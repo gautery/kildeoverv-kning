@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 27.11.2026 kl. 00:49. Viser de siste 14 dagene (272 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 27.11.2026 kl. 09:23. Viser de siste 14 dagene (280 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -12,7 +12,6 @@ _Sist oppdatert 27.11.2026 kl. 00:49. Viser de siste 14 dagene (272 saker). ★ 
 
 ## Kommer fra SSB (relevant for temaene dine)
 
-- **27.11** – [Elektrisitetsnæringens økonomiske utvikling, Tall for 2025](https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak/statistikk/elektrisitetsnaeringens-okonomiske-utvikling) · _Energi og strøm_
 - **09.12** – [Statsregnskapets inntekter og utgifter, Tall for 3. kvartal 2026](https://www.ssb.no/offentlig-sektor/statlige-finanser/statistikk/statsregnskapets-inntekter-og-utgifter) · _Offentlige finanser_
 - **15.12** – [Elektrisitet, Tall for november 2026](https://www.ssb.no/energi-og-industri/energi/statistikk/elektrisitet) · _Energi og strøm_
 - **17.12** – [Skatterekneskap, Tall for november 2026](https://www.ssb.no/offentlig-sektor/skatteregnskap/statistikk/skatterekneskap) · _Skatt_
@@ -22,6 +21,19 @@ _Sist oppdatert 27.11.2026 kl. 00:49. Viser de siste 14 dagene (272 saker). ★ 
 
 ## Alt nytt, dag for dag
 
+
+### Fredag 27. november
+
+- [– Foreldrenes jobb å lære barna folkeskikk](https://hoyre.no/2026/11/27/foreldrenes-jobb-a-laere-barna-folkeskikk/) — Høyre
+- [Høring - forslag til endringer i utenrikstjenesteloven](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-utenrikstjenesteloven/id3195086/) — Regjeringen · Høring
+- [Renteutvikling](https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak/artikler/renteutvikling) — SSB · _Bolig_
+- [5,2 millionar reiste med fly i oktober](https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport/artikler/antall-flypassasjerer-ved-norske-flyplasser) — SSB
+- [Detaljhandelen noe opp i oktober](https://www.ssb.no/varehandel-og-tjenesteyting/varehandel/statistikk/varehandelsindeksen/artikler/detaljhandelen-noe-opp-i-oktober) — SSB
+- [Renter i banker og kredittforetak](https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak) — SSB · _Ulikhet og fordeling_
+- [Elektrisitetsnæringens økonomiske utvikling](https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak/statistikk/elektrisitetsnaeringens-okonomiske-utvikling) — SSB · _Energi og strøm_
+- [Lufttransport](https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport) — SSB · _Velferd og privatisering_
+- [Varehandelsindeksen](https://www.ssb.no/varehandel-og-tjenesteyting/varehandel/statistikk/varehandelsindeksen) — SSB
+- [Skal forske på hvordan KI endrer kulturlivet](https://www.regjeringen.no/no/aktuelt/skal-forske-pa-hvordan-ki-endrer-kulturlivet/id3195035/) — Regjeringen
 
 ### Torsdag 26. november
 
@@ -331,8 +343,6 @@ _Sist oppdatert 27.11.2026 kl. 00:49. Viser de siste 14 dagene (272 saker). ★ 
 
 - [Setter av 1 milliard til fysiske lærebøker](https://hoyre.no/2026/11/13/milliard-til-fysiske-boker-i-hoyres-budsjett/) — Høyre
 - [Vil stanse helseforetakenes høye lederlønnsavtaler](https://www.senterpartiet.no/aktuelt/vil-stanse-helseforetakenes-hoye-lederlonnsavtaler) — Senterpartiet · _Arbeid og trygd_
-- [Leverer hele skatteløftet på halve tiden](https://hoyre.no/2026/11/13/leverer-hele-skatteloftet-pa-halve-tiden/) — Høyre · _Skatt_
-- [Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328) — Stortinget – høringer i komiteene
 
 ## Status for kildene
 
