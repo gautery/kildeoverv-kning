@@ -307,14 +307,6 @@
  },
  {
   "dato": "2026-12-21",
-  "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
-  "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
-  "temaer": [
-   "Skatt"
-  ]
- },
- {
-  "dato": "2026-12-21",
   "tittel": "Trafikkulykker med personskade, Tall for november 2026",
   "lenke": "https://www.ssb.no/transport-og-reiseliv/landtransport/statistikk/trafikkulykker-med-personskade",
   "temaer": []
@@ -324,6 +316,14 @@
   "tittel": "Internasjonale reservar og valutalikviditet, Tall for november 2026",
   "lenke": "https://www.ssb.no/utenriksokonomi/fordringer-og-gjeld-overfor-utlandet/statistikk/internasjonale-reservar-og-valutalikviditet",
   "temaer": []
+ },
+ {
+  "dato": "2026-12-21",
+  "tittel": "Grunnlag for arbeidsgiveravgift, Tall for november 2026",
+  "lenke": "https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/grunnlag-for-arbeidsgiveravgift",
+  "temaer": [
+   "Skatt"
+  ]
  },
  {
   "dato": "2026-12-21",

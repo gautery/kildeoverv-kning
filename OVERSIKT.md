@@ -1,9 +1,12 @@
 # Kildeovervåkning
 
-_Sist oppdatert 27.11.2026 kl. 09:23. Viser de siste 14 dagene (280 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 27.11.2026 kl. 19:55. Viser de siste 14 dagene (309 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
+- **[Prop. 32 L (2026–2027) - Endringer i arbeids- og velferdsforvaltningsloven (behandlingsansvar i arbeids- og velferdsforvaltningen)](https://www.regjeringen.no/no/dokumenter/prop.-32-l-20262027/id3194838/)** – Proposisjon, 27.11
+- **[Prop. 31 LS (2026–2027) - Lov om felleseuropeisk individuelt pensjonsprodukt (PEPP-loven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 71/2024 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1238](https://www.regjeringen.no/no/dokumenter/prop.-31-ls-20262027/id3194784/)** – Proposisjon, 27.11
+- **[Prop. 28 S (2026–2027) - Ny saldering av statsbudsjettet 2026](https://www.regjeringen.no/no/dokumenter/prop.-28-s-20262027/id3194960/)** – Proposisjon, 27.11
 - **[Eldrebølgen er her nå, bør alarmen gå?](https://kommunikasjon.ntb.no/pressemelding/19154909/eldrebolgen-er-her-na-bor-alarmen-ga?lang=no)** – Riksrevisjonen, 26.11
 - **[Påminnelse: To nye rapporter om eldrebølgen](https://kommunikasjon.ntb.no/pressemelding/19151698/paminnelse-to-nye-rapporter-om-eldrebolgen?lang=no)** – Riksrevisjonen, 25.11
 - **[NOU 2026: 15 - Teknisk beregningsutvalg for kommunal og fylkeskommunal økonomi](https://www.regjeringen.no/no/dokumenter/nou-2026-15/id3194640/)** – NOU, 25.11
@@ -24,6 +27,33 @@ _Sist oppdatert 27.11.2026 kl. 09:23. Viser de siste 14 dagene (280 saker). ★ 
 
 ### Fredag 27. november
 
+- [Næringsministeren varsler eierskapskontroll i gruveselskap](https://www.regjeringen.no/no/aktuelt/ny-side9/id3195225/) — Regjeringen
+- [Noreg og Sverige inngår felles avtale om skybaserte tryggingstenester](https://www.regjeringen.no/no/aktuelt/noreg-og-sverige-inngar-felles-avtale-om-skybaserte-tryggingstenester/id3195221/) — Regjeringen
+- [Statssekretær Kravik til Den internasjonale straffedomstolen](https://www.regjeringen.no/no/aktuelt/statssekretar-kravik-til-den-internasjonale-straffedomstolen/id3195216/) — Regjeringen
+- [Oppfølgingsmøte med hestenæringen](https://www.regjeringen.no/no/aktuelt/oppfolgingsmote-med-hestenaringen/id3195212/) — Regjeringen
+- [Særavtale om oppdrag på petroleumsinnretninger til havs](https://www.regjeringen.no/no/dokumenter/saravtale-om-oppdrag-pa-petroleumsinnretninger-til-havs/id3082804/) — Regjeringen · Dokument
+- [Store KrF-gjennomslag i Helsepersonellplan 2040](https://krf.no/nyheter/store-krf-gjennomslag-i-helsepersonellplan-2040/) — KrF
+- [Landbruks- og matdepartementet har fastsatt forholdstallet for produksjon av ku- og geitemelk i 2027](https://www.regjeringen.no/no/aktuelt/landbruks-og-matdepartementet-har-fastsatt-forholdstallet-for-produksjon-av-ku-og-geitemelk-i-2027/id3195169/) — Regjeringen
+- [Mandat NOU mediestøtte](https://www.regjeringen.no/no/aktuelt/dep/kud/pressemeldinger/2026/ekspertutvalg-skal-foresla-fremtidens-mediestotte/nou-mandat-mediestotte/id3195174/) — Regjeringen
+- [Regjeringen ønsker innspill til Finansmarkedsmeldingen 2027](https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-til-finansmarkedsmeldingen-2027/id3195108/) — Regjeringen
+- [Frihet og trygghet i hverdagen](https://news.google.com/rss/articles/CBMigwFBVV95cUxObUdsUV9YZElDWFFZOTlnc0VsUUJzaW01SWpzS3A3cVcwOHBXa1A1d0tYbDVXN0d2Rzd1TnZUWTV2enBmVDlqQUR2Z2pyQVNDSzlVVUhkWVBabnhJNE9UOWJ3RmpmblBBYkxjblRwRzBRcGY5a0hWQW9ROWp1UzBxWmhLRQ?oc=5) — FrP
+- [Stipender til årets beste skogfagstudenter](https://www.regjeringen.no/no/aktuelt/stipender-til-arets-beste-skogfagstudenter/id3195158/) — Regjeringen
+- [Fellesføringer i tildelingsbrev 2027-2029](https://www.regjeringen.no/no/dokumenter/fellesforinger-i-tildelingsbrev-2027-2029/id3193988/) — Regjeringen · Dokument
+- [Ekspertutvalg skal foreslå fremtidens mediestøtte](https://www.regjeringen.no/no/aktuelt/ekspertutvalg-skal-foresla-fremtidens-mediestotte/id3195123/) — Regjeringen
+- [Strømmetjenestene pålegges investeringsplikt fra nyttår](https://www.regjeringen.no/no/aktuelt/strommetjenestene-palegges-investeringsplikt-fra-nyttar/id3195120/) — Regjeringen · _Energi og strøm_
+- [Regjeringen vil øke erstatningen ved yrkesskader](https://www.regjeringen.no/no/aktuelt/regjeringen-vil-oke-erstatningen-ved-yrkesskader/id3195106/) — Regjeringen
+- [Politiet får klarere adgang til å dele opplysninger med privat sektor](https://www.regjeringen.no/no/aktuelt/politiet-far-klarere-adgang-til-a-dele-opplysninger-med-privat-sektor/id3195121/) — Regjeringen
+- [Ny yrkessjukdomsliste blir forsenka](https://www.regjeringen.no/no/aktuelt/ny-yrkessjukdomsliste-blir-forsenka/id3195111/) — Regjeringen
+- [Fremmer lovforslag om felleseuropeisk individuelt pensjonsprodukt](https://www.regjeringen.no/no/aktuelt/fremmer-lovforslag-om-felleseuropeisk-individuelt-pensjonsprodukt/id3194901/) — Regjeringen · _Arbeid og trygd, EU og EØS_
+- [Nytt kapitalkravsregelverk for verdipapirforetak trer i kraft 1. januar 2027](https://www.regjeringen.no/no/aktuelt/nytt-kapitalkravsregelverk-for-verdipapirforetak-trer-i-kraft-1.-januar-2027/id3194903/) — Regjeringen · _EU og EØS_
+- ★ [Prop. 32 L (2026–2027) - Endringer i arbeids- og velferdsforvaltningsloven (behandlingsansvar i arbeids- og velferdsforvaltningen)](https://www.regjeringen.no/no/dokumenter/prop.-32-l-20262027/id3194838/) — Regjeringen · Proposisjon · _Arbeid og trygd, Velferd og privatisering_
+- ★ [Prop. 31 LS (2026–2027) - Lov om felleseuropeisk individuelt pensjonsprodukt (PEPP-loven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 71/2024 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1238](https://www.regjeringen.no/no/dokumenter/prop.-31-ls-20262027/id3194784/) — Regjeringen · Proposisjon · _Arbeid og trygd, EU og EØS_
+- [Nysaldert budsjett: Oppdaterte budsjettall for 2026](https://www.regjeringen.no/no/aktuelt/oppdaterte-budsjettall-for-2026/id3194806/) — Regjeringen · _Offentlige finanser, Arbeid og trygd_
+- ★ [Prop. 28 S (2026–2027) - Ny saldering av statsbudsjettet 2026](https://www.regjeringen.no/no/dokumenter/prop.-28-s-20262027/id3194960/) — Regjeringen · Proposisjon · _Offentlige finanser_
+- [Mer frihet og trygghet](https://news.google.com/rss/articles/CBMijAFBVV95cUxONUItUHJlWkNUZEFXNWxoYnVVVXRjWmQwYXRlc3IxMGoyRXR2SnpDTURFakdJNU5nQ0FOSW9jVFZnY3VpU056cV9YOEs4V0F5dXcwSDRoMHpOSVNvb0Y1RzJDR181U0Y0U3lXUlFKYV9FNHAtaHBCYVY4MGc3RjdBYTF1eU53Tm9FN1d5cQ?oc=5) — FrP
+- [Offisielt frå statsrådet 27. november 2026](https://www.regjeringen.no/no/aktuelt/offisielt-fra-statsradet-27.-november-2026/id3195074/) — Regjeringen
+- [Presseinvitasjon: Regjeringen inviterer ildsjeler fra hele landet til mottakelse](https://www.regjeringen.no/no/aktuelt/presseinvitasjon-regjeringen-inviterer-ildsjeler-fra-hele-landet-til-mottakelse/id3195029/) — Regjeringen
+- [Økonomiske virkninger av reguleringsplanforslag](https://www.regjeringen.no/no/dokumenter/okonomiske-virkninger-av-reguleringsplanforslag/id3195032/) — Regjeringen · Dokument
 - [– Foreldrenes jobb å lære barna folkeskikk](https://hoyre.no/2026/11/27/foreldrenes-jobb-a-laere-barna-folkeskikk/) — Høyre
 - [Høring - forslag til endringer i utenrikstjenesteloven](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-utenrikstjenesteloven/id3195086/) — Regjeringen · Høring
 - [Renteutvikling](https://www.ssb.no/bank-og-finansmarked/finansinstitusjoner-og-andre-finansielle-foretak/statistikk/renter-i-banker-og-kredittforetak/artikler/renteutvikling) — SSB · _Bolig_
@@ -33,6 +63,7 @@ _Sist oppdatert 27.11.2026 kl. 09:23. Viser de siste 14 dagene (280 saker). ★ 
 - [Elektrisitetsnæringens økonomiske utvikling](https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak/statistikk/elektrisitetsnaeringens-okonomiske-utvikling) — SSB · _Energi og strøm_
 - [Lufttransport](https://www.ssb.no/transport-og-reiseliv/luftfart/statistikk/lufttransport) — SSB · _Velferd og privatisering_
 - [Varehandelsindeksen](https://www.ssb.no/varehandel-og-tjenesteyting/varehandel/statistikk/varehandelsindeksen) — SSB
+- [Kommunalnytt](https://www.regjeringen.no/no/dokument/dep/kdd/nyhetsbrev_kdd/kommunalnytt/id2360628/) — Regjeringen
 - [Skal forske på hvordan KI endrer kulturlivet](https://www.regjeringen.no/no/aktuelt/skal-forske-pa-hvordan-ki-endrer-kulturlivet/id3195035/) — Regjeringen
 
 ### Torsdag 26. november
@@ -142,6 +173,7 @@ _Sist oppdatert 27.11.2026 kl. 09:23. Viser de siste 14 dagene (280 saker). ★ 
 - [Felles trygghet er et felles ansvar](https://www.regjeringen.no/no/aktuelt/felles-trygghet-er-et-felles-ansvar/id3194612/) — Regjeringen
 - [Anbefaler å utvide hurtigspor for U18-saker til hele landet](https://www.regjeringen.no/no/aktuelt/anbefaler-a-utvide-hurtigspor-for-u18-saker-til-hele-landet/id3194606/) — Regjeringen
 - [Unemployment by sex and age - monthly data (UNE_RT_M)](https://ec.europa.eu/eurostat/databrowser/product/page/UNE_RT_M) — Eurostat · Oppdaterte data · _Arbeid og trygd_
+- [Innspill til ny KI-strategi](https://www.langsikt.no/publikasjoner/innspill-til-ny-ki-strategi) — Langsikt
 - [Presseinvitasjon: Innspillsmøte om helsereformen i Kristiansand](https://www.regjeringen.no/no/aktuelt/innspillsmote-om-helsereformen-i-kristiansand/id3194595/) — Regjeringen
 - [Styrker det norsk-ukrainske sikkerhetssamarbeidet](https://www.regjeringen.no/no/aktuelt/styrker-det-norsk-ukrainske-sikkerhetssamarbeidet/id3194577/) — Regjeringen
 - [Presseinvitasjon: Studentpolitisk toppmøte 2026](https://www.regjeringen.no/no/aktuelt/presseinvitasjon-studentpolitisk-toppmote-2026/id3194584/) — Regjeringen
@@ -333,6 +365,7 @@ _Sist oppdatert 27.11.2026 kl. 09:23. Viser de siste 14 dagene (280 saker). ★ 
 - [Høyre vil sikre lørdagsavisen](https://hoyre.no/2026/11/16/hoyre-vil-sikre-lordagsavisen/) — Høyre
 - [FrP vil ha Norge med på retursenter i Rwanda](https://news.google.com/rss/articles/CBMie0FVX3lxTE9jYXkyZVdCZWlaMWJwSlVKeDJmNGR0R2ZBY3N4SmN6TEtPWDlHaW9pTzE4cEpEcEdOcVhUc2QzY184bF9DTFdyNHkwS3A4OGhMYzZtdWVPNzdUYmIwUllabVEtczRlcUphY0JJd242WG5CRDZ1ZUk2THlYTQ?oc=5) — FrP
 - [Legg vekk KI-harmen](https://www.langsikt.no/publikasjoner/legg-vekk-ki-harmen) — Langsikt
+- [Haster med ny finansieringsmodell for sykehusene](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXNlaVhMcDVhTnhXWHgwTHpNaEpCbUNlZG0xSWcxSFRnWG5XM3llcTg2VUY5UTdEQ2Z6dENUd0ctVW4yazZFMmN1UEtzSzZzR3JkZjV1OTNKVzBLQ2FfMmpodDZIWHhjWFp5MU9PamNjSFFhdGNrMnZwUFN4SkZJaw?oc=5) — FrP
 - [Egenmelding fra regnskapsforetak (KRT-1004) – rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/) — Finanstilsynet
 
 ### Lørdag 14. november
@@ -342,7 +375,6 @@ _Sist oppdatert 27.11.2026 kl. 09:23. Viser de siste 14 dagene (280 saker). ★ 
 ### Fredag 13. november
 
 - [Setter av 1 milliard til fysiske lærebøker](https://hoyre.no/2026/11/13/milliard-til-fysiske-boker-i-hoyres-budsjett/) — Høyre
-- [Vil stanse helseforetakenes høye lederlønnsavtaler](https://www.senterpartiet.no/aktuelt/vil-stanse-helseforetakenes-hoye-lederlonnsavtaler) — Senterpartiet · _Arbeid og trygd_
 
 ## Status for kildene
 
