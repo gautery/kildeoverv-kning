@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 28.11.2026 kl. 02:57. Viser de siste 14 dagene (308 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 28.11.2026 kl. 11:22. Viser de siste 14 dagene (308 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -374,4 +374,5 @@ _Sist oppdatert 28.11.2026 kl. 02:57. Viser de siste 14 dagene (308 saker). ★ 
 
 ## Status for kildene
 
-Alle 31 kildene svarte normalt ved siste kjøring.
+Disse kildene feilet ved siste kjøring:
+- ⚠️ **FrP**: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Afrp.no&hl=no&gl=NO&ceid=NO:no
