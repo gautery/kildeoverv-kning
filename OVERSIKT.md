@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 27.11.2026 kl. 19:55. Viser de siste 14 dagene (309 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 28.11.2026 kl. 02:57. Viser de siste 14 dagene (308 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -371,10 +371,6 @@ _Sist oppdatert 27.11.2026 kl. 19:55. Viser de siste 14 dagene (309 saker). ★ 
 ### Lørdag 14. november
 
 - [– Vi trenger en ny kurs](https://hoyre.no/2026/11/14/vi-trenger-en-ny-kurs/) — Høyre
-
-### Fredag 13. november
-
-- [Setter av 1 milliard til fysiske lærebøker](https://hoyre.no/2026/11/13/milliard-til-fysiske-boker-i-hoyres-budsjett/) — Høyre
 
 ## Status for kildene
 
