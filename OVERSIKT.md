@@ -1,6 +1,6 @@
 # Kildeovervåkning
 
-_Sist oppdatert 28.11.2026 kl. 11:22. Viser de siste 14 dagene (308 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
+_Sist oppdatert 28.11.2026 kl. 19:54. Viser de siste 14 dagene (307 saker). ★ = særlig viktig (NOU, melding, proposisjon, Riksrevisjonen)._
 
 ## ★ Viktigst
 
@@ -368,11 +368,6 @@ _Sist oppdatert 28.11.2026 kl. 11:22. Viser de siste 14 dagene (308 saker). ★ 
 - [Haster med ny finansieringsmodell for sykehusene](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXNlaVhMcDVhTnhXWHgwTHpNaEpCbUNlZG0xSWcxSFRnWG5XM3llcTg2VUY5UTdEQ2Z6dENUd0ctVW4yazZFMmN1UEtzSzZzR3JkZjV1OTNKVzBLQ2FfMmpodDZIWHhjWFp5MU9PamNjSFFhdGNrMnZwUFN4SkZJaw?oc=5) — FrP
 - [Egenmelding fra regnskapsforetak (KRT-1004) – rapportering](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/egenmelding-fra-regnskapsforetak-krt-1004--rapportering/) — Finanstilsynet
 
-### Lørdag 14. november
-
-- [– Vi trenger en ny kurs](https://hoyre.no/2026/11/14/vi-trenger-en-ny-kurs/) — Høyre
-
 ## Status for kildene
 
-Disse kildene feilet ved siste kjøring:
-- ⚠️ **FrP**: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Afrp.no&hl=no&gl=NO&ceid=NO:no
+Alle 31 kildene svarte normalt ved siste kjøring.

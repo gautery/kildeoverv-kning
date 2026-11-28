@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-28T10:21:02Z",
+ "oppdatert": "2026-11-28T18:54:09Z",
  "utvalgt": [],
  "saker": [
   {
@@ -10283,20 +10283,6 @@
    "temaer": [],
    "dokument": "Lovvedtak 51 (2025-2026)",
    "spor": "lopende"
-  },
-  {
-   "id": "0167e380196ce1ba",
-   "tittel": "Frukter for alle",
-   "lenke": "https://skaperkraft.no/frukter-for-alle/",
-   "ingress": "Egon Holstads kritikk av Ingrid Olina Hovlands 17. mai-tale om å ta vare på våre kristne verdier [også i VG her] velger feil sjanger. For svartmaling kaster sjelden lys. Det blir ikke mindre originalt når utgangspunktet er som galest. En 17. mai-tale er ingen offentlig utredning. Like lite som …",
-   "kilde": "Skaperkraft",
-   "kategori": "Tenketank",
-   "type": "",
-   "dato": "2026-06-01T12:54:23Z",
-   "viktig": false,
-   "funnet": "2026-11-22T02:10:30Z",
-   "temaer": [],
-   "spor": "rapporter"
   }
  ],
  "kalender": [
@@ -10767,8 +10753,8 @@
   },
   {
    "navn": "FrP",
-   "ok": false,
-   "feil": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Afrp.no&hl=no&gl=NO&ceid=NO:no"
+   "ok": true,
+   "feil": null
   },
   {
    "navn": "FrP Oslo (bystyregruppa)",
